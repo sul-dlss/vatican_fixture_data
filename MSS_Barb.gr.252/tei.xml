@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.002520000" type="ms">Barb.gr.252</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <watermarks>
+                  <p>In prima parte codicis, officinarum chartariarum signa duo: ancora in circulo, stella superposita (cf. Briquet 588) et arcuballista in circulo, lilio superposito (Briquet 761); in secunda parte, signum unicum: sagittae, stella superposita (cf. Briquet 6300).</p>
+                </watermarks>
+              </head>
+              <msContents>
+                <p>Miscellanea Eunapii atque Porphyrii operum.</p>
+                <msItem>
+                  <colophon>F. 112v, atramento subrubro: Ἀδελφὸς Οὐαλεριᾶνος Φορολιβιεὺς ὁ Ἀλβίνου ταύτην | βίβλον ἐν τῷ μοναστηρίῳ τοῦ ἁγίου Ἀντω|νίου Ἐνέτησιν ἔγραψε, ἔτη το(ῦ) Κ(υρίο)υ ἡμῶν ͵αφλθ´ (manus poster. vertit 1539): v. Vogel-Gardthausen, p. 370.</colophon>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Codex efficitur duobus libellis, a totidem librariis fere eadem aetate conscriptis et postea in unum conftatis.</note>
+                  <note type="note">F. Ir, nota antiqua "276".</note>
+                  <note type="note">F. 1r, alia manu: Εὐναπίου βίοι Φιλοσόφων καὶ Σοφιστῶν | Πορφυρίου τῶν πρὸς τὰ νοητὰ ἀφορμῶν, et eadem manu in margine: "Codex seculi XVI".</note>
+                  <name reg="sac.," n="f. 1528-1545" type="person" role="scribe">Albini, Valeriano,</name>
+                  <origDate>sec. XVI med</origDate>
+                  <origDate notAfter="1575" notBefore="1526">sec. XVI med (ff. 1-38)</origDate>
+                  <origDate n="1539">anno 1539 (ff. 41-112)</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>chart.</p>
+                </support>
+                <dimensions>
+                  <height>320</height>
+                  <width>230</width>
+                </dimensions>
+                <extent>ff. I. 113 (+81. 86. 95)</extent>
+                <msWriting>
+                  <p>Prior libellus (ff. 1r-38v) manu &lt;Basilii Valeris seu Varelis&gt; exaratus est. Vacua sunt ff. 1v. 39r-v.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>In utraque parte, tituli et litterae initiales annotationesque nonnullae, atramento subrubro.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>Integumentum membranaceum; in dorso: "Eunapio et Porphyrio greco".</p>
+                    </decoNote>
+                    <p>Membr.</p>
+                  </binding>
+                </bindingDesc>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Mogenet, Codices Barberiniani Graeci, in Bibliotheca Vaticana 1989, v. 2, p. 100-101, 165.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.252</ptr>
+        <creation>
+          <date TEIform="date" value="21/05/2014"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/12/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/05/2014">D.Lionetti</persName>
+              <persName n="30/05/2014">D.Lionetti</persName>
+              <persName n="30/06/2014">Linking System: R.Mancusi</persName>
+              <persName n="03/10/2014">D.Lionetti</persName>
+              <persName n="13/12/2016">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>I. Giangrande, Romae, 1956, qui hunc codicem citat p. XLIII.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.002520001r-38v" type="ms">Barb.gr.252</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Libellus I.</p>
+                </overview>
+                <msItem>
+                  <locus>1r-38v</locus>
+                  <author n="354-420" reg="person" type="internal">Eunapius Sardianus,</author>
+                  <title type="supplied">Vitae sophistarum</title>
+                  <title type="uniform">Vitae sophistarum (Eunapius Sardianus, 354-420)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Mogenet, Codices Barberiniani Graeci, in Bibliotheca Vaticana 1989, v. 2, p. 100.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.252</ptr>
+        <creation>
+          <date TEIform="date" value="26/09/2013"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/09/2013">D.Lionetti</persName>
+              <persName n="26/09/2013">D.Lionetti</persName>
+              <persName n="27/09/2013">D.Lionetti</persName>
+              <persName n="27/09/2013">D.Lionetti</persName>
+              <persName n="27/09/2013">D.Lionetti</persName>
+              <persName n="21/05/2014">D.Lionetti</persName>
+              <persName n="21/05/2014">D.Lionetti</persName>
+              <persName n="21/05/2014">D.Lionetti</persName>
+              <persName n="21/05/2014">D.Lionetti</persName>
+              <persName n="30/05/2014">D.Lionetti</persName>
+              <persName n="30/06/2014">Linking System: R.Mancusi</persName>
+              <persName n="25/11/2016">A.Berloco</persName>
+              <persName n="25/11/2016">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Sententiae ad intelligibilia ducentes (editionem pleniorem praebuerunt B. Mommert, Lipsiae, 1907 et A. Lamberz, Lipsiae, 1975, qui codicem citat pp. XIX-XX); De abstinentia ab esu animalium (A. Nauk, "Porphyrii opuscula selecta", Lipsiae, 1886, pp. 85-269, ubi hic codex non citatur).</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.002520041r-44v" type="ms">Barb.gr.252</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Libellus II.</p>
+                </overview>
+                <msItem>
+                  <locus>41r-44v</locus>
+                  <author n="232/233-305?" reg="person" type="internal">Porphyrius Tyrius,</author>
+                  <title type="supplied">Sententiae ad intelligibilia ducentes</title>
+                  <title type="uniform">Sententiae ad intelligibilia ducentes (Porphyrius Tyrius, 232/233-305?)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">In marginibus, annotationes paucae et correctiones etiam manu librarii primi operis.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Mogenet, Codices Barberiniani Graeci, in Bibliotheca Vaticana 1989, v. 2, p. 100.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.252</ptr>
+        <creation>
+          <date TEIform="date" value="26/09/2013"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/09/2013">D.Lionetti</persName>
+              <persName n="27/09/2013">D.Lionetti</persName>
+              <persName n="27/09/2013">D.Lionetti</persName>
+              <persName n="27/09/2013">D.Lionetti</persName>
+              <persName n="27/09/2013">D.Lionetti</persName>
+              <persName n="27/09/2013">D.Lionetti</persName>
+              <persName n="27/09/2013">D.Lionetti</persName>
+              <persName n="21/05/2014">D.Lionetti</persName>
+              <persName n="21/05/2014">D.Lionetti</persName>
+              <persName n="21/05/2014">D.Lionetti</persName>
+              <persName n="23/05/2014">D.Lionetti</persName>
+              <persName n="23/05/2014">D.Lionetti</persName>
+              <persName n="30/05/2014">D.Lionetti</persName>
+              <persName n="30/06/2014">Linking System: R.Mancusi</persName>
+              <persName n="25/11/2016">A.Berloco</persName>
+              <persName n="25/11/2016">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Sententiae ad intelligibilia ducentes (editionem pleniorem praebuerunt B. Mommert, Lipsiae, 1907 et A. Lamberz, Lipsiae, 1975, qui codicem citat pp. XIX-XX); De abstinentia ab esu animalium (A. Nauk, "Porphyrii opuscula selecta", Lipsiae, 1886, pp. 85-269, ubi hic codex non citatur).</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.002520045r-112v" type="ms">Barb.gr.252</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Libellus II.</p>
+                </overview>
+                <msItem>
+                  <locus>45r-112v</locus>
+                  <author n="232/233-305?" reg="person" type="internal">Porphyrius Tyrius,</author>
+                  <title type="supplied">De abstinentia</title>
+                  <title type="uniform">De abstinentia (Porphyrius Tyrius, 232/233-305?)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">In marginibus, annotationes paucae et correctiones etiam manu librarii primi operis.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Mogenet, Codices Barberiniani Graeci, in Bibliotheca Vaticana 1989, v. 2, p. 100.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.252</ptr>
+        <creation>
+          <date TEIform="date" value="25/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/11/2016">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">A manuscript of Guillaume Pellicier (d. 1567) in the Beinecke Library, </title>
+          <author reg="person">Sosower, Mark L.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scriptorium</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">52 (1998) 378-379*.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.00252zzzzz" type="bib">Barb.gr.252</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.252</ptr>
+        <creation>
+          <date TEIform="date" value="01/12/2009"/>
+          <persName>F.Deruvo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">30/06/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="30/06/2014">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Die Vorlagen des Kopisten Valeriano Albini,</title>
+          <author n="1914-2009" reg="person">Sicherl, Martin,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1982</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Illinois Classical Studies</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">7 (1982) 334-335, 354.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.00252zzzzz" type="bib">Barb.gr.252</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.252</ptr>
+        <creation>
+          <date TEIform="date" value="12/07/2010"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">30/06/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="30/06/2014">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Zu griechischen Kopisten und Schriftstilen des 15. und 16. Jahrhunderts,</title>
+          <title type="title" level="u">La Paléographie grecque et byzantine (Colloques Internationaux du C.N.R.S., Paris 21-25 octobre 1974),</title>
+          <author n="1940-" reg="person">Harlfinger, Dieter,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Paris</pubPlace>
+          <date TEIform="date" value="">1977</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">355, fig. 24.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.00252zzzzz" type="bib">Barb.gr.252</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.252</ptr>
+        <creation>
+          <date TEIform="date" value="11/12/2012"/>
+          <persName>S.Penge</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">30/06/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="06/12/2013">A.Rita</persName>
+              <persName n="06/12/2013">A.Rita</persName>
+              <persName n="06/12/2013">A.Rita</persName>
+              <persName n="30/06/2014">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>
