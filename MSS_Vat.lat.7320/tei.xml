@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.073200000" type="ms">Vat.lat.7320</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>gotica</scriptTerm>
+              </head>
+              <msContents>
+                <p>Factorum et dictorum memorabilium.</p>
+                <msItem>
+                  <author n="f. 14-31" reg="person" type="internal">Valerius Maximus,</author>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, III.2, p. 677-678; Vedere i classici, p. 323-325.</bibl>
+                  <note type="note">Il manoscritto è acefalo: manca l'intera praefatio dell'opera, in cui doveva verosimilmente esserci una pagina d'incipit riccamente miniata, asportata e sostituita dall'indice delle rubriche (f. Ir).</note>
+                  <name n="c.1270-1348" type="person" role="internal">Iohannes Andreae,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia settentrionale</region>
+                  </origPlace>
+                  <origDate notAfter="1425" notBefore="1401">sec. XV in</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>395</height>
+                  <width>258</width>
+                </dimensions>
+                <extent>II. 251. I</extent>
+                <collation>
+                  <p>27 fascicoli: 1-9 quinioni (ff. 1-9 [-1], 10-19, 20-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-89); 10 quaternione (ff. 90-97); 11-22 quinioni (ff. 98-107, 108-117, 118-127, 128-137, 138-147, 148-157, 158-167, 168-177, 178-187, 188-197, 198-207, 208-217); 23 bifolio (ff. 218-219); 24-26 quinioni (ff. 220-229, 230-239, 240-248 [-1]); 27 binione (ff. 249-251 [-1]). </p>
+                </collation>
+                <layout>
+                  <p>ff. 1r-218r: colonna unica; ll. 31/rr. 32; mm 230x106; rigatura a colore (tipo Derolez 11); ff. 218v-250r: due colonne; ll. 59/ rr. 60; mm 301x199; rigatura a colore (tipo Derolez 41). </p>
+                </layout>
+                <msWriting>
+                  <p>due copisti: la prima mano verga il testo fino a f. 218r mentre l’altra prosegue fino a f. 250r; glosse interlineari e talvolta presenti anche nei margini di epoca coeva.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>8 iniziali istoriate in cui prevale una gamma coloristica incentrata sull’azzurro, il verde, il rosa, il rosso e l’oro in foglia, adoperata anche nei prolungamenti fitomorfi lungo i margini costituiti da carnose foglie d’acanto variopinte e arricchite da dischetti in foglia d’oro (ff. 21r, 44r, 68r, 93r, 121r, 145v, 167r, 191r); 74 iniziali medie con figura (ff. 3v, 5r, 10v, 15r, 32r, 38v, 41r, 45v, 53v, 56r, 57r, 59r, 73v, 75r, 79v, 82r, 84r, 86r, 90v, 99r, 102v, 107r, 112r, 115r, 116v, 118r, 119r, 124r, 127v, 131r, 183r, 136v, 138r, 140v, 146v, 151v, 157r, 159v, 161r, 163r, 165r, 165v, 171r, 172r, 172v, 173r, 174r, 174v, 179r, 179v, 181r, 182r, 183r, 183v, 184r, 186r, 188r, 194v, 198r, 200v, 201r, 202v, 203v, 204v, 205v, 206r, 207r, 209r, 212r, 213r, 213v, 215r, 216r, 216v); numerose iniziali minori blu con filigrana rossa e in foglia d’oro con filigrana blu (particolarmente raffinate e dotate di prolungamenti lungo i margini ai ff. 189v e 190r); segni di paragrafo blu con filigrana rossa e in foglia d’oro con filigrana blu; titoli rubricati.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>su assi di legno con coperta in marocchino rosso; ornamentazioni impresse in oro sul perimetro dei piatti, mentre sul dorso a cinque nervi decorazioni impresse in oro: sul primo tassello partendo dall’alto lo stemma di papa Gregorio XVI (1831-1846); sovraccoperta in cartoncino rosso scuro.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>meccanica, in numeri arabi posizionati in basso a destra.</p>
+                </foliation>
+                <condition>
+                  <p>ottimo.</p>
+                </condition>
+                <signatures>rifilata, in alcuni casi sono presenti tracce della segnatura nell’angolo inferiore destro (per esempio ai ff. 120r, 123r, 140r, 172r). </signatures>
+                <catchwords>al centro del margine inferiore, talvolta rifilati.</catchwords>
+              </physDesc>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="26/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">30/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/01/2017">L.Massolo</persName>
+              <persName n="30/01/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.073200001r-218r " type="ms">Vat.lat.7320</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-218r </locus>
+                  <author n="f. 14-31" reg="person" type="internal">Valerius Maximus,</author>
+                  <title type="supplied">Facta et dicta memorabilia</title>
+                  <title type="uniform">Factorum et dictorum memorabilium (Valerius Maximus, f. 14-31)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="26/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">27/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/01/2017">L.Massolo</persName>
+              <persName n="27/01/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.073200216r-218r" type="ms">Vat.lat.7320</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>216r-218r</locus>
+                  <author n="sec. IV" reg="person" type="internal">Paris, Iulius,</author>
+                  <title type="supplied">Epitome de nominibus</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="26/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.073200218v" type="ms">Vat.lat.7320</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>218v</locus>
+                  <title type="supplied">Tabula capitulorum Valerii Maximi</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.073200218v-250r" type="ms">Vat.lat.7320</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>218v-250r</locus>
+                  <author n="c.1270-1348" reg="person" type="internal">Iohannes Andreae,</author>
+                  <title type="supplied">Summaria Valerii Maximi per libros et capitula</title>
+                  <title type="uniform">Summaria Valerii Maximi per libros et capitula (Giovanni d'Andrea, c.1270-1348)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="26/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/01/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.073200250v-251r " type="ms">Vat.lat.7320</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>250v-251r </locus>
+                  <author n="sec. I." key="Opere spurie e dubbie" reg="person" type="internal">Probus, Marcus Valerius,</author>
+                  <title type="supplied">De iuris notarum</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="26/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il Maestro delle iniziali di Bruxelles. Appunti sulla miniatura bolognese del primo Quattrocento</title>
+          <author reg="person">Bollati, Milvia</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1992</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Paragone /Arte</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">503 (1992) 18-19, 23, figg. 21-24.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.07320zzzzz" type="bib">Vat.lat.7320</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2009"/>
+          <persName>A.Ascenzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="05/05/2009">A.Ascenzi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="18/10/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Per un iter tra i codici di Seneca alla Biblioteca Apostolica Vaticana: primi traguardi, </title>
+          <author n="1954-" reg="person">Buonocore, Marco, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Giornale italiano di filologia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">52 (2000) 26.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.07320zzzzz" type="bib">Vat.lat.7320</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2009"/>
+          <persName>A.Ascenzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="18/10/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Illustrazioni antiche dei testi classici in età medievale ed umanistica. Note in margine a una mostra,</title>
+          <author reg="person">De Lachenal, Lucilla</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1997</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Atti dell’Accademia Nazionale dei Lincei. Rendiconti. Classe di scienze morali, storiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">s. 9, v. 8 (1997) 557.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.07320zzzzz" type="bib">Vat.lat.7320</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2009"/>
+          <persName>A.Ascenzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="18/10/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Cataloghi di biblioteche, regesti di fonti, schede e appunti danteschi,</title>
+          <author reg="person">Villa, Claudia</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi (e testi) italiani</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">6 (2000) 17.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.07320zzzzz" type="bib">Vat.lat.7320</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2009"/>
+          <persName>A.Ascenzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="05/05/2009">A.Ascenzi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="18/10/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">"Benvenutus de Ymola super Valerio Maximo". Ricerca sull'expositio,</title>
+          <author reg="person">Rossi, Luca Carlo</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2002</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Aevum. Rassegna di scienze storiche, linguistiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">76 (2002) 370.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.07320zzzzz" type="bib">Vat.lat.7320</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="12/11/2009"/>
+          <persName>C.Marsico</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="06/06/2012">R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="18/10/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">L’immagine della ruota della fortuna nei manoscritti della Consolatio philosophiae di Boezio,</title>
+          <author reg="person">Porcu, Norma</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2003</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Nuovi annali della Scuola speciale per archivisti e bibliotecari</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">17 (2003) 28.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.07320zzzzz" type="bib">Vat.lat.7320</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="23/11/2010"/>
+          <persName>A.DAscoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="18/10/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Tra i codici miniati del Collegio Capranica,</title>
+          <author n="1954-" reg="person">Buonocore, Marco, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bullettino dell’Istituto Storico Italiano per il medioevo e Archivio Muratoriano</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">110 (2008) 170, 176, fig.3.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.07320zzzzz" type="bib">Vat.lat.7320</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="17/12/2010"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/01/2011">G.Distefano</persName>
+              <persName n="19/05/2011">Overwriting System</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="18/10/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Valerio Massimo, Factorum et dictorum memorabilium libri.</title>
+          <title type="title" level="u">Fioritura tardogotica nelle Marche [catalogo di mostra, Urbino, Palazzo Ducale, 25 luglio-25 ottobre 1998, a cura di Paolo Dal Poggetto]</title>
+          <author reg="person">Ceccanti, Melania	</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Electa,</publisher>
+          <pubPlace>Milano :</pubPlace>
+          <date TEIform="date">c1998.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 93-95 e con ill. dei f. 21r (p. 94), 68r (p. 93), 93r (p. 94).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.07320zzzzz" type="bib">Vat.lat.7320</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="30/01/2012"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="18/10/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Nuovi studi sulla miniatura delle matricole e degli statuti delle confraternite medievali bolognesi,</title>
+          <author reg="person">Cova, Paolo</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2010</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di storia della miniatura</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">14 (2010) 90.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.07320zzzzz" type="bib">Vat.lat.7320</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="13/02/2014"/>
+          <persName>T.DiStefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/10/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Maestro delle Iniziali di Bruxelles,</title>
+          <title type="title" level="u">Dizionario biografico dei miniatori italiani. Secoli IX-XVI, a cura di M. Bollati,</title>
+          <author reg="person">Medica, Massimo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">567.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.07320zzzzz" type="bib">Vat.lat.7320</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="25/02/2014"/>
+          <persName>T.DiStefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/10/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il Petrarca e gli storici latini: Tra latino e volgare. Per Carlo Dionisotti (Medioevo e Umanesimo 17),</title>
+          <author n="1913-2000" reg="person">Billanovich, Giuseppe, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Padova</pubPlace>
+          <date TEIform="date" value="">1974</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">78.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.07320zzzzz" type="bib">Vat.lat.7320</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), II, Citta' del Vaticano 1986 (Studi e testi, 319).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.7320</ptr>
+        <creation>
+          <date TEIform="date" value="12/01/2016"/>
+          <persName>15-16.Marucci</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/10/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Falso"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

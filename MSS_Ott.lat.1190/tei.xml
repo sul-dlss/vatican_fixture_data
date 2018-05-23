@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.011900000" type="ms">Ott.lat.1190</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>gotica</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <author n="106-43 a.C." reg="person" type="internal">Cicero, Marcus Tullius,</author>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="s.," n="c. 487-c. 583" type="person" role="internal">Cassiodorus Senator, Flavius Magnus Aurelius,</name>
+                  <name reg="card.," n="1667-1740" type="person" role="owner">Ottoboni, Pietro,</name>
+                  <name reg="regina di Svezia," n="1626-1689" type="person" role="owner">Kristina,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia settentrionale</region>
+                  </origPlace>
+                  <origDate notAfter="1225" notBefore="1175">sec. XII/XIII</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>225</height>
+                  <width>140</width>
+                </dimensions>
+                <extent>I. 131. I</extent>
+                <collation>
+                  <p>17 fascicoli: 1-8 quaternioni (ff. 1-8, 9-16, 17-24, 25-32, 33-40, 41-48, 49-56, 57-64); 9 binione (ff. 65-68); 10-17 quaternioni (ff. 69-76, 77-84, 85-92, 93-100, 101-108, 109-116, 117-124, 125-131); f. 131 cartaceo (è presente il tallone in pergamena).</p>
+                </collation>
+                <layout>
+                  <p>unica colonna.</p>
+                </layout>
+                <msWriting>
+                  <p>copista unico che verga il testo in inchiostro bruno; gotica di mano diversa per le glosse marginali.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>1 pagina di incipit (f. 1r); 1 miniatura a piena pagina (f. 68v); 1 miniatura in campo aperto, inserita nella seconda metà dello specchio scrittorio (f. 66v); 5 iniziali maggiori decorate: di tipo fito-zoomorfo policrome, in azzurro, rosa e foglia d’oro (ff. 1r, 69r, 77r) e di tipo fitomorfo in giallo, arancio, verde, azzurro, rosa e pergamena riservata (ff. 3r, 92v); 1 iniziale di modulo medio in azzurro e foglia d’oro (f. 69r); diagrammi rubricati in rosso e inseriti all’interno dello specchio scrittorio (ff. 64v-66r); titoli rubricati.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>su assi di cartone con coperta three-calf; dorso a cinque nervi e decorazioni impresse in oro; sul primo tassello insegne di papa Pio IX (1846-1878), in oro sul terzo tassello l’indicazione 1190; sovraccoperta in cartoncino azzurro chiaro.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>manuale, a cifre arabiche in inchiostro bruno nell'angolo superiore destro.</p>
+                </foliation>
+                <condition>
+                  <p>buono, tuttavia sono presenti numerose decurtazioni (ff. 31, 71, 104, 128), già segnalate all’interno del manoscritto sul recto del primo foglio di guardia.</p>
+                </condition>
+                <signatures>sequenza alfanumerica sul margine esterno, parzialmente rifilata.</signatures>
+              </physDesc>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1190</ptr>
+        <creation>
+          <date TEIform="date" value="01/11/2016"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">07/06/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="01/11/2016">L.Massolo</persName>
+              <persName n="01/11/2016">L.Massolo</persName>
+              <persName n="01/11/2016">L.Massolo</persName>
+              <persName n="07/06/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.011900001r-64r" type="ms">Ott.lat.1190</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-64r</locus>
+                  <author n="106-43 a.C." reg="person">Cicero, Marcus Tullius,</author>
+                  <title type="supplied">Rhetorica</title>
+                  <title type="uniform">Rhetorica (Cicero, Marcus Tullius, 106-43 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1190</ptr>
+        <creation>
+          <date TEIform="date" value="10/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">30/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/01/2017">L.Massolo</persName>
+              <persName n="30/05/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.011900064v-66v " type="ms">Ott.lat.1190</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>64v-66v </locus>
+                  <author rend="s.," n="c. 487-c. 583" reg="person" type="internal">Cassiodorus Senator, Flavius Magnus Aurelius,</author>
+                  <title type="title">Institutiones divinarum et saecularium lectionum</title>
+                  <title type="uniform">Institutiones (Cassiodorus Senator, Flavius Magnus Aurelius, c. 487-c. 583)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1190</ptr>
+        <creation>
+          <date TEIform="date" value="10/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/01/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.011900067r-131v" type="ms">Ott.lat.1190</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>67r-131v</locus>
+                  <title type="supplied">Rhetorica ad Herennium</title>
+                  <title type="uniform">Rhetorica ad Herennium</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1190</ptr>
+        <creation>
+          <date TEIform="date" value="10/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">30/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/01/2017">L.Massolo</persName>
+              <persName n="27/05/2017">L.Massolo</persName>
+              <persName n="30/05/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Illustrazioni antiche dei testi classici in età medievale ed umanistica. Note in margine a una mostra,</title>
+          <author reg="person">De Lachenal, Lucilla</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1997</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Atti dell’Accademia Nazionale dei Lincei. Rendiconti. Classe di scienze morali, storiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">s. 9, v. 8 (1997) 550.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.01190zzzzz" type="bib">Ott.lat.1190</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1190</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2010"/>
+          <persName>P.Decaro</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/07/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/07/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Chronique des manuscrits classiques latins (IXe-XIIe siècle), IV,</title>
+          <author reg="person">Munk Olsen, Birger</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Revue d’histoire des textes</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">30 (2000) 144.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.01190zzzzz" type="bib">Ott.lat.1190</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1190</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2010"/>
+          <persName>P.Decaro</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/07/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/07/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Quelques aspects de la tradition et de la diffusion des Institutions, </title>
+          <title type="title" level="u">Flavio Magno Aurelio Cassiodoro, Atti della settimana di studi (Cosenza-Squillace 19-24 sett. 1983), </title>
+          <author reg="person">Holtz, Louis </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Soveria Mannelli </pubPlace>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">300.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.01190zzzzz" type="bib">Ott.lat.1190</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1190</ptr>
+        <creation>
+          <date TEIform="date" value="08/02/2011"/>
+          <persName>M.Cardillo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/07/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/07/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

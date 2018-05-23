@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.016150000" type="ms">Vat.lat.1615</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>gotica</scriptTerm>
+              </head>
+              <msContents>
+                <p>Thebais.</p>
+                <msItem>
+                  <author n="c. 40-c. 96" reg="person" type="internal">Statius, Publius Papinius, </author>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, III. 1, p. 218-219; Vedere i classici, p. 244.</bibl>
+                  <origPlace>
+                    <region>Italia settentrionale</region>
+                  </origPlace>
+                  <origDate notAfter="1425" notBefore="1376">sec. XIV-XV</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>306</height>
+                  <width>209</width>
+                </dimensions>
+                <extent>II. 148</extent>
+                <collation>
+                  <p>17 fascicoli: 1 bifolio (ff. I-II), 2 quaternione (ff. 1-8), 3-11 quinioni (ff. 9-18, 19-28, 29-38, 39-48, 49-58, 59-68, 69-78, 79-88, 89-98), 12 ternione (ff. 99-104), 13-16 quinioni (ff. 105-114, 115-124, 125-134, 135-144), 17 binione (ff. 145-148); ff. Ir-IIr, 147v-148v vacui.</p>
+                </collation>
+                <layout>
+                  <p>su unica colonna; rr. 34/ll. 34; mm 188x115; rigatura a colore. </p>
+                </layout>
+                <msWriting>
+                  <p>copista unico che verga il testo in inchiostro bruno; sporadiche glosse marginali e interlineari coeve alla stesura del codice.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>1 iniziale maggiore istoriata (f. 1r); 10 iniziali ornate di tipo fitomorfo con corpo rosa su fondo azzurro con filettature in biacca e foglia d’oro, i tralci d’acanto che si sviluppano dal corpo delle lettere sono di colore azzurro, rosa, verde, rosso e arricchiti da dischetti in foglia d’oro (ff. 12r, 23r, 34r, 46v, 58r, 72r, 84v, 109v, 123v, 135r); numerose iniziali filigranate, rosse con filigrana blu e blu con filigrana rossa; segni di paragrafo in inchiostro rosso e blu alternati; capoversi toccati di giallo.  </p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>coperta in marocchino bruno, segue il perimetro dei piatti una sottile cornice ornata impressa in oro; dorso a cinque nervi con decorazioni impresse in oro, sul primo e ultimo tassello rispettivamente lo stemma di papa Pio IX (1846-1878) e lo stemma del cardinale bibliotecario Luigi Lambruschini (1834-1853); taglio dorato. </p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>manuale, in cifre arabiche in inchiostro bruno sul margine superiore esterno.</p>
+                </foliation>
+                <condition>
+                  <p>ottimo; pergamena ben lavorata, sporadiche tracce di grana follicolare sul lato pelo.</p>
+                </condition>
+                <signatures>sequenza alfanumerica in inchiostro bruno, sul margine inferiore esterno, parzialmente rifilata.</signatures>
+                <catchwords>costanti, in inchiostro bruno, al centro del margine inferiore.</catchwords>
+              </physDesc>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1615</ptr>
+        <creation>
+          <date TEIform="date" value="31/03/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="31/03/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Klotz, Lipsiae 1908, Appendix, 476-482.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.016150001r-147r " type="ms">Vat.lat.1615</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-147r </locus>
+                  <author n="c. 40-c. 96" reg="person" type="internal">Statius, Publius Papinius, </author>
+                  <title type="supplied">Thebais</title>
+                  <title type="uniform">Thebais (Statius, Publius Papinius, c. 40-c. 96)</title>
+                  <incipit type="text">Incipit argumentum: "At Maia genitus superas remeabat ad auras".</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Argumenta dodecasticha in libros II-XII Thebaidos Statii (ff. 11v-12r).</note>
+                  <name n="1874-1956" type="person" role="external">Klotz, Alfred,</name>
+                  <origDate notAfter="1425" notBefore="1376">sec. XIV-XV</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM10</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1615</ptr>
+        <creation>
+          <date TEIform="12/05/2008" value="09/12/2011"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/12/2011">P.Parodi</persName>
+              <persName n="22/12/2011">P.Parodi</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+              <persName n="31/03/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.0161599990IIv" type="ms">Vat.lat.1615</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>IIv</locus>
+                  <title type="supplied">Argumentum dodecastichon Thebaidos Statii.</title>
+                  <incipit type="text">Associat profugum Tydeo primus Polinicem</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="c. 40-c. 96" type="person" role="external">Statius, Publius Papinius, </name>
+                  <origDate notAfter="1425" notBefore="1376">sec. XIV-XV</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM10</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1615</ptr>
+        <creation>
+          <date TEIform="12/04/2008" value="21/10/2011"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="24/11/2011">P.Parodi</persName>
+              <persName n="24/11/2011">P.Parodi</persName>
+              <persName n="22/12/2011">P.Parodi</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Boccaccio’s Glosses on Statius, </title>
+          <author n="1952-" reg="person">Anderson, David</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi sul Boccaccio</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">22 (1994) 131.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.01615zzzzz" type="bib">Vat.lat.1615</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1615</ptr>
+        <creation>
+          <date TEIform="date" value="05/05/2009"/>
+          <persName>B.Giombetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les manuscrits classiques dans le fonds Vatican latin d'Eugène IV (1443) à Jules III (1550)</title>
+          <author reg="person">Fohlen, Jeannine </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Humanistica Lovaniensia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">34A (1985) 15, 39, 44. </note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.01615zzzzz" type="bib">Vat.lat.1615</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1615</ptr>
+        <creation>
+          <date TEIform="date" value="30/04/2013"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I codici latini di Niccolò V. Edizione degli inventari e identificazione dei manoscritti,</title>
+          <title type="title" level="u">Studi e documenti sulla formazione della Biblioteca apostolica vaticana I (Studi e testi, 359),</title>
+          <author n="1961-" reg="person">Manfredi, Antonio,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">410.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.01615zzzzz" type="bib">Vat.lat.1615</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1615</ptr>
+        <creation>
+          <date TEIform="date" value="31/03/2014"/>
+          <persName>E.DeMaio</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

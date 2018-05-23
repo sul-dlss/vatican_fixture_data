@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.018530000" type="ms">Vat.lat.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <heraldry>f. 1r, Ludovico Agnelli, arciv. di Cosenza, m. 1499.</heraldry>
+                <scriptTerm>umanistica del tipo antiqua</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <author n="59 a.C.-17 d.C." reg="person" type="internal">Livius, Titus,</author>
+                  <title type="supplied">Ab Urbe condita (Decas IV)</title>
+                  <title type="uniform">Ab Urbe condita (Livius, Titus, 59 a.C.-17 d.C.). 31-40</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Marucchi, Stemmi di possessori 1964, p. 30-95; Manuscrits classiques, III.1 p. 429-430; Vedere i classici, p. 499.</bibl>
+                  <note type="note">il manoscritto costituisce un corpus liviano con i mss. Borgh.368 e Vat.lat.1848.</note>
+                  <name reg="vesc. di Segni," n="m. 1503" type="person" role="glossator">Phosphorus, Lucidus Maffeus,</name>
+                  <name reg="arciv. di Cosenza," n="m. 1499" type="person" role="client">Agnelli, Ludovico,</name>
+                  <name n="1942-2002" type="person" role="external">Supino Martini, Paola, </name>
+                  <name n="1954-" type="person" role="external">Buonocore, Marco, </name>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Dolbeau, François</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1954-" type="person" role="external">Tilliette, Jean-Yves, </name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale (?)</region>
+                  </origPlace>
+                  <origDate notAfter="1500" notBefore="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>375</height>
+                  <width>255</width>
+                </dimensions>
+                <extent>II. 186. I</extent>
+                <collation>
+                  <p>20 fascicoli: 1-19 quinioni (ff. 1-10, 11-20, 21-30, 31-40, 41-49, 50-49, 51-59, 60-69, 70-79, 80-89, 90-99, 100-109, 110-119, 120-129, 130-139, 140-149, 150-159, 160-169, 170-179); 20 ternione (ff. 180-185); i ff. 149-184 sono da riordinare: 149, 170-179, 150-169, 180-184 (cf. Vedere i classici, p. 499); ff. 184v-185v bianchi ma rigati; il primo e l'ultimo foglio di guardia sono membr., mentre il II è cart.</p>
+                </collation>
+                <layout>
+                  <p>a piena pagina (mm 250x145) di 37/38 ll./rr. con qualche capoverso in vedetta; rigatura a secco ripassata a inchiostro per le righe dello specchio e alla mina per quelle di giustificazione (tipo Derolez 33); spesso visibili i fori per le righe di giustificazione.</p>
+                </layout>
+                <msWriting>
+                  <p>copista unico che lavora anche ai mss. Borgh.368 e al Vat.lat.1848; annotazioni rubricate di Marco Lucido Fazini (cf. Vedere i classici, p. 499); incipit ed explicit rubricati in capitale di tipo epigrafico.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>1 pagina di incipit (f. 1r) con 1 miniatura tabellare (mm 150x134) e una complessa cornice a candelabra sui quattro lati del foglio, delimitata da listelli in foglia d’oro e con clipei figurati; a bas-de-page stemma di Ludovico Agnelli (m. 1499), entro un clipeo laureato sorretto da due putti alati affiancati da due centauri. 12 iniziali maggiori mantiniane (ff. 1r, 11r, 20v, 37r, 59r, 78r, 95v, 120r, 138r, 146r, 159r, 174v; mm 55x58, media) policrome (giallo, indaco, blu, arancio-ocra, porpora, verde, nero, elementi a biacca), talvolta con corpo in lamina metallica, come alcune delle cornici, e accompagnate da scrittura distintiva e da letterine guida, non sempre visibili.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>su assi di legno rivestita in marocchino originariamente rosso (come si visibile sul piatto posteriore) e decorata con ferri pieni a diversi motivi (geometrico, complesso, iconografico); dorso a 3 nervi, anch’esso decorato a impressioni a ferro pieno; su entrambi i piatti sono visibili gli originari alloggiamenti per le contrograffe; controguardie anteriore e posteriore, primo e ultimo foglio di guardia in pergamena; tagli dorati e impressi; sovraccoperta in cartoncino color carta da zucchero.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>manuale moderna in cifre arabiche in alto a destra a inchiostro scuro, salto di numerazione tra il f. 45 e il f. 46 (nella scheda si seguirà la foliazione presente sul manoscritto).</p>
+                </foliation>
+                <condition>
+                  <p>ottimo, qualche foro di tarlo, sporadici difetti di concia talvolta risarciti a pergamena, squadernato ad apertura e talvolta all’interno; le lamine metalliche dell’iniziale a f. 121r sono ossidate. Legatura piuttosto usurata, il legno risulta molto tarlato e la pelle del piatto anteriore sbiadita rispetto al posteriore.</p>
+                </condition>
+                <signatures>generalmente rifilate, ma ben visibili ai ff. 170r-174r, alfanumeriche a colore, in basso a destra, sulla prima parte del fascicolo.</signatures>
+                <catchwords>costanti sul verso, in verticale entro la doppia riga di giustificazione destra.</catchwords>
+              </physDesc>
+              <history>
+                <p>ai ff. 1r, 184r timbri della Biblioteca Apostolica Vaticana.</p>
+              </history>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1853</ptr>
+        <creation>
+          <date TEIform="date" value="03/02/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">27/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="06/02/2017">E.Ponzi</persName>
+              <persName n="14/02/2017">E.Ponzi</persName>
+              <persName n="06/03/2017">E.Ponzi</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+              <persName n="12/05/2017">E.Ponzi</persName>
+              <persName n="27/07/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Müller, Lipsiae 1909, IV; Heraeus, 1908, V, 1.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.018530001r-184r" type="ms">Vat.lat.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-184r</locus>
+                  <author n="59 a.C.-17 d.C." reg="person" type="internal">Livius, Titus,</author>
+                  <title type="title">Ab urbe condita</title>
+                  <title type="uniform">Ab Urbe condita (Livius, Titus, 59 a.C.-17 d.C.). 31-40</title>
+                  <summary>Lib. XXXI-XXXII, XXXIV-XL.</summary>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Lib. XL des. cap. 37 verbis: «per omnia fora conciliabulaque edixerunt». Folio 1r addito eodem stemmate episcopali, quod habetur in cod. Borgh. 368; cf. Maier, Cat. codd. Burgh., p. 422.</note>
+                  <name n="1862-1938" type="person" role="external">Heraeus, Wilhelm,</name>
+                  <name type="person" role="external">Müller, Moritz</name>
+                  <name n="1905-1971" type="person" role="external">Maier, Anneliese,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM93</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1853</ptr>
+        <creation>
+          <date TEIform="10/01/2011" value="01/03/2011"/>
+          <persName>I.Maggiulli</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="08/03/2011">MG.Critelli</persName>
+              <persName n="23/07/2015">P.Parodi</persName>
+              <persName n="18/01/2016">P.Parodi</persName>
+              <persName n="03/02/2017">E.Ponzi</persName>
+              <persName n="14/02/2017">E.Ponzi</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Illustrazioni antiche dei testi classici in età medievale ed umanistica. Note in margine a una mostra,</title>
+          <author reg="person">De Lachenal, Lucilla</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1997</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Atti dell’Accademia Nazionale dei Lincei. Rendiconti. Classe di scienze morali, storiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">s. 9, v. 8 (1997) 570.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.01853zzzzz" type="bib">Vat.lat.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1853</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>E.Salza</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Identità di Giuliano Amadei miniatore,</title>
+          <author reg="person">De Marchi, Andrea</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1995</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bollettino d’arte</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">93-94 (1995) 146.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.01853zzzzz" type="bib">Vat.lat.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1853</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>E.Salza</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Transmission of Livy 26-40,</title>
+          <author reg="person">Reeve, Michael D.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di filologia e di istruzione classica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">114 (1986) 167, 168.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.01853zzzzz" type="bib">Vat.lat.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1853</ptr>
+        <creation>
+          <date TEIform="date" value="20/12/2011"/>
+          <persName>D.Staccini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les manuscrits classiques dans le fonds Vatican latin d'Eugène IV (1443) à Jules III (1550)</title>
+          <author reg="person">Fohlen, Jeannine </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Humanistica Lovaniensia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">34A (1985) 21, 47. </note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.01853zzzzz" type="bib">Vat.lat.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1853</ptr>
+        <creation>
+          <date TEIform="date" value="21/05/2013"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Note storico-paleografiche in margine all’Accademia Romana. I. La biblioteca di Pomponio Leto: ricerche e ipotesi,</title>
+          <title type="title" level="u">Le Chiavi della memoria. Miscellanea in occasione del I centenario della Scuola vaticana di paleografia diplomatica e archivistica,</title>
+          <author reg="person">Scarcia Piacentini, Paola</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">527.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.01853zzzzz" type="bib">Vat.lat.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1853</ptr>
+        <creation>
+          <date TEIform="date" value="20/06/2013"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Bartolomeo Sanvito. The life &amp; work of a Renaissance scribe. A.C. De La Mare &amp; Laura Nuvoloni, (The Handwriting of the Italian Humanist, 2),</title>
+          <author reg="person">De la Mare, Albinia Catherine</author>
+          <respStmt>
+            <resp>
+              <name type="person">Nuvoloni, Laura</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Parigi</pubPlace>
+          <date TEIform="date" value="">2009</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">243. </note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.01853zzzzz" type="bib">Vat.lat.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1853</ptr>
+        <creation>
+          <date TEIform="date" value="07/04/2014"/>
+          <persName>MF.Migliori</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Miniaturistes «romains» sous Pie II,</title>
+          <title type="title" level="u">Enea Silvio Piccolomini-Papa Pio II,</title>
+          <author rend="sac.," n="1914-1993" reg="person">Ruysschaert, José,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Siena</pubPlace>
+          <date TEIform="date" value="">1968</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">279.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.01853zzzzz" type="bib">Vat.lat.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), II, Citta' del Vaticano 1986 (Studi e testi, 319).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.1853</ptr>
+        <creation>
+          <date TEIform="date" value="10/11/2015"/>
+          <persName>15-16.Maffei</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

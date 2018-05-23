@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.003080000" type="ms">Urb.lat.308</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <heraldry>araldica di Federico di Montefeltro (1422-1482): f. 2r, bombarda rovesciata ed esplodente, ermellino con cartiglio parlante, stemma ducale inquartato (nel I e nel IV d’oro all’aquila di nero coronata nel campo, nel II e nel III bandato d’azzurro e d’oro all’aquila di nero sulla I banda d’oro, caricato di un palo centrale di rosso con triregno e chiavi, sormontato da corona); sugli scudi laterali, si intravedono l’anello dell’Ordine della Giarrettiera e di nuovo la bombarda rovesciata ed esplodente.</heraldry>
+                <scriptTerm>umanistica del tipo minuscola</scriptTerm>
+                <motto>f. 2r, decorum, all’interno del cartiglio dell’ermellino.</motto>
+              </head>
+              <msContents>
+                <msItem>
+                  <title type="supplied">Miscellanea grammaticale</title>
+                  <title type="uniform">Ars grammatica (Alcuinus Turonensis, 732-804)</title>
+                  <title type="uniform">Ars grammatica (Diomedes, sec. IV)</title>
+                  <title type="uniform">Ars de orthographia (Agroecius Senonensis, vesc. di Sens, sec. V)</title>
+                  <title type="uniform">De compendiosa doctrina (Nonius Marcellus, sec. IV)</title>
+                  <explicit>f. 211r: Ista lubens, aevo quanquam peritura, notavit. / Ut scires Golphum, dux Federice, tuum. / Nam monumenta tui maiora in pectore feruat, / non annis; ullo non moritura situ (sopra alla u di Dux è stata tracciata un’omega; dopo lubens e peritura le virgole sono state aggiunte a inchiostro nero).</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Stornajolo, Cod. Urb. lat. 1-500, p. 273; Manuscrits classiques, II.2 p. 536-537; Vedere i classici, p. 325-326.</bibl>
+                  <name reg="sec. IV" type="person" role="internal">Diomedes,</name>
+                  <name reg="vesc. di Sens," n="sec. V" type="person" role="internal">Agroecius Senonensis,</name>
+                  <name n="732-804" type="person" role="internal">Alcuinus Turonensis,</name>
+                  <name n="sec. IV" type="person" role="internal">Nonius Marcellus,</name>
+                  <name reg="sac.," n="1849-1923" type="person" role="external">Stornajolo, Cosimo,</name>
+                  <name reg="duca d'Urbino," n="1422-1482" type="person" role="owner">Federico da Montefeltro,</name>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                  <name n="1954-" type="person" role="external">Buonocore, Marco, </name>
+                  <name type="person" role="external">Marpicati, Paolo</name>
+                  <name n="sec. XV" type="person" role="scribe">Golfo da Pergola, Sigismondo,</name>
+                  <name n="sec. XV " type="person">Astemio, Lorenzo, di Macerata, </name>
+                  <name n="f. 1455-1482" type="person" role="artist">Franco dei Russi,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Urbino (?)</settlement>
+                  </origPlace>
+                  <origDate notAfter="1500" notBefore="1475">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>328</height>
+                  <width>230</width>
+                </dimensions>
+                <extent>III. 211. III</extent>
+                <collation>
+                  <p>21 fascicoli quinioni (ff. [+1] 2-11, 12-21, 22-31, 32-41, 42-51, 52-61, 62-71, 72-81, 82-91, 92-101, 102-111, 112-121, 122-131, 132-141, 142-151, 152-161, 162-171, 172-181, 182-191, 192-201, 202-211); il f. 1, che ha sul verso l’antiporta federiciana, è stato inserito nel corpo del manoscritto; f. 211v rigato, ma non scritto; i ff. II-III anteriori e I-II posteriori sono due bifogli membr. probabilmente originari, cart. gli altri fogli di guardia.</p>
+                </collation>
+                <layout>
+                  <p>a piena pagina (mm 215x135), con capilettera in vedetta, su 31/32 ll./rr.; rigatura a secco ben visibile (tipo Derolez 36); talvolta visibile la foratura sul margine esterno.</p>
+                </layout>
+                <msWriting>
+                  <p>unico copista, forse quel Golphus che si firma a f. 211r (cf. Explicit; Manuscrits classiques, II.2 p. 537; Vedere i classici, p. 325), a inchiostro bruno; inchiostro arancio per metà di f. 150v. A f. 1v, due diverse mani corsive annotano: Nonius Marcellus De compendiosa doctrina ad filium cum reliquis e Non est Nonius sed Diomedes De oratione partibus orationis et diverso genere metrorum; talora annotazioni a margine in greco, così come alcuni lemmi all’interno del testo; talvolta le E nei capilettera sono realizzate nelle forme di una sigma maiuscola o di una epsilon minuscola (es. f. 45v).</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>f. 1v, antiporta costituita da clipei di tre ordini di grandezza, tutti realizzati con listelli in foglia d’oro; un clipeo maggiore (mm 153), circondato da globi cigliati aurei ed elementi preziosi su fondo blu, racchiude entro perle su fondo rosso (mm 75) un clipeo centrale, all’interno del quale una mano più tarda rispetto alla confezione del ms. ha scritto: Nonnius Marcel/lus De compendio/sa doctrina. Attorno a esso si dispone una corolla fitomorfa policroma (verde, azzurra, porpora, gialla) con globi aurei cigliati intercalata da altri cinque clipei minori muti (mm 30). 1 pagina di incipit (f. 2r), racchiusa su tutti e quattro i margini da una complessa cornice con fondo in foglia d’oro, percorsa da cappi intrecciati policromi (blu, verde, rosa), cartigli muti, fioroni; sul margine esterno si aprono due clipei con le insegne federiciane (mm 43), mentre a bas-de-page, nei cantoni, sono presenti due miniature tabellari (mm 65x40) e al centro un folto gruppo di puttini, alcuni dei quali musicanti, sorreggono un cantharos con appeso lo stemma ducale di Federico di Montefeltro; la rubrica non è stata eseguita, integrata da una più recente vergata dalla medesima mano che riempie il clipeo centrale dell’antiporta [Nonnius Marceellus (sic) De compendiosa doctrina]. 4 iniziali maggiori con scrittura distintiva (mm 44x41, media) di due diverse tipologie decorative: 1 (f. 2r) su campo in foglia d’oro realizzata con un cappio intrecciato policromo (blu, porpora, verde); 3 (ff. 144v, 151v, 192r) a bianchi girari su fondo policromo (blu, verde, rosso), con corpo in foglia d’oro, come la cornice entro cui sono comprese. 8 iniziali medie con scrittura distintiva (ff. 16v, 22v, 26r, 67r, 68v, 75r, 77v, 111r; mm 34x30, media) a bianchi girari su fondo policromo (blu, verde, rosso), con corpo in foglia d’oro, come la cornice entro cui sono comprese. Numerose iniziali medie calligrafiche (mm 20x20 c.) in foglia d’oro. Numerose iniziali minori calligrafiche in oro e in blu, in rosso e in inchiostro bruno, in vedetta, come i capilettera realizzati con lo stesso inchiostro utilizzato per la scrittura; rubricati incipit, explicit, titoli; talvolta le letterine guida per i capilettera calligrafici in blu e in foglia d’oro sono state segnalate in rosso (cf. per es. ff. 41v-42r).</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>su quadranti in cartone con assi rivestiti in pelle marrone di restauro, probabilmente recente, benché non vi sia alcuna indicazione sulla controguardia posteriore; il dorso è a sei nervi e sulla controguardia anteriore sono stati applicati tasselli dalla precedente legatura, in pelle verde con impressioni in oro e le insegne araldiche di papa Alessandro VIII (1689-1691) e del card. bibliotecario Lorenzo Brancati (1681-1693). Tagli dorati.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>manuale moderna a inchiostro nero in cifre arabiche sul recto in alto a destra.</p>
+                </foliation>
+                <condition>
+                  <p>buono, fori di tarlo nei primi e negli ultimi fogli, qualche difetto di concia, qualche risarcimento in pergamena, qualche macchia.</p>
+                </condition>
+                <signatures>non presenti, probabilmente rifilate.</signatures>
+                <catchwords>costanti sul verso dell’ultimo foglio del fascicolo, nel margine inferiore, disposte in orizzontale o in verticale in prossimità della cucitura (es. f. 11v e 31v), talvolta parzialmente rifilate (es. f. 41v) o totalmente, come nel fascicolo 2 (ff. 12-21).</catchwords>
+              </physDesc>
+              <history>
+                <p>il codice è appartenuto alla biblioteca di Federico da Montefeltro, dove era conservato con il numero 567, come si evince dal cosiddetto Indice vecchio [cf. Urb.lat.1761; Stornajolo, Codices Urbinates graeci, p. CXXIX: "Diomedis Grammatici Disertissimi Grammaticae Liber perutilis. Albinus de octo partibus orationis. Nonius Marcellus de Indiscretis Generibus. Aegretius de Orthographia. Codex Ornatissimus In Rubro (hic liber post raptum Valentinianum non inventus. Loco ipsius positus est Diomedes in stampa cum insertis ut supra)"]. La segnatura 530 che compare, impressa in oro nella porzione di dorso applicata sulla controguardia anteriore, e a f. 2r, segnata a inchiostro nero in alto a sinistra, è relativa all'inventario vaticano di Stefano Gradi (Urb. lat. 1388; cf. Stornajolo, Cod. Urb. lat. 1001-1779, p. VI; cf. anche D'Aiuto, Urbinati, in Guida ai Fondi BAV, I, p. 538-539).</p>
+              </history>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.308</ptr>
+        <creation>
+          <date TEIform="date" value="29/03/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="29/03/2017">E.Ponzi</persName>
+              <persName n="04/04/2017">E.Ponzi</persName>
+              <persName n="06/04/2017">E.Ponzi</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+              <persName n="12/05/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Keil, Gramm. lat. I, 299-529.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.003080002r-144r" type="ms">Urb.lat.308</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>2r-144r</locus>
+                  <author rend="sec. IV" reg="person" type="internal">Diomedes,</author>
+                  <title type="title">Ars grammatica</title>
+                  <title type="uniform">Ars grammatica (Diomedes, sec. IV)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1822-1894" type="person" role="external">Keil, Heinrich,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM54</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.308</ptr>
+        <creation>
+          <date TEIform="13/11/2006" value="29/04/2009"/>
+          <persName>M. Marchiaro</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/05/2009">MG.Critelli</persName>
+              <persName n="29/03/2017">E.Ponzi</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Keil, Gramm. Lat. VII, pp. 113-125.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.003080144v-150r" type="ms">Urb.lat.308</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>144v-150r</locus>
+                  <author rend="vesc. di Sens," n="sec. V" reg="person" type="internal">Agroecius Senonensis,</author>
+                  <title type="title">De ortographia, proprietate et differentia sermonis</title>
+                  <title type="uniform">Ars de orthographia (Agroecius Senonensis, vesc. di Sens, sec. V)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1822-1894" type="person" role="external">Keil, Heinrich,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM02</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.308</ptr>
+        <creation>
+          <date TEIform="06/12/2007" value="02/06/2010"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/07/2010">P.Parodi</persName>
+              <persName n="30/04/2012">P.Parodi</persName>
+              <persName n="29/03/2017">E.Ponzi</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Alcuinus, Gramatica, in PL 101, 1863, p. 854-902.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.003080150v-191v" type="ms">Urb.lat.308</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>150v-191v</locus>
+                  <author n="732-804" reg="person" type="internal">Alcuinus Turonensis,</author>
+                  <title type="title">De grammatica et partibus orationis per dialogum</title>
+                  <title type="uniform">Ars grammatica (Alcuinus Turonensis, 732-804)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">F. 150v, rubrica: Schola Albini grammatici de grammatica &amp; par/tibus orationis: &amp; eorum accidentibus per dialo/gum.</note>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM03</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.308</ptr>
+        <creation>
+          <date TEIform="31/01/2011" value="15/10/2013"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="29/03/2017">E.Ponzi</persName>
+              <persName n="24/04/2017">P.Parodi</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Nonius Marcellus, De conpendiosa doctrina libros XX, I, ed. W.M. Lindsay, Leipzig 1903, p. 279-344.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.003080192r-210v" type="ms">Urb.lat.308</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>192r-210v</locus>
+                  <author n="sec. IV" reg="person" type="internal">Nonius Marcellus,</author>
+                  <title type="supplied">De compendiosa doctrina (liber III)</title>
+                  <title type="uniform">De compendiosa doctrina (Nonius Marcellus, sec. IV)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1858-1937" type="person" role="external">Lindsay, Wallace Martin,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.308</ptr>
+        <creation>
+          <date TEIform="date" value="29/03/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Nonius,</title>
+          <title type="title" level="u">Les manuscrits des lexiques et glossaires de l’Antiquité tardive à la fin du Moyen Âge. Actes du Colloque international (Erice, 23-30 sept. 1994), </title>
+          <author reg="person">Gatti, Paolo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Louvain-la-Neuve </pubPlace>
+          <date TEIform="date" value="">1996</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">89.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00308zzzzz" type="bib">Urb.lat.308</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.308</ptr>
+        <creation>
+          <date TEIform="date" value="31/03/2009"/>
+          <persName>C.DiFazio</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Italian Renaissance Miniature, </title>
+          <title type="title" level="u">The Painted Page. Italian Renaissance Book Illumination 1450-1550, </title>
+          <author reg="person">Mariani Canova, Giordana </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>London</pubPlace>
+          <pubPlace>New York </pubPlace>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">31, 33.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00308zzzzz" type="bib">Urb.lat.308</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.308</ptr>
+        <creation>
+          <date TEIform="date" value="31/03/2009"/>
+          <persName>C.DiFazio</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Literary Culture at the Court of Urbino during the Reign of Federico da Montefeltro,</title>
+          <author reg="person">Hofmann, Heinz</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Humanistica Lovaniensia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">LVII (2008) 20.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00308zzzzz" type="bib">Urb.lat.308</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.308</ptr>
+        <creation>
+          <date TEIform="date" value="22/07/2010"/>
+          <persName>C.Marsico</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">L'"editio princeps" del capitolo III di Nonio,</title>
+          <author n="1940-" reg="person">Lunelli, Aldo, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Res publica litterarum. Studies in the Classical Tradition</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">9 (1986) 198, 201, 202.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00308zzzzz" type="bib">Urb.lat.308</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.308</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>M.Patriarca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="02/07/2012">F.Fioretti</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Alla ricerca dello scolio perduto (Un presunto frammento di Livio Andronico),</title>
+          <author reg="person">Fugaro, Daniela</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2001</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Atti dell’Accademia Nazionale dei Lincei. Rendiconti. Classe di scienze morali, storiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">s. 9, v. 12 (2001) 141, 142, 144-145 passim*, 153*.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00308zzzzz" type="bib">Urb.lat.308</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.308</ptr>
+        <creation>
+          <date TEIform="date" value="16/05/2011"/>
+          <persName>E.Licursi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="16/05/2011">E.Licursi</persName>
+              <persName n="17/05/2011">E.Licursi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La tradizione manoscritta umanistica dei trattati ortografici dello Ps.-Capro e di Agrecio, </title>
+          <author reg="person">Sparagna, Maddalena</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2009</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Segno e testo</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">7 (2009) 251, 252, 270, 272-275 passim, 278, 280, 282, 299, (cit. anche J).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00308zzzzz" type="bib">Urb.lat.308</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.308</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2012"/>
+          <persName>L.Scarpelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/03/2012">L.Scarpelli</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Un nuovo frammento di testo in Diomede,</title>
+          <author reg="person">Morelli, Giuseppe</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di filologia e di istruzione classica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">112 (1984) 13.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00308zzzzz" type="bib">Urb.lat.308</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.308</ptr>
+        <creation>
+          <date TEIform="date" value="29/05/2012"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">"Lectissima politissimaque volumina": i fondi urbinati,</title>
+          <title type="title" level="u">La Vaticana nel Seicento (1590-1700): una biblioteca di biblioteche, a cura di Claudia Montuschi (Storia della Biblioteca Apostolica Vaticana, 3),</title>
+          <author reg="person">Peruzzi, Marcella</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2014</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">351, 376, 388.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00308zzzzz" type="bib">Urb.lat.308</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.308</ptr>
+        <creation>
+          <date TEIform="date" value="30/10/2015"/>
+          <persName>T-V.Maffezzoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/10/2015">T-V.Maffezzoli</persName>
+              <persName n="09/12/2015">T-V.Maffezzoli</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

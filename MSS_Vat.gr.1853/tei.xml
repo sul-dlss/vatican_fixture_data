@@ -1,0 +1,2231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530000" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p>Paracletica</p>
+                <msItem>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <name n="sec. XII" type="person" role="scribe">Theodōros,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia australis</region>
+                  </origPlace>
+                  <origDate n="1173" notAfter="1200" notBefore="1100">sec. XII</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>355</height>
+                  <width>245</width>
+                </dimensions>
+                <extent>ff. 124</extent>
+                <msWriting>
+                  <p>Subscriptio scribae f. 123v (cf. P. Canart, Cat. Vat. gr. 1745-1962, pp. 344-345).</p>
+                </msWriting>
+                <palimpsest>
+                  <p>Ff. 1-101, 103-124; ff. 99 + 96, 97 + 98 bis rescripta.</p>
+                </palimpsest>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, pp. 341-345. RGK III/A, nr. 222; III/C, taf. 121 </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="09/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="09/12/2016">D.Surace</persName>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="01/02/2017">D.Surace</persName>
+              <persName n="24/03/2017">D.Surace</persName>
+              <persName n="31/03/2017">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530001r-101v, 103r-124v &lt;inf. 1.1&gt;" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-101v, 103r-124v &lt;inf. 1.1&gt;</locus>
+                  <title type="supplied">Menologii praemetaphrastici Septembris fragmenta</title>
+                  <title type="uniform">Menologium</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note"/>
+                  <origDate notAfter="925" notBefore="901">sec. X in.</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, pp. 345-347</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="20/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/03/2017">D.Surace</persName>
+              <persName n="22/03/2017">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530001r-112r" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-112r</locus>
+                  <title type="supplied">Canones paracletici ad Christum, Deiparam et nonnullos sanctos</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note"/>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, pp. 342-343</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="09/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530002r + 3v, 2v + 3r, 1r + 4v, 1v + 4r &lt;inf. 1.1&gt;" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>2r + 3v, 2v + 3r, 1r + 4v, 1v + 4r &lt;inf. 1.1&gt;</locus>
+                  <title type="supplied">S. Paphnutii passionis fragmentum (XXIV Sept.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 1419.</note>
+                  <origDate notAfter="925" notBefore="901">sec. X in.</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, p. 346</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="07/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="03/02/2017">D.Surace</persName>
+              <persName n="20/03/2017">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530007r + 12v, 7v + 12r, 6r + 13v, 6v + 13r &lt;inf. 1.1&gt;" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>7r + 12v, 7v + 12r, 6r + 13v, 6v + 13r &lt;inf. 1.1&gt;</locus>
+                  <title type="supplied">S. Trophimi passionis fragmentum (XIX Sept.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 1855.</note>
+                  <origDate notAfter="925" notBefore="901">sec. X in.</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, p. 346</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="07/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="03/02/2017">D.Surace</persName>
+              <persName n="20/03/2017">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530048r + 51v, 48v + 51r, 9r + 10v, 9v + 10r, 64r + 67v, 64v + 67r, 119r + 122v, 119v + 122r, 110r + 115v, 110v + 115r, 113r + 112v, 113v + 112r &lt;inf. 1.1&gt;" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>48r + 51v, 48v + 51r, 9r + 10v, 9v + 10r, 64r + 67v, 64v + 67r, 119r + 122v, 119v + 122r, 110r + 115v, 110v + 115r, 113r + 112v, 113v + 112r &lt;inf. 1.1&gt;</locus>
+                  <title type="supplied">Passio s. Areadnes (XXV Sept.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 165.</note>
+                  <origDate notAfter="925" notBefore="901">sec. X in.</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, p. 346</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="07/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="20/03/2017">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530065r + 66v, 65v + 66r, 8r + 11v, 8v + 11r, 49r + 50v, 49v + 50r &lt;inf. 1.1&gt;" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>65r + 66v, 65v + 66r, 8r + 11v, 8v + 11r, 49r + 50v, 49v + 50r &lt;inf. 1.1&gt;</locus>
+                  <title type="supplied">Passio s. Iae (XXV Sept.)</title>
+                  <incipit>δοροῦσιν τὸ ὑμέτερον</incipit>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 761.</note>
+                  <origDate notAfter="925" notBefore="901">sec. X in.</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, p. 346</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="07/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="20/03/2017">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530099r + 96v &lt;inf. 1.1&gt;" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>99r + 96v &lt;inf. 1.1&gt;</locus>
+                  <title type="supplied">Actorum Pauli et Theclae fragmentum (XXIV Sept.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 1710.</note>
+                  <origDate notAfter="925" notBefore="901">sec. X in.</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, p. 346</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="07/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="03/02/2017">D.Surace</persName>
+              <persName n="20/03/2017">D.Surace</persName>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530099r + 96v, 99v + 96r, 97r + 98v, 97v + 98r &lt;inf. 1.2&gt;" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>99r + 96v, 99v + 96r, 97r + 98v, 97v + 98r &lt;inf. 1.2&gt;</locus>
+                  <title type="supplied">Fragmenta Evangelii secundum Matthaeum (I, 1-24; VII, 14-VIII, 11)</title>
+                  <title type="uniform">Biblia. N.T. Evang. sec. Matthaeum. Greco</title>
+                  <incipit>(f. 97r): δὸς ἡ ἀπάγουσα</incipit>
+                  <explicit>(f. 96r): παρέλαβεν</explicit>
+                  <explicit>(f. 98r) οὐρανῶν</explicit>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note"/>
+                  <origDate>sec. XI-XII</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, p. 347</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="14/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530099v + 96r, (97 + 98 ?), 39r + 44v, 39v + 44r, 38r + 45v, 38v + 45r, 5v-r &lt;inf. 1.1&gt;" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>99v + 96r, (97 + 98 ?), 39r + 44v, 39v + 44r, 38r + 45v, 38v + 45r, 5v-r &lt;inf. 1.1&gt;</locus>
+                  <author rend="vesc. di Seleucia," n="m. c. 459." key="Opere spurie e dubbie" reg="person" type="internal">Basilius,</author>
+                  <title type="supplied">De vita et miraculis s. Theclae librorum II fragmenta (XXIV Sept.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. CPG 6675; BHG 1717, 1718.</note>
+                  <origDate notAfter="925" notBefore="901">sec. X in.</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, p. 346</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="07/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="20/03/2017">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530101r + 94v, 101v + 94r, 100r + 95v, 100v + 95r, 40r + 43v, 40v + 43r, 81r + 82v, 81v + 82r, 41r + 42v, 41v + 42r, 88r + 91v, 88v + 91r, 15r + 20v, 15v + 20r, 14r + 21v, 14v + 21r, 89r + 90v, 89v + 90r, 57r + 58v, 57v + 58r, 56r + 59v, 56v + 59r, 54r + 61v, 54v + 61r, 25r + 26v, 25v + 26r, 80r + 83v, 80v + 83r, 31r + 36v, 31v + 36r, 30r + 37v, 30v + 37r, 79r + 84v, 79v + 84r, 24r + 27v, 24v + 27r, 55r + 60v, 55v + 60r, 62r + 69v, 62v + 69r, 73r + 74v, 73v + 74r, 72r + 75v, 72v + 75r, 63r + 68v, 63v + 68r, 22r + 29v, 22v + 29r, 47r + 52v, 47v + 52r, 46r + 53v, 46v + 53r, 23r + 28v, 23v + 28r, 16r + 19v, 16v + 19r, 87r + 92v, 87v + 92r, 32r + 35v, 32v + 35r, 33r + 34v, 33v + 34r, 86r + 93v, 86v + 93r, 17r + 18v, 17v + 18r, 70r + 77v, 70v + 77r, 71r + 76v, 71v + 76r, 78r + 85v, 78v + 85r &lt;inf. 1.1&gt;" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>101r + 94v, 101v + 94r, 100r + 95v, 100v + 95r, 40r + 43v, 40v + 43r, 81r + 82v, 81v + 82r, 41r + 42v, 41v + 42r, 88r + 91v, 88v + 91r, 15r + 20v, 15v + 20r, 14r + 21v, 14v + 21r, 89r + 90v, 89v + 90r, 57r + 58v, 57v + 58r, 56r + 59v, 56v + 59r, 54r + 61v, 54v + 61r, 25r + 26v, 25v + 26r, 80r + 83v, 80v + 83r, 31r + 36v, 31v + 36r, 30r + 37v, 30v + 37r, 79r + 84v, 79v + 84r, 24r + 27v, 24v + 27r, 55r + 60v, 55v + 60r, 62r + 69v, 62v + 69r, 73r + 74v, 73v + 74r, 72r + 75v, 72v + 75r, 63r + 68v, 63v + 68r, 22r + 29v, 22v + 29r, 47r + 52v, 47v + 52r, 46r + 53v, 46v + 53r, 23r + 28v, 23v + 28r, 16r + 19v, 16v + 19r, 87r + 92v, 87v + 92r, 32r + 35v, 32v + 35r, 33r + 34v, 33v + 34r, 86r + 93v, 86v + 93r, 17r + 18v, 17v + 18r, 70r + 77v, 70v + 77r, 71r + 76v, 71v + 76r, 78r + 85v, 78v + 85r &lt;inf. 1.1&gt;</locus>
+                  <author n="sec. V-VI" reg="person">Agathangelus Armeniacus,</author>
+                  <title type="supplied">Vitae s. Gregorii Illuminatoris fragmenta (XXX Sept.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 712.</note>
+                  <origDate notAfter="925" notBefore="901">sec. X in.</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, pp. 346-347. G. Garitte, Documents pour l'étude du livre d'Agathange, Città del Vaticano 1946 (Studi e testi, 127), pp. 370-388</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="09/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="20/03/2017">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530112r-117v" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>112r-117v</locus>
+                  <title type="supplied">Orationes aliquot ante communionem</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note"/>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, pp. 343-344</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="09/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530113r + 112v, 113v + 112r, 123r + 118v, 123v + 118r, 117r + 124v, 117v + 124r, 114r + 111v &lt;inf. 1.1&gt;" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>113r + 112v, 113v + 112r, 123r + 118v, 123v + 118r, 117r + 124v, 117v + 124r, 114r + 111v &lt;inf. 1.1&gt;</locus>
+                  <title type="supplied">S. Iohannis theologi dormitio (XXVI Sept.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 912-913, 913d.</note>
+                  <origDate notAfter="925" notBefore="901">sec. X in.</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, p. 346</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="07/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="20/03/2017">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530114v + 111r, 109r + 116v, 109v + 116r, 120r + 121v, 120v + 121r &lt;inf. 1.1&gt;" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>114v + 111r, 109r + 116v, 109v + 116r, 120r + 121v, 120v + 121r &lt;inf. 1.1&gt;</locus>
+                  <author rend="s., patriarca di Costantinopoli," n="347-407." key="Opere spurie e dubbie" reg="person">Iohannes Chrysostomus,</author>
+                  <title type="supplied">Encomium in s. Iohannem evangelistam (XXVI Sept.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. CPG 4750.</note>
+                  <origDate notAfter="925" notBefore="901">sec. X in.</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, p. 346. S. Voicu, Codices, pp. 210-211 (nr. 240)</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="07/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="07/12/2016">D.Surace</persName>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="03/01/2017">D.Surace</persName>
+              <persName n="20/03/2017">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.018530117v-123v" type="ms">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>117v-123v</locus>
+                  <title type="supplied">Officium s. Philippi Argyrii (XII Maii)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note"/>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Canart, Cat. Vat. gr. 1745-1962, p. 344</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="09/12/2016"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/12/2016">D.Surace</persName>
+              <persName n="20/03/2017">D.Surace</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Die Formel h men ceir h grafasa in den griechischen Handschriften,</title>
+          <title type="title" level="u">Scritture, libri e testi nelle aree provinciali di Bisanzio, Atti del seminario di Erice, 18-25 sett. 1988, I,</title>
+          <author reg="person">Atsalos, Basileios</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Spoleto</pubPlace>
+          <date TEIform="date" value="">1991</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">709, 717, 720, 723, 730.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2010"/>
+          <persName>E.Mosconi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les écritures livresques des XIe et XIIe siècles,</title>
+          <title type="title" level="u">Paleografia e codicologia greca. Atti del II Colloquio internazionale (Berlino – Wolfenbüttel 17-21 ott. 1983),</title>
+          <author rend="sac., " n="1927- " reg="person">Canart, Paul, </author>
+          <respStmt>
+            <resp>
+              <name type="person">Perria, Lidia</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Alessandria</pubPlace>
+          <date TEIform="date" value="">1991</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">111.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2010"/>
+          <persName>E.Mosconi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il tipico-sinassario Vat. Barb. Gr. 500 e una notizia agiografica marginale per S. Filippo di Agira,</title>
+          <author reg="person">Luzzi, Andrea</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date">1993</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Analecta Bollandiana</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">111 (1993) 297, 299.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2010"/>
+          <persName>E.Mosconi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Un codice greco del 1124 a Siracusa,</title>
+          <author reg="person">Lucà, Santo</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2001</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di studi bizantini e neoellenici</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">38 (2001) 82.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="14/07/2010"/>
+          <persName>C.Marsico</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Note sui palinsesti conservati nella Biblioteca Apostolica Vaticana,</title>
+          <title type="title" level="u">Miscellanea Bibliothecae Apostolicae Vaticanae XVI,</title>
+          <author n="1945-" reg="person">Voicu, Sever J., </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2009</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">453.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="16/11/2010"/>
+          <persName>S.Laudoni</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La scultura bizantina nel museo archeologico di Antiochia di Pisidia (Yalvaç),</title>
+          <author rend="S.I." reg="person">Ruggieri, Vincenzo</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Orientalia Christiana Periodica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">70 (2004) 262.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="14/02/2011"/>
+          <persName>F.Giulianelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La data del più antico documento per S. Nicodemo di Cellarana e l'espressione grafica dell'indizione, </title>
+          <author n="1926-1999" reg="person">Follieri, Enrica, </author>
+          <respStmt>
+            <resp>
+              <name type="person">Perria, Lidia</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bollettino della Badia greca di Grottaferrata</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">40 (1986) 140.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="29/11/2011"/>
+          <persName>N.Karp</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Cryptensis Euchology A.β. XI, </title>
+          <author rend="S.I." reg="person">Ruggieri, Vincenzo</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Orientalia Christiana Periodica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">52 (1986) 333.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="06/12/2011"/>
+          <persName>N.Karp</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Liturgical Tradition of the Euchologion “of Archimedes”,</title>
+          <author n="1959-" reg="person">Parenti, Stefano,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2005</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bollettino della Badia greca di Grottaferrata</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">3. s., 2 (2005) 86.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="14/03/2012"/>
+          <persName>L.Scarpelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La cultura italo-greca nella produzione libraria,</title>
+          <title type="title" level="u">I bizantini in Italia,</title>
+          <author reg="person">Cavallo, Guglielmo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">1982</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">553.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="31/12/2012"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Gli scriptoria calabresi dalla conquista normanna alla fine del secolo XIV,</title>
+          <title type="title" level="u">Calabria bizantina. Tradizione di pietà e tradizione scrittoria nella Calabria greca medievale,</title>
+          <author rend="sac., " n="1927- " reg="person">Canart, Paul, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Reggio Calabria</pubPlace>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">145.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="02/01/2013"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Introduzione,</title>
+          <title type="title" level="u">Calabria bizantina. Tradizione di pietà e tradizione scrittoria nella Calabria greca medievale,</title>
+          <author reg="person">Coppola, D.</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Reggio Calabria</pubPlace>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">11.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="02/01/2013"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La congiunzione καί nella minuscola libraria greca,</title>
+          <author reg="person">Agati, Maria Luisa</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scrittura e civiltà</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">8 (1984) tav. 6.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="02/01/2013"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Gli scriptoria calabresi dalla conquista normanna alla fine del secolo XIV,</title>
+          <title type="title" level="u">Études de paléographie et de codicologie. Reproduites avec la collaboration de Maria Luisa Agati et Marco D'Agostino. Tome II (Studi e testi, 451),</title>
+          <author rend="sac., " n="1927- " reg="person">Canart, Paul, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">789.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="04/02/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les écritures livresques des XIe e XIIe siècles,</title>
+          <title type="title" level="u">Études de paléographie et de codicologie. Reproduites avec la collaboration de Maria Luisa Agati et Marco D'Agostino. Tome II (Studi e testi, 451),</title>
+          <author rend="sac., " n="1927- " reg="person">Canart, Paul, </author>
+          <respStmt>
+            <resp>
+              <name type="person">Perria, Lidia</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">977.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="10/02/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les palimpsestes des fonds grecs de la Bibliothèque Vaticane. Une liste sommaire et quelques précisions,</title>
+          <title type="title" level="u">Études de paléographie et de codicologie. Reproduites avec la collaboration de Maria Luisa Agati et Marco D'Agostino. Tome II (Studi e testi, 451),</title>
+          <author rend="sac., " n="1927- " reg="person">Canart, Paul, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">1313.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="13/02/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I manoscritti vaticani greci. Lineamenti di una storia del fondo (Studi e testi, 415),</title>
+          <author n="1936-2015" reg="person">Lilla, Salvatore,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">61.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="20/02/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">A oriente e occidente di Costantinopoli. Temi e problemi liturgici di ieri e di oggi (Monumenta Studia Instrumenta Liturgica, 54),</title>
+          <author n="1959-" reg="person">Parenti, Stefano,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2010</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">144.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="22/05/2014"/>
+          <persName>L.Annicelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="16/06/2014">L.Annicelli</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">De la catalographie à l'histoire du livre. Vingt ans de recherches sur les manuscrits grecs,</title>
+          <author rend="sac., " n="1927- " reg="person">Canart, Paul, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1980</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Byzantion</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">50 (1980) 574, 602, 609.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="10/02/2015"/>
+          <persName>14-15.Schwarz</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La minuscola libraria dei secoli IX e X,</title>
+          <title type="title" level="u">Byzantina et italograeca. Studi di filologia e di paleografia, a cura di Augusta Acconcia Longo, Lidia Perria, Andrea Luzzi (Storia e letteratura. Raccolta di studi e testi, 195)</title>
+          <author n="1926-1999" reg="person">Follieri, Enrica, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1997</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">206.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.01853zzzzz" type="bib">Vat.gr.1853</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.1853</ptr>
+        <creation>
+          <date TEIform="date" value="06/07/2016"/>
+          <persName>T16.Pellegrino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

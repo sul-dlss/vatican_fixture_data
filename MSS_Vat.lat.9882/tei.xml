@@ -1,0 +1,2435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820000" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>&lt;scrittura altomedievale italiana&gt;</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia settentrionale</region>
+                    <settlement>Nonantola</settlement>
+                  </origPlace>
+                  <origDate notAfter="825" notBefore="801">sec. IX in</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>218</height>
+                  <width>138</width>
+                </dimensions>
+                <extent>ff. I. 297. I (guardie cartacee)</extent>
+                <collation>
+                  <p>36 quaternioni</p>
+                </collation>
+              </physDesc>
+              <history>
+                <provenance>
+                  <p>Basilica di Santa Croce in Gerusalemme.</p>
+                </provenance>
+              </history>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="13/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="23/03/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L. 83, 647, C, 3-738.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820002r-138r" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>2r-138r</locus>
+                  <author rend="s., arciv. di Sevilla," n="c. 570-636" reg="person" type="internal">Isidorus,</author>
+                  <title type="supplied">Sententiae, lib. II-III</title>
+                  <title type="uniform">Sententiae (Isidorus, s., arciv. di Sevilla, c. 570-636). 2-3</title>
+                  <incipit type="text">[...] iniquitas Sodomorum</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Textus acephalus.</note>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM87. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="13/02/2006" value="10/04/2006"/>
+          <persName>M. Torquati</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/10/2006">MG.Critelli</persName>
+              <persName n="20/10/2006">MG.Critelli</persName>
+              <persName n="23/10/2006">MG.Critelli</persName>
+              <persName n="11/10/2011">P.Parodi</persName>
+              <persName n="13/02/2017">A.Berloco</persName>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L. 39, 2317-2319.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820138r-144r" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>138r-144r</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Sermo IV</title>
+                  <title type="uniform">Qualiter verbum Dei vel desiderari debeat vel requiri (Caesarius, s., vesc. di Arles, 470-542)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM12. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="19/06/2013"/>
+          <persName>A.Giustini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L. 50, 841-843.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820144v-151r" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>144v-151r</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Homilia VI</title>
+                  <title type="uniform">Homiliae (Caesarius, s., vesc. di Arles, 470-542). 6</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM59.3. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="01/10/2014"/>
+          <persName>M.Marchiaro</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="01/10/2014">M.Marchiaro</persName>
+              <persName n="01/10/2014">M.Marchiaro</persName>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L. 67, 1059-1062.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820151v-157v" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>151v-157v</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Homilia VII, Ad monachos</title>
+                  <title type="uniform">Homiliae (Caesarius, s., vesc. di Arles, 470-542). 7</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.2. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L. 67, 1062-1066.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820157v-167v" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>157v-167v</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Homilia VIII</title>
+                  <title type="uniform">Homiliae (Caesarius, s., vesc. di Arles, 470-542). 8, Ad monachos</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.2. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L. 67, 1066-1067.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820167v-170v" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>167v-170v</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Homilia IX</title>
+                  <title type="uniform">Homiliae (Caesarius, s., vesc. di Arles, 470-542). 9, Ad monachos</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L. 67, 1067-1069.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820171r-175r" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>171r-175r</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Homilia X</title>
+                  <title type="uniform">Homiliae (Caesarius, s., vesc. di Arles, 470-542). 10, Ad monachos</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820175r-184v" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>175r-184v</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Sermo CCXXXIII</title>
+                  <title type="uniform">Dominis sanctis et in Christo desiderantis fratribus in Blandiacensi monasterio constitutis (Caesarius, s., vesc. di Arles, 470-542)</title>
+                  <incipit type="text">Sanctus ac venerabilis pater vester religiosa quidem humilitate sed prope</incipit>
+                  <explicit type="text">ad portum venire felicitatis supplicantibus vobis Adiuvante</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Cf. Barral, Chronologia sanctorum et aliorum virorum [...] s. insulae Lerinensis, I, 289-292.</note>
+                  <name reg="O.S.B.," n="f. 1577-1613" type="person" role="external">Barrali Salerna, Vincenzo,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="08/03/2016">F.Borzumato</persName>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L. 67, 1069-1072.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820184v-191v" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>184v-191v</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Sermo CCXXXV</title>
+                  <title type="uniform">Homiliae (Caesarius, s., vesc. di Arles, 470-542). 11</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820191v-198v" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>191v-198v</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="title">Sermo CCXXXVI</title>
+                  <title type="uniform">Sermo ad monachos (Caesarius, s., vesc. di Arles, 470-542)</title>
+                  <incipit type="text">Miror fratres dilectissimi, Dominum meum patrem</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Cf. Barral, Chronologia sanctorum et aliorum virorum [...] s. insulae Lerinensis, I, 294-297.</note>
+                  <name reg="O.S.B.," n="f. 1577-1613" type="person" role="external">Barrali Salerna, Vincenzo,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="08/03/2016">F.Borzumato</persName>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820198v-203r" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>198v-203r</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Sermo CCXXXIV</title>
+                  <title type="uniform">Alias s. Caesarii episcopi ad Monachos (Caesarius, s., vesc. di Arles, 470-542)</title>
+                  <incipit type="text">Sanctus ac venerabilis pater dum se ut cum venia</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Cf. Barral, Chronologia sanctorum et aliorum virorum [...] s. insulae Lerinensis, I, 297-299.</note>
+                  <name reg="O.S.B.," n="f. 1577-1613" type="person" role="external">Barrali Salerna, Vincenzo,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="08/03/2016">F.Borzumato</persName>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L. 39, 2280-2282.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820203r-209v" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>203r-209v</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Sermo LXXII</title>
+                  <title type="uniform">Admonitio domni Ephraem de oratione vel sermonibus otiosis (Caesarius, s., vesc. di Arles, 470-542)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM12. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="19/06/2013"/>
+          <persName>A.Giustini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L. 39, 2285-2287.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820209v-217r" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>209v-217r</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Sermo LXXVII</title>
+                  <title type="uniform">Item alia monitio eiusdem Ephrem, ut genua in oratione flectantur, et de verbis otiosis (Caesarius, s., vesc. di Arles, 470-542)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM12. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="19/06/2013"/>
+          <persName>A.Giustini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L. 67, 1072-1075.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820217r-224v" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>217r-224v</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Sermo CCXXXVII</title>
+                  <title type="uniform">Homiliae (Caesarius, s., vesc. di Arles, 470-542). 12</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L. 50, 836-841; 58, 883-887.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820224v-237v" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>224v-237v</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Homilia VI</title>
+                  <title type="uniform">Homiliae (Caesarius, s., vesc. di Arles, 470-542). 6</title>
+                  <incipit type="text">Instruit nos atque hortatur</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Cf. Barral, Chronologia sanctorum et aliorum virorum [...] s. insulae Lerinensis, I, 305.</note>
+                  <name reg="O.S.B.," n="f. 1577-1613" type="person" role="external">Barrali Salerna, Vincenzo,</name>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="08/03/2016">F.Borzumato</persName>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820237v-245r" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>237v-245r</locus>
+                  <author n="m. c. 359." key="Opere spurie e dubbie" reg="person" type="internal">Eusebius Emesenus,</author>
+                  <title type="supplied">Sermo LXI</title>
+                  <title type="uniform">Sermo castigatorius (Eusebius Emesenus, m. c. 359. Opere spurie e dubbie)</title>
+                  <incipit type="text">Fidelium exhortatores animarum ministri sunt</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Cf. Barral, Chronologia sanctorum et aliorum virorum [...] s. insulae Lerinensis, I, 309-311.</note>
+                  <name reg="O.S.B.," n="f. 1577-1613" type="person" role="external">Barrali Salerna, Vincenzo,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="08/03/2016">F.Borzumato</persName>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L. 39, 2245-2247.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820245r-253r" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>245r-253r</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Sermo XXIII</title>
+                  <title type="uniform">Sermones (Caesarius, s., vesc. di Arles, 470-542). 23</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM12. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="19/06/2013"/>
+          <persName>A.Giustini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>In fine concordat cum s. Augustini Sermone appendicis 272, M.P.L. 39, 2254, ll. 5-2256.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820253r-265r" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>253r-265r</locus>
+                  <author rend="s., vesc. d'Ippona," n="354-430." key="Opere spurie e dubbie" reg="person" type="internal">Augustinus,</author>
+                  <title type="title">Alia &lt;admonitio&gt; de caritate</title>
+                  <incipit type="text">Pax, fides, caritas; per Patrem habemus pacem (cfr. CCSL 104, p. 980).</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                  <name reg="s., vesc. di Arles," n="470-542" type="person" role="internal">Caesarius,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="08/03/2016">F.Borzumato</persName>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820265r-274r" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>265r-274r</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="title">Sermo CXXXV</title>
+                  <title type="uniform">Sermo de versu Psalmi LXXV (Caesarius, s., vesc. di Arles, 470-542)</title>
+                  <incipit type="text">Ammonet nos fratres karissimi per prophetam sermo divinus</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">"Admonet nos per prophetiam, fratres carissimi, sermo divinus dicens"; cf. Barrali, Chronologia sanctorum et aliorum virorum [...] s. insulae Lerinensis, I, 313-315.</note>
+                  <name reg="O.S.B.," n="f. 1577-1613" type="person" role="external">Barrali Salerna, Vincenzo,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3.M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="08/03/2016">F.Borzumato</persName>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="23/03/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820274r-277r" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>274r-277r</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="title">Homilia s. Fausti episcopi de psalmo centesimo trigesimo secundo</title>
+                  <incipit type="text">Ecce quam bonum [...] Id est divini timoris uno eodemque consensu (cfr. CCSL 104, p. 964)</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Cf. Barrali, Chronologia sanctorum et aliorum virorum [...] s. insulae Lerinensis, I, 315-316.</note>
+                  <name reg="O.S.B.," n="f. 1577-1613" type="person" role="external">Barrali Salerna, Vincenzo,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="08/03/2016">F.Borzumato</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="23/03/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Ab editis in fine differt: M.P.L., 39, 1931-1932; M.P.L., 52, 679-680.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820277r-278v" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>277r-278v</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="title">Sermo CLXXIV</title>
+                  <title type="uniform">De bono pacis, ex evangelio Johannis (Caesarius, s., vesc. di Arles, 470-542)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM12. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="18/05/2013" value="01/08/2013"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Partim editus apud Morin, Revue Bénédictine 1896, 197 sqq.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820278v-284v" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>278v-284v</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="supplied">Sermo CLX B</title>
+                  <title type="uniform">De eo quod scriptum est: Bonus homo de bono thesauro cordis sui profert bona (Caesarius, s., vesc. di Arles, 470-542)</title>
+                  <incipit type="text">Audivimus fratres carissimi, cum evangelium legeretur, dixisse Dominum ad turbas et ad discipulos suos: Bonus homo de bono thesauro</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="O.S.B.," n="1861-1946" type="person" role="external">Morin, Germain,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="08/03/2016">F.Borzumato</persName>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Partim editus sub nomine s. Augustini, Sermo appendicis 272, M.P.L. 39, 2253 sqq.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.098820284v-298v" type="ms">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>284v-298v</locus>
+                  <author rend="s., vesc. di Arles," n="470-542" reg="person" type="internal">Caesarius,</author>
+                  <title type="title">Sermo XXXVI</title>
+                  <title type="uniform">De diligendis inimicis (Caesarius, s., vesc. di Arles, 470-542)</title>
+                  <incipit type="text">In divinis voluminibus, fratres carissimi, ita dispensavit</incipit>
+                  <explicit type="text">quod non exeant inde donec sed</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM29.3. M. Branchi, Lo scriptorium e la biblioteca di Nonantola, Modena 2011, pp. 170-172.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="07/03/2016"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="08/03/2016">F.Borzumato</persName>
+              <persName n="14/02/2017">A.Berloco</persName>
+              <persName n="03/04/2017">A.Berloco</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La bibliografia dei manoscritti,</title>
+          <title type="title" level="u">Metodologie informatiche per il censimento e la documentazione dei manoscritti. Atti dell’incontro internazionale, Roma 18-20 marzo 1991,</title>
+          <author reg="person">Palma, Marco</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1993</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">125-150.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.09882zzzzz" type="bib">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>S.Laudoni</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="10/02/2014">A.Cantarella</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Per la storia delle segnature dei manoscritti sessoriani,</title>
+          <author reg="person">Trasselli, Franca</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1992</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Nuovi annali della Scuola speciale per archivisti e bibliotecari</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">6 (1992) 69, 87, tav. 1.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.09882zzzzz" type="bib">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>S.Laudoni</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Manoscritti sessoriani dispersi,</title>
+          <author reg="person">Trasselli, Franca</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1996</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Accademie e biblioteche d’Italia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">64 (1996, 2) 17.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.09882zzzzz" type="bib">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>S.Laudoni</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Alle origini della scrittura beneventana: un sondaggio sulle più antiche testimonianze documentarie e librarie,</title>
+          <title type="title" level="u">Il monachesimo italiano dall’età longobarda all’eà ottoniana (secc. VIII-X). Atti del VII Convegno di studi sull’Italia benedettina, Nonantola (Modena), 10-13 settembre 2003,</title>
+          <author reg="person">Longo, Valentina</author>
+          <respStmt>
+            <resp>
+              <name type="person">Palma, Marco</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Cesena</pubPlace>
+          <date TEIform="date" value="">2006</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">546-547, 548.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.09882zzzzz" type="bib">Vat.lat.9882</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="24/11/2010"/>
+          <persName>P.Decaro</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il codice del sec. IX di Cesena, Malatestiano S. XXI. 5: le “Etimologiae” di Isidoro, testi minori e glosse di età ottoniana,</title>
+          <author reg="person">Bellettini, Anna</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Italia medioevale e umanistica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">45 (2004) 57.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.09882zzzzz" type="bib">Vat.lat.9882</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="30/11/2010"/>
+          <persName>A.DAtri</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">L’evoluzione del legamento ti nella scrittura protobeneventana (secoli VIII-IX),</title>
+          <title type="title" level="u">La tradition vive. Mélanges d’histoire des textes en l’honneur de Louis Holtz,</title>
+          <author reg="person">Palma, Marco</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Turnhout</pubPlace>
+          <date TEIform="date" value="">2003</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">41.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.09882zzzzz" type="bib">Vat.lat.9882</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="21/02/2012"/>
+          <persName>A.DAscoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Paleografia e codicologia latina,</title>
+          <title type="title" level="u">La Biblioteca Apostolica Vaticana luogo di ricerca al servizio degli studi. Atti del Convegno Roma, 11-13 novembre 2010, a cura di M.Buonocore - A.M.Piazzoni (Studi e testi, 468),</title>
+          <author reg="person">Tristano, Caterina</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2011</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">104.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.09882zzzzz" type="bib">Vat.lat.9882</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="16/01/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Die handschriftliche Überlieferung der Werke des Heiligen Augustinus,</title>
+          <author reg="person">Oberleitner, Manfred</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1969</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Sitzungsberichte der österreichischen Akademie der Wissenschaften. Philosophisch-historische Klasse</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">263 (1969) 387.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.09882zzzzz" type="bib">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), II, Citta' del Vaticano 1986 (Studi e testi, 319).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="26/01/2016"/>
+          <persName>15-16.Miceli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Isidoro de Sevilla y la cultura eclesiástica de la España visigotica,</title>
+          <author reg="person">Robles Carcedo, Laureano</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1970</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Archivos Leoneses. Revista de estudios y documentación de los Reinos Hispano-Occidentales</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">24 (1970) 141-142.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.09882zzzzz" type="bib">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), II, Citta' del Vaticano 1986 (Studi e testi, 319).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="26/01/2016"/>
+          <persName>15-16.Miceli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Sources chrétiennes. Qualques-unes des dernières publications de la série latine,</title>
+          <author rend="sac." reg="person">Manning, Eugène,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1976</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scriptorium</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">30 (1976) 258.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.09882zzzzz" type="bib">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), II, Citta' del Vaticano 1986 (Studi e testi, 319).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="26/01/2016"/>
+          <persName>15-16.Miceli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="03/05/2016">15-16.Siemoni</persName>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">A Second New List of Beneventan Manuscripts,</title>
+          <author reg="person">Brown, Virginia, 1940-2009</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1978</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Mediaeval Studies</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">40 (1978) 289.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.09882zzzzz" type="bib">Vat.lat.9882</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), II, Citta' del Vaticano 1986 (Studi e testi, 319).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.9882</ptr>
+        <creation>
+          <date TEIform="date" value="26/01/2016"/>
+          <persName>15-16.Miceli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

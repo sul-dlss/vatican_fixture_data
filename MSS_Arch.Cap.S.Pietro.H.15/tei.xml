@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.000150000" type="ms">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <heraldry>stemma del cardinale Giordano Orsini (m. 1438), posizionato al centro del margine inferiore a f. 2r.</heraldry>
+                <scriptTerm>gotica</scriptTerm>
+              </head>
+              <msContents>
+                <p>Tebaide.</p>
+                <msItem>
+                  <author n="c. 40-c. 96" reg="person" type="internal">Statius, Publius Papinius, </author>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, I, p. 41-42; Vedere i classici, p. 349-353.</bibl>
+                  <name reg="card.," n="m. 1438" type="person" role="owner">Orsini, Giordano,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia settentrionale</region>
+                    <settlement>Bologna</settlement>
+                  </origPlace>
+                  <origDate notAfter="1425" notBefore="1401">sec. XV in</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>348</height>
+                  <width>233</width>
+                </dimensions>
+                <extent>I. 168</extent>
+                <collation>
+                  <p>17 fascicoli: 1-17 quinioni (ff. 1-9 [-1], 10-19, 20-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-89, 90-99, 100-109, 110-119, 120-129, 130-139, 140-149, 150-159, 160-168 [-1]).</p>
+                </collation>
+                <layout>
+                  <p> colonna unica; rr. 31 /ll. 30; mm 174x90; rigatura a colore. </p>
+                </layout>
+                <msWriting>
+                  <p>copista unico che si sottoscrive a f. 168v: “Statii Surculi Papinii Tholosani poete Anno domini Millesimo CCC quadrigritesimo secundo. Octobris luce Vndecima Thebaydos peractus est liber per me Iohannem Bertum de Foroiulii tunc temporis Bononie studentem. Laus tibi Christie”; glosse marginali e interlineari in inchiostro bruno coeve alla stesura del codice.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>1 pagina d’incipit miniata: miniatura tabellare incorniciata nei margine da un tralcio d’acanto realizzato con una gamma coloristica basata sul rosso, azzurro, rosa, verde e foglia d’oro che si sviluppa da un’ iniziale con figura che apre il testo, dal corpo rosa chiaro su un fondo azzurro ornato da filettature in biacca inscritta in un riquadro in foglia d’oro, il margine inferiore ospita al centro lo stemma della famiglia Orsini che poggia su un paesaggio abitato da una ricca vegetazione, da cui si sviluppano girali d’acanto variopinti e arricchiti da dischetti dorati; 11 iniziali istoriate (ff. 14v, 27r, 39v, 54r, 67r, 93r, 97v, 110v, 126r, 142r, 155r); 11 iniziali ornate (ff. 14r, 27r, 39v, 54r, 67r, 93r, 97r, 110r, 125v, 141v, 154v); numerose iniziali filigranate con corpo in foglia d’oro e filigrana blu e blu con filigrana rossa.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>su assi di legno con coperta in cuoio; doppia cornice con tripla filettatura impressa a secco che segue il perimetro dei piatti, al centro è impresso l’emblema papale con la tiara e le chiavi decussate; dorso a quattro nervi con decorazioni a secco dell’emblema papale e sul penultimo tassello è ancora apposta l’antica etichetta con il titolo dell’opera; sovraccoperta in cartoncino rosso scuro.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>manuale, a cifre arabe in inchiostro bruno, sul margine superiore esterno.</p>
+                </foliation>
+                <condition>
+                  <p>buono; numerose macchie di umidità, soprattutto nei primi e negli ultimi fascicoli, grana follicolare visibile sul lato pelo.</p>
+                </condition>
+                <catchwords>costanti, in inchiostro bruno, posizionati orizzontalmente al centro del margine inferiore.</catchwords>
+              </physDesc>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="11/04/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.000150001r" type="ms">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r</locus>
+                  <title type="supplied">Accessus in Statii Thebaida</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="11/04/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.000150001v" type="ms">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1v</locus>
+                  <title type="supplied">Argumentum generale in Thebaida</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="11/04/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/04/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.000150002r-168v" type="ms">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>2r-168v</locus>
+                  <author n="c. 40-c. 96" reg="person" type="internal">Statius, Publius Papinius, </author>
+                  <title type="supplied">Thebais</title>
+                  <title type="uniform">Thebais (Statius, Publius Papinius, c. 40-c. 96)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">lib. I-XII preceduti da Argumenta (ff. 1v-168v)</note>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="11/04/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Boccaccio’s Glosses on Statius, </title>
+          <author n="1952-" reg="person">Anderson, David</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi sul Boccaccio</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">22 (1994) 129.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.00015zzzzz" type="bib">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="17/03/2009"/>
+          <persName>G.Piperno</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/11/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="12/11/2014">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Dopo Costanza: classici e umanisti, </title>
+          <title type="title" level="u">Alle origini della nuova Roma. Martino V (1417-1431). Atti del convegno, Roma 2-5 marzo 1992,</title>
+          <author reg="person">Bianca, Concetta</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1992</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">99.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.00015zzzzz" type="bib">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="17/03/2009"/>
+          <persName>G.Piperno</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/11/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="12/11/2014">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Iohannes Bertus e la “Tebaide” di Stazio,</title>
+          <author n="1954-" reg="person">Buonocore, Marco, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1997</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Aevum. Rassegna di scienze storiche, linguistiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">71 (1997) 417-421.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.00015zzzzz" type="bib">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="17/03/2009"/>
+          <persName>G.Piperno</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/11/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="12/11/2014">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Weiteres zu den „Thebais“-Argumenta,</title>
+          <author n="1958-" reg="person">Jakobi, Rainer, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Hermes. Zeitschrift für klassische Philologie</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">128 (2000) 251.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.00015zzzzz" type="bib">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="17/03/2009"/>
+          <persName>G.Piperno</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/11/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="12/11/2014">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Magna questio preposita coram Dante et domino Francisco Petrarca et Virgiliano,</title>
+          <author reg="person">De Angelis, Violetta </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi petrarcheschi</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">1 (1984) 201.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.00015zzzzz" type="bib">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="11/03/2010"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/11/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="12/11/2014">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Alte und neue metrische Argumente zum ersten Buch von Statius' Thebais,</title>
+          <author n="1958-" reg="person">Jakobi, Rainer, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1989</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Hermes. Zeitschrift für klassische Philologie</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">117 (1989) 243.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.00015zzzzz" type="bib">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="07/12/2010"/>
+          <persName>A.DAtri</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/11/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="12/11/2014">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Maestro del Messale Orsini,</title>
+          <title type="title" level="u">Dizionario biografico dei miniatori italiani. Secoli IX-XVI, a cura di M. Bollati,</title>
+          <author reg="person">Medica, Massimo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">633.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.00015zzzzz" type="bib">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="25/02/2014"/>
+          <persName>T.DiStefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/11/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="12/11/2014">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I libri scolastici,</title>
+          <title type="title" level="u">I libri dei patriarchi. Un percorso nella cultura scritta del Friuli meridionale, a cura di Cesare Scalon,</title>
+          <author reg="person">Pani, Laura</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Udine</pubPlace>
+          <date TEIform="date" value="">2014</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">236.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.00015zzzzz" type="bib">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="17/06/2014"/>
+          <persName>L.Annicelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/11/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="12/11/2014">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I libri dei patriarchi. Un percorso nella cultura scritta del Friuli meridionale,</title>
+          <author reg="person">Scalon, Cesare</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Udine</pubPlace>
+          <date TEIform="date" value="">2014</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">XIII.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.00015zzzzz" type="bib">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="17/06/2014"/>
+          <persName>L.Annicelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/11/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="12/11/2014">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Stazio, Thebais,</title>
+          <title type="title" level="u">I libri dei patriarchi. Un percorso nella cultura scritta del Friuli meridionale, a cura di Cesare Scalon,</title>
+          <author reg="person">Pani, Laura</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Udine</pubPlace>
+          <date TEIform="date" value="">2014</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">245-246*: 245(fig.), 246 (fig.).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Arch.Cap.S.Pietro." rend="Arch.Cap.S.Pietro.H.00015zzzzz" type="bib">Arch.Cap.S.Pietro.H.15</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.15</ptr>
+        <creation>
+          <date TEIform="date" value="17/06/2014"/>
+          <persName>L.Annicelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/11/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="12/11/2014">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

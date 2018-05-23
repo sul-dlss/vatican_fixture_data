@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.002210000" type="ms">Barb.gr.221</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <watermarks>
+                  <p>In parte 1, insigne officinae chartariae unum: flos in anulo (Briquet 6706, a. 1496); in parte 2 nullum insigne officinae chartariae apparet; in parte 3: arcuballista in circulo (cf. Briquet 743, a. 1501) et trutina in circulo, addito flore (cf. Briquet 2554, a. 1449); in parte 4: flos (Briquet 6659) et aquila (cf. Briquet 82) finis saeculi XV; in parte 5: trutina in circulo, stella superposita (cf. Briquet 2578 vel 2584); in parte 6: aquila (cf. Briquet 89, a. 1501). Officin. chartar. insigne partis 1 (flos in anulo) in parte 5 etiam occurrit.</p>
+                </watermarks>
+              </head>
+              <msContents>
+                <msItem>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Codex efficitur sex partibus in unum conflatis.</note>
+                  <note type="note">In integumenti operculi prioris facie interna, notae antiquae, scil. "N. CXXXVII" et in schedula chartacea "137", supra aliam notam atramento rubro scriptam. Inferius: "II. 42.".</note>
+                  <name n="sec. XV" type="person" role="scribe">Moschus, Demetrius,</name>
+                  <name reg="di Corfù," n="sec. XV" type="person">Eparchus, Nicolaus,</name>
+                  <name n="sec. XV" type="person" role="scribe">Hypselas, Petrus,</name>
+                  <origDate notAfter="1525" notBefore="1476">sec. XV-XVI</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>chart.</p>
+                </support>
+                <dimensions>
+                  <height>290</height>
+                  <width>210</width>
+                </dimensions>
+                <extent>ff. 153</extent>
+                <collation>
+                  <p>1. Prima pars (ff. I. 1-46) efficitur sex quaternionibus, quorum ab ultimo folium unum avulsum est. 2. Secunda pars (ff. 48-54.47): unus quaternio [f. 47 agglutinato]; f. 55 videtur vestigium esse fasciculi alius. 3. Tertia pars (ff. 56-71) efficitur uno quinione (ff. 56-65) et uno quaternione cuius folium unum avulsum est. 4. Quarta pars (ff. 73-101) cuius ordinem antiquum foliorum difficile est restituere, efficitur quaternione (ff. 73-80) a quo folium primum avulsum est, et altero quaternione (ff. 81-88); reliqua folia nescio quomodo restituenda sint. 5. Quinta pars (ff. 102-145) efficitur quattuor quaternionibus (ff. 102-133) et uno senione (ff. 134-145). 6. Sexta pars (ff. 146-153) efficitur uno quinione a quo duo ultima folia avulsa sunt.</p>
+                </collation>
+                <msWriting>
+                  <p>Folium 55 a scriba partis 1 exaratum ad hanc partem olim pertinuisse puto. Scriba partis 2 a priore diversus &lt;Demetrius Moschus&gt; est, de quo v. d. E. Gamillscheg me recte monuit. Partem 3 tres librarii (quorum primus est &lt;Demetrius Moschus&gt;, tertius vero &lt;Nicolaus Eparchus&gt;: v. P. Krafft, "Die handschriftliche Überlieferung von Cornutus ̓Theologia Graeca" ("Bibl. der klass. Altertumswiss.", N.F. 2, 57), Heidelberg, 1975, pp. 148-154 et P. Canart in "Gnomon" 51, 1979, p. 386); unaquaeque pars 4, 5 et 6 ab uno librario scripta est. Partis 5 scriba is est qui partem 1 transcripsit. Partem 6 exaravit &lt;Petrus Hypselas&gt;, quod id. Gamillscheg recte vidit. Vacua sunt ff. 43r-46v. 55v. 71v-72v. 77r -80v. 144v-145v. 151v-153v.</p>
+                </msWriting>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>Integumentum chartaceum cuius in dorso legi possunt "42", "137" et "143" (atramento rubro). Acies codicis subviridis.</p>
+                    </decoNote>
+                    <p>Chart.</p>
+                  </binding>
+                </bindingDesc>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Mogenet, Codices Barberiniani Graeci, in Bibliotheca Vaticana 1989, v. 2, pp. 65-67, 161-162.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.221</ptr>
+        <creation>
+          <date TEIform="date" value="22/09/2015"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">23/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/09/2015">D.Lionetti</persName>
+              <persName n="22/09/2015">D.Lionetti</persName>
+              <persName n="23/09/2015">D.Lionetti</persName>
+              <persName n="24/09/2015">D.Lionetti</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>C.G. Kühn, "Claudii Galeni opera omnia", IX, Lipsiae, 1825, pp. 769-941.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.002210001r-42v" type="ms">Barb.gr.221</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-42v</locus>
+                  <author n="129-199" reg="person" type="internal">Galenus, Claudius,</author>
+                  <title type="supplied">De diebus decretoriis libri III</title>
+                  <title type="uniform">De diebus decretoriis (Galenus, Claudius, 129-199)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Galeni De diebus decretoriis libri tres: 1 (ff. 1r-18v) lib. I cuius index capitulorum praemittitur; 2 (ff. 18v-32v) lib. II; 3 (ff. 33r-42v) lib. III. In marg., praesertim libri III, annotationes nonnullae.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Mogenet, Codices Barberiniani Graeci, in Bibliotheca Vaticana 1989, v. 2, p. 65.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.221</ptr>
+        <creation>
+          <date TEIform="date" value="22/09/2015"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">24/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="24/09/2015">D.Lionetti</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>&lt;De diebus decretoriis&gt; (C.G. Kühn, "Medicorum graecorum quae exstant", Lipsiae, 1825, t. IX, p. 792, lin. 6-p. 796, lin. 2). &lt;De crisibus&gt; (Kühn, IX, p. 766, lin. 8  ὑποχόνδριον - p. 768). De diebus decretoriis lib. I (Kühn, IX, p. 769-792, lin. 6). &lt;De crisibus&gt; libri III finis (Kühn, IX, p. 767, lin. 13 τε καὶ κοινὰ τρόπων - p. 768).</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.002210047r-v. 49r-54v" type="ms">Barb.gr.221</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>47r-v. 49r-54v</locus>
+                  <author n="129-199" reg="person" type="internal">Galenus, Claudius,</author>
+                  <title type="supplied">De diebus decretoriis (fragmenta)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Galeni fragmenta: F. 47r-v: &lt;De diebus decretoriis&gt; inc. mut. δ ̓αὐτῶν ἐστιν ἐνάτη τε καὶ ἐνδεκάτη, des. κατακλίσεως μὲν ἀρχὴν εἶναι; Ff. 49r-54v: I, in fine mut.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Mogenet, Codices Barberiniani Graeci, in Bibliotheca Vaticana 1989, v. 2, pp. 65-66.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.221</ptr>
+        <creation>
+          <date TEIform="date" value="22/09/2015"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/12/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="24/09/2015">D.Lionetti</persName>
+              <persName n="24/09/2015">D.Lionetti</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="14/12/2016">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>&lt;De diebus decretoriis&gt; (C.G. Kühn, "Medicorum graecorum quae exstant", Lipsiae, 1825, t. IX, p. 792, lin. 6-p. 796, lin. 2). &lt;De crisibus&gt; (Kühn, IX, p. 766, lin. 8  ὑποχόνδριον - p. 768). De diebus decretoriis lib. I (Kühn, IX, p. 769-792, lin. 6). &lt;De crisibus&gt; libri III finis (Kühn, IX, p. 767, lin. 13 τε καὶ κοινὰ τρόπων - p. 768).</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.002210048r-v. 55r" type="ms">Barb.gr.221</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>48r-v. 55r</locus>
+                  <author n="129-199" reg="person" type="internal">Galenus, Claudius,</author>
+                  <title type="supplied">De crisibus libri III (fragmenta)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Galeni fragmenta: F. 48r-v, &lt;De crisibus&gt; lib. III fragmentum; F. 55r, &lt;De crisibus&gt; libri III finis.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Mogenet, Codices Barberiniani Graeci, in Bibliotheca Vaticana 1989, v. 2, pp. 65-66.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.221</ptr>
+        <creation>
+          <date TEIform="date" value="24/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/12/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/12/2016">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>C. Lang, Lipsiae, Teubneriana, 1881, p. 1-74, lin. 14, ἐπονομάζεται δὲ ἐπὶ (sic).</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.002210056r-71r" type="ms">Barb.gr.221</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>56r-71r</locus>
+                  <author n="sec. I" reg="person" type="internal">Cornutus, Lucius Annaeus,</author>
+                  <title type="supplied">De natura deorum</title>
+                  <title type="uniform">De natura deorum (Cornutus, Lucius Annaeus, sec. I)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">(Ff. 56r-71r) Cornuti (Φουρνούτου cod.) De natura deorum. Post finem, manus posterior scripsit τέλος. μηδὲν λείπει.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Mogenet, Codices Barberiniani Graeci, in Bibliotheca Vaticana 1989, v. 2, p. 66.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.221</ptr>
+        <creation>
+          <date TEIform="date" value="22/09/2015"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">24/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="24/09/2015">D.Lionetti</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Quomodo adulator ab amico internoscatur (G. N. Bernardakis, "Plutarchi Chaeronensis Moralia", I, Lipsiae, Teubneriana, 1888, pp. 118-180). De curiositate (Bernardakis, t. Ill, Lipsiae, 1891, pp. 334-354).</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.002210073r. 90r. 94r. 91r. 92r. 95r-101v. 89r. 93r. 81r-85v" type="ms">Barb.gr.221</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>73r. 90r. 94r. 91r. 92r. 95r-101v. 89r. 93r. 81r-85v</locus>
+                  <author n="c. 50-127" reg="person" type="internal">Plutarchus,</author>
+                  <title type="supplied">Quomodo adulator ab amico internoscatur</title>
+                  <title type="uniform">Quomodo adulator ab amico internoscatur (Plutarchus, c. 50-127)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Mogenet, Codices Barberiniani Graeci, in Bibliotheca Vaticana 1989, v. 2, p. 66.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.221</ptr>
+        <creation>
+          <date TEIform="date" value="22/09/2015"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">24/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="24/09/2015">D.Lionetti</persName>
+              <persName n="24/09/2015">D.Lionetti</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Quomodo adulator ab amico internoscatur (G. N. Bernardakis, "Plutarchi Chaeronensis Moralia", I, Lipsiae, Teubneriana, 1888, pp. 118-180). De curiositate (Bernardakis, t. Ill, Lipsiae, 1891, pp. 334-354).</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.002210085v-88r. 74r-76v" type="ms">Barb.gr.221</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>85v-88r. 74r-76v</locus>
+                  <author n="c. 50-127" reg="person" type="internal">Plutarchus,</author>
+                  <title type="supplied">De curiositate</title>
+                  <title type="uniform">De curiositate (Plutarchus, c. 50-127)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Mogenet, Codices Barberiniani Graeci, in Bibliotheca Vaticana 1989, v. 2, p. 66.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.221</ptr>
+        <creation>
+          <date TEIform="date" value="24/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>De feminino genere (Pars media huius textus edita est in libro qui inscribitur "Thesaurus Cornucopiae et Hortus Adonidis", Venetiae, 1496, ff. 267v-268v, incipiens πῶς (ὡς in codice nostro, f. 111r, lin. 14), λέγει ὁ Θεοδόσιος κλίνεσθαι, desinens vero ἡ διάφορος κλίσις τῶν διαλέκτων (in codice nostro f. 112r, lin. 17)). Compilatio de verbo(edita in "Thesauro Cornucopiae ..." , ff. 189r-201v, ubi tamen textus valde differt).</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.002210102r-144r" type="ms">Barb.gr.221</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>102r-144r</locus>
+                  <title type="supplied">Miscellanea grammatica</title>
+                  <title type="uniform">Peri paragōgōn genikōn apo dialektōn (Herodianus, Aelius, sec. II)</title>
+                  <summary>I: (ff. 102r-110v) Herodiani* De derivatione genitivorum. II: (ff. 110v-113r) De feminino genere. III: (ff. 113r-115r) De neutro genere. IV: (f. 115r-v)  De accentibus. V: (ff. 115v-122r) De accentibus casuum. VI: (ff. 122r-144r) Compilatio de verbo.</summary>
+                  <incipit>II: Ποίων χρόνων εἰσὶ δεκτικὰ τὰ εἰς α̅ λήγοντα</incipit>
+                  <incipit>III: Πότερον τὰ οὐδέτερα τρίτον γένος</incipit>
+                  <incipit>IV: Διὰ τί τὸ εἰς ᾶς και μιᾶς</incipit>
+                  <incipit>V: Πόθεν τὸ ἧος λέγει ὁ Ἡρωδιανός</incipit>
+                  <incipit>VI: Τί ἐστι ῥήμα; μέρος λόγου</incipit>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Miscellanea grammatica: 1 (ff. 102r-110v) Herodiani* De derivatione genitivorum, Ἡρωδιανοῦ περὶ παραγωγεῶν (sic) γενικῶν cod. Partem primam huius textus edidit J.A. Cramer, "Anecdota graeca", III, Oxonii, 1836, pp. 228-236, ex cod. Bodleiano Barocciano 76, ff. 284 ss.: ibi textus desinit ἀπὸ τῆς ἰδίας εὐθείας κειμένης παρὰ, i.e. codicis nostri f. 105v, lin. 5. Textus autem noster plenior editione pergit τὸ ῥόθος οἷον δὶς διὸς, des. φὰψ φαβὸς εἶδος περιστερὰς (sic pro περιστερᾶς); 2 (ff. 110v-113r) De feminino genere, Ἀρχὴ τῶν θηλυκῶν κανόνων cod., des. παραλήγεται ἡ δὲ ἕως βραχεῖα; 3 (ff. 113r-115r) De neutro genere, Περὶ οὐδετέρων cod., des. (f. 115r, lin. 15) ὡς ἀπὸ τοῦ οὔας γιγνόμενον. Animadverte textus citari Aristophanis (f. 113v, lin. 2 ab imo), Crobyli (f. 114r, lin. 9 ab imo) et Theophrasti (f. 114r, lin. 7 ab imo); 4 (f. 115r-v) pauca, sine titulo, de accentibus: des. οἷον Ξενοφῶν Ξενοφῶντος; 5 (ff. 115v-122r) De accentibus casuum; primi capituli titulus Περὶ τόνου τῆς εὐθείας, des. οἱ λεώ, τοὺς λεώς; 6 (ff. 122r-144r) Compilatio de verbo, Παρεκβολαί τοῦ μεγάλου ῥήματος cod.</note>
+                  <name n="sec. II" type="person" role="internal">Herodianus, Aelius,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Mogenet, Codices Barberiniani Graeci, in Bibliotheca Vaticana 1989, v. 2, p. 66.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.221</ptr>
+        <creation>
+          <date TEIform="date" value="22/09/2015"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/12/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="24/09/2015">D.Lionetti</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+              <persName n="25/11/2016">A.Berloco</persName>
+              <persName n="14/12/2016">A.Berloco</persName>
+              <persName n="14/12/2016">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.002210146r-151r" type="ms">Barb.gr.221</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>146r-151r</locus>
+                  <author n="c. 465-395 a.C." reg="person" type="internal">Thucydides,</author>
+                  <title type="supplied">Historiae (excerpta)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Thucydidis fragmenta: 1 (f. 146r) Oratio Archidami (II, 11);
+2 (ff. 146r-148r, lin. 20) Oratio Periclis (II, 35-46); 3 (ff. 148r, lin. 21-150r, lin. 12), Oratio Periclis (II, 60-65, 1); 4 (ff. 150r-151r) Oratio Plataeensium (II, 71-7-5, 1: des. ἐς πόλιμον τὸν στρατόν).</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Mogenet, Codices Barberiniani Graeci, in Bibliotheca Vaticana 1989, v. 2, p. 67.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.221</ptr>
+        <creation>
+          <date TEIform="date" value="22/09/2015"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/12/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="23/09/2015">D.Lionetti</persName>
+              <persName n="24/09/2015">D.Lionetti</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+              <persName n="25/11/2016">A.Berloco</persName>
+              <persName n="14/12/2016">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il punto su Demetrio Mosco,</title>
+          <author reg="person">Formentin, Maria Rosa</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bollettino della Badia greca di Grottaferrata</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">52 (1998) 237, 253*, tav. 2.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.00221zzzzz" type="bib">Barb.gr.221</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.221</ptr>
+        <creation>
+          <date TEIform="date" value="24/11/2009"/>
+          <persName>F.Deruvo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">23/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Janus Lascaris copiste et ses livres,</title>
+          <title type="title" level="u">I manoscritti greci tra riflessione e dibattito. Atti del V Colloquio Internazionale di Paleografia Greca (Cremona 4-10 ott. 1998),</title>
+          <author reg="person">Mondrain, Brigitte</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">423.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.00221zzzzz" type="bib">Barb.gr.221</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.221</ptr>
+        <creation>
+          <date TEIform="date" value="24/11/2009"/>
+          <persName>F.Deruvo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">23/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Un nuovo codice di ‘Giovanni di Corone’: lo Strabone Laur. Plut. 28. 40, </title>
+          <author reg="person">Speranzi, David</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2005</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Medioevo e Rinascimento</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">19 / n.s. 16 (2005) 70.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.00221zzzzz" type="bib">Barb.gr.221</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.221</ptr>
+        <creation>
+          <date TEIform="date" value="23/02/2010"/>
+          <persName>R.Pazzini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">23/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Additions et corrections au Repertorium der griechischen Kopisten 800-1600, 3,</title>
+          <title type="title" level="u">Vaticana et medievalia, études en l’honneur de Louis Duval-Arnould,</title>
+          <author rend="sac., " n="1927- " reg="person">Canart, Paul, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">60.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.gr." rend="Barb.gr.00221zzzzz" type="bib">Barb.gr.221</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.gr.221</ptr>
+        <creation>
+          <date TEIform="date" value="29/08/2011"/>
+          <persName>P.Decaro</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">23/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

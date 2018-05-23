@@ -1,0 +1,2477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040000" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>gotica del tipo rotunda</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <author n="5/4 a.C.-65 d.C." reg="person" type="internal">Seneca, Lucius Annaeus,</author>
+                  <title type="supplied">Opere</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, II.2 p. 471-474; Codici Rossiani miniati, I.2 p. 986-997.</bibl>
+                  <name n="c. 310-395." rend="Opere spurie e dubbie" type="person" role="internal">Ausonius, Decimus Magnus,</name>
+                  <name reg="s., vesc. di Toledo," n="m. 657" type="person" role="internal">Eugenius,</name>
+                  <name n="sec. I a.C." type="person" role="internal">Publilius Syrus,</name>
+                  <name n="1800-1854" type="person" role="owner">De Rossi, Giovanni Francesco,</name>
+                  <name reg="card.," n="1400-1458" type="person" role="owner">Capranica, Domenico,</name>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                  <name n="1954-" type="person" role="external">Buonocore, Marco, </name>
+                  <name type="person" role="external">Maddalo, Silvia</name>
+                  <name type="person" role="external">Ponzi, Eva</name>
+                  <name type="person" role="external">Torquati, Michela</name>
+                  <name type="person">Derolez, Albert</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia settentrionale</region>
+                    <settlement>area bolognese</settlement>
+                  </origPlace>
+                  <origDate notAfter="1400" notBefore="1376">sec. XIV ex</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>410</height>
+                  <width>275</width>
+                </dimensions>
+                <extent>VI. 299. VI</extent>
+                <collation>
+                  <p>30 fascicoli: 1-7 quinioni (ff. 1-10, 11-20, 21-30, 31-40, 41-50, 51-60, 61-70); 8 quaternione (ff. 71-78); 9-30 quinioni (ff. 79-88, 89-98, 99-108, 109-118, 119-128, 129-138, 139-148, 149-158, 159-168, 169-178, 179-188, 189-198, 199-208, 209-218, 219-228, 229-238, 239-248, 249-258, 259-268, 269-278, 279-288, 289-299); bianchi i ff. 59v-60v, 218v; i fogli di guardia sono tutti cartacei, il primo e l'ultimo sono in cartoncino azzurro come le controguardie anteriore e posteriore.</p>
+                </collation>
+                <layout>
+                  <p>a unica colonna (ff. 1r-59r, mm 232×90) di 38/39 ll./rr.; su due colonne (ff. 61r-299v, mm 240×174, spazio intercolonnare mm 21) di 39/40 ll./rr.; rigatura alla mina ben visibile su entrambi i lati del foglio (non presente in Derolez il primo schema, tipo 41 il secondo).</p>
+                </layout>
+                <msWriting>
+                  <p>probabilmente più di un copista.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>46 iniziali maggiori istoriate (ff. 1r, 9r, 14v, 21r, 27v, 31v, 36r, 43r, 47r, 51v, 61r, 63v, 67v, 73v, 79r, 85v, 96v, 100r, 104r, 106v, 111r, 118v, 126v, 136r, 143v, 152v, 160r, 169v, 180r, 189r, 200r, 209r, 219r, 228r, 242v, 247r, 253v, 264r, 274r, 282r, 282v, 284v, 295v, 296r, 296v, 298v; mm 40x37, media), su fondo in foglia d’oro e corpo in policromia (blu, verde, rosa); numerose iniziali medie filigranate in rosso e in blu con filigrana del colore opposto; segni di paragrafo alternativamente in rosso e in blu; incipit ed explicit rubricati.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>in marocchino bruno su assi di cartone, in piena pelle con filettature dorate nei piatti esterni e nel dorso, realizzata per volontà di Giovanni Francesco de Rossi (1796-1854).</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>manuale antica, a inchiostro bruno in cifre arabiche, in alto a destra, con salto di numerazione da f. 289 a f. 291.</p>
+                </foliation>
+                <condition>
+                  <p>buono, sebbene la pergamena risulti spesso ingiallita; sporadiche macchie di umidità; in alcuni dei margini si notano fori di tarli.</p>
+                </condition>
+                <signatures>alfanumeriche a colore, in basso a destra sul recto dei fogli, spesso visibili (es. ff. 51-52).</signatures>
+                <catchwords>costanti sul verso, a inchiostro in basso a destra, in prossimità della cucitura (ff. 1-69); al centro del margine inferiore (da f. 70v fino alla fine del manoscritto), ma assente nel fascicolo 8.</catchwords>
+              </physDesc>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="14/12/2016"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">03/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/12/2016">E.Ponzi</persName>
+              <persName n="25/01/2017">E.Ponzi</persName>
+              <persName n="26/01/2017">E.Ponzi</persName>
+              <persName n="02/02/2017">E.Ponzi</persName>
+              <persName n="06/02/2017">E.Ponzi</persName>
+              <persName n="06/03/2017">E.Ponzi</persName>
+              <persName n="12/05/2017">E.Ponzi</persName>
+              <persName n="03/07/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Annaeus Seneca, Oratorum et rhetorum. Sententiae, divisiones, colores, ed. A. Kiessling, Leipzig 1872, p. 230-291.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040001r-59r" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-59r</locus>
+                  <author n="c. 55 a.C.-c. 35/39 d.C." reg="person" type="internal">Seneca, Lucius Annaeus, il retore,</author>
+                  <title type="supplied">Excerpta controversiarum</title>
+                  <title type="uniform">Controversiae (Seneca, Lucius Annaeus, il retore, c. 55 a.C.-c. 35/39 d.C.). Gruppi, scelte</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1837-1892" type="person" role="external">Kiessling, Adolf Gottlieb,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">E.Ponzi</persName>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>L. Annaeii Senecae Opera quae supersunt supplementum, ed. F. Haase, Leipzig 1902, pp. 44-55.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040061r-63r" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>61r-63r</locus>
+                  <author n="5/4 a.C.-65 d.C." reg="person" type="internal">Seneca, Lucius Annaeus,</author>
+                  <title type="title">De remediis fortuitorum</title>
+                  <title type="uniform">De remediis fortuitorum (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1808-1867" type="person" role="external">Haase, Friedrich,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Decimus Magnus Ausonius Burdingalensis, Opuscula, ed. R. Peiper, Leipzig 1886, p. 407-408.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040063r-v" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>63r-v</locus>
+                  <author n="c. 310-395." key="Opere spurie e dubbie" reg="person" type="internal">Ausonius, Decimus Magnus,</author>
+                  <title type="supplied">Septem sapientum sententiae (III-VII)</title>
+                  <title type="uniform">Septem sapientium sententiae septenis versibus explicatae (Ausonius, Decimus Magnus, c. 310-395. Opere spurie e dubbie)</title>
+                  <incipit>quanto plus liceat tam libeat minus […] (Manuscrits classiques, II.2 p. 471).</incipit>
+                  <explicit>[…] Nil nimium satis est nescit et hoc nimium (Manuscrits classiques, II.2 p. 471).</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1834-1898" type="person" role="external">Peiper, Rudolf, </name>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Eugenius Toletanus, Opera omnia, ed. P.F. Alberto, Turnhout 2005 (Corpus Christianorum Series Latina, 114).</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040063v" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>63v</locus>
+                  <author rend="s., vesc. di Toledo," n="m. 657" reg="person" type="internal">Eugenius,</author>
+                  <title type="supplied">Carmina</title>
+                  <title type="uniform">Carmina (Eugenius, s., vesc. di Toledo, m. 657). Gruppi, scelte</title>
+                  <incipit>Qui petit excelsa debet vitare ruinam […] (Manuscrits classiques, II.2 p. 471).</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name type="person" role="external">Alberto, Paulo Farmhouse</name>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Minor Latin Poets, edd. J. Wight Duff, A.M. Duff, I, Cambridge (MA) – London 1982, pp. 3-111.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040063v-67v" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>63v-67v</locus>
+                  <author n="sec. I a.C." reg="person" type="internal">Publilius Syrus,</author>
+                  <title type="supplied">Sententiae</title>
+                  <title type="uniform">Sententiae (Publilius Syrus, sec. I a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1900-" type="person" role="external">Duff, A.M. (Arnold Mackay),</name>
+                  <name n="1866-1944" type="person" role="external">Duff, J. Wight (John Wight),</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+              <persName n="01/02/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>L. Annaeus Seneca, Opera quae supersunt supplementum, ed. F. Haase, Leipzig 1902, pp. 44-55.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040067v(1)" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>67v(1)</locus>
+                  <title type="supplied">De remediis fortuitorum</title>
+                  <title type="uniform">De remediis fortuitorum (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="5/4 a.C.-65 d.C." type="person" role="internal">Seneca, Lucius Annaeus,</name>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                  <name n="1808-1867" type="person" role="external">Haase, Friedrich,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">06/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">E.Ponzi</persName>
+              <persName n="25/01/2017">E.Ponzi</persName>
+              <persName n="06/03/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040067v(2)" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>67v(2)</locus>
+                  <title type="supplied">De nugis philosophorum (fragmenta)</title>
+                  <title type="uniform">De nugis philosophorum (Caecilius, Balbus, sec. II). Fragmenta</title>
+                  <incipit>inc.: Cicero. Nulle sunt occultiores insidie quam […] (Manuscrits classiques, II.2 p. 471).</incipit>
+                  <explicit>[…] quia formam Minerve mentitus est. Explicit. Deo gratias. Amen (Manuscrits classiques, II.2 p. 471).</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                  <name n="sec. II" type="person" role="internal">Caecilius, Balbus,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="06/03/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040067v-68v" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>67v-68v</locus>
+                  <author n="5/4 a.C.-65 d.C." key="Opere spurie e dubbie" reg="person" type="internal">Seneca, Lucius Annaeus,</author>
+                  <title type="supplied">Liber de moribus</title>
+                  <title type="uniform">De moribus (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C. Opere spurie e dubbie)</title>
+                  <incipit>Morieris. Stultum est timere quod vitare non possis (Manuscrits classiques, II.2 p. 471).</incipit>
+                  <explicit>[…] Agnosci amat quod odium ostendit (Manuscrits classiques, II.2 p. 471).</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040068v-69r" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>68v-69r</locus>
+                  <author n="sec. II" reg="person" type="internal">Caecilius, Balbus,</author>
+                  <title type="supplied">De nugis philosophorum</title>
+                  <title type="uniform">De nugis philosophorum (Caecilius, Balbus, sec. II). Fragmenta</title>
+                  <incipit>Nulle sunt occultiores insidie quam he que latent […] (Manuscrits classiques, II.2 p. 471).</incipit>
+                  <explicit>[…] Geminatur peccatum cum delicti non pudet (Manuscrits classiques, II.2 p. 471).</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040069r" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>69r</locus>
+                  <author n="5/4 a.C.-65 d.C." key="Opere spurie e dubbie" reg="person" type="internal">Seneca, Lucius Annaeus,</author>
+                  <title type="supplied">Liber de moribus</title>
+                  <title type="uniform">De moribus (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C. Opere spurie e dubbie)</title>
+                  <incipit>Fugienda sunt omnibus […] (Manuscrits classiques, II.2 p. 472).</incipit>
+                  <explicit>[…] que sola deo homines proximos facit (Manuscrits classiques, II.2 p. 472).</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>L. Annaeus Seneca, Ad Lucilium epistularum moralium quae supersunt, ed. O. Hense, Leipzig 1898.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040069r-v" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>69r-v</locus>
+                  <author n="5/4 a.C.-65 d.C." reg="person" type="internal">Seneca, Lucius Annaeus,</author>
+                  <title type="supplied">Epistulae ad Lucilium</title>
+                  <title type="uniform">Epistulae ad Lucilium (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C.). Gruppi, scelte</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1845-1931" type="person" role="external">Hense, Kurt Otto Friedrich,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">E.Ponzi</persName>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040069v(1)" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>69v(1)</locus>
+                  <title type="supplied">De nugis philosophorum</title>
+                  <title type="uniform">De nugis philosophorum (Caecilius, Balbus, sec. II). Fragmenta</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, II.2 p. 472.</bibl>
+                  <name n="sec. II" type="person" role="internal">Caecilius, Balbus,</name>
+                  <name n="1872-1962" type="person" role="external">Pohlenz, Max,</name>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">06/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">E.Ponzi</persName>
+              <persName n="25/01/2017">E.Ponzi</persName>
+              <persName n="06/03/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M. Tullius Cicero, Scripta quae manserunt omnia. Tusculanae disputationes, ed. M. Pohlenz, Leipzig 1918.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040069v(2)" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>69v(2)</locus>
+                  <title type="supplied">Tusculanae disputationes</title>
+                  <title type="uniform">Tusculanae disputationes (Cicero, Marcus Tullius, 106-43 a.C.). Gruppi, scelte</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, II.2 p. 472.</bibl>
+                  <name n="106-43 a.C." type="person" role="internal">Cicero, Marcus Tullius,</name>
+                  <name n="1872-1962" type="person" role="external">Pohlenz, Max,</name>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="06/03/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040069v-70r" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>69v-70r</locus>
+                  <author n="sec. I a.C." reg="person" type="internal">Publilius Syrus,</author>
+                  <title type="supplied">Sententiae</title>
+                  <title type="uniform">Sententiae (Publilius Syrus, sec. I a.C.)</title>
+                  <incipit>Si dilexeris audire sapiens eris. Sepius utere auribus quam lingua […] (Manuscrits classiques, II.2 p. 472).</incipit>
+                  <explicit>Utinam quod renuntiamus seculo voluntas sit non necessitas. Deo gracias. Amen (Manuscrits classiques, II.2 p. 472).</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040070r-73r" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>70r-73r</locus>
+                  <title type="supplied">Florilegium hieronymianum</title>
+                  <title type="uniform">Florilegium hieronymianum</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, II.2 p. 472.</bibl>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040073v-78v" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>73v-78v</locus>
+                  <author n="5/4 a.C.-65 d.C." key="Opere spurie e dubbie" reg="person" type="internal">Seneca, Lucius Annaeus,</author>
+                  <title type="supplied">De verborum copia</title>
+                  <title type="uniform">De verborum copia (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C. Opere spurie e dubbie)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, II.2 p. 472.</bibl>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>L. Annaeus Seneca, Dialogorum libros XII, ed. E. Hermes, Leipzig 1905, p. 46-150.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040079r-106r" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>79r-106r</locus>
+                  <author n="5/4 a.C.-65 d.C." reg="person" type="internal">Seneca, Lucius Annaeus,</author>
+                  <title type="title">De ira</title>
+                  <title type="uniform">Dialogi (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C.), 3. De ira</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1847-1911" type="person" role="external">Hermes, Emil,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">E.Ponzi</persName>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>L. Annaeus Seneca, De beneficiis libri VII, De clementia libri II, ed. C. Hosius, Leipzig 1900, p. 1-216.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040106r-159v" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>106r-159v</locus>
+                  <author n="5/4 a.C.-65 d.C." reg="person" type="internal">Seneca, Lucius Annaeus,</author>
+                  <title type="title">De beneficiis</title>
+                  <title type="uniform">De beneficiis (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1866-1937" type="person" role="external">Hosius, Carl,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">E.Ponzi</persName>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>L. Annaeus Seneca, Naturalium quaestionum libros, ed. H.M. Hine, Leipzig 1996.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040160r-216r" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>160r-216r</locus>
+                  <author n="5/4 a.C.-65 d.C." reg="person" type="internal">Seneca, Lucius Annaeus,</author>
+                  <title type="title">De naturalibus questionibus</title>
+                  <title type="uniform">Naturales quaestiones (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C.). Gruppi, scelte</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name type="person" role="external">Hine, Harry M.</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040216r-218r" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>216r-218r</locus>
+                  <author n="5/4 a.C.-65 d.C." key="Opere spurie e dubbie" reg="person">Seneca, Lucius Annaeus,</author>
+                  <title type="title">Proverbia</title>
+                  <title type="uniform">Proverbia (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C. Opere spurie e dubbie)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, II.2 p. 473.</bibl>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>L. Annaei Senecae Dialogorum libros XII, ed. E. Hermes, Leipzig 1905.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040219r-282r" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>219r-282r</locus>
+                  <author n="5/4 a.C.-65 d.C." reg="person" type="internal">Seneca, Lucius Annaeus,</author>
+                  <title type="supplied">Dialogi</title>
+                  <title type="uniform">Dialogi (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C.). Gruppi, scelte</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1847-1911" type="person" role="external">Hermes, Emil,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PL 23, coll. 661-662; Clavis Patrum Latinorum [...], Steenbrugis 1995, n. 616.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040282r" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>282r</locus>
+                  <author rend="s.," n="342/347-419" reg="person" type="internal">Hieronymus,</author>
+                  <title type="supplied">Vita Senecae</title>
+                  <title type="uniform">De illustribus viris (Hieronymus, s., 342/347-419). 12, Lucius Annaeus Seneca</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">E.Ponzi</persName>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040282r-284r" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>282r-284r</locus>
+                  <author n="5/4 a.C.-65 d.C." key="Opere spurie e dubbie" reg="person" type="internal">Seneca, Lucius Annaeus,</author>
+                  <title type="supplied">Liber de moribus</title>
+                  <title type="uniform">De moribus (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C. Opere spurie e dubbie)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, II.2 p. 474.</bibl>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>L. Annaeus Seneca, De beneficiis libri VII, De clementia libri II, ed. C. Hosius, Leipzig 1900, 217-259.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040284r-295v" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>284r-295v</locus>
+                  <author n="5/4 a.C.-65 d.C." reg="person" type="internal">Seneca, Lucius Annaeus,</author>
+                  <title type="title">De clementia</title>
+                  <title type="uniform">De clementia (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1866-1937" type="person" role="external">Hosius, Carl,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">E.Ponzi</persName>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>C. Sollius Apollinaris Sidonius, ed. P. Mohr, Leipzig 1895.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040295v-298v" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>295v-298v</locus>
+                  <author n="f. 431-487" reg="person" type="internal">Sidonius, Caius Sollius Apollinaris,</author>
+                  <title type="supplied">Carmen I, Epistula 7 liber V</title>
+                  <title type="uniform">Carmina (Sidonius, Caius Sollius Apollinaris, f. 431-487). 1, Praefatio in panegyricum dictum Anthemio Augusto bis consuli</title>
+                  <title type="uniform">Epistulae (Sidonius, Caius Sollius Apollinaris, f. 431-487). 5.7, Sidonius Thaumasto</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name type="person" role="external">Mohr, Paul</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">E.Ponzi</persName>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>L. Annaeus Seneca, Apocolocyntosis, ed. R. Roncali, Leipzig 1990.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.006040298v-299v" type="ms">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>298v-299v</locus>
+                  <author n="5/4 a.C.-65 d.C." reg="person" type="internal">Seneca, Lucius Annaeus,</author>
+                  <title type="supplied">Apocolocyntosis</title>
+                  <title type="uniform">Apocolocyntosis (Seneca, Lucius Annaeus, 5/4 a.C.-65 d.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name type="person" role="external">Roncali, Renata</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">E.Ponzi</persName>
+              <persName n="25/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I “Seneca vaticani” della biblioteca del Collegio Capranica, </title>
+          <author n="1954-" reg="person">Buonocore, Marco, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace/>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Roma nel Rinascimento</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">(1998) 283, 286-289*, 294-296.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.00604zzzzz" type="bib">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2009"/>
+          <persName>A.Liberatori</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="20/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Per un iter tra i codici di Seneca alla Biblioteca Apostolica Vaticana: primi traguardi, </title>
+          <author n="1954-" reg="person">Buonocore, Marco, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace/>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Giornale italiano di filologia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">52 (2000) 19-20, 23, 24, 25, 26, 27, 28, 29, 30, 76-77.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.00604zzzzz" type="bib">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2009"/>
+          <persName>A.Liberatori</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="20/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La variante testuale in miniatura. Un esempio dalle controuersiae di Seneca Retore: munerarius / numerarius, </title>
+          <author n="1954-" reg="person">Buonocore, Marco, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace/>
+          <date TEIform="date" value="">1998-1999</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Atti della Pontificia Accademia Romana di archeologia, S. III, Rendiconti</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">71 (1998-1999) 193-204* fig. 1-12.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.00604zzzzz" type="bib">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2009"/>
+          <persName>A.Liberatori</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="20/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I miniatori del Vaticano lat. 1645 e del Laurenziano 37.5 (e altri codici bolognesi delle Tragedie di Seneca), </title>
+          <author reg="person">Pasut, Francesca</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace/>
+          <date TEIform="date" value="">1999</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Aevum. Rassegna di scienze storiche, linguistiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">73 (1999) 544.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.00604zzzzz" type="bib">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2009"/>
+          <persName>A.Liberatori</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="20/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Biographies de Sénèque et commentaries des "Epistulae ad Lucilium" (Ve-XVe s.),</title>
+          <author reg="person">Fohlen, Jeannine </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2002</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Italia medioevale e umanistica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">43 (2002) 13*, 32, 89. </note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.00604zzzzz" type="bib">Ross.604</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2010"/>
+          <persName>FR.Lecce</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="20/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Tra i codici miniati del Collegio Capranica,</title>
+          <author n="1954-" reg="person">Buonocore, Marco, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bullettino dell’Istituto Storico Italiano per il medioevo e Archivio Muratoriano</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">110 (2008) 176, 181, fig.1-2.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.00604zzzzz" type="bib">Ross.604</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="17/12/2010"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/01/2011">G.Distefano</persName>
+              <persName n="13/01/2011">G.Distefano</persName>
+              <persName n="19/05/2011">Overwriting System</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="20/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Scriptorium Vaticanum: passato e presente,</title>
+          <title type="title" level="u">Zenit e Nadir II.  I manoscritti dell'area del Mediterraneo: la catalogazione come base della ricerca. Atti del Seminario Internazionale (Montepulciano, 6-8 luglio 2007),</title>
+          <author n="1954-" reg="person">Buonocore, Marco, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Montepulciano </pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">70, fig. 8.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.00604zzzzz" type="bib">Ross.604</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="03/10/2011"/>
+          <persName>E.Licursi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/10/2011">E.Licursi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="20/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La «preistoria» della tradizione recenziore del De clementia: (a proposito di Paris, Bibl. Nat., lat. 15085 e Leipzig, Stadtbibl., Rep. I,4,47),</title>
+          <author reg="person">Malaspina, Ermanno</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2001</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Revue d’histoire des textes</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">31 (2001) 151-160 passim.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.00604zzzzz" type="bib">Ross.604</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="25/10/2011"/>
+          <persName>E.Licursi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="28/03/2014">T.DiStefano</persName>
+              <persName n="20/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Ricerche sulla tradizione medievale del De beneficiis e del De clementia di Seneca. III. Storia della tradizione manoscritta,</title>
+          <author reg="person">Mazzoli, Giancarlo</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1982</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bollettino dei Classici</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">3 (1982) 189, 191, 217.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.00604zzzzz" type="bib">Ross.604</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="12/05/2012"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="20/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Younger Seneca, "Apocolocyntosis",</title>
+          <title type="title" level="u">Texts and Transmission. A Survey of the Latin Classics,</title>
+          <author reg="person">Reynolds, L. D. (Leighton Durham)</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Oxford</pubPlace>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">361.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.00604zzzzz" type="bib">Ross.604</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="12/05/2012"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="20/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Manuscripts of Seneca's Tragedies: a Handlist,</title>
+          <title type="title" level="u">Aufstieg und Niedergang der römischen Welt, Geschichte und Kultur Roms Im Spiegel der neueren Forschung,</title>
+          <author reg="person">MacGregor, Alexander P.</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Berlin</pubPlace>
+          <pubPlace>New York</pubPlace>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">1181.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.00604zzzzz" type="bib">Ross.604</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="12/05/2012"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="20/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Quelques aspects de la tradition manuscrite des «Carmina», d'Eugène de Tolède: du «Liber Catonianus» aux «Actores octo morales»,</title>
+          <author reg="person">Riou, Yves-François</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1972</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Revue d’histoire des textes</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">2 (1972) 43.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.00604zzzzz" type="bib">Ross.604</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.604</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2015"/>
+          <persName>14-15.ManciniMG</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

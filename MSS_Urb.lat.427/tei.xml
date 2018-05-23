@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.004270000" type="ms">Urb.lat.427</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <heraldry>araldica di Federico da Montefeltro: f. 2r, struzzo con cartiglio parlante; ermellino con cartiglio parlante; stemma inquartato, nel I e nel IV d’oro all’aquila di nero coronata nel campo, nel II e nel III bandato d’azzurro e d’oro all’aquila di nero sulla I banda d’oro, caricato di un palo centrale di rosso con triregno e chiavi e accompagnato da FD, sormontato da corona; bombarda rovesciata ed esplodente; scopetta; freni; fiammelle inquartate con iniziali FD.</heraldry>
+                <motto>f. 2r, hic an vordait en grozes ei(…) nel cartiglio dello struzzo; non mai, nel cartiglio dell’ermellino.</motto>
+              </head>
+              <msContents>
+                <p>"In hoc codice continentur libri VII elegantissimi historici Quin(ti) Curtii de gestis Alexandri Magni" (f. 1v).</p>
+                <overview>
+                  <p>Historiae Alexandri Magni.</p>
+                </overview>
+                <msItem>
+                  <author reg="person" type="internal">Curtius Rufus, Quintus</author>
+                  <colophon>Al f. 184r: "Manu Matthaei de Contugiis de Vulterris" (cf. Bénédictins du Bouveret, Colophons de manuscrits occidentaux, IV, p. 167 n. 13405). </colophon>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Stornajolo, Cod. Urb. lat. 1-500, p. 432-433; Manuscrits classiques, II.2, p. 596-597; Martelli, Curtius Rufus, De gestis Alexandri Magni, in Ornatissimo codice, p. 169-173.</bibl>
+                  <name reg="duca d'Urbino," n="1422-1482" type="person" role="owner">Federico da Montefeltro,</name>
+                  <name reg="sac.," n="1849-1923" type="person" role="external">Stornajolo, Cosimo,</name>
+                  <name type="person" role="external">Martelli, Cecilia</name>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name n="f. 1456-1491" type="person" role="scribe">Contugi, Matteo,</name>
+                  <name type="person" role="external">Critelli, Maria Gabriella</name>
+                  <name type="person" role="external">Bonicatti, Maurizio</name>
+                  <name n="1878-1969" type="person" role="external">De Marinis, Tammaro,</name>
+                  <name type="person" role="external">De la Mare, Albinia Catherine</name>
+                  <name reg="card.," n="1812-1889" type="person">Pitra, Jean Baptiste,</name>
+                  <name n="1810-1903" type="person">Leo PP. XIII,</name>
+                  <name type="person" role="external">Derolez, Albert</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <settlement>Urbino</settlement>
+                  </origPlace>
+                  <origDate notAfter="1482" notBefore="1474">sec. XV</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>375</height>
+                  <width>235</width>
+                </dimensions>
+                <extent>176</extent>
+                <collation>
+                  <p>19 fascicoli: 1 bifoglio (f. 1 è solidale alla controguardia), 2-18 quinioni (2-11, 12-21, 22-31, 32-41, 42-51, 52-61, 62-71, 72-81, 82-101 [sic], 102-111, 112-121, 122-131, 132-141, 142-151, 152-161, 162-171, 172-181), 19 ternione (182-186 [-1]). Bianchi i ff. 1r, 184v-185r, 186r-v.</p>
+                </collation>
+                <layout>
+                  <p>Testo a piena pagina; rr. 31/ll. 30, la scrittura inizia sotto la prima riga. Rigatura a secco; prevalentemente del tipo Derolez 33 (ff. 42, 129), ma anche del tipo 32 (es. ff. 9, 29), presenti entrambi anche all'interno dello stesso fascicolo (es. ff. 77 e 81, 143 e 144). Specchio rigato (f. 16r): 375 (40+225+110) x 235 (39+6+114+6+70) mm. Presentano rigatura anche i ff. 184v, 185r, 186r-v. Visibili 8 fori di squadratura in corrispondenza delle righe di giustificazione (es. ff. 52, 118): più spesso sono visibili soltanto i 4 lungo il margine superiore (es. f. 42) o i 4 lungo il margine inferiore (es. f. 27), perché eliminati dalla rifilatura; fori di guida in corrispondenza della giustificazione esterna (es. ff. 24, 112, 152).</p>
+                </layout>
+                <msWriting>
+                  <p>Umanistica di mano di Matteo de' Contugi da Volterra. Copista estremamente elegante, Contugi fu attivo presso le corti di Mantova, Ferrara e Urbino e probabilmente a Firenze. A Urbino è attestato con certezza negli anni 1477-1486, ma potrebbe esservi giunto anche qualche anno prima. Insieme a Federico Veterani fu uno dei copisti più noti e attivi alla corte dei Montefeltro: oltre al presente manoscritto, la sua firma si ritrova in altri 6 codici urbinati, ovvero Urb. lat. 10 (“Manu Matthaei domini herculani de Contugiis de vulterris et caetera”, f. 242r), 324 (“Manu Matthaei domini Herculani de Contugiis de Vulterris”, f. 84r), 336 (“Manu Matthaei de Vulterris”, f. 155r), 365 (“Manu Matthaei de contugiis de vulterris et caetera”, f. 295r), 392 (“Manu Matthaei de vulterris”, f. 264r), 548 (“Manu Matthaei de Contugiis de Vulterris”, f. 329v; per tutte le sue sottoscrizioni cf. Bénédictins de Bouveret, Colophons des manuscrits occidentaux, IV, p. 166-167, nrr. 13398-13408; Derolez, La codicologie des manuscrits, I, p. 151 n. 291), e alla sua mano vanno forse ricondotti anche i codici Urb. lat. 151 e 350 (cf. Bonicatti, Contributo al Giraldi, p. 195-210; Id., Nuovo contributo, p. 259-269; De la Mare, New research, p. 449-450 nota 224). L'ultima data in cui si trova notizia di Contugi è il 1491 (per la sua biografia cf. Critelli, Per la carriera di Matteo Contugi, p. 251-265). Un'unica nota marginale (f. 52r), in inchiostro diverso da quello del testo. Maniculae ai ff. 39r e 181v; notabilia ai ff. 155v e 175r.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>1 antiporta (f. 1v, mm 250x200) costituita da un clipeo laureato (mm 130) carico di frutti e da un listello in lamina metallica aurea, all’interno del quale il contenuto del ms. è segnalato su 7 linee in maiuscola antiquaria in oro (cf. Caldelli, Antiporte e clipei iscritti, p. 218); tutt’intorno si dispone una corona floreale policroma (verde, blu, porpora, giallo) con minuta filigrana a inchiostro bruno, gocce e globi aurei cigliati. 1 pagina di incipit (f. 2r) racchiusa su tutti e quattro i margini da una complessa cornice a bianchi girari su fondo policromo (blu, verde, rosso), abitati da diverse specie ornitologiche, da insetti, da conigli; in foglia d’oro il perimetro esterno e interno, come in lamina metallica aurea è il doppio listello attorno al quale si avviluppano gli intrecci e che non solo presenta lo stilema del nodo, ma in più punti mostra cornici geometriche e clipei con figurazioni di vario tipo e con l’araldica federiciana (dall’alto, in senso orario): struzzo con cartiglio parlante, ritratto di Alessandro Magno, ermellino con cartiglio parlante, agnello, stemma ducale di Federico di Montefeltro post 1474, cerbiatto, bombarda rovesciata ed esplodente, scopetta, freni, fiammelle inquartate con le iniziali FD; la pagina è completata dalla iniziale maggiore accompagnata da scrittura distintiva e dalle quattro linee della rubrica in scrittura capitale. 7 iniziali maggiori di diversa tipologia (mm 56x55, media): 1 (f. 2r) su campo riquadrato in lamina metallica aurea e della stessa tipologia decorativa dell’antiporta, con corpo in foglia d’oro, listelli e nodi in blu, castoni preziosi; 6 (ff. 18v, 50r, 100r, 123r, 149v, 169r) a bianchi girari su fondo policromo (blu, verde, rosso, oro), con corpo in lamina metallica aurea e breve fregio marginale della medesima tipologia decorativa, con gocce e globi aurei cigliati.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>Coperta originale in pelle marrone rossiccio (l'Indice vecchio la definisce "in rubro"), su assi di legno, con ricche decorazioni a secco, cornici di architetti gotici e un'altra di palmette, rettangolo d'interlazzi (cf. De Marinis, La legatura artistica, I, p. 88 n. 979). Dorso a 5 compartimenti, delimitati da 4 doppi nervi; nel primo compartimento segnatura a penna “427”. I 4 fermagli sono andati perduti: sul piatto anteriore sono visibili i fori dei chiodi che li sostenevano, sul piatto posteriore la coperta reca impresse le tracce dei fermagli a forma di conchiglia. Taglio dorato. La legatura originale era stata sostituita sotto il pontificato di Leone XIII (1880) con una legatura moderna, che recava impressi sul dorso lo stemma del pontefice e quello del cardinale Bibliotecario (1869-1889) Jean-Baptiste Pitra; dopo essere stata conservata nel fondo Legature (dove oggi si trova la legatura leonina), fu restaurata e riancorata al corpo del libro nel 2007. Sulla controguardia posteriore tassello cartaceo con indicazione di restauro eseguito nel 2007.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>Coeva, in inchiostro bruno, nell'angolo superiore esterno, per ff. 1-184, con salto di numerazione dopo f. 89, al quale segue f. 100; ff. 185-186 numerati a matita da mano moderna.</p>
+                </foliation>
+                <signatures>Assente.</signatures>
+                <catchwords>Richiami verticali nel senso alto-basso apposti nello stesso inchiostro del testo nell'angolo inferiore interno, all'interno della colonnina della giustificazione e ornati con semplici decori a penna sui quattro lati. </catchwords>
+              </physDesc>
+              <history>
+                <p>Il codice è appartenuto a Federico da Montefeltro, nella cui biblioteca era segnato "367", come risulta dal cosiddetto "Indice vecchio" (Urb. lat. 1761; cf. Stornajolo, Cod. Urb. Graeci, p. CV: “Q. Curtius historicus Elegantissimus De Gestis alexandri Magni. Codex Ornatissimus In Rubro”). Al f. 2r, nel margine inferiore, è presente lo stemma ducale di Federico (post 1474). La collezione dei duchi di Urbino giunse in Vaticana nel 1657 sotto il pontificato di Alessandro VII. Timbri della Biblioteca Apostolica Vaticana ai ff. 1r, 2v, 184r, 185v.</p>
+              </history>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.427</ptr>
+        <creation>
+          <date TEIform="date" value="06/02/2017"/>
+          <persName>I.Maggiulli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="06/02/2017">I.Maggiulli</persName>
+              <persName n="08/02/2017">I.Maggiulli</persName>
+              <persName n="13/02/2017">I.Maggiulli</persName>
+              <persName n="15/02/2017">I.Maggiulli</persName>
+              <persName n="22/02/2017">I.Maggiulli</persName>
+              <persName n="23/02/2017">I.Maggiulli</persName>
+              <persName n="04/03/2017">I.Maggiulli</persName>
+              <persName n="06/03/2017">I.Maggiulli</persName>
+              <persName n="09/03/2017">I.Maggiulli</persName>
+              <persName n="10/03/2017">MG.Critelli</persName>
+              <persName n="13/03/2017">I.Maggiulli</persName>
+              <persName n="14/03/2017">MG.Critelli</persName>
+              <persName n="14/03/2017">I.Maggiulli</persName>
+              <persName n="20/03/2017">I.Maggiulli</persName>
+              <persName n="30/03/2017">E.Ponzi</persName>
+              <persName n="11/05/2017">MG.Critelli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Q. Curtii Rufi, Historiarum Alexandri Magni Macedonis libri qui supersunt, iterum recensuit E. Hedicke, Lipsiae 1908 (Bibliotheca scriptorum Graecorum et Romanorum Teubneriana).</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.004270002r-184r" type="ms">Urb.lat.427</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>2r-184r</locus>
+                  <author reg="person" type="internal">Curtius Rufus, Quintus</author>
+                  <title type="uniform">Historiae Alexandri Magni (Curtius Rufus, Quintus)</title>
+                  <rubric>Clarissimi elegantissimi historici Quinti Curtii de gestis Alexandri Magni liber feliciter incipit</rubric>
+                  <incipit>Inter haec Alexander ad conduce(n)dum</incipit>
+                  <explicit>memoriae ac nominis [sic] honos habetur</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">L'opera era originariamente suddivisa in 10 libri, di cui non ci sono pervenuti il I, il II e parti del V, VI e X. Le iniziali miniate del codice corrispondono all’inizio di ciascun libro. Ai ff. 40v (l. 28)-41r (l. 3), dopo "non posset" (IV, 12, 21), è presente una breve interpolazione, tratta da Giustino, Historiae Philippicae, lib. IX, cap. 9: "movebat eum multitudo hostium respectu paucitatis suae gentis: sed interdum reputabat quantas res hac gente gessisset: quantosq(ue) populos fudisset. Itaq(ue) cum spes metum vinceret: periculosius differre bellum ratus: ne desperatio suis cresceret", seguita da "Itaque dissimulatio" (IV, 12, 22). Al f. 69r un'altra breve interpolazione precede il libro VI: "Interim dum talia fierent ab Alexandro: bellum ortum est inter Macedonas et Lacedemonios. Antipater macedonice p(re)fectus in hoc bello contra regem lacedemoniorum optinuit: sicut hic exponit(ur)". Entrambe sono presenti anche in altri testimoni dell'opera di Curzio Rufo. Al f. 185v viene ripetuto un passo già presente al f. 176r (l. 1-8): inc. "Nec quisq(uam) lumina audebat accendere", expl. "vero desyderio lugebant. Assueti sub rege" (X, 5, 16-17). In corrispondenza delle lacune tra i libri V e VI e all’interno del libro X nel manoscritto sono state lasciate alcune righe bianche che non corrispondono a lacune di carattere testuale (ff. 69r, 171v, 174v, 175r). Integrazioni alle suddette lacune sono state elaborate nel corso del ‘600 da Johann Freinsheim sulla base di notizie attinte da Giustino, Plutarco e altri e pubblicate in due edizioni di Curzio Rufo (Strasburgo 1648 e 1670; cf. Storie di Alessandro Magno, a cura di A. Giacone, Torino 1986, p. 30 nota 1); queste integrazioni sono riportate nell’edizione di Heidicke alle p. 147-152, 356, 362-363 e 363-369.</note>
+                  <name n="356-323 a.C" type="person">Alexander Magnus,</name>
+                  <name n="n. 1840" type="person" role="external">Hedicke, Edmund,</name>
+                  <name type="person" role="external">Giacone, Alberto</name>
+                  <name n="1608-1660" type="person">Freinsheim, Johann,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM49</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.427</ptr>
+        <creation>
+          <date TEIform="27/07/2004" value="07/04/2006"/>
+          <persName>M. Marchiaro</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="-">M.G. Critelli</persName>
+              <persName n="15/11/2016">Linking System: R.Mancusi</persName>
+              <persName n="06/02/2017">I.Maggiulli</persName>
+              <persName n="13/02/2017">I.Maggiulli</persName>
+              <persName n="15/02/2017">I.Maggiulli</persName>
+              <persName n="04/03/2017">I.Maggiulli</persName>
+              <persName n="09/03/2017">I.Maggiulli</persName>
+              <persName n="14/03/2017">I.Maggiulli</persName>
+              <persName n="20/03/2017">I.Maggiulli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Colophons et souscriptions de copistes dans les manuscrits classiques latins de la Bibliothèque Vaticane (XIVe et XVe s.), </title>
+          <title type="title" level="u">Roma, magistra mundi. Itineraria culturae medievalis. Mélanges offert au Père L.E. Boyle à l’occasion de son 75e anniversaire,</title>
+          <author reg="person">Fohlen, Jeannine </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Louvain-la-Neuve </pubPlace>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">263*.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00427zzzzz" type="bib">Urb.lat.427</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.427</ptr>
+        <creation>
+          <date TEIform="date" value="05/05/2009"/>
+          <persName>C.DiFazio</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="15/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il libro nel libro: un caso particolare, </title>
+          <author reg="person">Petrucci Nardelli, Franca</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Accademie e biblioteche d’Italia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">62 (1994, 2), 14.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00427zzzzz" type="bib">Urb.lat.427</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.427</ptr>
+        <creation>
+          <date TEIform="date" value="05/05/2009"/>
+          <persName>C.DiFazio</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="15/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Literary Culture at the Court of Urbino during the Reign of Federico da Montefeltro,</title>
+          <author reg="person">Hofmann, Heinz</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Humanistica Lovaniensia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">LVII (2008) 34.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00427zzzzz" type="bib">Urb.lat.427</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.427</ptr>
+        <creation>
+          <date TEIform="date" value="22/07/2010"/>
+          <persName>C.Marsico</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="15/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Aspetti tipologici di legature feltresche,</title>
+          <title type="title" level="u">Federico di Montefeltro. Lo stato le arti la cultura. III,</title>
+          <author reg="person">Adorisio, Antonio Maria</author>
+          <respStmt>
+            <resp>
+              <name n="1948-" type="person">Federici, Carlo</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">56.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00427zzzzz" type="bib">Urb.lat.427</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.427</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>L.Marcelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="15/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le corpus averroicum des manuscrits vaticans Urbinates latins 220 et 221 et Nicoleto Vernia,</title>
+          <title type="title" level="u">Miscellanea Bibliothecae Apostolicae Vaticanae III,</title>
+          <author reg="person">Hissette, Roland</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">1989</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">289.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00427zzzzz" type="bib">Urb.lat.427</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.427</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>L.Marcelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="15/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Alexander Magnus Maximus. Neue Aspekte zur Ikonographie Alexanders des Grossen im Quattrocento,</title>
+          <author reg="person">Poeschel, Sabine</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1988</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Römisches Jahrbuch für Kunstgeschichte</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">65.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00427zzzzz" type="bib">Urb.lat.427</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.427</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>L.Marcelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="15/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Curtius Rufus, De gestis Alexandri Magni.</title>
+          <title type="title" level="u">Ornatissimo codice. La biblioteca di Federico di Montefeltro [catalogo di mostra, Urbino, Galleria Nazionale delle Marche, 15 marzo-27 luglio 2008, a cura di Marcella Peruzzi, con la collaborazione di Claudia Caldari, Lorenza Mochi Onori]</title>
+          <author reg="person">Martelli, Cecilia</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Skira,</publisher>
+          <pubPlace>Milano :</pubPlace>
+          <date TEIform="date">c2008.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 169, 172-173 e con ill. dei f. 1v (p. 172), 2r (p. 170).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00427zzzzz" type="bib">Urb.lat.427</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.427</ptr>
+        <creation>
+          <date TEIform="date" value="16/04/2012"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="15/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Per la carriera di Matteo Contugi. A proposito di un testimone delle orazioni di Giovanni Antonio Campano (Urb.lat.324) e della sua datazione,</title>
+          <title type="title" level="u">Studi in onore del cardinale Raffaele Farina, a cura di A.M. Piazzoni, I (Studi e testi, 477),</title>
+          <author reg="person">Critelli, Maria Gabriella</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2013</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">264.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00427zzzzz" type="bib">Urb.lat.427</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.427</ptr>
+        <creation>
+          <date TEIform="date" value="24/01/2014"/>
+          <persName>MF.Migliori</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="10/02/2014">MF.Migliori</persName>
+              <persName n="15/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The production of illuminated manuscripts in Florence and Urbino,</title>
+          <title type="title" level="u">Federico da Montefeltro and his library, edited by Marcello Simonetta,</title>
+          <author reg="person">Martelli, Cecilia</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">45, 46, fig. 24 (47), 49.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00427zzzzz" type="bib">Urb.lat.427</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.427</ptr>
+        <creation>
+          <date TEIform="date" value="11/03/2014"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">"Lectissima politissimaque volumina": i fondi urbinati,</title>
+          <title type="title" level="u">La Vaticana nel Seicento (1590-1700): una biblioteca di biblioteche, a cura di Claudia Montuschi (Storia della Biblioteca Apostolica Vaticana, 3),</title>
+          <author reg="person">Peruzzi, Marcella</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2014</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">387.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00427zzzzz" type="bib">Urb.lat.427</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.427</ptr>
+        <creation>
+          <date TEIform="date" value="30/10/2015"/>
+          <persName>T-V.Maffezzoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="09/12/2015">T-V.Maffezzoli</persName>
+              <persName n="15/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

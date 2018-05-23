@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VII.002290000" type="ms">Chig.H.VII.229</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <heraldry>f. 1r al centro del margine inferiore lo stemma di papa Pio II (1458-1464); a f. Iv stemma della famiglia Piccolomini, in basso ex libris: “Ia&lt;copus&gt; Pic&lt;colomini&gt; de Castella Aragoniaq(ue) ex beneficentia posuit”.</heraldry>
+                <scriptTerm>umanistica</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <author n="sec. II-III" reg="person" type="internal">Porphyrio, Pomponius,</author>
+                  <title type="supplied">Commentarii in Horatium</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, I, p. 367-368; Vedere i classici, p. 375-376. </bibl>
+                  <name n="1405-1464" type="person" role="owner">Pius PP. II,</name>
+                  <name n="1599-1667" type="person" role="owner">Alexander PP. VII,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                  </origPlace>
+                  <origDate notAfter="1475" notBefore="1450">sec. XV med</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>285</height>
+                  <width>214</width>
+                </dimensions>
+                <extent>I.130.I</extent>
+                <collation>
+                  <p>13 fascicoli: 1-13 quinioni (ff. 1-10, 11-20, 21-30, 31-40, 41-49, 50-59, 60-69, 70-79, 80-89, 90-99, 100-109, 110-119, 120-129); f. 129 rigato ma non scritto.</p>
+                </collation>
+                <layout>
+                  <p>colonna unica; rr. 31/ll. 31; mm 180x123; rigatura a colore (tipo Derolez 31). </p>
+                </layout>
+                <msWriting>
+                  <p>copista unico che verga il testo in inchiostro bruno; rare note di correzioni marginali e sporadico inserimento di termini greci della stessa mano (per esempio ai ff. 44r, 98v, 100r); f. Iv ex libris: “Ia&lt;copus&gt; Pic&lt;colomini&gt; de Castella Aragoniaq(ue) ex beneficentia posuit”.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>1 pagina d’incipit miniata con iniziale con corpo in foglia d’oro su un campo in oro decorata con girali d’acanto di colore azzurro abitati da una piccola cicogna posizionata nella porzione inferiore della lettera, cornice che corre lungo i quattro margini ornata da cappi intrecciati policromi su fondo oro, nel mergine esterno tre clipei istoriati: in alto e in basso rispettivamente i ritratti a mezzo busto di Porfirione e Orazio, nel clipeo centrale uno scudo con l’iscrizione “Eneas/Pivs Pa/pa Se/cv(n)dus”, nel margine inferiore lo stemma di papa Pio II (f. 1r); 12 iniziali maggiori con corpo in oro e decorazione fitomorfa a bianchi girari su fondo variopinto (azzurro, rosso e verde) con prolungamenti lungo il margine, talvolta arricchiti con dischetti cigliati in foglia d’oro (ff. 1v, 21v, 34r, 48v, 52r, 55v, 60v, 62r, 73v, 94v, 102v, 117r); numerose iniziali minori campite con corpo in oro su campo bipartito porpora e azzurro con ornamentazione in biacca (ad eccezione di f. 4r in cui l’inziale è di colore rosso arancio con decorazione geometrica in azzurro su fondo in foglia d’oro e ai ff. 44v, 55r, 102r, 107v che presentano iniziali minori in oro su fondo bipartito in azzurro e verde); titoli rubricati in oro e rosso.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>su assi di legno con coperta in pelle marrone; sui piatti doppia cornice ornata a secco; dorso in pelle rossa a quattro nervi con i simboli della famiglia Chigi impressi in oro, sul primo tassello l’indicazione dell’opera in oro: “HORAT. /CVM/ PORPHIR”; fermagli in pelle rossa con chiusure metalliche; tagli dorati; sovraccoperta in cartoncino grigio.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>manuale, a cifre arabe in inchiostro bruno sul margine superiore esterno (+45a), è numerata anche la carta di guardia posteriore (f. I’).</p>
+                </foliation>
+                <condition>
+                  <p>ottimo; sporadici attacchi di tarli negli ultimi fogli.</p>
+                </condition>
+                <catchwords>costanti, in inchiostro bruno posizionati orizzontalmente sul margine inferiore interno.</catchwords>
+              </physDesc>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VII.229</ptr>
+        <creation>
+          <date TEIform="date" value="21/05/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/05/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VII.002290001r-1v" type="ms">Chig.H.VII.229</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-1v</locus>
+                  <author n="sec. II-III" reg="person" type="internal">Porphyrio, Pomponius,</author>
+                  <title type="supplied">Vita Horatii</title>
+                  <title type="uniform">Vita Horatii (Porphyrio, Pomponius, sec. II-III)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VII.229</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VII.002290001v-128v" type="ms">Chig.H.VII.229</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1v-128v</locus>
+                  <author n="sec. II-III" reg="person" type="internal">Porphyrio, Pomponius,</author>
+                  <title type="supplied">Commentum in Horatium</title>
+                  <title type="uniform">Commentum in Horatium (Porphyrio, Pomponius, sec. II-III)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">ff. 1v-55v: Carmina; ff. 55v-60v: De arte poetica; ff. 60v-62r: Carmen saeculare; ff. 62r-73v: Epodon liber; ff. 73v-102v: Sermones; ff. 102v-128v: Epistulae.</note>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VII.229</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Orazio in greco, </title>
+          <author n="1954-" reg="person">Buonocore, Marco, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace/>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bollettino della Badia greca di Grottaferrata</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">52 (1998) 32.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VII.00229zzzzz" type="bib">Chig.H.VII.229</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VII.229</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2009"/>
+          <persName>L.Scappaticci</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/07/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/07/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Recensio Horatianorum codicum qui in Bibliotheca Vaticana asservantur,</title>
+          <author n="1954-" reg="person">Buonocore, Marco, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1993</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Giornale italiano di filologia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">45 (1993) 5, 8*, 21-28 passim.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VII.00229zzzzz" type="bib">Chig.H.VII.229</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VII.229</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2009"/>
+          <persName>L.Scappaticci</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/07/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/07/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">“Quasi preclarissima suppellectile”. Corte papale e libro miniato nella Roma di primo Rinascimento, </title>
+          <author reg="person">Maddalo, Silvia</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace/>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi romani</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">42 (1994) 25, tav. VI, fig. 2.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VII.00229zzzzz" type="bib">Chig.H.VII.229</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VII.229</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2009"/>
+          <persName>L.Scappaticci</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/07/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/07/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I manoscritti di Orazio. III, </title>
+          <author reg="person">Villa, Claudia</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Aevum. Rassegna di scienze storiche, linguistiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">68 (1994) 128.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VII.00229zzzzz" type="bib">Chig.H.VII.229</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VII.229</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2009"/>
+          <persName>L.Scappaticci</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/07/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/05/2009">L.Scappaticci</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/07/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Polani Niccolò,</title>
+          <title type="title" level="u">Dizionario biografico dei miniatori italiani. Secoli IX-XVI, a cura di M. Bollati,</title>
+          <author reg="person">Pasut, Francesca</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">873.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VII.00229zzzzz" type="bib">Chig.H.VII.229</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VII.229</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2014"/>
+          <persName>T.DiStefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/07/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/07/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

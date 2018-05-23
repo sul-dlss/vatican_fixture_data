@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.008930000" type="ms">Ross.893</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>gotica del tipo corsivo</scriptTerm>
+                <watermarks>
+                  <p>Briquet 3296, a. 1406, Ferrara.</p>
+                </watermarks>
+              </head>
+              <msContents>
+                <msItem>
+                  <author n="43 a.C.-17/18 d.C." reg="person" type="internal">Ovidius Naso, Publius,</author>
+                  <title type="supplied">Heroides</title>
+                  <title type="uniform">Heroides (Ovidius Naso, Publius, 43 a.C.-17/18 d.C.). Gruppi, scelte</title>
+                  <colophon>f. 74v: Laus sit tibi Christe / Quoniam liber explicit iste. E a seguire, di una mano posteriore, Heroides Epistulae Ovidii nr. XX. Vigesima tamen initium tantum habet.</colophon>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, II.2 p. 482; Vedere i classici, p. 331-334; Codici Rossiani miniati, p. 1168-1173.</bibl>
+                  <name n="1800-1854" type="person" role="owner">De Rossi, Giovanni Francesco,</name>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name type="person" role="external">Scarcia Piacentini, Paola</name>
+                  <name type="person" role="external">Santini, Carlo</name>
+                  <name n="1954-" type="person" role="external">Buonocore, Marco, </name>
+                  <name type="person">Derolez, Albert</name>
+                  <name type="person" role="external">Maddalo, Silvia</name>
+                  <name type="person" role="external">Ponzi, Eva</name>
+                  <name type="person" role="external">Torquati, Michela</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia settentrionale</region>
+                    <settlement>Emilia Romagna (Ferrara [?])</settlement>
+                  </origPlace>
+                  <origDate notAfter="1425" notBefore="1401">sec. XV in</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>cart.</p>
+                </support>
+                <dimensions>
+                  <height>202</height>
+                  <width>146</width>
+                </dimensions>
+                <extent>74</extent>
+                <layout>
+                  <p>a piena pagina (mm 130x105), su 22/22 ll./rr.; rigatura alla mina ben visibile su entrambi i lati del foglio (tipo Derolez 12).</p>
+                </layout>
+                <msWriting>
+                  <p>unico copista, inchiostro bruno scuro, qualche glossa marginale e interlineare.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>21 iniziali maggiori (ff. 1r, 3v, 6v, 10r, 13r, 16v, 20v, 24v, 27v, 29v, 31r, 34r, 37r, 42r, 45v, 48v, 54v, 60v, 65r, 69v, 74r; mm 26x18, media) con corpo fitomorfo o zoomorfo, in rosso, verde, ocra, talvolta accompagnate da disegni a penna (ff. 1r, 3v, 6v, 13r, 16v, 20v, 48v, 60v, 65r) in campo aperto, raffigurano alcuni dei personaggi del testo ovidiano.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>in marocchino bruno su assi di cartone, in piena pelle con filettature dorate nei piatti esterni e nel dorso, sul quale a impressioni in oro si legge Ovidii / Epistol / Heroide, Cod / Chart / Saec / XV.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>moderna a matita in cifre arabiche in alto a destra.</p>
+                </foliation>
+                <condition>
+                  <p>buono, sebbene i margini presentino macchie di umidità e fori di tarlo.</p>
+                </condition>
+              </physDesc>
+              <history>
+                <p>timbri della Bibliotheca Rossiana ai ff. 1r, 74v.</p>
+              </history>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.893</ptr>
+        <creation>
+          <date TEIform="date" value="28/11/2016"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">23/06/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="07/12/2016">E.Ponzi</persName>
+              <persName n="19/12/2016">E.Ponzi</persName>
+              <persName n="19/12/2016">E.Ponzi</persName>
+              <persName n="16/01/2017">E.Ponzi</persName>
+              <persName n="18/01/2017">E.Ponzi</persName>
+              <persName n="02/02/2017">E.Ponzi</persName>
+              <persName n="06/03/2017">E.Ponzi</persName>
+              <persName n="12/05/2017">E.Ponzi</persName>
+              <persName n="23/06/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>P. Ovidius Naso, ed. R. Ehwald, t. I. Amores. Epistulae. Medicamina faciei feminae. Ars amatoria. Remedia amoris, Leipzig 1907, p. 70-179.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.008930001r-74v" type="ms">Ross.893</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-74v</locus>
+                  <author n="43 a.C.-17/18 d.C." reg="person" type="internal">Ovidius Naso, Publius,</author>
+                  <title type="title">Heroides</title>
+                  <title type="uniform">Heroides (Ovidius Naso, Publius, 43 a.C.-17/18 d.C.). Gruppi, scelte</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1847-1927" type="person" role="external">Ehwald, Rudolf,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.893</ptr>
+        <creation>
+          <date TEIform="date" value="18/01/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/01/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I codici di Ovidio presso la Biblioteca Apostolica Vaticana,</title>
+          <author n="1954-" reg="person">Buonocore, Marco, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1995</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di cultura classica e medioevale</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">37 (1995) 35-56 passim</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ross." rend="Ross.00893zzzzz" type="bib">Ross.893</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ross.893</ptr>
+        <creation>
+          <date TEIform="date" value="10/03/2009"/>
+          <persName>A.Liberatori</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/07/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="16/12/2013">Overwriting System: A.Rita</persName>
+              <persName n="16/12/2013">Overwriting System: A.Rita</persName>
+              <persName n="26/07/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

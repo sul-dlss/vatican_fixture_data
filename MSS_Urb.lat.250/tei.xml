@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.002500000" type="ms">Urb.lat.250</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <heraldry>f. 2r, feltresco, bandato d’azzurro e d’oro di 6 pezzi, ma privo dell’aquila di nero sulla prima banda d’oro.</heraldry>
+              </head>
+              <msContents>
+                <p>"In hoc codice continetur Theophrastus de plantis ex graeco in latinum traductus" (f. 1v).</p>
+                <overview>
+                  <p>Historia plantarum e De causis plantarum, nella traduzione di Teodoro Gaza.</p>
+                </overview>
+                <msItem>
+                  <author n="c. 371-c. 286 a.C." reg="person" type="internal">Theophrastus,</author>
+                  <colophon>Al f. 204r: "Finis Deo gratias Φ.H.".</colophon>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Stornajolo, Cod. Urb. Lat. 1-500, p. 239-240. Cf. Schmitt, Theophrastus, in Catalogus translationum et commentariorum, II, 1971, p. 239-322, in particolare p. 266-268, 273.</bibl>
+                  <note type="note">L'Urb. lat. 250 è uno degli 8 manoscritti che contengono l'opera di Teofrasto nella traduzione di Teodoro Gaza. Einarson propone uno "stemma codicum" di questi 8 testimoni, in cui l'Urb. lat. 250 viene denominato Gur (cf. Einarson, Notes on Urbinas Graecus 61, p. 136). Tra i più antichi c'è un altro codice vaticano, il Chig. F.VIII.193, che rimase in possesso del Gaza anche dopo aver terminato la traduzione nel 1451 e sul quale sono visibili le correzioni da lui apposte nei margini (cf. Bianca, Gaza, Teodoro, in Dizionario biografico degli italiani, 52, Roma 1999). L'editio princeps del Teofrasto di Gaza fu stampata a Treviso nel 1483 (IGI 9508; GW M45920; ISTC (Uk-IS)it00155000; BAVIC VcBA 11015433). </note>
+                  <name reg="sac.," n="1849-1923" type="person" role="external">Stornajolo, Cosimo,</name>
+                  <name reg="duca d'Urbino," n="1422-1482" type="person" role="owner">Federico da Montefeltro,</name>
+                  <name reg="b.," n="1611-1689" type="person">Innocentius PP. XI,</name>
+                  <name reg="card.," n="1612-1693 " type="person">Brancati, Lorenzo,</name>
+                  <name n="c. 1400-c. 1475" type="person" role="translator">Gaza, Theodorus,</name>
+                  <name type="person" role="external">De la Mare, Albinia Catherine</name>
+                  <name type="person" role="external">Derolez, Albert</name>
+                  <name n="1906-" type="person" role="external">Einarson, Benedict,</name>
+                  <name type="person" role="external">Bianca, Concetta</name>
+                  <name n="1933-1986" type="person" role="external">Schmitt, Charles B. (Charles Bernard), </name>
+                  <name type="person" role="external">Miriello, Rosanna</name>
+                  <name type="person" role="external">Russo, Anna Maria</name>
+                  <name n="sec. XV" type="person" role="scribe">Φ.H.,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate notAfter="1474" notBefore="1426">sec. XV</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>335</height>
+                  <width>221</width>
+                </dimensions>
+                <extent>208</extent>
+                <collation>
+                  <p>22 fascicoli: 1 bifoglio (ff. [I]-1), 2-21 quinioni (ff. 2-11, 12-21, 22-31, 32-41, 42-51, 52-61, 62-71, 72-81, 82-91, 92-101, 102-111, 112-121, 122-131, 132-141, 142-151, 152-160, 161-170, 171-180, 181-190, 191-200), 22 ternione (ff. 201-[205]). Bianchi i ff. [I]r-v, 1r, 204v, [205]r-v.</p>
+                </collation>
+                <layout>
+                  <p>Testo a piena pagina; rr. 34/ll. 34, la scrittura inizia sopra la prima riga. Rigatura a secco (tipo Derolez 33). Specchio rigato (f. 16r): 335 (39+206+90) x 231 (25+8+129+7+62) mm. Presenta rigatura anche il f. 205. Visibili 8 fori di squadratura in corrispondenza delle righe di giustificazione lungo i margini superiore e inferiore (es. f. 171); talvolta visibili soltanto i 4 nel margine superiore (es. f. 169) o i 4 nel margine inferiore (es. ff. 114). Fori di guida lungo il margine esterno visibili sulla maggior parte dei fogli (es. ff. 16, 22).</p>
+                </layout>
+                <msWriting>
+                  <p>Umanistica di unica mano; frequenti notabilia. Albinia De la Mare riconosce la mano del copista, che si firma "Φ.H." (f. 204r), in altri 7 manoscritti oltre al presente codice, tra i quali l'Urb. lat. 65 (privo di sottoscrizione). Egli utilizzò anche altre lettere dell'alfabeto greco nei colophon, quali "Φ.H.B.", "Φ.H.S." o "Φ.B.H." (De la Mare, New research, p. 526). Probabilmente fu attivo a Firenze fra il 1460 e il 1470 circa (Derolez, La codicologie des manuscrits, I, p. 158 n. 359). Alla sua mano è stato attribuito anche il codice fiorentino Banco Rari 48 (Miriello - Russo, Il copista del Banco Rari 48, p. 118-119).</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>1 antiporta (f. 1v, mm 210), all’interno di una decorazione floreale policroma (porpora, blu, giallo) con sottilissima filigrana in inchiostro bruno e globi aurei cigliati è presente un clipeo (mm 113) laureato in blu rialzato in oro, isolato da un doppio listello in lamina metallica aurea, e mostra il contenuto del ms., su sette linee di scrittura in capitale alternativamente in blu e in oro. 1 pagina di incipit (f. 2r) occupata su tre margini da un fregio a bianchi girari su fondo policromo (rosso, blu, verde) percorso da un doppio listello in lamina metallica aurea che si apre a bas-de-page in un clipeo laureato, affiancato da due putti alati, con lo stemma bandato feltresco sorretto dall’aquila; la pagina si completa della rubrica in capitale su cinque linee di scrittura alternativamente in oro e in blu. 18 iniziali maggiori accompagnate da scrittura distintiva (mm 45x45, media), 1 con corpo in foglia d’oro su campo in blu decorato con filamenti in oro e perle in argento e abitata da un cane all’interno di un paesaggio campestre (f. 2r), 17 a bianchi girari su fondo policromo (rosso, blu, verde) e con corpo in foglia d’oro consistente (ff. 3r, 6r, 19r, 26r, 41v, 58v, 66v, 74r, 85r, 95r, 108v, 109r, 127v, 145v, 161v, 173v, 188r). 1 iniziale media (f. 6v, mm 15x15) campita in porpora e in blu con decorazioni a biacca e corpo in foglia d’oro; rubricati incipit ed explicit.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>Coperta in pergamena tinta di verde priva di decorazione, su quadranti di cartone, restaurata in corrispondenza del dorso. Dorso a 6 compartimenti, delimitati da 5 nervi doppi. Nel primo compartimento antica segnatura "399 / VR∙B∙” impressa in oro; nel terzo e nel quinto elementi araldici (due spade passate in croce di S. Andrea sormontate da una cometa) del cardinale Bibliotecario (1681-1693) Lorenzo Brancati di Lauria; nel quarto e nel sesto elementi araldici (il leone e l'aquila) dello stemma di Innocenzo XI (1676-1689). La presenza dei due stemmi permette di datare la legatura agli anni 1681-1689. Taglio dorato. Sulla controguardia posteriore tassello cartaceo con indicazione di restauro eseguito dal Laboratorio della Biblioteca Vaticana nel 1992.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>Coeva, in inchiostro bruno, nell'angolo superiore esterno, per ff. 1-204; ripetuta la numerazione dei ff. 153 e 203; ff. [I] e [205] non numerati. Tracce di una ulteriore numerazione nell'angolo inferiore esterno, visibile solo su pochi fogli perché quasi completamente eliminata dalla rifilatura: ai ff. 44, 54, 55 e 75 si scorgono rispettivamente i numeri 23, 28, 29 e 39. Potrebbe trattarsi di una numerazione che si sussegue soltanto sui fogli che costituiscono la prima metà del fascicolo.</p>
+                </foliation>
+                <signatures>Segnatura a registro nell’angolo inferiore esterno, quasi completamente eliminata dalla rifilatura, del tipo f1-[f5] (ff. 52-56), [g1]-[g5] (ff. 62-66). Inoltre i fascicoli sono contrassegnati da lettere dell’alfabeto, precedute e seguite da un punto, sul verso dell’ultimo foglio di ciascun fascicolo, nell'angolo inferiore interno entro la colonnina, del tipo .A. (f. 11v), .B. (f. 21v), ecc., fino a .V. (f. 200v).</signatures>
+                <catchwords>Assenti.</catchwords>
+              </physDesc>
+              <history>
+                <p>Il codice è appartenuto a Federico da Montefeltro, nella cui biblioteca era segnato "231", come risulta dal cosiddetto "Indice vecchio" (Urb. lat. 1761; cf. Stornajolo, Cod. Urb. Graeci, p. XCI: “Theophrastus de plantis a Theodoro Tessalonicense Conversus e Graeco In latinum, et Nicolao V pont. max. Dicatus. Codex ornatus In Viridi”). Al f. 2r, nel margine inferiore, è presente lo stemma comitale di Federico (ante 1474). La collezione dei duchi di Urbino giunse in Vaticana nel 1657. L'antica segnatura "399", impressa in oro nel primo compartimento del dorso (e poi depennata) e segnata a penna a f. 2r nell'angolo superiore interno, è da riferire all'inventario vaticano di Stefano Gradi (Urb. lat. 1388; cf. Stornajolo, Cod. Urb. lat. 1001-1779, p. V). Timbri della Biblioteca Apostolica Vaticana ai ff. 1r, 2r, 204r.</p>
+              </history>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.250</ptr>
+        <creation>
+          <date TEIform="date" value="04/01/2017"/>
+          <persName>I.Maggiulli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/09/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/01/2017">I.Maggiulli</persName>
+              <persName n="04/01/2017">I.Maggiulli</persName>
+              <persName n="04/01/2017">I.Maggiulli</persName>
+              <persName n="08/01/2017">I.Maggiulli</persName>
+              <persName n="17/01/2017">I.Maggiulli</persName>
+              <persName n="23/01/2017">I.Maggiulli</persName>
+              <persName n="25/01/2017">I.Maggiulli</persName>
+              <persName n="26/01/2017">I.Maggiulli</persName>
+              <persName n="30/01/2017">I.Maggiulli</persName>
+              <persName n="01/02/2017">I.Maggiulli</persName>
+              <persName n="03/02/2017">I.Maggiulli</persName>
+              <persName n="06/02/2017">I.Maggiulli</persName>
+              <persName n="13/02/2017">I.Maggiulli</persName>
+              <persName n="22/02/2017">I.Maggiulli</persName>
+              <persName n="23/02/2017">I.Maggiulli</persName>
+              <persName n="03/03/2017">I.Maggiulli</persName>
+              <persName n="24/03/2017">E.Ponzi</persName>
+              <persName n="10/05/2017">MG.Critelli</persName>
+              <persName n="11/05/2017">MG.Critelli</persName>
+              <persName n="25/07/2017">I.Maggiulli</persName>
+              <persName n="21/09/2017">E.Ponzi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Theophrasti philosophi clarissimi De historia plantarum libri VIIII et decimi principium. De causis, siue generatione plantarum, libri VI Theodoro Gaza interprete [...], Basileae 1534, p. 1-5. Cf. C.B. Schmitt, Theophrastus, in Catalogus translationum et commentariorum, II, 1971, p. 266-268; cf. anche L. Repici, Teodoro Gaza traduttore e interprete di Teofrasto: la ricezione della botanica antica tra Quattro e Cinquecento, in Rinascimento, 43 (2003), p. 417-503.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.002500002r-6r" type="ms">Urb.lat.250</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>2r-6r</locus>
+                  <author n="c. 1400-c. 1475" reg="person" type="internal">Gaza, Theodorus,</author>
+                  <title type="title">Theodori Thessalonicensis praefatio ad Nicolaum quintum summum pontificem in Theophrastum de plantis ex graeco in latinum per eum traductum</title>
+                  <incipit type="dedication" n="(f. 2r)">Quam magna exultare laetitia possint homines (f. 2r)</incipit>
+                  <incipit type="text" n="(f. 3r)">Praefandum illud Heracliti dictum arbitror (f. 3r)</incipit>
+                  <explicit type="dedication" n="(f. 3r)">deum piissime invoca(n)tes opus incepimus (f. 3r)</explicit>
+                  <explicit type="text" n="(f. 6r)">noster hic labor pariat hominibus facias (f. 6r)</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1399-1455" type="person" role="dedicatee">Nicolaus PP. V,</name>
+                  <name n="1933-1986" type="person" role="external">Schmitt, Charles B. (Charles Bernard), </name>
+                  <name type="person" role="external">Repici, Luciana</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.250</ptr>
+        <creation>
+          <date TEIform="date" value="04/01/2017"/>
+          <persName>I.Maggiulli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">09/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/01/2017">I.Maggiulli</persName>
+              <persName n="01/02/2017">I.Maggiulli</persName>
+              <persName n="23/02/2017">I.Maggiulli</persName>
+              <persName n="03/03/2017">I.Maggiulli</persName>
+              <persName n="09/03/2017">I.Maggiulli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Theophrasti philosophi clarissimi De historia plantarum libri VIIII et decimi principium. De causis, siue generatione plantarum, libri VI Theodoro Gaza interprete [...], Basileae 1534, p. 6-128.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.002500006r-108v" type="ms">Urb.lat.250</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>6r-108v</locus>
+                  <author n="c. 371-c. 286 a.C." reg="person" type="internal">Theophrastus,</author>
+                  <title type="title">Theodori Tessalonicensis translatio in libros Theophrasti de plantis incipit ad Nicolaum V summi pontificis</title>
+                  <title type="uniform">Historia plantarum (Theophrastus, c. 371-c. 286 a.C.). Latino</title>
+                  <incipit>Plantarum differentias reliquamq(ue) naturam ex partibus</incipit>
+                  <explicit>magna ex parte vocare herbarii solent</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Al f. 108v, rubricato: "In originali sum(m)i pontificis Nicolai quinti iste liber decimus non habebat(ur) nisi inceptus sicuti et hic quia et in greco non reperiebat(ur) a translatore Theodoro scilicet Thessalonicensi. Ex cuius quidem primo et originali supradicto pontifici p(rese)ntato hec sum(m)a de historia plantar(um) et de causis earundem tra(n)scripta est".</note>
+                  <name n="c. 1400-c. 1475" type="person" role="translator">Gaza, Theodorus,</name>
+                  <name n="1399-1455" type="person" role="dedicatee">Nicolaus PP. V,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.250</ptr>
+        <creation>
+          <date TEIform="date" value="04/01/2017"/>
+          <persName>I.Maggiulli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">03/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/01/2017">I.Maggiulli</persName>
+              <persName n="17/01/2017">I.Maggiulli</persName>
+              <persName n="23/02/2017">I.Maggiulli</persName>
+              <persName n="03/03/2017">I.Maggiulli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Theophrasti philosophi clarissimi De historia plantarum libri VIIII et decimi principium. De causis, siue generatione plantarum, libri VI Theodoro Gaza interprete [...], Basileae 1534, p. 129-652.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.002500109r-204r" type="ms">Urb.lat.250</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>109r-204r</locus>
+                  <author n="c. 371-c. 286 a.C." reg="person" type="internal">Theophrastus,</author>
+                  <title type="title">Theofrasti de causis plantarum</title>
+                  <title type="uniform">De causis plantarum (Theophrastus, c. 371-c. 286 a.C.). Latino</title>
+                  <incipit>Plantar(um) complures esse generationes</incipit>
+                  <explicit>per se explana(r)i dignius (sic) est</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="c. 1400-c. 1475" type="person" role="translator">Gaza, Theodorus,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.250</ptr>
+        <creation>
+          <date TEIform="date" value="04/01/2017"/>
+          <persName>I.Maggiulli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">03/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/01/2017">I.Maggiulli</persName>
+              <persName n="23/02/2017">I.Maggiulli</persName>
+              <persName n="03/03/2017">I.Maggiulli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title" level="u">Note preliminari sulla sezione greca nella Biblioteca Vaticana di Niccolò V, </title>
+          <title type="title">Niccolò V nel sesto centenario della nascita. Atti del Convegno internazionale, Sarzana 8-10 ott. 1998, </title>
+          <author n="1961-" reg="person">Manfredi, Antonio,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano </pubPlace>
+          <date TEIform="date">2000</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">55.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00250zzzzz" type="bib">Urb.lat.250</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.250</ptr>
+        <creation>
+          <date TEIform="date" value="24/03/2009"/>
+          <persName>C.DiFazio</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il copista del banco rari 48,</title>
+          <author reg="person">Miriello, Rosanna</author>
+          <respStmt>
+            <resp>
+              <name type="person">Russo, Anna Maria</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Medioevo e Rinascimento</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">18 (2007) 118-119.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00250zzzzz" type="bib">Urb.lat.250</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.250</ptr>
+        <creation>
+          <date TEIform="date" value="18/02/2011"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Vespasiano da Bisticci e i copisti fiorentini di Federico, </title>
+          <title type="title" level="u">Federico di Montefeltro. Lo stato le arti la cultura. III, </title>
+          <author reg="person">De la Mare, Albinia Catherine</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">91.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00250zzzzz" type="bib">Urb.lat.250</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.250</ptr>
+        <creation>
+          <date TEIform="date" value="01/03/2011"/>
+          <persName>M.Patriarca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I miniatori fiorentini di Federico, </title>
+          <title type="title" level="u">Federico di Montefeltro. Lo stato le arti la cultura. III, </title>
+          <author reg="person">Garzelli, Annarosa</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">128.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00250zzzzz" type="bib">Urb.lat.250</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.250</ptr>
+        <creation>
+          <date TEIform="date" value="01/03/2011"/>
+          <persName>M.Patriarca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Codici di medicina antica della biblioteca di Federico,</title>
+          <title type="title" level="u">Federico di Montefeltro. Lo stato le arti la cultura. III,  </title>
+          <author reg="person">Sconocchia, S.</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">151, 173.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00250zzzzz" type="bib">Urb.lat.250</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.250</ptr>
+        <creation>
+          <date TEIform="date" value="08/03/2011"/>
+          <persName>M.Patriarca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La "Vita Pomponiana" de Virgile,</title>
+          <author rend="S.I.," n="1905-1991" reg="person">Dykmans, Marc,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1987</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Humanistica Lovaniensia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">36 (1987) 91.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00250zzzzz" type="bib">Urb.lat.250</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.250</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>M.Patriarca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/02/2012">M.Ceresa</persName>
+              <persName n="02/07/2012">F.Fioretti</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="06/12/2013">Overwriting System: A.Rita</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Notes on Urbinas Graecus 61 (Theophrastus, Historia Plantarum and De Causis Plantarum),</title>
+          <title type="title" level="u">Texte und Textkritik. Eine Aufsatzsammlung,</title>
+          <author n="1906-" reg="person">Einarson, Benedict,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Berlin</pubPlace>
+          <date TEIform="date" value="">1987</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">136.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00250zzzzz" type="bib">Urb.lat.250</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.250</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>L.Scarpelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/02/2012">M.Ceresa</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="17/12/2013">Overwriting System: A.Rita</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">"Lectissima politissimaque volumina": i fondi urbinati,</title>
+          <title type="title" level="u">La Vaticana nel Seicento (1590-1700): una biblioteca di biblioteche, a cura di Claudia Montuschi (Storia della Biblioteca Apostolica Vaticana, 3),</title>
+          <author reg="person">Peruzzi, Marcella</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2014</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">394.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00250zzzzz" type="bib">Urb.lat.250</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.250</ptr>
+        <creation>
+          <date TEIform="date" value="30/10/2015"/>
+          <persName>T-V.Maffezzoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">09/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+              <persName n="09/12/2015">T-V.Maffezzoli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">New Research on Humanistic Scribes in Florence,</title>
+          <title type="title" level="u">Miniatura fiorentina del Rinascimento, 1440-1525. Un primo censimento,</title>
+          <author reg="person">De la Mare, Albinia Catherine</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">526.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00250zzzzz" type="bib">Urb.lat.250</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.250</ptr>
+        <creation>
+          <date TEIform="date" value="03/02/2017"/>
+          <persName>I.Maggiulli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

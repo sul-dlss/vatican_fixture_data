@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00920.pt.000020000" type="ms">Vat.gr.920.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <name reg="card.," n="1824-1912" type="person" role="owner">Capecelatro, Alfonso,</name>
+                  <name reg="s.," n="1835-1914" type="person" role="owner">Pius PP. X,</name>
+                  <origDate n="(partim a. 1340)" notAfter="1375" notBefore="1326">sec XIV med</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membran.</p>
+                </support>
+                <dimensions>
+                  <height>255</height>
+                  <width>183</width>
+                </dimensions>
+                <extent>ff. 175-353</extent>
+                <msWriting>
+                  <p>Codex pluribus manibus exaratus est: 1 (ff. 1-47 et 53-80) a
+Manuele; 2 (ff. 48-52, 89-90 et 97-99) ab alia m. posteriore (?) quae folia deperdita supplevit; 3 (ff. 81-88v) a Demetrio quodam; 4 (ff. 91-97 et 100-353). Dubito an has partes scripserit is Meletius 5 (f. 30); 6 (f. 43v); 7 (f. 286v) forsitan manus Iohannis Spantunis; (f. 289r-v).</p>
+                </msWriting>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>Tabulae chartaceae membrana subflava obductae. Dorso partis primae scuta Pii X papae (1903-1914) et A. Capecelatro card. bibl. (1890-1917). Operculo int. primae partis adglut. est dorsum integumenti primigenii eadem scuta exhibens atque altera voluminis pars.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <signatures>Foliis denuo compactis nullisque nisi in media ora sup. ff. 188 (ιδ'),  204 (ις'), 213 (ιζ'), 295 (α'), 296 (β'), 311 (γ'), 312 (δ'), 320 (ε'), 332 (ς') notis relictis primigenius fasc. ordo restitui nequit.</signatures>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Schreiner, Codices Vaticani graeci: codices 367-932, in Bibliotheca Vaticana, 1988, pp. 144-148.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.920.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="15/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">16/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+              <persName n="16/07/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00920.pt.000020175r-221v" type="ms">Vat.gr.920.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>175r-221v</locus>
+                  <author n="sec. V a.C." reg="person" type="internal">Sophocles,</author>
+                  <title type="supplied">Oedipus tyrannus cum glossis et scholiis</title>
+                  <title type="uniform">Oedipus tyrannus (Sophocles, sec. V a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">F. 192v intexti sunt duo tractatuli de iambico metro.</note>
+                  <name n="c. 1275-c. 1346" type="person" role="internal">Thomas Magister,</name>
+                  <name n="c. 1262-1316" type="person" role="glossator">Manuel Moschopulus,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Schreiner, Codices Vaticani graeci: codices 367-932, in Bibliotheca Vaticana, 1988, p. 145.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.920.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="14/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/11/2016">A.Berloco</persName>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00920.pt.000020231r" type="ms">Vat.gr.920.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>231r</locus>
+                  <author n="c. 1275-c. 1346" reg="person" type="internal">Thomas Magister,</author>
+                  <title type="supplied">Argumentum in Septem contra Thebas</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Schreiner, Codices Vaticani graeci: codices 367-932, in Bibliotheca Vaticana, 1988, p. 146.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.920.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="15/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="07/03/2017">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00920.pt.000020232r-246v. 222r-230v" type="ms">Vat.gr.920.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>232r-246v. 222r-230v</locus>
+                  <author n="c. 525/4 a.C.-458/6 a.C." reg="person" type="internal">Aeschylus,</author>
+                  <title type="supplied">Prometheus cum scholiis</title>
+                  <title type="uniform">Prometheus vinctus (Aeschylus, c. 525/4 a.C.-458/6 a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <name n="c. 1275-c. 1346" type="person" role="internal">Thomas Magister,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Schreiner, Codices Vaticani graeci: codices 367-932, in Bibliotheca Vaticana, 1988, p. 146.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.920.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="14/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/11/2016">A.Berloco</persName>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="07/03/2017">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00920.pt.000020247r-267r" type="ms">Vat.gr.920.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>247r-267r</locus>
+                  <author n="c. 525/4 a.C.-458/6 a.C." reg="person" type="internal">Aeschylus,</author>
+                  <title type="supplied">Septem contra Thebas cum scholiis</title>
+                  <title type="uniform">Septem contra Thebas (Aeschylus, c. 525/4 a.C.-458/6 a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <name n="c. 1275-c. 1346" type="person" role="internal">Thomas Magister,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Schreiner, Codices Vaticani graeci: codices 367-932, in Bibliotheca Vaticana, 1988, p. 146.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.920.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="14/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00920.pt.000020267v-288r" type="ms">Vat.gr.920.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>267v-288r</locus>
+                  <author n="c. 525/4 a.C.-458/6 a.C." reg="person" type="internal">Aeschylus,</author>
+                  <title type="supplied">Persae cum scholiis</title>
+                  <title type="uniform">Persae (Aeschylus, c. 525/4 a.C.-458/6 a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Praecedunt (f. 267v) argumenta duo.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Schreiner, Codices Vaticani graeci: codices 367-932, in Bibliotheca Vaticana, 1988, p. 146.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.920.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="14/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="16/11/2016">A.Berloco</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00920.pt.000020286v" type="ms">Vat.gr.920.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>286v</locus>
+                  <author rend="s.," n="c. 330-390" reg="person" type="internal">Gregorius Nazianzenus,</author>
+                  <title type="supplied">Epistulae CLXVI et XXXI (fragmenta)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <msWriting>
+                  <p>Ab ead. manu ac f. 147v (cf. Vat.gr.920.pt.1)</p>
+                </msWriting>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Schreiner, Codices Vaticani graeci: codices 367-932, in Bibliotheca Vaticana, 1988, p. 146.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.920.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="16/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00920.pt.000020288v" type="ms">Vat.gr.920.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>288v</locus>
+                  <title type="supplied">Conscribillationes</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <name n="sec. XIV" type="person" role="internal">Triclinius, Demetrius,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Schreiner, Codices Vaticani graeci: codices 367-932, in Bibliotheca Vaticana, 1988, p. 146.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.920.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="15/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00920.pt.000020289r-v" type="ms">Vat.gr.920.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>289r-v</locus>
+                  <title type="supplied">Nonnulla grammatica et alia</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">F. 289r: &lt;Thomae Magistri vita Pindari&gt; usque ad λεκτέον; f. 289v: &lt;quaedam de Pindaro&gt;, necnon de metris ab eo adhibitis (excerptum esse videtur e Demetrii Triclini scholiis ad Olympia I); f. 289v: &lt;nomina novem Musarum atque quorundam poetarum&gt;</note>
+                  <name n="c. 1275-c. 1346" type="person" role="internal">Thomas Magister,</name>
+                  <name n="sec. XIV" type="person" role="internal">Triclinius, Demetrius,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Schreiner, Codices Vaticani graeci: codices 367-932, in Bibliotheca Vaticana, 1988, p. 146.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.920.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="15/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00920.pt.000020290r-352v" type="ms">Vat.gr.920.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>290r-352v</locus>
+                  <author n="518-438 a.C." reg="person" type="internal">Pindarus,</author>
+                  <title type="supplied">Olympia I-XII cum glossis et scholiis</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Inter lineas glossae e Demetrii Triclinii recensione, In marginibus textus circumfusus est Moschopuli et Magistri scholiis. Desiderantur hypotheseis in Ol. I, II, IV, X, XI, XII.</note>
+                  <name n="c. 1275-c. 1346" type="person" role="internal">Thomas Magister,</name>
+                  <name n="c. 1262-1316" type="person" role="internal">Manuel Moschopulus,</name>
+                  <name n="sec. XIV" type="person" role="glossator">Triclinius, Demetrius,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Schreiner, Codices Vaticani graeci: codices 367-932, in Bibliotheca Vaticana, 1988, p. 146.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.920.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="15/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00920.pt.000020353r(1)" type="ms">Vat.gr.920.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>353r(1)</locus>
+                  <author n="c. 445-c. 385 a.C." reg="person" type="internal">Aristophanes,</author>
+                  <title type="supplied">Plutus (fragmentum)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Vv. 1-2.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Schreiner, Codices Vaticani graeci: codices 367-932, in Bibliotheca Vaticana, 1988, p. 146.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.920.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="15/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/11/2016">A.Berloco</persName>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00920.pt.000020353r(2)" type="ms">Vat.gr.920.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>353r(2)</locus>
+                  <author n="c. 314-392/393" reg="person" type="internal">Libanius,</author>
+                  <title type="supplied">Epistula ad Themistium</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>P. Schreiner, Codices Vaticani graeci: codices 367-932, in Bibliotheca Vaticana, 1988, p. 146.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.920.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="15/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="24/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

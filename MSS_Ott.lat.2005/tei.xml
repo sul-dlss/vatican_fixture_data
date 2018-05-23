@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.020050000" type="ms">Ott.lat.2005</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <heraldry>stemma al centro del margine inferiore della famiglia Maffei di Volterra: entro un clipeo di alloro, un cervo in oro nascente su fondo azzurro (f. 1r). </heraldry>
+                <scriptTerm>gotica (ff. 1r-31v, 33r-41v, 43r-62v); umanistica (ff. 32r-32v, 42r-43r, 62v-107v)</scriptTerm>
+              </head>
+              <msContents>
+                <p>Comoediae.</p>
+                <msItem>
+                  <author n="m. 184 a.C." reg="person" type="internal">Plautus, Titus Maccius,</author>
+                  <title type="uniform">Comoediae (Plautus, Titus Maccius, m. 184 a.C.). Gruppi, scelte</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, I, p. 740; Vedere i classici, p. 426-427.</bibl>
+                  <name reg="duca d'," n="m. 1620" type="person" role="owner">Altemps, Giovanni Angelo,</name>
+                  <name reg="card.," n="1514-1585" type="person" role="owner">Sirleto, Guglielmo,</name>
+                  <name reg="card.," n="1667-1740" type="person" role="owner">Ottoboni, Pietro,</name>
+                  <name reg="vesc. di Cavaillon," n="m. 1537" type="person" role="owner">Maffei, Mario,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia settentrionale</region>
+                    <settlement>Ferrara</settlement>
+                  </origPlace>
+                  <origDate n="1468">sec. XV med</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>255</height>
+                  <width>175</width>
+                </dimensions>
+                <extent>IV. 108 </extent>
+                <collation>
+                  <p>11 fascicoli: 1-10 quinioni (ff. 1-10, 11-20, 21-30, 31-41[+1], 42-52[+1], 53-62, 63-72, 73-82, 83-92, 93-102), 11 ternione (ff. 103-108); f. 108 vacuo.</p>
+                </collation>
+                <layout>
+                  <p>colonna unica; ll.33 /rr. 34; mm 170x100; rigatura a colore (tipo Derolez 31).</p>
+                </layout>
+                <msWriting>
+                  <p>due copisti che vergano il testo in inchiostro bruno; numerose glosse marginali coeve e posteriori alla stesura del codice; a f. 107v “Scriptum Ferrarie anno domini nostri Ihesu Christi M°CCCC° sexagesimo octavo, Die veneris XXI novembris hora IIII noctis”; a f. 45v nota di possesso marginale di Mario Maffei di Volterra (m. 1537).</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>8 riquadri miniati posizionati nei margini e acquarellati adoperando una gamma coloristica ristretta, dalle tonalità tenui del verde, azzurro, rosa e grigio e incorniciati in foglia d’oro (ff. 1r, 18v, 34v, 51v, 63r, 76v, 89v, 97r), la pagina d’incipit presenta inoltre nei margini inferiore ed esterno motivi fitomorfi a rosette variopinte arricchite da dischetti in foglia d’oro (f. 1r); 11 iniziali maggiori ornate a “bianchi girari” con corpo in foglia d’oro su campiture di colore rosso porpora, verde e azzurro puntinate in biacca (ff. 1r, 18v, 34v, 63r, 76v, 89v, 97r), ad eccezione di f. 51v che presenta un’iniziale campita con corpo in foglia d’oro su uno sfondo verde intenso; numerose iniziali minori calligrafiche in blu e rosso; titoli rubricati.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>su assi di cartone con coperta in pergamena neutra; sul dorso impressioni in oro e in alto lo stemma di papa Pio IX (1846-1878) e al centro del cardinale bibliotecario Jean-Baptiste Pitra (1869-1889). </p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>manuale, in numeri arabi nel margine superiore esterno.</p>
+                </foliation>
+                <condition>
+                  <p>buono; sporadiche macchie di umidità, soprattutto negli ultimi fascicoli.</p>
+                </condition>
+                <signatures>rifilata; rare tracce di sequenza alfanumerica nel margine inferiore esterno.</signatures>
+                <catchwords>costanti, al centro del margine inferiore.</catchwords>
+              </physDesc>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="09/02/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="09/02/2017">L.Massolo</persName>
+              <persName n="14/02/2017">L.Massolo</persName>
+              <persName n="17/02/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.020050001r" type="ms">Ott.lat.2005</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r</locus>
+                  <author n="123-c. 165" reg="person" type="internal">Gellius, Aulus,</author>
+                  <title type="supplied">Noctes Atticae</title>
+                  <title type="uniform">Noctes Atticae (Gellius, Aulus, 123-c. 165)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="09/02/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.020050001r-18v" type="ms">Ott.lat.2005</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-18v</locus>
+                  <author n="m. 184 a.C." reg="person" type="internal">Plautus, Titus Maccius,</author>
+                  <title type="supplied">Amphitruo</title>
+                  <title type="uniform">Amphitruo (Plautus, Titus Maccius, m. 184 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="09/02/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.020050018v-34v" type="ms">Ott.lat.2005</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>18v-34v</locus>
+                  <author n="m. 184 a.C." reg="person" type="internal">Plautus, Titus Maccius,</author>
+                  <title type="supplied">Asinaria</title>
+                  <title type="uniform">Asinaria (Plautus, Titus Maccius, m. 184 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="09/02/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.020050034v-51v" type="ms">Ott.lat.2005</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>34v-51v</locus>
+                  <author n="m. 184 a.C." reg="person" type="internal">Plautus, Titus Maccius,</author>
+                  <title type="supplied">Captivi</title>
+                  <title type="uniform">Captivi (Plautus, Titus Maccius, m. 184 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="09/02/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.020050051v-63r" type="ms">Ott.lat.2005</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>51v-63r</locus>
+                  <author n="m. 184 a.C." reg="person" type="internal">Plautus, Titus Maccius,</author>
+                  <title type="supplied">Curculio</title>
+                  <title type="uniform">Curculio (Plautus, Titus Maccius, m. 184 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="09/02/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.020050063r-76r" type="ms">Ott.lat.2005</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>63r-76r</locus>
+                  <author n="m. 184 a.C." reg="person" type="internal">Plautus, Titus Maccius,</author>
+                  <title type="supplied">Aulularia</title>
+                  <title type="uniform">Aulularia (Plautus, Titus Maccius, m. 184 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="09/02/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.020050076v-89v" type="ms">Ott.lat.2005</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>76v-89v</locus>
+                  <author n="m. 184 a.C." reg="person" type="internal">Plautus, Titus Maccius,</author>
+                  <title type="supplied">Casina</title>
+                  <title type="uniform">Casina (Plautus, Titus Maccius, m. 184 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="09/02/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.020050089v-97r" type="ms">Ott.lat.2005</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>89v-97r</locus>
+                  <author n="m. 184 a.C." reg="person" type="internal">Plautus, Titus Maccius,</author>
+                  <title type="supplied">Cistellaria</title>
+                  <title type="uniform">Cistellaria (Plautus, Titus Maccius, m. 184 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="09/02/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.020050097r-107v" type="ms">Ott.lat.2005</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>97r-107v</locus>
+                  <author n="m. 184 a.C." reg="person" type="internal">Plautus, Titus Maccius,</author>
+                  <title type="supplied">Epidicus</title>
+                  <title type="uniform">Epidicus (Plautus, Titus Maccius, m. 184 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="09/02/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">“Amphitruo” illustrato,</title>
+          <title type="title" level="u">Lecturae Plautinae Sarsinates I Amphitruo, </title>
+          <author reg="person">Fachechi, Grazia Maria</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Urbino</pubPlace>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">89-96 passim.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.02005zzzzz" type="bib">Ott.lat.2005</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="02/12/2008"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">29/08/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="02/12/2008">L.Saturnino</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="29/08/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I classici illustrati: forme di visualizzazione dei testi teatrali antichi nel Medioevo, </title>
+          <author reg="person">Fachechi, Grazia Maria</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di storia della miniatura</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">5 (2000) 23, 24.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.02005zzzzz" type="bib">Ott.lat.2005</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="02/12/2008"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">29/08/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="02/12/2008">L.Saturnino</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="29/08/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">L’Aulularia nella tradizione manoscritta umanistica,</title>
+          <title type="title" level="u">Lecturae plautinae Sarsinates, III: Aulularia (Sarsina, 11 sett. 1999),</title>
+          <author reg="person">Tontini, Alba</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Urbino </pubPlace>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">94.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.02005zzzzz" type="bib">Ott.lat.2005</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="02/12/2008"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">29/08/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="02/12/2008">L.Saturnino</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="28/02/2014">T.DiStefano</persName>
+              <persName n="29/08/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La Biblioteca del Card. Sirleto,</title>
+          <title type="title" level="u">II Card. Guglielmo Sirleto (1514-1585). Atti del Convegno di studio nel IV centenario della morte (Guardavalle, etc. 5-7 ott. 1986),</title>
+          <author rend="M.S.C.," n="1908-1991" reg="person">Russo, Francesco,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Catanzaro</pubPlace>
+          <pubPlace>Squillace</pubPlace>
+          <date TEIform="date" value="">1989</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">277, 279.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.02005zzzzz" type="bib">Ott.lat.2005</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="01/02/2011"/>
+          <persName>E.Guerra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">29/08/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="08/02/2011">E.Guerra</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="29/08/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Plauto illustrato fra Medioevo e Umanesimo, </title>
+          <author reg="person">Fachechi, Grazia Maria</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2002</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Atti dell’Accademia Nazionale dei Lincei. Rendiconti. Classe di scienze morali, storiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">s. 9, v. 13 (2002) 180-184 passim*, 201, 203, 204, 206, 207, 208, tavv. I-II, IX, 1, X, 1, XI, 1.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.02005zzzzz" type="bib">Ott.lat.2005</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="17/05/2011"/>
+          <persName>E.Licursi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">29/08/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2011">E.Licursi</persName>
+              <persName n="17/05/2011">E.Licursi</persName>
+              <persName n="17/05/2011">E.Licursi</persName>
+              <persName n="17/05/2011">E.Licursi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="29/08/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Riuinus. Un problema tra filologia plautina e lessicografia,</title>
+          <author reg="person">Danese, Roberto M.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2001-2002</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi urbinati. B: scienze umane e sociali</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">71-72 (2001-2002) 376. </note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.02005zzzzz" type="bib">Ott.lat.2005</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.2005</ptr>
+        <creation>
+          <date TEIform="date" value="14/03/2014"/>
+          <persName>MF.Migliori</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">29/08/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="29/08/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

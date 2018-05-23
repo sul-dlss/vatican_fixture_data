@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Reg.lat." rend="Reg.lat.015120000" type="ms">Reg.lat.1512</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>gotica</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <author n="c. 400" reg="person" type="internal">Vegetius Renatus, Flavius,</author>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="384-322 a.C." rend="Opere spurie e dubbie" type="person" role="internal">Aristoteles,</name>
+                  <origPlace>
+                    <country>Francia</country>
+                    <region>Parigi</region>
+                  </origPlace>
+                  <origDate notAfter="1350" notBefore="1326">sec. XIV med</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>280</height>
+                  <width>195</width>
+                </dimensions>
+                <extent>II. 54. I</extent>
+                <collation>
+                  <p>7 fascicoli: 1-6 quaternioni (1-8, 9-16, 17-24, 25-32, 33-40, 41-48), 7 ternione (49-54); ff. 51v-53r vacui.</p>
+                </collation>
+                <layout>
+                  <p>unica colonna; ll. 34 /rr. 35; mm 198x120; rigatura a colore (tipo Derolez 13). </p>
+                </layout>
+                <msWriting>
+                  <p>copista unico che interviene anche nei margini inserendo glosse in textualis di modulo più piccolo rispetto al corpo del testo (per esempio a f. 42r).</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>6 iniziali istoriate in cui prevale una gamma coloristica incentrata sull’azzurro, il rosa, il rosso e l’oro in foglia, completate da una decorazione marginale costituita da barrette in foglia d’oro e azzurro da cui nascono foglie di vite animate da drôleries (ff. 3v, 12v, 21r, 39r, 44v, 48r); 1 iniziale ornata: corpo in azzurro con decorazioni in biacca e nell’occhiello motivi fitomorfi in rosa e azzurro su fondo in foglia d’oro che proseguono lungo i margini (f. 4r); numerose iniziali minori rosse con filigrana blu e blu con filigrana rossa; segni di paragrafo filigranati; segni di completamento in inchiostro rosso e blu; titoli rubricati.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>su assi di cartone con coperta in marocchino rosso; sui piatti filettatura in oro; dorso a cinque nervi, sul primo tassello partendo dall’alto lo stemma impresso in oro di papa Pio XI (1846-1878); sovraccoperta in cartoncino rosso scuro.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>manuale, a inchiostro in numeri arabi in alto a destra (fino a f. 51).</p>
+                </foliation>
+                <condition>
+                  <p>buono.</p>
+                </condition>
+                <signatures>tracce di segnatura alfanumerica in inchiostro bruno chiaro posizionata in basso nel margine esterno (ad esempio ai ff. 27-28).</signatures>
+                <catchwords>costanti, in inchiostro bruno al centro del margine inferiore.</catchwords>
+              </physDesc>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Reg.lat.1512</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Reg.lat." rend="Reg.lat.015120001r-49r" type="ms">Reg.lat.1512</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-49r</locus>
+                  <author n="c. 400" reg="person" type="internal">Vegetius Renatus, Flavius,</author>
+                  <title type="title">Epitoma rei militaris</title>
+                  <title type="uniform">Epitoma rei militaris (Vegetius Renatus, Flavius, c. 400)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Reg.lat.1512</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Reg.lat." rend="Reg.lat.015120049r-51r" type="ms">Reg.lat.1512</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>49r-51r</locus>
+                  <author n="384-322 a.C." key="Opere spurie e dubbie" reg="person" type="internal">Aristoteles,</author>
+                  <title type="supplied">Secretum secretorum</title>
+                  <title type="uniform">Secretum secretorum (Aristoteles, 384-322 a.C. Opere spurie e dubbie)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Reg.lat.1512</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The transmission of Vegetius's Epitoma rei militaris,</title>
+          <author reg="person">Reeve, Michael D.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Aevum. Rassegna di scienze storiche, linguistiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">74 (2000) 280, 294-297, 354.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Reg.lat." rend="Reg.lat.01512zzzzz" type="bib">Reg.lat.1512</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Reg.lat.1512</ptr>
+        <creation>
+          <date TEIform="date" value="24/03/2009"/>
+          <persName>L.Falconi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="17/10/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Un altro codice per Zanobi da Strada,</title>
+          <title type="title" level="u">L’antiche e le moderne carte. Studi in memoria di Giuseppe Billanovich, a c. di Antonio Manfredi e Carla Maria Monti (Medioevo e Umanesimo, 112),</title>
+          <author n="1961-" reg="person">Manfredi, Antonio,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <pubPlace>Padova</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">379.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Reg.lat." rend="Reg.lat.01512zzzzz" type="bib">Reg.lat.1512</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Reg.lat.1512</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>P.Decaro</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="06/03/2014">L.Annicelli</persName>
+              <persName n="17/10/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>
