@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VI.001880000" type="ms">Chig.H.VI.188</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <heraldry>stemma della famiglia napoletana Di Capua al centro del margine inferiore delle due pagine di incipit (ff. 1r, 43r).</heraldry>
+                <scriptTerm>umanistica</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <author n="86-c. 34 a.C" reg="person" type="internal">Sallustius Crispus, Gaius,</author>
+                  <title type="uniform">Opere (Sallustius Crispus, Gaius, 86-c. 34 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, I, p. 338-339; Vedere i classici, p. 328-329.</bibl>
+                  <name n="86-c. 34 a.C." rend="Opere spurie e dubbie" type="person" role="internal">Sallustius Crispus, Gaius,</name>
+                  <name n="106-43 a.C." rend="Opere spurie e dubbie" type="person" role="internal">Cicero, Marcus Tullius,</name>
+                  <name n="1599-1667" type="person" role="owner">Alexander PP. VII,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia meridionale</region>
+                    <settlement>Napoli</settlement>
+                  </origPlace>
+                  <origDate notAfter="1500" notBefore="1470">sec. XV </origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>182</height>
+                  <width>165</width>
+                </dimensions>
+                <extent>III. 133</extent>
+                <collation>
+                  <p>13 fascicoli: 1-13 quinioni (ff. 1-10, 11-20, 21-30, 31-40 [+2], 43-52, 53-62, 63-72, 73-82, 83-92, 93-102, 103-112, 113-122, 123-132); f. 42v vacuo.</p>
+                </collation>
+                <layout>
+                  <p>unica colonna; rr. 25 /ll. 25 ; mm 174x83; rigatura a secco (tipo Derolez 36).</p>
+                </layout>
+                <msWriting>
+                  <p>copista unico che verga il testo in inchiostro bruno.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>2 pagine di incipit (ff. 1r, 43r) con fregio a bianchi girari su fondo policromo (blu, verde, rosa), abitato da elementi fito-zoomorfi, putti e un ritratto di profilo entro una cornice polilobata realizzata in foglia d’oro al centro del margine esterno; il fregio si sviluppa all’interno di un doppio listello in foglia d’oro, usata anche per arricchire l’intreccio a bianchi girari; a bas-de-page, entro un clipeo sorretto da putti, lo stemma della famiglia Di Capua; 1 miniatura tabellare posizionata a metà dello specchio scrittorio con cornice in foglia d’oro, su fondo blu con filettature in biacca è rappresentata una mappa T-O (f. 56r); 4 iniziali maggiori così suddivise: le prime due a bianchi girari su fondo policromo con corpo in foglia d’oro (ff. 1r, 43r), le ultime due con figura inscritta su campo blu rabescato in biacca e iniziale con corpo in foglia d’oro arricchita da bianchi girari su fondo policromo e brevi prolungamenti lungo il margine e un dischetto in foglia d’oro cigliato (ff. 123r, 125v); numerose iniziali con corpo in foglia d’oro su un campo bipartito azzurro e porpora; titoli in foglia d’oro.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>su assi di legno con coperta in marocchino rosso; sui piatti doppia filettatura in oro e al centro impresso in oro sul piatto anteriore e posteriore lo stemma di papa Alessandro VII (1655-1667); dorso a cinque nervi, sui tasselli impressioni in oro con i simboli dell’emblema araldico della famiglia Chigi; fermagli metallici; tagli dorati.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>doppia numerazione: manuale, a cifre arabe in inchiostro bruno sul margine superiore esterno; meccanica, a cifre arabe nel margine inferiore destro.</p>
+                </foliation>
+                <condition>
+                  <p>ottimo; pergamena sottile e ben lavorata; sporadiche macchie di umidità.</p>
+                </condition>
+                <signatures>rifilata; tracce di presenza alfanumerica in inchiostro bruno (per esempio a f. 77r).</signatures>
+                <catchwords>spesso rifilati, in inchiostro bruno, posizionati orizzontalmente sul margine inferiore interno.</catchwords>
+              </physDesc>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VI.188</ptr>
+        <creation>
+          <date TEIform="date" value="10/05/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/05/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VI.001880001r-42r" type="ms">Chig.H.VI.188</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-42r</locus>
+                  <author n="86-c. 34 a.C" reg="person" type="internal">Sallustius Crispus, Gaius,</author>
+                  <title type="supplied">De coniuratione Catilinae</title>
+                  <title type="uniform">De coniuratione Catilinae (Sallustius Crispus, Gaius, 86-c. 34 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VI.188</ptr>
+        <creation>
+          <date TEIform="date" value="10/05/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VI.001880043r-122v" type="ms">Chig.H.VI.188</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>43r-122v</locus>
+                  <author n="86-c. 34 a.C" reg="person" type="internal">Sallustius Crispus, Gaius,</author>
+                  <title type="supplied">Bellum Iugurthinum</title>
+                  <title type="uniform">De bello Iugurthino (Sallustius Crispus, Gaius, c. 86-34 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VI.188</ptr>
+        <creation>
+          <date TEIform="date" value="10/05/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VI.001880123r-125v" type="ms">Chig.H.VI.188</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>123r-125v</locus>
+                  <author n="86-c. 34 a.C." key="Opere spurie e dubbie" reg="person" type="internal">Sallustius Crispus, Gaius,</author>
+                  <title type="supplied">Invectiva in Ciceronem</title>
+                  <title type="uniform">Invectiva in Ciceronem (Sallustius Crispus, Gaius, 86-c. 34 a.C. Opere spurie e dubbie)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VI.188</ptr>
+        <creation>
+          <date TEIform="date" value="10/05/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VI.001880125v-131v" type="ms">Chig.H.VI.188</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>125v-131v</locus>
+                  <author n="106-43 a.C." key="Opere spurie e dubbie" reg="person" type="internal">Cicero, Marcus Tullius,</author>
+                  <title type="supplied">Invectiva in Sallustium</title>
+                  <title type="uniform">Responsio ad orationem C. Sallustii Crispi (Cicero, Marcus Tullius, 106-43 a.C. Opere spurie e dubbie)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VI.188</ptr>
+        <creation>
+          <date TEIform="date" value="10/05/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Illustrazioni antiche dei testi classici in età medievale ed umanistica. Note in margine a una mostra, </title>
+          <author reg="person">De Lachenal, Lucilla</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace/>
+          <date TEIform="date" value="">1997</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Atti dell’Accademia Nazionale dei Lincei. Rendiconti. Classe di scienze morali, storiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">s. 9, v. 8 (1997) 568.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VI.00188zzzzz" type="bib">Chig.H.VI.188</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VI.188</ptr>
+        <creation>
+          <date TEIform="date" value="10/03/2009"/>
+          <persName>L.Scappaticci</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/07/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/07/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les villes des cartographes: vignettes urbaines et réseaux urbains dans les mappemondes de l'Occident médiéval,</title>
+          <author reg="person">Arnaud, Pascal</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Mélanges de l'École française de Rome. Moyen Âge</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">96 (1984) 567, fig. 7.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.H.VI.00188zzzzz" type="bib">Chig.H.VI.188</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.H.VI.188</ptr>
+        <creation>
+          <date TEIform="date" value="06/07/2011"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">26/07/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="26/07/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

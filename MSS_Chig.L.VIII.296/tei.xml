@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.002960000" type="ms">Chig.L.VIII.296</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>&lt;gotica&gt;</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <textLang n="Latino." rend="ita">Italiano.</textLang>
+                  <note type="note">La datazione del codice è assai controversa dato che prestigiosi paleografi hanno sostenuto una cronologia al terzo quarto del XIV secolo mentre gli storici dell'arte hanno indicato gli anni quaranta come limite stilistico dell'esecuzione.</note>
+                  <name n="sec. XIV" type="person" role="artist">Pacino di Buonaguida,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1341-1348">sec. XIV med</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>370</height>
+                  <width>260</width>
+                </dimensions>
+                <extent>ff. III, 332, III (guardie cartacee)</extent>
+                <collation>
+                  <p>43 fascicoli: 1 ternione, 4 quaternioni, 1 ternione, 8 quaternioni, 1 ternione, 1 quaternione, 1 ternione, 4 quaternioni, 1 ternione, 8 quaternioni, 1 binione e 12 quaternioni.</p>
+                </collation>
+                <layout>
+                  <p>Su due colonne</p>
+                </layout>
+                <msWriting>
+                  <p>Vergato da tre mani: 1) ff. 16r-129v. 146r-235v, 2) ff. 130r-145v e 3) 236r-331r.</p>
+                </msWriting>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>C. Frugoni (cur.), Il Villani illustrato. Firenze e l'Italia medievale nelle 253 immagini del ms. Chigiano L VIII 296 della Biblioteca Vaticana, Firenze 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="02/02/2017">A.Berloco</persName>
+              <persName n="03/02/2017">A.Berloco</persName>
+              <persName n="13/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.002960002r-331r" type="ms">Chig.L.VIII.296</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>2r-331r</locus>
+                  <author n="1276-1348" reg="person">Villani, Giovanni,</author>
+                  <title type="title">Nuova cronica</title>
+                  <title type="uniform">Cronica (Villani, Giovanni, 1276-1348)</title>
+                  <textLang n="Latino." rend="ita">Italiano.</textLang>
+                  <note type="note">Ff. 2r-15v: indici dei libri che compongono l'opera.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>C. Frugoni (cur.), Il Villani illustrato. Firenze e l'Italia medievale nelle 253 immagini del ms. Chigiano L VIII 296 della Biblioteca Vaticana, Firenze 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="03/02/2017">A.Berloco</persName>
+              <persName n="25/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il mito di Marte a Firenze e la “pietra scema”. Memorie, riti, ascendenze,</title>
+          <author reg="person">Gatti, Luca</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1995</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rinascimento. Rivista dell’Istituto di studi sul Rinascimento</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">35 (1995) 217, figg. 2-4.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="21/04/2009"/>
+          <persName>L.Scappaticci</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il gesto grafico e la sua raffigurazione (secoli XIII-XIV), </title>
+          <author reg="person">Mastruzzo, Antonino</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1993</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scrittura e civiltà</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">17 (1993) 281.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="21/04/2009"/>
+          <persName>L.Scappaticci</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">L’immagine dei pellegrini: la Veronica, in Gli Anni Santi nella Storia. </title>
+          <title type="title" level="u">Atti del Congresso Internazionale, </title>
+          <author n="1938-" reg="person">Morello, Giovanni,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Cagliari</pubPlace>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">87.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="21/04/2009"/>
+          <persName>L.Scappaticci</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Eine Florentiner Miniaturmalerei in Kempen mit dem Porträt eines Kölner Propstes,</title>
+          <author reg="person">Neuheuser, Hans Peter </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace/>
+          <date TEIform="date" value="">1993</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Wallraf-Richartz-Jahrbuch</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">54 (1993) 121-122, fig. 19.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="21/04/2009"/>
+          <persName>L.Scappaticci</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le scritture parlate. Qualche ipotesi sulla redazione delle cronache volgari nel Trecento dopo l’edizione critica della “Nuova Cronica” di Giovanni Villani, </title>
+          <author reg="person">Ragone, Franca</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace/>
+          <date TEIform="date" value="">1991</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Archivio storico italiano</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">149 (1991) 804.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="21/04/2009"/>
+          <persName>L.Scappaticci</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il Palatino 313 della Biblioteca Nazionale di Firenze: alcune considerazioni sull’illustrazione della “Commedia” a Firenze nel Trecento,</title>
+          <author reg="person">Spagnesi, Alvaro</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1996</date>
+          <date TEIform="date">1997</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di storia della miniatura</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">1-2 (1996-1997) 313, 319.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="21/04/2009"/>
+          <persName>L.Scappaticci</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Orientamenti per la datazione e la localizzazione delle cosiddette litterae textuales italiane ed iberiche nei secoli XII-XIV, </title>
+          <author n="1942-2002" reg="person">Supino Martini, Paola, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scriptorium</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">54 (2000) 31.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="21/04/2009"/>
+          <persName>L.Scappaticci</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Contours of Tolerance: Jews and the Corpus Domini Altarpiece in Urbino,</title>
+          <author reg="person">Katz, Dana E.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2003</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Art Bulletin</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">84 (2003) 652, fig. 9.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="17/11/2009"/>
+          <persName>FR.Sinagra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title" level="u">Ezzelini. Signori della Marca nel cuore dell'Impero di Federico II [catalogo di mostra, Bassano del Grappa, Palazzo Bonaguro, 16 settembre 2001-6 gennaio 2002, a cura di Carlo Bertelli e Giovanni Marcadella],</title>
+          <title type="title">"... la nuova Chronica nella quale si tracta di più cose passate e specialmente dell'origine e cominciamento della città di Firenze...", Giovanni Villani (1276-1348),</title>
+          <author n="1947-" reg="person">Ceresa, Massimo,</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Comune di Bassano del Grappa</publisher>
+          <pubPlace>Bassano del Grappa</pubPlace>
+          <date TEIform="date">2001</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">178 e con ill. del f. 91r.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2010"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="03/03/2010">C.Montuschi</persName>
+              <persName n="06/06/2012">R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="10/02/2014">A.Cantarella</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Dal nostro inviato a Firenze. La Cronaca figurata di Giovanni Villani,</title>
+          <author n="1940-" reg="person">Frugoni, Chiara,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2006</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Alumina</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">14 (2006) 17, 19*.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="30/11/2010"/>
+          <persName>M.Patriarca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">«Poi che ponesti mano alla predella». Studio sui freni per cavalli ai tempi di Dante,</title>
+          <author reg="person">Arquint, Patrizia</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi di filologia italiana</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">62 (2004) 83.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="17/01/2011"/>
+          <persName>FR.Lecce</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">L'ultima parte della "Nuova Cronica" di Giovanni Villani,</title>
+          <author reg="person">Porta, Giuseppe</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi di filologia italiana</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">41 (1983) 17, 19, 23.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="15/07/2011"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Problemi di lingua, di grafia, di interpunzione nell'allestimento dell'edizione critica,</title>
+          <title type="title">La critica del testo. Atti del Convegno di Lecce, 22-26 ott. 1984,</title>
+          <author n="1920-2004" reg="person">Castellani, Arrigo Ettore,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">231, 235.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="15/07/2011"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il Carroccio nella vita comunale italiana,</title>
+          <author reg="person">Zug Tucci, Hannelore</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Quellen und Forschungen aus italienischen Archiven und Bibliotheken</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">65 (1985) 5, 6, 26.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="15/07/2011"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Chronique de Villani.</title>
+          <title type="title" level="u">Monument de l'histoire: construire, reconstruire le Palais des Papes, XIVe-XXe siècle [catalogo di mostra, Avignon, Palais des Papes, 29 giugno-29 settembre 2002]</title>
+          <respStmt>
+            <resp>
+              <name reg="sac.," n="1933-" type="person">Duval-Arnould, Louis,</name>
+              <name type="person">Vingtain, Dominique</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>[RMG-Palais des Papes],</publisher>
+          <pubPlace>[Avignon] :</pubPlace>
+          <date TEIform="date">[2002].</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 198 e con ill. del f. 214v.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="24/02/2012"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Der Chronist Giovanni Villani, die trojanische Herkunft und die Vita Caroli Magni des Hilarion aus Verona,</title>
+          <author reg="person">Strobl, Wolfgang</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title">Italia medioevale e umanistica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">49 (2008) 336, 342.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2012"/>
+          <persName>R.Pazzini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le manuscrit gothique italien,</title>
+          <title type="title" level="u">Liber librorum, 5000 ans d'art du livre,</title>
+          <author n="1910-2000" reg="person">Michelini Tocci, Luigi, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Bruxelles</pubPlace>
+          <date TEIform="date" value="">1972</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">301 (cit.: Chigi VIII, 296). </note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="05/11/2013"/>
+          <persName>F.Potenza</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="19/11/2013">A.Rita</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Censimento dei manoscritti delle Cronache di Giovanni, Matteo e Filippo Villani: I,</title>
+          <author reg="person">Porta, Giuseppe</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1976</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi di filologia italiana</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">34 (1976) 66.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="26/11/2013"/>
+          <persName>F.Potenza</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Der Reiter am Zürcher Grossmünster,</title>
+          <author n="1920-2006" reg="person">Reinle, Adolf,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1969</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Zeitschrift für schweizerische Archäologie und Kunstgeschichte</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">26 (1969) 38, figg. 21-22.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="26/11/2013"/>
+          <persName>F.Potenza</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/11/2013">F.Potenza</persName>
+              <persName n="02/12/2013">A.Rita</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il progetto per il cavallo di bronzo per Francesco Sforza,</title>
+          <author n="1923-1994" reg="person">Spencer, John R. (John Richard),</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1973</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Arte lombarda</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">18 (1973) 33.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="26/11/2013"/>
+          <persName>F.Potenza</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="02/12/2013">A.Rita</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Immagini e parole: il programma iconografico degli affreschi sistini della Vaticana,</title>
+          <title type="title" level="u">La Biblioteca Vaticana tra riforma cattolica, crescita delle collezioni e nuovo edificio (1535-1590), a cura di M. Ceresa (Storia della Biblioteca Apostolica Vaticana, 2),</title>
+          <author reg="person">Frascarelli, Dalma</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2012</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">359 (Fig.), 376.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="13/12/2013"/>
+          <persName>L.Annicelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/12/2013">L.Annicelli</persName>
+              <persName n="13/12/2013">L.Annicelli</persName>
+              <persName n="13/12/2013">L.Annicelli</persName>
+              <persName n="07/02/2014">L.Annicelli</persName>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Paleografia e codicologia latina,</title>
+          <title type="title" level="u">La Biblioteca Apostolica Vaticana luogo di ricerca al servizio degli studi. Atti del Convegno Roma, 11-13 novembre 2010, a cura di M.Buonocore - A.M.Piazzoni (Studi e testi, 468),</title>
+          <author reg="person">Tristano, Caterina</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2011</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">80.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="16/01/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Storia dell'arte e della miniatura (secoli V-XIV),</title>
+          <title type="title" level="u">La Biblioteca Apostolica Vaticana luogo di ricerca al servizio degli studi. Atti del Convegno Roma, 11-13 novembre 2010, a cura di M.Buonocore - A.M.Piazzoni (Studi e testi, 468),</title>
+          <author n="1944-" reg="person">Pace, Valentino,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2011</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">246.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Pacino di Bonaguida,</title>
+          <title type="title" level="u">Dizionario biografico dei miniatori italiani. Secoli IX-XVI, a cura di M. Bollati,</title>
+          <author reg="person">Labriola, Ada</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">841.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Chig." rend="Chig.L.VIII.00296zzzzz" type="bib">Chig.L.VIII.296</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Chig.L.VIII.296</ptr>
+        <creation>
+          <date TEIform="date" value="27/02/2014"/>
+          <persName>T.DiStefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/11/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

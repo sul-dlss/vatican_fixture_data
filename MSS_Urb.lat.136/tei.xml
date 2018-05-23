@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.001360000" type="ms">Urb.lat.136</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <heraldry>Al f. [I]r stemma ducale di Federico di Montefeltro, post 1474.</heraldry>
+              </head>
+              <msContents>
+                <p>"In hoc codice continentur questiones sancti Thome de Aquino de potentia Dei et sanctus Thomas super tres noturnos psalmorum" (f. [3]v). </p>
+                <overview>
+                  <p>Quaestiones (De potentia; De spiritualibus creaturis); Postilla super Psalmos.</p>
+                </overview>
+                <msItem>
+                  <author rend="s.," n="c. 1225-1274" reg="person" type="internal">Thomas Aquinas,</author>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Stornajolo, Cod. Urb. lat. 1-500, p. 20. </bibl>
+                  <name reg="duca d'Urbino," n="1422-1482" type="person" role="owner">Federico da Montefeltro,</name>
+                  <name reg="sac.," n="1849-1923" type="person" role="external">Stornajolo, Cosimo,</name>
+                  <name type="person" role="external">De la Mare, Albinia Catherine</name>
+                  <name n="m. 1995" type="person" role="external">Marucchi, Adriana,</name>
+                  <name n="c. 1448-c. 1513" type="person" role="artist">Rosselli, Francesco,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate notAfter="1482" notBefore="1474">sec. XV</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>348</height>
+                  <width>242</width>
+                </dimensions>
+                <extent>285</extent>
+                <collation>
+                  <p>30 fascicoli: 1 binione (ff. [1]-[3] [-1]), 2-29 quinioni (ff. [I]-X, XI-XX, XXI-30, 31-40, 41-50, 51-60, 61-70, 71-80, 81-90, 91-100, 101-110, 111-120, 121-130, 131-140, 141-150, 151-160, 161-170, 171-180, 181-190, 191-200, 201-210, 211-220, 221-230, 231-240, 241-250, 251-260, 261-270, 271-280), 30 bifoglio (ff. 281-[282]). Bianchi i ff. [1]r-v, [3]r, 150v, 281v-282v.</p>
+                </collation>
+                <layout>
+                  <p>Testo su due colonne; rr. 48/ll. 48, la scrittura inizia sopra la prima riga. Rigatura a colore (tipo Derolez 51). Specchio rigato (f. 33r): 348 (39+213+96) x 242 (26+6+66+16+66+6+57) mm. Presentano rigatura anche i ff. [1]-[2], 150v, 281v-282v. Visibili tre fori di costruzione su ciascun foglio, due dei quali lungo il margine interno, rispettivamente al di sopra e al di sotto delle righe delimitanti lo specchio scrittorio, e uno nell'angolo inferiore esterno.</p>
+                </layout>
+                <msWriting>
+                  <p>Umanistica di unica mano in inchiostro bruno. Albinia de la Mare attribuisce al medesimo copista anche l'Urb. lat. 41 e l'Urb. lat. 398 (cfr. De la Mare, New research, p. 449 nota 223, e Ead., Vespasiano da Bisticci, p. 90 nota 45). Alcune glosse marginali di mano coeva. </p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>1 antiporta (f. [3]v, mm 220x150) costituita da una corona fitomorfa policroma (verde, blu, rosa, giallo-ocra) con globi aurei, disposta attorno a un clipeo a doppia cornice, una a fondo rosso e filigrana oro, l’altra a nastro verde con filigrana oro, all’interno il contenuto del manoscritto è vergato in lettere capitali su linee alternativamente in oro e in blu. 1 pagina di incipit (f. [I]r) con fregio fitomorfo policromo (verde, rosa, blu, giallo) e globi aurei, disposto su tre margini. Esso è percorso da un doppio listello aureo che si struttura come una sequenza di intrecci geometrici e cornici polilobate a fondo policromo (verde, blu, rosso); a bas-de-page, due angeli vestiti di indaco lumeggiato in oro affiancano inginocchiati una complessa cornice a intrecci geometrici che mostra lo stemma ducale di Federico da Montefeltro. 3 iniziali maggiori (mm 35x36, media), 1 abitata e con corpo in foglia d’oro (f. [I]r), su campo blu filigranato in oro, 2 in blu e in rosso con filigrana del colore opposto (ff. 151r, 152v); numerose iniziali medie in rosso e blu con filigrana del colore opposto; capoversi a bandiera in blu e in rosso nella Tabula argumentorum; rubricati titoli e titoli correnti nel margine superiore.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>Coperta in pelle rossa con impressa cornice dorata a triplo filetto, su quadranti di cartone. Dorso con 6 compartimenti, delimitati da 5 doppi nervi. Nel primo compartimento antica segnatura "199" impressa in oro; negli altri compartimenti elementi araldici (un monte di sei cime sormontato da una stella a sei punte) di Alessandro VII (1655-1667) impressi in oro e inseriti in una cornice dorata a doppio filetto. </p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>Coeva, rubricata, nell'angolo superiore esterno in corrispondenza della doppia riga della giustificazione, in parte in numeri romani, in parte in numeri arabi: i primi 3 fogli (che nella descrizione si indicano come [1]-[3]) e il f. [I] non sono numerati; seguono i ff. II-XXV; il f. [26] non presenta numerazione; dal f. 27 al f. 281 la numerazione presenta alcune irregolarità (i ff. 29-30 sono numerati 39-40; il f. 110 è ripetuto due volte; il f. 130 è seguito dal f. CXXXI; il f. 148 è ripetuto due volte); l'ultimo foglio non è numerato.</p>
+                </foliation>
+                <signatures>Segnatura a registro nell'angolo inferiore esterno, spesso eliminata dalla rifilatura, sui primi 6 fogli di ciascun quinione, del tipo a1-a6 (ff. [I]-VI), b1-b6 (ff. XI-XVI) etc.</signatures>
+                <catchwords>Richiami orizzontali al centro del margine inferiore, nell'intercolumnio, con due eccezioni: al f. Xv richiamo verticale inserito nella colonnina interna, al f. 50v nell'angolo inferiore interno.</catchwords>
+              </physDesc>
+              <history>
+                <p>Il codice è appartenuto a Federico da Montefeltro, nella cui biblioteca era segnato 141 e 142, come risulta dal cosiddetto "Indice vecchio" (Urb. lat. 1761; cf. Stornajolo, Cod. Urb. Graeci, p. LXXXI: “141. Thomae Aquinatis Quaestiones de Potentia Dei nu(mer)o LXXXXI. 142. Thomae Aquinatis super III.es nocturnos psalmorum. Codex ornatissimum In Croceo”). La presenza dello stemma ducale di Federico (f. [I]r) permette di datare il codice post 1474, anno in cui questi ottenne il titolo di duca. La collezione dei duchi di Urbino giunse in Vaticana nel 1657. L'antica segnatura "199", impressa in oro sul primo compartimento del dorso e segnata a penna nell'angolo superiore interno di f. [I]r, è relativa all'inventario vaticano di Stefano Gradi (Urb. lat. 1388; cfr. Stornajolo, Cod. Urb. lat. 1001-1779, p. III). Timbri della Biblioteca Apostolica Vaticana ai ff. [2]r, [3]r, [I]r, 281r.</p>
+              </history>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.136</ptr>
+        <creation>
+          <date TEIform="date" value="24/10/2016"/>
+          <persName>I.Maggiulli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/09/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="31/10/2016">I.Maggiulli</persName>
+              <persName n="31/10/2016">I.Maggiulli</persName>
+              <persName n="31/10/2016">E.Ponzi</persName>
+              <persName n="31/10/2016">E.Ponzi</persName>
+              <persName n="31/10/2016">E.Ponzi</persName>
+              <persName n="16/11/2016">E.Ponzi</persName>
+              <persName n="21/11/2016">I.Maggiulli</persName>
+              <persName n="28/11/2016">MG.Critelli</persName>
+              <persName n="28/11/2016">MG.Critelli</persName>
+              <persName n="28/11/2016">MG.Critelli</persName>
+              <persName n="28/11/2016">MG.Critelli</persName>
+              <persName n="28/11/2016">I.Maggiulli</persName>
+              <persName n="28/11/2016">I.Maggiulli</persName>
+              <persName n="29/11/2016">MG.Critelli</persName>
+              <persName n="29/11/2016">I.Maggiulli</persName>
+              <persName n="29/11/2016">MG.Critelli</persName>
+              <persName n="29/11/2016">MG.Critelli</persName>
+              <persName n="29/11/2016">I.Maggiulli</persName>
+              <persName n="01/12/2016">MG.Critelli</persName>
+              <persName n="01/12/2016">MG.Critelli</persName>
+              <persName n="01/12/2016">MG.Critelli</persName>
+              <persName n="01/12/2016">MG.Critelli</persName>
+              <persName n="01/12/2016">MG.Critelli</persName>
+              <persName n="14/12/2016">I.Maggiulli</persName>
+              <persName n="08/01/2017">I.Maggiulli</persName>
+              <persName n="08/01/2017">I.Maggiulli</persName>
+              <persName n="23/01/2017">I.Maggiulli</persName>
+              <persName n="26/01/2017">E.Ponzi</persName>
+              <persName n="03/02/2017">I.Maggiulli</persName>
+              <persName n="22/02/2017">I.Maggiulli</persName>
+              <persName n="03/03/2017">E.Ponzi</persName>
+              <persName n="06/03/2017">I.Maggiulli</persName>
+              <persName n="25/09/2017">MG.Critelli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.001360002r-v" type="ms">Urb.lat.136</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>2r-v</locus>
+                  <title type="title">Tabula p(rese)ntis voluminis de potentia Dei editi a sancto Thoma de Aquino ordinis fratru(m) p(re)dicatorum</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.136</ptr>
+        <creation>
+          <date TEIform="date" value="28/11/2016"/>
+          <persName>I.Maggiulli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">29/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="29/11/2016">I.Maggiulli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>S. Thomae Aquinatis Quaestiones disputatae, II: De potentia, De anima, De spiritualibus creaturis [...], cura et studio P. Bazzi, M. Calcaterra, T. S. Centi, E. Odetto, P.M.Pession, Taurini-Romae 1965, p. 367-415.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.001360125v-150r" type="ms">Urb.lat.136</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>125v-150r</locus>
+                  <author rend="s.," n="c. 1225-1274" reg="person" type="internal">Thomas Aquinas,</author>
+                  <title type="title">Questiones sancti Thomae de Aquino ordinis predicatorum et primo querendum ut de spiritualibus creaturis utrum substantia spiritualis sit composita ex materia et forma</title>
+                  <title type="supplied">De spiritualibus creaturis.</title>
+                  <title type="uniform">Quaestiones disputatae (Thomas Aquinas, s., c. 1225-1274). De spiritualis creaturis</title>
+                  <incipit type="text">Questio est de spiritualis creaturis et primo</incipit>
+                  <explicit type="text">actus et potentie ut supra dictum est</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name type="person" role="external">Bazzi, P.</name>
+                  <name reg="O.P.," n="n. 1924" type="person" role="external">Calcaterra, Mannes M.,</name>
+                  <name reg="O.P." type="person" role="external">Centi, Tito S.,</name>
+                  <name type="person" role="external">Odetto, E.</name>
+                  <name reg="O.P.," n="n. 1907" type="person" role="external">Pession, Paolo Maria,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.136</ptr>
+        <creation>
+          <date TEIform="date" value="24/10/2016"/>
+          <persName>I.Maggiulli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">28/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="24/10/2016">I.Maggiulli</persName>
+              <persName n="25/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="31/10/2016">I.Maggiulli</persName>
+              <persName n="31/10/2016">MG.Critelli</persName>
+              <persName n="28/11/2016">I.Maggiulli</persName>
+              <persName n="28/11/2016">I.Maggiulli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Sancti Thomae Aquinatis [...] opera omnia [...], XIV, Parmae 1863, p. 148-353.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.001360151r-281r" type="ms">Urb.lat.136</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>151r-281r</locus>
+                  <author rend="s.," n="c. 1225-1274" reg="person" type="internal">Thomas Aquinas,</author>
+                  <title type="title">Apostilla sancti Thomae de Aquino ordinis fratrum predicatorum super psalmos David regis usque ad tercium nocturnum inclusive et primo incipit prologus in expositione predicta feliciter</title>
+                  <title type="supplied">In Psalmos Davidis expositio aurea.</title>
+                  <title type="supplied">Postilla super Psalmos.</title>
+                  <title type="uniform">Reportationes (Thomas Aquinas, s., c. 1225-1274). In Psalmos</title>
+                  <incipit type="preface" n="(f. 151r)">In omni opere suo dedit confessionem (f. 151r)</incipit>
+                  <incipit type="text" n="(f. 152v)">Beatus vir [...]. Qui distinguitur contra totum opus (f. 152v)</incipit>
+                  <explicit type="preface" n="(f. 152v)">de prima decade in qua premittitur psalmus iste (f. 152v)</explicit>
+                  <explicit type="text" n="(f. 281r)">unde non possunt nisi diligere eum (f. 281r)</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Il codice è uno dei soli 4 testimoni rimasti del commentario sui Salmi di S. Tommaso ed è indicato con la sigla "V1" da L.-J. Bataillon, Thomas d'Aquin, lecteur de Guillaum Breton, p. 579-583. E' invece citato come testimone "V2" della famiglia F nel lavoro preparatorio a un'edizione critica del testo (finora mai realizzata) da M. Morard, Les commentaire des Psaumes de Saint Thomas d'Aquin, p. 194, 195.</note>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.136</ptr>
+        <creation>
+          <date TEIform="date" value="24/10/2016"/>
+          <persName>I.Maggiulli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/12/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/10/2016">I.Maggiulli</persName>
+              <persName n="25/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="07/11/2016">I.Maggiulli</persName>
+              <persName n="07/11/2016">I.Maggiulli</persName>
+              <persName n="28/11/2016">MG.Critelli</persName>
+              <persName n="28/11/2016">I.Maggiulli</persName>
+              <persName n="01/12/2016">MG.Critelli</persName>
+              <persName n="14/12/2016">I.Maggiulli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>S. Thomae Aquinatis Quaestiones disputatae, II:  De potentia, De anima, De spiritualibus creaturis [...], cura et studio P. Bazzi, M. Calcaterra, T. S. Centi, E. Odetto, P.M.Pession, Taurini-Romae 1965, p. 7-270.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00136Ir-0125v" type="ms">Urb.lat.136</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>Ir-125v</locus>
+                  <author rend="s.," n="c. 1225-1274" reg="person" type="internal">Thomas Aquinas,</author>
+                  <title type="title">Questiones sancti Thomae de Aquino et primo de potentia Dei</title>
+                  <title type="supplied">De potentia.</title>
+                  <title type="uniform">Quaestiones disputatae (Thomas Aquinas, s., c. 1225-1274). De potentia</title>
+                  <incipit type="text">Questio est de potentia Dei et primo</incipit>
+                  <explicit type="text">non est standum sententie Damasceni [...]</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Testo mutilo in fine.</note>
+                  <name type="person" role="external">Bazzi, P.</name>
+                  <name reg="O.P.," n="n. 1924" type="person" role="external">Calcaterra, Mannes M.,</name>
+                  <name reg="O.P." type="person" role="external">Centi, Tito S.,</name>
+                  <name type="person" role="external">Odetto, E.</name>
+                  <name reg="O.P.," n="n. 1907" type="person" role="external">Pession, Paolo Maria,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.136</ptr>
+        <creation>
+          <date TEIform="date" value="24/10/2016"/>
+          <persName>I.Maggiulli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">28/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="24/10/2016">I.Maggiulli</persName>
+              <persName n="25/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="28/10/2016">I.Maggiulli</persName>
+              <persName n="31/10/2016">I.Maggiulli</persName>
+              <persName n="07/11/2016">I.Maggiulli</persName>
+              <persName n="21/11/2016">I.Maggiulli</persName>
+              <persName n="28/11/2016">I.Maggiulli</persName>
+              <persName n="28/11/2016">MG.Critelli</persName>
+              <persName n="28/11/2016">I.Maggiulli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Thomas d’Aquin, lecteur de Guillaume Breton,</title>
+          <author reg="person">Bataillon, Louis-Jacques</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Revue des sciences philosophiques et théologiques</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">78 (1994) 579-583 passim.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00136zzzzz" type="bib">Urb.lat.136</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.136</ptr>
+        <creation>
+          <date TEIform="date" value="17/03/2009"/>
+          <persName>C.DiFazio</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I miniatori fiorentini di Federico,</title>
+          <title type="title" level="u">Federico di Montefeltro. Lo stato le arti la cultura. III,</title>
+          <author reg="person">Garzelli, Annarosa</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">128.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00136zzzzz" type="bib">Urb.lat.136</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.136</ptr>
+        <creation>
+          <date TEIform="date" value="08/03/2011"/>
+          <persName>F.Fioretti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">New Research on Humanistic Scribes in Florence,</title>
+          <title type="title" level="u">Miniatura fiorentina del Rinascimento, 1440-1525. Un primo censimento,</title>
+          <author reg="person">De la Mare, Albinia Catherine</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">449.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00136zzzzz" type="bib">Urb.lat.136</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.136</ptr>
+        <creation>
+          <date TEIform="date" value="08/03/2011"/>
+          <persName>F.Fioretti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Vespasiano da Bisticci e i copisti fiorentini di Federico,</title>
+          <title type="title" level="u">Federico di Montefeltro. Lo stato le arti la cultura. III,</title>
+          <author reg="person">De la Mare, Albinia Catherine</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">90.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00136zzzzz" type="bib">Urb.lat.136</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.136</ptr>
+        <creation>
+          <date TEIform="date" value="08/03/2011"/>
+          <persName>F.Fioretti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le corpus averroicum des manuscrits vaticans Urbinates latins 220 et 221 et Nicoleto Vernia,</title>
+          <title type="title" level="u">Miscellanea Bibliothecae Apostolicae Vaticanae III,</title>
+          <author reg="person">Hissette, Roland</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">1989</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">284, 289.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00136zzzzz" type="bib">Urb.lat.136</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.136</ptr>
+        <creation>
+          <date TEIform="date" value="08/03/2011"/>
+          <persName>F.Fioretti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le commentaire des Psaumes de Saint Thomas d'Aquin,</title>
+          <author reg="person">Morard, Martin</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2002</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Positions des Thèses de l’Ecole Nationale des Chartes</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">(2002) 194, 195.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00136zzzzz" type="bib">Urb.lat.136</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.136</ptr>
+        <creation>
+          <date TEIform="date" value="30/01/2012"/>
+          <persName>D.Valenti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">[Repertorio dei miniatori fiorentini] Francesco Rosselli e bottega, Urb. lat. 136, san Tommaso d'Aquino, Questiones disputatae et expositio in psalmos.</title>
+          <title type="title" level="u">Ornatissimo codice. La biblioteca di Federico di Montefeltro [catalogo di mostra, Urbino, Galleria Nazionale delle Marche, 15 marzo-27 luglio 2008, a cura di Marcella Peruzzi, con la collaborazione di Claudia Caldari, Lorenza Mochi Onori]</title>
+          <author reg="person">Labriola, Ada</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Skira,</publisher>
+          <pubPlace>Milano :</pubPlace>
+          <date TEIform="date">c2008.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 232.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00136zzzzz" type="bib">Urb.lat.136</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.136</ptr>
+        <creation>
+          <date TEIform="date" value="16/04/2012"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">11/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="27/02/2014">T.DiStefano</persName>
+              <persName n="11/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

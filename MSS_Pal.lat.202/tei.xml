@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.002020000" type="ms">Pal.lat.202</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>&lt;scrittura insulare&gt;</scriptTerm>
+              </head>
+              <msContents>
+                <overview>
+                  <p>S. Augustini de Trinitate.</p>
+                </overview>
+                <msItem>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origPlace>
+                    <country>&lt;Germania&gt;</country>
+                    <settlement>&lt;Lorsch&gt;</settlement>
+                  </origPlace>
+                  <origDate notAfter="825" notBefore="776">sec. VIII-IX</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>280</height>
+                  <width>220</width>
+                </dimensions>
+                <extent>ff. 182</extent>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>E. Stevenson, G. B. De Rossi, Codices Palatini Latini Bibliothecae Vaticanae, Romae 1886, p. 38.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_202</ptr>
+        <creation>
+          <date TEIform="date" value="09/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">29/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="29/01/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.002020001r-181v" type="ms">Pal.lat.202</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-181v</locus>
+                  <author rend="s., vesc. d'Ippona," n="354-430" reg="person">Augustinus,</author>
+                  <title type="supplied">De Trinitate</title>
+                  <title type="uniform">De Trinitate (Augustinus, s., vesc. d'Ippona, 354-430)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Ff. 1r-6v: Tabula et epistula ad Aurelium episcopum carthaginensem. Ff. 7r-25r: Lib. I. Ff. 25r-38v: Lib. II. Ff. 38v-50r: Lib. III. Ff. 50ar-66v: Lib. IV. Ff. 66v-75r: Lib. V. Ff. 76r-83r: Lib. VI. Ff. 83r-94v: Lib. VII. Ff. 95r-107v: Lib. VIII. Ff. 107v-109v: Lib. IX (fino alle parole "quomodo amat quod nescit"). Ff. 110r-111v: Lib. X (dalle parole "vivere id quod intelligit"). Ff. 111v-120v: Lib. XI. Ff. 121r-132r: Lib. XII. Ff. 132v-148r: Lib. XIII. Ff. 148r-154v:  Lib. XIV. Ff. 155r-181v: Lib. XV.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>E. Stevenson, G. B. De Rossi, Codices Palatini Latini Bibliothecae Vaticanae, Romae 1886, p. 38.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_202</ptr>
+        <creation>
+          <date TEIform="date" value="09/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="09/01/2017">A.Berloco</persName>
+              <persName n="09/01/2017">A.Berloco</persName>
+              <persName n="12/01/2017">A.Berloco</persName>
+              <persName n="12/01/2017">A.Berloco</persName>
+              <persName n="29/01/2017">A.Berloco</persName>
+              <persName n="31/03/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.002020006r-v" type="ms">Pal.lat.202</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>6r-v</locus>
+                  <author rend="s., vesc. d'Ippona," n="354-430" reg="person">Augustinus,</author>
+                  <title type="supplied">Epistula ad Aurelium episcopum carthaginensem</title>
+                  <title type="uniform">Aurelio [papae] Augustinus (Augustinus, s., vesc. d'Ippona, 354-430)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>E. Stevenson, G. B. De Rossi, Codices Palatini Latini Bibliothecae Vaticanae, Romae 1886, p. 38.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_202</ptr>
+        <creation>
+          <date TEIform="date" value="09/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="09/01/2017">A.Berloco</persName>
+              <persName n="31/03/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Catalogues and Other Manuscripts from Lorsch,</title>
+          <author reg="person">Finch, Chauncey E.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1968</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Transactions and Proceedings of the American Philological Association</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">99 (1968) 167.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00202zzzzz" type="bib">Pal.lat.202</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_202</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>C.Bonizzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Die handschriftliche Überlieferung der Werke des Heiligen Augustinus,</title>
+          <author reg="person">Oberleitner, Manfred</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1969</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Sitzungsberichte der österreichischen Akademie der Wissenschaften. Philosophisch-historische Klasse</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">263 (1969) 179.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00202zzzzz" type="bib">Pal.lat.202</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_202</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>C.Bonizzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Die handschriftliche Überlieferung der Werke des Heiligen Augustinus,</title>
+          <author reg="person">Oberleitner, Manfred</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1970</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Sitzungsberichte der österreichischen Akademie der Wissenschaften. Philosophisch-historische Klasse</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">267 (1970) 323.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00202zzzzz" type="bib">Pal.lat.202</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_202</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>C.Bonizzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">De la pénurie des manuscrits anciens des ouvrages le plus souvent copiés,</title>
+          <title type="title">Sapientiae Doctrina (Mélanges de théologie et de littérature médiévales offerts à Dom Hildebrand Bascour, O.S.B.),</title>
+          <author rend="O.S.B., " n="1915-1998" reg="person">Dekkers, Eligius, </author>
+          <respStmt>
+            <resp>
+              <name type="person">Hoste, A.</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Leuven</pubPlace>
+          <date TEIform="date" value="">1980</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">25.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00202zzzzz" type="bib">Pal.lat.202</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_202</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>C.Bonizzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il Codice Giustiniani Recanati in onciale del sesto secolo ed il passo del «De Trinitate» di S. Agostino in esso contenuto</title>
+          <author reg="person">Pagnin, Beniamino</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1977-78</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Atti e memorie dell'Accademia patavina di scienze, lettere ed arti. Classe di scienze morali, lettere ed arti</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">90 (1977-78) 179.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00202zzzzz" type="bib">Pal.lat.202</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_202</ptr>
+        <creation>
+          <date TEIform="date" value="21/01/2014"/>
+          <persName>C.Bonizzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le biblioteche di Heidelberg in Vaticana: i fondi palatini,</title>
+          <title type="title" level="u">La Vaticana nel Seicento (1590-1700): una biblioteca di biblioteche, a cura di Claudia Montuschi (Storia della Biblioteca Apostolica Vaticana, 3),</title>
+          <author reg="person">Montuschi, Claudia</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2014</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">300.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00202zzzzz" type="bib">Pal.lat.202</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_202</ptr>
+        <creation>
+          <date TEIform="date" value="16/10/2015"/>
+          <persName>T-V.Maffezzoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">S. Aureli Augustini Hipponensisi episcopi Epistulae. Recensuit et commentario critico instruxit Al. Goldbacher. Pars III. Ep. CXXIV-CLXXXIV A (Corpus scriptorum ecclesiasticorum latinorum, 44),</title>
+          <author rend="s., vesc. d'Ippona," n="354-430" reg="person">Augustinus,</author>
+          <respStmt>
+            <resp>
+              <name n="1837-1924" type="person">Goldbacher, Alois, </name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Vienna</pubPlace>
+          <date TEIform="date" value="">1904</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">650 (cit.: cod. Palatinus 202; cit.: H).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00202zzzzz" type="bib">Pal.lat.202</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_202</ptr>
+        <creation>
+          <date TEIform="date" value="18/04/2016"/>
+          <persName>T16.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">S. Aureli Augustini Hipponensisi episcopi Epistulae. Recensuit et commentario critico instruxit Al. Goldbacher. Pars V: praefatio editoris et indices (Corpus scriptorum ecclesiasticorum latinorum, 58),</title>
+          <author rend="s., vesc. d'Ippona," n="354-430" reg="person">Augustinus,</author>
+          <respStmt>
+            <resp>
+              <name n="1837-1924" type="person">Goldbacher, Alois, </name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Vienna</pubPlace>
+          <date TEIform="date" value="">1923</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">LXVIII, XCVII (cit.: Palatinus 202).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00202zzzzz" type="bib">Pal.lat.202</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_202</ptr>
+        <creation>
+          <date TEIform="date" value="28/04/2016"/>
+          <persName>T16.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">28/04/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/04/2016">T16.Berloco</persName>
+              <persName n="28/04/2016">T16.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

@@ -1,0 +1,5294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240000" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Onciale. Carolina</scriptTerm>
+              </head>
+              <msContents>
+                <p>Biblia. Libri sapientiales et didactici</p>
+                <msItem>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origPlace>
+                    <country>Italia. Germania</country>
+                    <region>Italia meridionale</region>
+                    <settlement>Lorsch</settlement>
+                  </origPlace>
+                  <origDate notAfter="900" notBefore="576">sec. VI-VII/IX</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>140</height>
+                  <width>100</width>
+                </dimensions>
+                <extent>176 (+ 128bis)</extent>
+                <palimpsest>
+                  <p>Ff. 10-15, 38-53, 72-176</p>
+                </palimpsest>
+              </physDesc>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="28/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="31/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Biblia Sacra iuxta Latinam Vulgatam versionem, VIII, Romae 1950, pp. 174-209</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240001r-34r" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Onciale</scriptTerm>
+                <scriptTerm>Carolina (ff. 9, 16)</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>1r-34r</locus>
+                  <title type="supplied">Tobias (2, 20 - 14, 17)</title>
+                  <title type="uniform">Biblia. V.T. Tobias. Latino</title>
+                  <incipit>caprarum a[ccipiens] detulisset domi</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="s.," n="342/347-419" type="person" role="translator">Hieronymus,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <country>Germania (ff. 9, 16)</country>
+                    <region>Italia meridionale (ff. 10-15)</region>
+                    <settlement>Lorsch (ff. 9, 16)</settlement>
+                  </origPlace>
+                  <origDate notAfter="625" notBefore="576">sec. VI-VII (ff. 10-15)</origDate>
+                  <origDate notAfter="800" notBefore="701">sec. VIII (ff. 1-8, 17-34)</origDate>
+                  <origDate notAfter="900" notBefore="801">sec. IX (ff. 9, 16)</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), pp. 199-200</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="28/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="31/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M. Annaei Lucani De bello civili libri X, edidit D.R. Shackleton Bailey, Stutgardiae et Lipsiae 1997 (Bibliotheca scriptorum Graecorum et Romanorum Teubneriana), pp. 133-135 (VI, 21-61), 141-142 (VI, 228-267), 179-183 (VII, 458-537)</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240013v, 13r, 12v, 12r, 11v, 11r, 14v, 14r &lt;inf. 2&gt;" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Capitale libraria</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>13v, 13r, 12v, 12r, 11v, 11r, 14v, 14r &lt;inf. 2&gt;</locus>
+                  <author n="39-65" reg="person">Lucanus, Marcus Annaeus,</author>
+                  <title type="supplied">De bello civili (fragmenta)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origDate notAfter="425" notBefore="376">sec. IV-V</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), pp. 212-213</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="23/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Biblia Sacra iuxta Latinam Vulgatam versionem, VIII, Romae 1950, pp. 225-280</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240034r-77v" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Onciale</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>34r-77v</locus>
+                  <title type="supplied">Iudith (1, 1 - 16, 31)</title>
+                  <title type="uniform">Biblia. V.T. Iudith. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="s.," n="342/347-419" type="person" role="translator">Hieronymus,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia meridionale (ff. 38-53, 72-77)</region>
+                  </origPlace>
+                  <origDate notAfter="800" notBefore="701">sec. VIII (ff. 34-37, 54-71)</origDate>
+                  <origDate notAfter="625" notBefore="576">sec. VI-VII (ff. 38-53, 72-77)</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), p. 200</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="28/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="31/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240041r-v, 42r-v &lt;inf. 4&gt;" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Maiuscola</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>41r-v, 42r-v &lt;inf. 4&gt;</locus>
+                  <title type="supplied">Fragmenta medicinalia</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <origDate notAfter="500" notBefore="401">sec. V</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), pp. 213-214</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="27/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/03/2017">D.Surace</persName>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>L. Annaei Senecae Opera quae supersunt. Supplementum, edidit F. Haase, Lipsiae 1902 (Bibliotheca scriptorum Graecorum et Romanorum Teubneriana), pp. 34-35 (nr. XV)</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240043v, 43r &lt;inf. 1&gt;" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Onciale</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>43v, 43r &lt;inf. 1&gt;</locus>
+                  <author n="5/4 a.C.-65 d.C." reg="person">Seneca, Lucius Annaeus,</author>
+                  <title type="supplied">De vita patris (fragmentum)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="sec. III-IV" type="person" role="scribe">Nicianus,</name>
+                  <origDate notAfter="325" notBefore="276">sec. III-IV</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <msWriting>
+                  <p>Sottoscrizione dello scriba a f. 43v, in scrittura corsiva: «Incipit eiusdem Annaei Senecae de uita patris feliciter scribente me Niciano die et lo[co] s[upra]s[criptis]» (cf. J. Fohlen, Recherches, p. 211).</p>
+                </msWriting>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), p. 212</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="23/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/03/2017">D.Surace</persName>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>L. Annaei Senecae Opera quae supersunt. Supplementum, edidit F. Haase, Lipsiae 1902 (Bibliotheca scriptorum Graecorum et Romanorum Teubneriana), pp. 33-34 (nr. XIV)</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240044v, 44r, 39v, 39r, 15v, 15r, 10v, 10r, 40v, 40r &lt;inf. 1&gt;" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Onciale</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>44v, 44r, 39v, 39r, 15v, 15r, 10v, 10r, 40v, 40r &lt;inf. 1&gt;</locus>
+                  <author n="5/4 a.C.-65 d.C." reg="person">Seneca, Lucius Annaeus,</author>
+                  <title type="supplied">De amicitia (fragmenta)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="sec. III-IV" type="person" role="scribe">Nicianus,</name>
+                  <origDate notAfter="325" notBefore="276">sec. III-IV</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), pp. 211-212</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="22/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="23/03/2017">D.Surace</persName>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Hyginus. Fabulae, edidit P. K. Marshall, Monachii et Lipsiae 2002 (Bibliotheca scriptorum Graecorum et Romanorum Teubneriana), pp. IX, 66, 21 (a Sphinge essent) - 67 (fab. LXVII, 5-8), 68-69 (LXVIIIB), 70 (LXIXA), 71 (LXXA), 72 (LXXIA)</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240045v + 38r, 45r + 38v &lt;inf. 3&gt;" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Onciale</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>45v + 38r, 45r + 38v &lt;inf. 3&gt;</locus>
+                  <author n="c. sec. I" reg="person">Hyginus Mythographus,</author>
+                  <title type="supplied">Fabulae (fragmentum)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origDate notAfter="500" notBefore="401">sec. V</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), p. 213</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="23/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240052 + 47, 48 + 51, 50 + 49 &lt;inf. 6&gt;" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Semionciale</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>52 + 47, 48 + 51, 50 + 49 &lt;inf. 6&gt;</locus>
+                  <title type="supplied">Fragmenta oratoria</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origDate notAfter="500" notBefore="401">sec. V</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), p. 214</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="27/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M. Cornelii Frontonis Epistulae, schedis tam editis quam ineditis Edmundi Hauleri usus iterum edidit M. P.J. van den Hout, Leipzig 1988 (Bibliotheca scriptorum Graecorum et Romanorum Teubneriana), pp. LXXIX-LXXX, 256-258</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240053v, 53r, 46v, 46r &lt;inf. 5&gt;" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Capitale libraria</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>53v, 53r, 46v, 46r &lt;inf. 5&gt;</locus>
+                  <author n="c. 100-175" reg="person">Fronto, Marcus Cornelius,</author>
+                  <title type="supplied">Gratiarum actio in Senatu pro Carthaginiensibus (fragmenta)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origDate notAfter="425" notBefore="376">sec. IV-V</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), p. 214</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="27/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Titi Livi Ab urbe condita libri, editionem primam curavit Guilelmus Weissenborn, editio altera, quam curavit M. Mueller, IV, Leipzig 1930 (Bibliotheca scriptorum Graecorum et Latinorum Teubneriana), pp. VIII-IX (liber XCI)</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240073r + 78v, 73v + 78r, 76r + 75v, 76v + 75r &lt;inf. 8&gt;" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Capitale libraria</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>73r + 78v, 73v + 78r, 76r + 75v, 76v + 75r &lt;inf. 8&gt;</locus>
+                  <author n="59 a.C.-17 d.C." reg="person">Livius, Titus,</author>
+                  <title type="supplied">Ab Urbe condita (fragmenta)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origDate notAfter="400" notBefore="301">sec. IV</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), pp. 217-218</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="27/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/03/2017">D.Surace</persName>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Biblia Sacra iuxta Latinam Vulgatam versionem, IX, Romae 1951, pp. 69-74</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240077v-82r" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Onciale</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>77v-82r</locus>
+                  <author rend="s.," n="342/347-419" reg="person">Hieronymus,</author>
+                  <title type="supplied">Prologus in Iob</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia meridionale</region>
+                  </origPlace>
+                  <origDate notAfter="625" notBefore="576">sec. VI-VII</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), p. 200</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="29/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="31/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Biblia Sacra iuxta Latinam Vulgatam versionem, IX, Romae 1951, pp. 95-164, 3, col. 1 (pretiossimo nec) 174, 7, col. 1 (adver]sum) - 207</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240082r-150r" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Onciale</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>82r-150r</locus>
+                  <title type="supplied">Iob (1, 1 - 28, 16; 32, 3 - 42, 16)</title>
+                  <title type="uniform">Biblia. V.T. Iob. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="s.," n="342/347-419" type="person" role="translator">Hieronymus,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia meridionale</region>
+                  </origPlace>
+                  <origDate notAfter="625" notBefore="576">sec. VI-VII</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), p. 200</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="28/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="31/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M. Tulli Ciceronis scripta quae manserunt omnia, fasc. 10: Orationes pro M. Tullio, pro M. Fonteio, pro A. Caecina, recognovit F. Schoell, Lipsiae 1921 (Bibliotheca scriptorum Graecorum et Latinorum Teubneriana), pp. 22b-47b</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240086v + 81r, 86r + 81v, 101v + 100r, 101r + 100v, 77v + 74r, 77r + 74v &lt;inf. 9&gt;" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Onciale</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>86v + 81r, 86r + 81v, 101v + 100r, 101r + 100v, 77v + 74r, 77r + 74v &lt;inf. 9&gt;</locus>
+                  <author n="106-43 a.C." reg="person">Cicero, Marcus Tullius,</author>
+                  <title type="supplied">Oratio pro M. Fonteio (fragmenta)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origDate notAfter="500" notBefore="401">sec. V</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), pp. 218-219</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="27/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M. Tulli Ciceronis Scripta quae manserunt omnia, fasc. 8: Oratio pro Sex. Roscio Amerino, post Alfredum Klotz recognovit H. Kasten, Lipsiae 1968 (Bibliotheca scriptorum Graecorum et Latinorum Teubneriana), pp. XI, 1-2, 21 (1-5 [possem])</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240123r + 128v, 123v + 128r, 124r + 127v, 124v + 127r &lt;inf. 10&gt;" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Onciale</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>123r + 128v, 123v + 128r, 124r + 127v, 124v + 127r &lt;inf. 10&gt;</locus>
+                  <author n="106-43 a.C." reg="person">Cicero, Marcus Tullius,</author>
+                  <title type="supplied">Oratio pro Sex. Roscio Amerino (fragmenta)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origDate notAfter="500" notBefore="401">sec. V</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), pp. 219-220</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="27/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M. Tulli Ciceronis Scripta quae manserunt omnia, fasc. 16: Orationes de lege agraria, Oratio pro C. Rabirio perduellionis reo, edidit V. Marek, Leipzig 1983 (Bibliotheca scriptorum Graecorum et Latinorum Teubneriana), pp. 58, 63, 32 - 64, 24 (16 [denique] - 19 [mihi es]), 69, 15 - 70, 23 (32-38 [consularem pu])</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240126r + 125v, 126v + 125r, 122v + 128bisr, 122r + 128bisv &lt;inf. 10&gt;" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Onciale</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>126r + 125v, 126v + 125r, 122v + 128bisr, 122r + 128bisv &lt;inf. 10&gt;</locus>
+                  <author n="106-43 a.C." reg="person">Cicero, Marcus Tullius,</author>
+                  <title type="supplied">Oratio pro C. Rabirio perduellionis reo (fragmenta)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origDate notAfter="500" notBefore="401">sec. V</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), p. 219</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="27/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/03/2017">D.Surace</persName>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>A. Gellii Noctes Atticae, recognovit brevique adnotatione critica instruxit P. K. Marshall, I: Libri I-X, Oxonii 1968 (Scriptorum classicorum bibliotheca Oxoniensis), pp. 7 (Capit. I, 15-16),  35 (Capit. XVII, 21-XVIII, 2), 41, 17 - 164, 12 (tra lib. I, 2, 13 e lib. IV, 1, 13 [alias])</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240134v + 131r, 134r + 131v, 133v + 132r, 133r + 132v, 163v + 166r, 163r + 166v, 176v + 179r, 176r + 179v, 147v + 150r, 147r + 150v, 95v + 88r, 95r + 88v, 92v +91r, 92r + 91v, 146v + 151r, 146r + 151v, 98v + 103r, 98r + 103v, 97v + 104r, 97r + 104v, 148v + 149r, 148r + 149v, 93v + 90r, 93r + 90v, 94v + 89r, 94r + 89v, 152v + 145r, 152r + 145v, 153v + 160r, 153r + 160v, 154v + 159r, 154r + 159v, 174v + 171r, 174r + 171v, 84v + 83r, 84r + 83v, 85v + 82r, 85r + 82v, 175v + 170r, 175r + 170v, 155v + 158r, 155r + 158v, 156v + 157r, 156r + 157v, 106v + 113r, 106r + 113v, 121v + 114r, 121r + 114v, 118v + 117r, 118r + 117v, 111v + 108r, 111r + 108v, 130v + 135r, 130r + 135v, 129v + 136r, 129r + 136v, 137v + 144r, 137r + 144v, 140v + 141r, 140r + 141v, 80v + 87r, 80r + 87v, 79v + 72r, 79r + 72v, 107v + 112r, 107r + 112v, 110v + 109r, 110r + 109v, 164v + 165r, 164r + 165v, 167v + 162r, 167r + 162v, 102v + 99r, 102r + 99v, 116v + 119r, 116r + 119v, 115v + 120r, 115r + 120v, 105v + 96r, 150r + 96v, 173v + 172r, 173r + 172v, 168v + 161r, 168r + 161v, 143v + 138r, 143r + 138v, 142v + 139r, 142r + 139v &lt;inf. 7&gt;" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Capitale libraria</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>134v + 131r, 134r + 131v, 133v + 132r, 133r + 132v, 163v + 166r, 163r + 166v, 176v + 179r, 176r + 179v, 147v + 150r, 147r + 150v, 95v + 88r, 95r + 88v, 92v +91r, 92r + 91v, 146v + 151r, 146r + 151v, 98v + 103r, 98r + 103v, 97v + 104r, 97r + 104v, 148v + 149r, 148r + 149v, 93v + 90r, 93r + 90v, 94v + 89r, 94r + 89v, 152v + 145r, 152r + 145v, 153v + 160r, 153r + 160v, 154v + 159r, 154r + 159v, 174v + 171r, 174r + 171v, 84v + 83r, 84r + 83v, 85v + 82r, 85r + 82v, 175v + 170r, 175r + 170v, 155v + 158r, 155r + 158v, 156v + 157r, 156r + 157v, 106v + 113r, 106r + 113v, 121v + 114r, 121r + 114v, 118v + 117r, 118r + 117v, 111v + 108r, 111r + 108v, 130v + 135r, 130r + 135v, 129v + 136r, 129r + 136v, 137v + 144r, 137r + 144v, 140v + 141r, 140r + 141v, 80v + 87r, 80r + 87v, 79v + 72r, 79r + 72v, 107v + 112r, 107r + 112v, 110v + 109r, 110r + 109v, 164v + 165r, 164r + 165v, 167v + 162r, 167r + 162v, 102v + 99r, 102r + 99v, 116v + 119r, 116r + 119v, 115v + 120r, 115r + 120v, 105v + 96r, 150r + 96v, 173v + 172r, 173r + 172v, 168v + 161r, 168r + 161v, 143v + 138r, 143r + 138v, 142v + 139r, 142r + 139v &lt;inf. 7&gt;</locus>
+                  <author n="123-c. 165" reg="person">Gellius, Aulus,</author>
+                  <title type="supplied">Noctes Atticae (fragmenta)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="sec. IV" type="person" role="scribe">Cotta,</name>
+                  <origDate notAfter="400" notBefore="301">sec. IV</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+                <msWriting>
+                  <p>Sottoscrizione dello scriba a ff. 173v/172v: «COTTA SCRIBIT» (cf. J. Fohlen, Recherches, p. 215).</p>
+                </msWriting>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), pp. 201-210, 215-217</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="27/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/03/2017">D.Surace</persName>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Biblia Sacra iuxta Latinam Vulgatam versionem, IX, Romae 1951, pp. 15-49</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.000240150v-176v" type="ms">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Onciale</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>150v-176v</locus>
+                  <title type="supplied">Esther (1, 1 - 10, 6)</title>
+                  <title type="uniform">Biblia. V.T. Esther. Latino</title>
+                  <explicit>et in lucem solemque conversatu[s]</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="s.," n="342/347-419" type="person" role="translator">Hieronymus,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia meridionale</region>
+                  </origPlace>
+                  <origDate notAfter="625" notBefore="576">sec. VI-VII</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>J. Fohlen, Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24, in Scrittura e civiltà 3 (1979), p. 200</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="28/03/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/03/2017">D.Surace</persName>
+              <persName n="29/03/2017">D.Surace</persName>
+              <persName n="31/03/2017">D.Surace</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La Lectura Senecae dal Tardo-antico al XIII secolo, </title>
+          <author reg="person">Brugnoli, Giorgio, 1924-2003</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2000.</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Giornale italiano di filologia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">52 (2000) 2247.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Per un iter tra i codici di Seneca alla Biblioteca Apostolica Vaticana: primi traguardi, </title>
+          <author n="1954-" reg="person">Buonocore, Marco, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Giornale italiano di filologia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">52 (2000) 18, 64.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="10/02/2009"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/04/2009">L.Saturnino</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Per la datazione del frammento Rylands delle Historiae di Sallustio, </title>
+          <title type="title" level="u">Studi latini in ricordo di Rita Cappelletto, </title>
+          <author reg="person">Cavallo, Guglielmo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Urbino</pubPlace>
+          <date TEIform="date" value="">1996</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">68-69*, tav. XI.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="10/02/2009"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/03/2009">L.Saturnino</persName>
+              <persName n="21/04/2009">L.Saturnino</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Un manoscritto di Aulo Gellio conservato a Genova nella Biblioteca Durazzo, </title>
+          <author reg="person">Di Salvo, Lucia</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1992</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Civiltà classica e cristiana</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">13 (1992) 129-152 passim.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="24/02/2009"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/04/2009">L.Saturnino</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Niebuhrs Studium klassischer Handschriften während seines Rom-Aufenthaltes (1816-1823), </title>
+          <author n="1953-" reg="person">Grafinger, Christine Maria, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Quellen und Forschungen aus italienischen Archiven und Bibliotheken</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">80 (2000) 658, 664.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="24/02/2009"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Named (and Namable) Scribes in Codices Latini Antiquiores, </title>
+          <title type="title" level="u">Scribi e colofoni. Le sottoscrizioni di copisti dalle origini all’avvento della stampa, Atti del seminario di Erice, X Colloquio del Comité international de paléographie latine (23-28 ottt. 1993), </title>
+          <author reg="person">John, James J.</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Spoleto </pubPlace>
+          <date TEIform="date" value="">1995</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">116, 119.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2009"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Paralipomeni alle collezioni antiche di orazioni ciceroniane, </title>
+          <title type="title" level="u">Formative stages of classical traditions: latin texts from Antiquity to the Renaissalsce. Proceedings of a conference held at Erice, 16-22 Oct. 1993, </title>
+          <author reg="person">Lo Monaco, Francesco</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Spoleto </pubPlace>
+          <date TEIform="date" value="">1995</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">55, 57, 58, 60.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2009"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">In codicibus ... qui Bobienses inscribuntur: scoperte e studio di palinsesti bobbiesi in Ambrosiana dalla fine del Settecento ad Angelo Mai (1819), </title>
+          <author reg="person">Lo Monaco, Francesco</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1996</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Aevum. Rassegna di scienze storiche, linguistiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">70 (1996) 668, 670, 672, 700, 701, 705, 711.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2009"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The oldest manuscripts of the Latin Bible,</title>
+          <title type="title" level="u">The early medieval Bible. Its production, decoration and use,</title>
+          <author reg="person">McGurk, Patrick</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Cambridge </pubPlace>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">4.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2009"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="03/03/2009">L.Saturnino</persName>
+              <persName n="03/03/2009">L.Saturnino</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/02/2014">A.Cantarella</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le chiese di Roma nella Descriptio templorum urbis Romae di G.G. Terribilini (1709-1755),</title>
+          <author reg="person">Panetta, Marina</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1993</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Accademie e biblioteche d’Italia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">61 (1993, 3) 25.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="10/03/2009"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Capitula païens et chrétiens, </title>
+          <title type="title" level="u">Titres et articulations du texte dans les oeuvres antiques, Actes du Colloque International de Chantilly 13-15 déc. 1994, </title>
+          <author reg="person">Petitmengin, Pierre, 1936-</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Paris </pubPlace>
+          <date TEIform="date" value="">1997</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">497.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="10/03/2009"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="10/03/2009">L.Saturnino</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Osservazioni paleografiche sui papiri latini di Ercolano, </title>
+          <author reg="person">Radiciotti, Paolo</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scrittura e civiltà</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">22 (1998) 368, 369 (cit.: CLA I 74).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="17/03/2009"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Neue Fragmente der spätantiken Bamberger Livius-Handschrift (CLA VIII. 1028 Addenda),</title>
+          <author reg="person">Tischler, Matthias M.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scriptorium</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">54 (2000) 279.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="17/03/2009"/>
+          <persName>L.Saturnino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Note sui palinsesti conservati nella Biblioteca Apostolica Vaticana,</title>
+          <title type="title" level="u">Miscellanea Bibliothecae Apostolicae Vaticanae XVI,</title>
+          <author n="1945-" reg="person">Voicu, Sever J., </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2009</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">452, 453.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="16/11/2010"/>
+          <persName>S.Laudoni</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="16/11/2010">S.Laudoni</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Genesi e trasmissione antica del “Corpus Caesarianum”,</title>
+          <author reg="person">Pecere, Oronzo</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2003</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Segno e testo</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">1 (2003)  214.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="16/11/2010"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Palimpsests: concluding remarks,</title>
+          <title type="title" level="u">Early medieval palimpsests, edited by Georges Declercqe,</title>
+          <author reg="person">McKitterick, Rosamond</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Turnhout</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">148.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="06/12/2010"/>
+          <persName>S.Laudoni</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Kontroverse Stellen in den “Historiae” Sallusts,</title>
+          <author reg="person">Perl, Gerhard</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2005</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Hermes. Zeitschrift für klassische Philologie</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">133 (2005) 178.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="09/12/2010"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Un frammento del libro XI di Tito Livio?,</title>
+          <author reg="person">Bravo, B.</author>
+          <respStmt>
+            <resp>
+              <name type="person">Griffin, M.</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1988</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Athenaeum. Studi periodici di letteratura e storia dell’antichità</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">66 (1988) 468.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="01/02/2011"/>
+          <persName>A.DAscoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le palimpseste,</title>
+          <title type="title" level="u">Le livre au Moyen Age,</title>
+          <author reg="person">Fohlen, Jeannine </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Paris </pubPlace>
+          <date TEIform="date" value="">1988</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">24, tav. 17.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="01/02/2011"/>
+          <persName>A.DAscoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Du "volumen" au "codex",</title>
+          <title type="title" level="u">Mise en page et mise en texte du livre manuscrit,</title>
+          <author reg="person">Marichal, Robert</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>s.l.</pubPlace>
+          <date TEIform="date" value="">1990</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">46.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="01/02/2011"/>
+          <persName>A.DAscoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Sul proemio delle "historiae" di Sempronio Asellione,</title>
+          <author reg="person">Mazzarino, Antonio</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1988</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Helikon</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">28 (1988) 146.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="01/02/2011"/>
+          <persName>A.DAscoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La tradizione dei testi latini tra IV e V secolo attaverso i libri sottoscritti,</title>
+          <title type="title" level="u">Tradizione dei classici, trasformazioni della cultura,</title>
+          <author reg="person">Pecere, Oronzo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <pubPlace>Bari</pubPlace>
+          <date TEIform="date" value="">1986,</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">62, 234.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="08/02/2011"/>
+          <persName>A.DAscoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/02/2011">A.DAscoli</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Un nuovo frammento ciceroniano in Beda,</title>
+          <author reg="person">Piacente, Luigi</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1986</date>
+          <date TEIform="date">1987</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Romano Barbarica. Contributi allo studio dei rapporti culturali tra mondo latino e mondo barbarico</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">9 (1986/87) 239.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="08/02/2011"/>
+          <persName>A.DAscoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Die Umschrift lateinischer Texte von Rollen auf Codices und ihre Bedeutung für die Textkritik,</title>
+          <title type="title" level="u">Les débuts du codex. Actes de la journée d'étude, Paris 3-4 juillet 1985,</title>
+          <author reg="person">Zelzer, Michaela</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Turnhout </pubPlace>
+          <date TEIform="date" value="">1989</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">159, 163, 164.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="08/02/2011"/>
+          <persName>A.DAscoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Osservazioni sulle edizioni virgiliane di Vario e di Probo e sull’origine dell’«Anecdoton Parisinum», </title>
+          <author reg="person">Lucarini, Carlo Martino</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2006</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Atti dell’Accademia Nazionale dei Lincei. Rendiconti. Classe di scienze morali, storiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">s. 9, v. 17 (2006) 287.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="30/05/2011"/>
+          <persName>E.Licursi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Cicero, "Speeches",</title>
+          <title type="title" level="u">Texts and Transmission. A Survey of the Latin Classics,</title>
+          <author n="1933-" reg="person">Rouse, Richard H., </author>
+          <respStmt>
+            <resp>
+              <name type="person">Reeve, Michael D.</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Oxford</pubPlace>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">56-57, 74, 91</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="21/02/2012"/>
+          <persName>V.Tramontano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Lucan,</title>
+          <title type="title" level="u">Texts and Transmission. A Survey of the Latin Classics,</title>
+          <author n="1945-" reg="person">Tarrant, Richard John, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Oxford</pubPlace>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">215-217.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="21/02/2012"/>
+          <persName>V.Tramontano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Frammenti di un discorso grafico-testuale,</title>
+          <title type="title" level="u">Il libro e il testo. Atti del convegno internazionale,Urbino 20-23 sett. 1982,</title>
+          <author reg="person">Cavallo, Guglielmo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Urbino</pubPlace>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">419.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="21/02/2012"/>
+          <persName>V.Tramontano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Libri e continuità della cultura antica in età barbarica,</title>
+          <title type="title" level="u">Magistra Barbaritas. I Barbari in Italia,                                                                                          </title>
+          <author reg="person">Cavallo, Guglielmo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano </pubPlace>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">604, 655.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="21/02/2012"/>
+          <persName>V.Tramontano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Products of Fifth Century Scriptoria Preserving Conventions used by Rufinus of Aquileia,</title>
+          <author reg="person">Hammond Bammel, Caroline P.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title">Journal of Theological Studies</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">35 (1984) 385.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="21/02/2012"/>
+          <persName>V.Tramontano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Esemplari con "subscriptiones" e tradizione dei testi latini: l'Apuleio Laur. 68,2,</title>
+          <title type="title" level="u">Il libro e il testo. Atti del convegno internazionale, Urbino 20-23 sett. 1982,</title>
+          <author reg="person">Pecere, Oronzo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Urbino</pubPlace>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">114, 127.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="21/02/2012"/>
+          <persName>V.Tramontano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/02/2012">D.Leonardi</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La pagina e il testo. Sulle funzioni della doppia rigatura verticale nei codici latini antiquiores,</title>
+          <title type="title" level="u">Il libro e il testo. Atti del Convegno internazionale, Urbino 20-23 settembre 1982,</title>
+          <author reg="person">Raffaelli, Renato</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Urbino</pubPlace>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">10.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="21/02/2012"/>
+          <persName>V.Tramontano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="22/02/2014">M.Ceresa</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Cicero’s Capita, </title>
+          <author reg="person">Butler, Shane</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2008</date>
+          <date TEIform="date">2009</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Litterae Caelestes. Rivista annuale internazionale di paleografia, codicologia, diplomatica e storia delle testimonianze scritte</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">3 (2008-2009) 13, 14.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="22/02/2012"/>
+          <persName>L.Scarpelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/03/2012">L.Scarpelli</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Scrittura, alfabetismo e produzione libraria nel tardo antico, </title>
+          <title type="title" level="u">La cultura in Italia fra tardo antico e alto medioevo. Atti del Convegno CNR, Roma 12-16 nov. 1979, </title>
+          <author reg="person">Cavallo, Guglielmo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma </pubPlace>
+          <date TEIform="date" value="">1981</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">532.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>D.DiPinto</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Eruditi napoletani del '700: il carteggio Cancellieri-Diodati,</title>
+          <author reg="person">Strazzullo, Franco</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1982</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Atti dell’Accademia Pontaniana</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">31 (1982) 87.
+</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>D.DiPinto</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Aulus Gellius, </title>
+          <title type="title" level="u">Texts and Transmission. A Survey of the Latin Classics, </title>
+          <author reg="person">Marshall, Peter Kenneth</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Oxford </pubPlace>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">176.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>D.DiPinto</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/03/2012">M.Ceresa</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Hyginus, "Astronomica", "Fabulae",</title>
+          <title type="title" level="u">Texts and Transmission. A Survey of the Latin Classics,</title>
+          <author reg="person">Reeve, Michael D.</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Oxford</pubPlace>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">190.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>D.DiPinto</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Fronto, </title>
+          <title type="title" level="u">Texts and Transmission. A Survey of the Latin Classics, </title>
+          <author reg="person">Reynolds, L. D. (Leighton Durham)</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Oxford </pubPlace>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">173.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>D.DiPinto</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Livy, </title>
+          <title type="title" level="u">Texts and Transmission. A Survey of the Latin Classics, </title>
+          <author reg="person">Reynolds, L. D. (Leighton Durham)</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Oxford </pubPlace>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">206.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>D.DiPinto</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Younger Seneca, "Introduction", </title>
+          <title type="title" level="u">Texts and Transmission. A Survey of the Latin Classics, </title>
+          <author reg="person">Reynolds, L. D. (Leighton Durham)</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Oxford </pubPlace>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">358.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>D.DiPinto</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Job latin chez les pères et dans les Bibles,</title>
+          <author reg="person">Bogaert, Pierre-Maurice</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2012</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Revue Bénédictine</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">122.1 (2012) 83-84* (cit. L).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2013"/>
+          <persName>D.Staccini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I codici romani di Lucano (II),</title>
+          <author n="1940-" reg="person">Badalì, Renato,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1974</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bollettino del Comitato per la preparazione della edizione nazionale dei Classici greci e latini</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">22 (1974) 20-22.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="17/12/2013"/>
+          <persName>M.Taglioli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/12/2013">M.Taglioli</persName>
+              <persName n="17/12/2013">Overwriting System: A.Rita</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I codici romani di Lucano (III),</title>
+          <author n="1940-" reg="person">Badalì, Renato,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1975</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bollettino del Comitato per la preparazione della edizione nazionale dei Classici greci e latini</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">23 (1975) 84.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="17/12/2013"/>
+          <persName>M.Taglioli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/12/2013">Overwriting System: A.Rita</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Note sulla tradizione di Gellio (In margine alla più recente edizione delle «Noctes Atticae»),</title>
+          <author reg="person">Gamberale, Leopoldo</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1975</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di filologia e di istruzione classica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">103 (1975) 35,38-39, 46-48.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="17/12/2013"/>
+          <persName>M.Taglioli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le problème des limites et subdivisions du jour civil à Rome (Varron, Aulu-Gelle, Macrobe): conticinium (-cinum, -cinnum) ou conticuum (-ciuum)?,</title>
+          <author reg="person">Guittard, Charles</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1976</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Mélanges de l'École française de Rome. Antiquité</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">88 (1976) 822.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="17/12/2013"/>
+          <persName>M.Taglioli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/12/2013">M.Taglioli</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Autorship of the Adonic Verses «ad Fidolium» Attributed to Columbanus ,</title>
+          <author n="1942-" reg="person">Lapidge, Michael, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1977</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi medievali</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">18 (1977) 280.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="17/12/2013"/>
+          <persName>M.Taglioli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/12/2013">M.Taglioli</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Recherches sur le manuscrit palimpseste Vatican, Pal. lat. 24,</title>
+          <author reg="person">Fohlen, Jeannine </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1979</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scrittura e civiltà</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">3 (1979) 195.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="17/12/2013"/>
+          <persName>M.Taglioli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="12/01/2016">15-16.Baleani</persName>
+              <persName n="12/01/2016">15-16.DeMartino</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title" level="u">Appunti per la datazione del Terenzio Bembiano,</title>
+          <title type="title">Paleographica, Diplomatica et Archivistica (Studi in onore di Giulio Battelli), I,</title>
+          <author n="1922-2012" reg="person">Pratesi, Alessandro,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date">1979</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">73-74, 79.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="17/12/2013"/>
+          <persName>M.Taglioli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/12/2013">M.Taglioli</persName>
+              <persName n="04/02/2014">F.Cantonetti</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Fate of Varius' «Thyestes»,</title>
+          <author reg="person">Jocelyn, Henry David</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date">1980</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title">Classical Quarterly</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">74 (1980) 195.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="17/12/2013"/>
+          <persName>M.Taglioli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/12/2013">M.Taglioli</persName>
+              <persName n="17/12/2013">M.Taglioli</persName>
+              <persName n="18/02/2014">F.DikonimosMakris</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Das Wiener Fragment der «Historiae» des Sallust (P. Vindob. L 117),</title>
+          <author n="1906-1991 " reg="person">Bischoff, Bernhard,</author>
+          <respStmt>
+            <resp>
+              <name type="person">Bloch, Herbert</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1979</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Wiener Studien. Zeitschrift für klassische Philologie und Patristik</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">92 (1979) 117.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="17/12/2013"/>
+          <persName>M.Taglioli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/12/2013">M.Taglioli</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La rara eleganza della pergamena nera: il libro d'ore Vaticano latino 9488,</title>
+          <title type="title" level="u">Studi in onore del cardinale Raffaele Farina, a cura di A. M. Piazzoni, II (Studi e testi, 478),</title>
+          <author reg="person">Montuschi, Claudia</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2013</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">757.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="13/01/2014"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Fragments et Membra Disiecta,</title>
+          <title type="title" level="u">Codicologica, 3 (Essais typologiques),</title>
+          <author n="1912-1993" reg="person">Pellegrin, Elisabeth,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Leiden</pubPlace>
+          <date TEIform="date" value="">1980</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">72.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>M.Taglioli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/01/2014">M.Taglioli</persName>
+              <persName n="14/01/2014">M.Taglioli</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Falso"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Filologia classica,</title>
+          <title type="title" level="u">La Biblioteca Apostolica Vaticana luogo di ricerca al servizio degli studi. Atti del Convegno Roma, 11-13 novembre 2010, a cura di M.Buonocore - A.M.Piazzoni (Studi e testi, 468),</title>
+          <author reg="person">De Nonno, Mario</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2011</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">29.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Clare College MS. 26 and the Circulation of Aulus Gellius 1-7 in Medieval England and France,</title>
+          <author reg="person">Marshall, Peter Kenneth</author>
+          <respStmt>
+            <resp>
+              <name type="person">Martin, Janet</name>
+              <name n="1933-" type="person">Rouse, Richard H., </name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1980</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Mediaeval Studies</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">42 (1980) 356-369.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>M.Taglioli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/01/2014">M.Taglioli</persName>
+              <persName n="15/12/2015">15-16.Siemoni</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La réalisation matérielle des manuscripts latins pendant le haut Moyen Âge,</title>
+          <title type="title" level="u">Codicologica, 2 (Éléments pour une codicologie comparée),</title>
+          <author reg="person">Vezin, Jean, 1933-</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Leiden</pubPlace>
+          <date TEIform="date" value="">1978</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">28.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>M.Taglioli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/01/2014">C.Ciccarelli</persName>
+              <persName n="25/11/2014">14-15.Mazzoccone</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Falso"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La réalisation matérielle des manuscripts latins pendant le haut Moyen Âge,</title>
+          <title type="title" level="u">Codicologica, 2 (Éléments pour une codicologie comparée),</title>
+          <author reg="person">Vezin, Jean, 1933-</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Leiden</pubPlace>
+          <date TEIform="date" value="">1978</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">28.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>M.Taglioli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/11/2014">14-15.Mazzoccone</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Falso"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Paleografia e codicologia latina,</title>
+          <title type="title" level="u">La Biblioteca Apostolica Vaticana luogo di ricerca al servizio degli studi. Atti del Convegno Roma, 11-13 novembre 2010, a cura di M.Buonocore - A.M.Piazzoni (Studi e testi, 468),</title>
+          <author reg="person">Tristano, Caterina</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2011</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">90,94-95,97,tav.I (p.115).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="16/01/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La réalisation matérielle des manuscripts latins pendant le haut Moyen Âge,</title>
+          <title type="title" level="u">Codicologica, 2 (Éléments pour une codicologie comparée),</title>
+          <author reg="person">Vezin, Jean, 1933-</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Leiden</pubPlace>
+          <date TEIform="date" value="">1978</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">28.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="25/11/2014"/>
+          <persName>14-15.Mazzoccone</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Falso"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le biblioteche di Heidelberg in Vaticana: i fondi palatini,</title>
+          <title type="title" level="u">La Vaticana nel Seicento (1590-1700): una biblioteca di biblioteche, a cura di Claudia Montuschi (Storia della Biblioteca Apostolica Vaticana, 3),</title>
+          <author reg="person">Montuschi, Claudia</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2014</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">300, 303, 310, 335.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="16/10/2015"/>
+          <persName>T-V.Maffezzoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2015">T-V.Maffezzoli</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Petrarch and the textual tradition of Livy,</title>
+          <title type="title" level="u">Itinera. Vicende di libri e testi, I, a cura di Mariarosa Cortesi (Studi e testi del Rinascimento europeo, 21),</title>
+          <author n="1913-2000" reg="person">Billanovich, Giuseppe, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">18.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="03/06/2016"/>
+          <persName>T16.DElauteris</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/06/2016">T16.DElauteris</persName>
+              <persName n="30/06/2016">T16.DElauteris</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il contributo allo studio delle testimonianze manoscritte delle istituzioni culturali romane dei secoli XVIII  e XIX,</title>
+          <title type="title" level="u">Scritti “romani”. Scrittura, libri e cultura a Roma in età medievale, a cura di Giuliana Ancidei, Emma Condello, Maria Edvige Malavolta, Luisa Miglio, Maddalena Signorini, Carlo Tedeschi (Studi del Dipartimento di Storia, Culture, religioni, 5)</title>
+          <author n="1942-2002" reg="person">Supino Martini, Paola, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">2012</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">187.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00024zzzzz" type="bib">Pal.lat.24</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pal.lat.24</ptr>
+        <creation>
+          <date TEIform="date" value="10/06/2016"/>
+          <persName>T16.Pellegrino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/07/2016">T16.Pellegrino</persName>
+              <persName n="04/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="31/07/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.000430000" type="ms">Vat.lat.43</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>&lt;carolina&gt;</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <title type="supplied">Quattuor evangelia</title>
+                  <textLang n="Latino." rend="lat">latino</textLang>
+                  <note type="note">F. 211v SS. Trinitatis praefationis fragmentum ab usitato diversum ac mendosissime alia manu exscriptum. Inc. cum unigenito filio tuo spiritu sancto
+unus est dominus. Des. et in mayestate adoretur ecalitas quam laudant angeli. Subsequuntur: hymnus: Veni redemptor gentium; fragmentum alterius hymni: Christe redemptor.</note>
+                  <note type="note">Quattuor evangelia, capitulari, lectionibus, canonibus evangeliorum instructa,et prologis, argumentis, capitulis, singulis evangeliis praeeuntibus, locupletata.</note>
+                  <name reg="s.," n="342/347-419" type="person" role="internal">Hieronymus,</name>
+                  <origDate notAfter="900" notBefore="801">Sec. IX</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>235</height>
+                  <width>165</width>
+                </dimensions>
+                <extent>ff. 211 (- f. 148)</extent>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>M. Vattasso, P. Franchi De' Cavalieri, Codices Vaticani Latini, I: Codices 1-678, Romae 1902, p. 52</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.43</ptr>
+        <creation>
+          <date TEIform="date" value="11/10/2016"/>
+          <persName>S.Sarra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/10/2016">S.Sarra</persName>
+              <persName n="11/10/2016">S.Sarra</persName>
+              <persName n="13/10/2016">S.Sarra</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.000430001v, 15v, 17v, 19v, 20r, 23r, 30v-79v" type="ms">Vat.lat.43</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1v, 15v, 17v, 19v, 20r, 23r, 30v-79v</locus>
+                  <title type="supplied">&lt;Evangelium s. Matthaei&gt;</title>
+                  <title type="uniform">Biblia. N.T. Evang. sec. Matthaeum. Latino</title>
+                  <textLang n="Latino." rend="lat">latino</textLang>
+                  <note type="note">(f. 30v) &lt;Evangelium s. Matthaei&gt;. Praemittuntur:
+(f. 1) capitulare evangeliorum de anni circulo et de diversis causis cum romanis stationibus, initio mutilum. Inc. Ebdomada II post teophaniam; (f. 15v) s. Hier. praefatio in quattuor evangelia: Nouum opus facere mecogis; (f. 17v) &lt;eiusdem&gt; prologus quattuor euangeliorum: Plures fuisse qui euangelia scripserunt; (f. 19v) argumentum eiusdem (?): Matheus sicut in ordine primus; (f. 20) breviarium eiusdem; (f. 23) canones evangeliorum, primo omisso.
+&lt;f. 29 anteposto all'incipit&gt;.</note>
+                  <origDate notAfter="900" notBefore="801">Sec. IX</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>M. Vattasso, P. Franchi De' Cavalieri, Codices Vaticani Latini, I: Codices 1-678, Romae 1902, p. 52</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.43</ptr>
+        <creation>
+          <date TEIform="date" value="11/10/2016"/>
+          <persName>S.Sarra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="12/10/2016">S.Sarra</persName>
+              <persName n="12/10/2016">S.Sarra</persName>
+              <persName n="13/10/2016">S.Sarra</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.000430023r-28v" type="ms">Vat.lat.43</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>23r-28v</locus>
+                  <author rend="vesc.," n="c. 265-c. 340" reg="person" type="internal">Eusebius Caesariensis,</author>
+                  <title type="title">Canones evangeliorum</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origDate notAfter="900" notBefore="801">sec. IX</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM60.1</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.43</ptr>
+        <creation>
+          <date TEIform="date" value="18/12/2014"/>
+          <persName>M.Marchiaro</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">03/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="03/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.000430079v, 80r, 82r-113r" type="ms">Vat.lat.43</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>79v, 80r, 82r-113r</locus>
+                  <title type="supplied">Evangelium s. Marci</title>
+                  <title type="uniform">Biblia. N.T. Evang. sec. Marcum. Latino</title>
+                  <textLang n="Latino." rend="lat">latino</textLang>
+                  <note type="note">(f. 82) Evangelium s. Marci. Praeeunt: (f. 79v) prologus: Marcus euangelista dei electus; (f. 80) breviarium.</note>
+                  <origDate notAfter="900" notBefore="801">Sec. IX</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>M. Vattasso, P. Franchi De' Cavalieri, Codices Vaticani Latini, I: Codices 1-678, Romae 1902, p. 52</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.43</ptr>
+        <creation>
+          <date TEIform="date" value="11/10/2016"/>
+          <persName>S.Sarra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/10/2016">S.Sarra</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.000430113r, 114r, 119r-172r" type="ms">Vat.lat.43</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>113r, 114r, 119r-172r</locus>
+                  <title type="supplied">Evangelium s. Lucae</title>
+                  <title type="uniform">Biblia. N.T. Evang. sec. Lucam. Latino</title>
+                  <textLang n="Latino." rend="lat">latino</textLang>
+                  <note type="note">(f. 119) Evangelium s. Lucae. Praemittuntur: (f. 113) argumentum: Lucas syrus antiocensis; (f. 114) capitula.</note>
+                  <origDate notAfter="900" notBefore="801">Sec. IX</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>M. Vattasso, P. Franchi De' Cavalieri, Codices Vaticani Latini, I: Codices 1-678, Romae 1902, p. 52</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.43</ptr>
+        <creation>
+          <date TEIform="date" value="11/10/2016"/>
+          <persName>S.Sarra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/10/2016">S.Sarra</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.000430172r, 172v, 174r-211r" type="ms">Vat.lat.43</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>172r, 172v, 174r-211r</locus>
+                  <title type="supplied">Evangelium s. Ioannis</title>
+                  <title type="uniform">Biblia. N.T. Evang. sec. Iohannem. Latino</title>
+                  <textLang n="Latino." rend="lat">latino</textLang>
+                  <note type="note">(f. 174) Evangelium s. loannis. Praeeunt: (f. 172) argumentum: Hic est iohannes euangelista; (f. 172v) capitula.</note>
+                  <origDate notAfter="900" notBefore="801">Sec. IX</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>M. Vattasso, P. Franchi De' Cavalieri, Codices Vaticani Latini, I: Codices 1-678, Romae 1902, p. 52</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.43</ptr>
+        <creation>
+          <date TEIform="date" value="11/10/2016"/>
+          <persName>S.Sarra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/10/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/10/2016">S.Sarra</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.000430211v" type="ms">Vat.lat.43</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>211v</locus>
+                  <incipit type="text">Christus redemptor omnium ex Patre Patris unice solus</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Hymnus.</note>
+                  <origDate notAfter="900" notBefore="801">sec. IX</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM37.5</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.43</ptr>
+        <creation>
+          <date TEIform="date" value="09/03/2017"/>
+          <persName>F.Borzumato</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title" level="u">I Vangeli dei popoli. La Parola e l'immagine di Cristo nelle culture e nella storia [catalogo di mostra, Città del Vaticano, Palazzo della Cancelleria, 21 giugno-10 dicembre 2000, a cura di Francesco D'Aiuto, Giovanni Morello, Ambrogio M. Piazzoni]</title>
+          <title type="title">Evangeliario. Latino. </title>
+          <author rend="sac.," n="1933-" reg="person">Duval-Arnould, Louis,</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Edizioni Rinnovamento nello Spirito,</publisher>
+          <publisher>Biblioteca apostolica vaticana</publisher>
+          <pubPlace>Città del Vaticano :</pubPlace>
+          <date TEIform="date">c2000.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 192-193 e con ill. del f. 174r (p. 193).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00043zzzzz" type="bib">Vat.lat.43</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.43</ptr>
+        <creation>
+          <date TEIform="date" value="09/10/2006"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">27/01/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="23/10/2006">mss</persName>
+              <persName n="31/03/2009">C.Montuschi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="03/11/2015">Linking System: R.Mancusi</persName>
+              <persName n="27/01/2016">Overwriting System: A.Rita</persName>
+              <persName n="27/01/2016">Overwriting System: A.Rita</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les sources de la tradition ancienne des quatorze "Hymnes" attribuées à saint Ambroise de Milan,</title>
+          <author reg="person">Jullien, Marie-Hélène</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1989</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Revue d’histoire des textes</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">19 (1989) 69, 156-157*.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00043zzzzz" type="bib">Vat.lat.43</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.43</ptr>
+        <creation>
+          <date TEIform="date" value="22/11/2011"/>
+          <persName>A.Nastasi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">03/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="03/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Chapter Divisions, Capitula Lists and the Old Latin Version of John,</title>
+          <author reg="person">Houghton, Hugh A. G.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2011</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Revue Bénédictine</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">121.2 (2011) 328 (cit. V).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00043zzzzz" type="bib">Vat.lat.43</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.43</ptr>
+        <creation>
+          <date TEIform="date" value="21/01/2013"/>
+          <persName>D.Staccini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">03/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="03/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">L'Evangéliaire romain de 645: un recueil. Sa composition (façons et matériaux),</title>
+          <author rend="sac." reg="person">Chavasse, Antoine, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1982</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Revue Bénédictine</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">92 (1982) 66.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00043zzzzz" type="bib">Vat.lat.43</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.43</ptr>
+        <creation>
+          <date TEIform="date" value="04/02/2013"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">03/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="03/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il cardinale Giuseppe Tomasi di Lampedusa e gli inizi della scienza liturgica,</title>
+          <author rend="O.S.B.," n="1941-" reg="person">Scicolone, Ildebrando,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1982</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Regnum Dei. Collectanea Theatina a clericis regularibus edita</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">38 (1982) 92.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00043zzzzz" type="bib">Vat.lat.43</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.43</ptr>
+        <creation>
+          <date TEIform="date" value="04/02/2013"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">03/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="03/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

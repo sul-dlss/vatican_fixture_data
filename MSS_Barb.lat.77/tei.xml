@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.000770000" type="ms">Barb.lat.77</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <heraldry>disegnato a penna a f. 1r: aquila coronata dal volo spiegato con un bastone nel becco, spingente il volo da un roccia, sormontata da cinque stelle e sotto l’ala destra CA, sotta la sinistra CD.</heraldry>
+                <scriptTerm>umanistica</scriptTerm>
+              </head>
+              <msContents>
+                <p>Miscellanea astronomica.</p>
+                <msItem>
+                  <author n="15 a.C.-19 d.C." reg="person" type="internal">Germanicus, Iulius Caesar,</author>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="c. sec. I" type="person" role="internal">Hyginus Mythographus,</name>
+                  <name n="23-79" type="person" role="internal">Plinius Secundus, Gaius,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                  </origPlace>
+                  <origDate notAfter="1500" notBefore="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>236</height>
+                  <width>166</width>
+                </dimensions>
+                <extent>I. 60. I </extent>
+                <collation>
+                  <p>6 fascicoli: 1-6 quinioni (ff. 1-9 (+5bis), 10-19, 20-29, 30-39, 40-49, 50-59).</p>
+                </collation>
+                <layout>
+                  <p>unica colonna; ll. 28 /rr. 28 (variabili); mm 153x87; rigatura a colore (tipo Derolez 31). </p>
+                </layout>
+                <msWriting>
+                  <p>copista unico; il testo, vergato in inchiostro bruno chiaro, è stato successivamente completato in alcuni punti da una mano corsiva di epoca moderna (ad esempio ff. 2r, 7v, 15r); sono inoltre presenti glosse marginali di mano dello stesso copista (ad esempio ff. 18v, 46v) e di mano diversa e successiva alla stesura del codice (ad esempio ff. 4v, 5r, 33v).</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>1 pagina d’incipit miniata: decorazioni a bianchi girali su fondo azzurro con campiture in rosa e verde e margini arricchiti da dischetti in foglia d’oro cigliati; all’interno dei tralci in pergamena riservata si profila un nastro sottile in foglia d’oro, doppio nel margine inferiore; al centro del margine inferiore un clipeo in foglia d’oro sorretto da quattro putti con inscritto un motivo ad aquila (f. 1r); 1 iniziale maggiore con corpo in foglia d’oro e decorazioni a bianchi girali su fondo azzurro e campiture in rosa e verde (f. 1r); 40 disegni a penna in campo aperto acquarellati in rosa, giallo, verde, rosso aranciato e varie tonalità di bruno (ff. 2v, 4r, 5v, 7r, 7v, 8v, 10v, 11r, 13r, 14v, 15v, 17r, 18r, 18v, 19v, 20r, 21r, 22r, 22v, 23v, 24v, 25r, 26r, 26v, 29r, 30r, 31r, 31v, 33r, 34v, 35v, 36v, 37r, 38r, 38v, 39v, 40v, 44v, 47r, 52r); iniziali minori calligrafiche in blu. </p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>legatura floscia in pergamena neutra; sul dorso in alto l’indicazione in inchiostro 2170, subito sotto 77.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>manuale a inchiostro in numeri arabi nell’angolo superiore destro (ff. 1-59+5bis); foliazione più antica nell’angolo superiore destro in inchiostro bruno biondo, ormai quasi del tutto sbiadito, ancora visibile fino a f. 5.</p>
+                </foliation>
+                <condition>
+                  <p>buono; presenti macchie di umidità e tracce di grana follicolare sul lato pelo.</p>
+                </condition>
+                <signatures>sequenza alfanumerica nell’angolo inferiore destro, spesso rifilata.</signatures>
+                <catchwords>costanti, in inchiostro bruno in basso a destra nel verso dell’ultimo foglio di fascicolo.</catchwords>
+              </physDesc>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="11/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">16/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/01/2017">L.Massolo</persName>
+              <persName n="16/01/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.000770001r-2r" type="ms">Barb.lat.77</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-2r</locus>
+                  <author n="sec. I." key="Opere spurie e dubbie" reg="person" type="internal">Theon, Alexandrinus,</author>
+                  <title type="supplied">Genus Arati</title>
+                  <title type="uniform">Arati genus (Theon, Alexandrinus, sec. I. Opere spurie e dubbie)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.000770002r-4r" type="ms">Barb.lat.77</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>2r-4r</locus>
+                  <author n="15 a.C.-19 d.C." reg="person" type="internal">Germanicus, Iulius Caesar,</author>
+                  <title type="supplied">Scholia Strozziana in Germanici Aratea</title>
+                  <title type="uniform">Scholia in Germanici Aratea</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">07/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">L.Massolo</persName>
+              <persName n="07/02/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.000770004v-41r" type="ms">Barb.lat.77</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>4v-41r</locus>
+                  <author n="15 a.C.-19 d.C." reg="person" type="internal">Germanicus, Iulius Caesar,</author>
+                  <title type="supplied">Aratea</title>
+                  <title type="uniform">Aratea (Germanicus, Iulius Caesar, 15 a.C.-19 d.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.000770043r-46v" type="ms">Barb.lat.77</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>43r-46v</locus>
+                  <author n="15 a.C.-19 d.C." reg="person" type="internal">Germanicus, Iulius Caesar,</author>
+                  <title type="title">Scholia Strozziana in Germanici Aratea</title>
+                  <title type="uniform">Scholia in Germanici Aratea</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">07/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="07/02/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.000770047r-52r" type="ms">Barb.lat.77</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>47r-52r</locus>
+                  <author n="23-79" reg="person" type="internal">Plinius Secundus, Gaius,</author>
+                  <title type="supplied">Naturalis Historia</title>
+                  <title type="uniform">Naturalis Historia (Plinius Secundus, Gaius, 23-79)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.000770052r-59v" type="ms">Barb.lat.77</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>52r-59v</locus>
+                  <author n="c. sec. I" reg="person" type="internal">Hyginus Mythographus,</author>
+                  <title type="supplied">Poeticon astronomicon</title>
+                  <title type="uniform">Astronomica (Hyginus Mythographus, c. sec. I)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Das Buch der Naturgeschichte. Plinius und seine Leser im Zeitalter des Pergaments,</title>
+          <author n="1925-" reg="person">Borst, Arno, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Abhandlungen der Heidelbergen Akademie der Wissenschaften</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">(1994, 2) 244, 371.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00077zzzzz" type="bib">Barb.lat.77</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="16/12/2008"/>
+          <persName>M.Esposito</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="03/03/2009">M.Esposito</persName>
+              <persName n="16/03/2010">E.Salza</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="13/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Nati ed eletti per li primi governi della Chiesa,</title>
+          <author reg="person">Faedo, Lucia</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2001</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Mitteilungen des deutschen Archaelogischen Instituts, Roemische Abteilung</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">108 (2001) 154.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00077zzzzz" type="bib">Barb.lat.77</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2010"/>
+          <persName>FR.Sinagra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="13/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La transmission du "de astronomia" d'Hygin jusqu'au XIIIe siècle,</title>
+          <author reg="person">Viré, Ghislaine</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1981</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Revue d’histoire des textes</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">11 (1981) 173-276.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00077zzzzz" type="bib">Barb.lat.77</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="22/07/2010"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="13/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Ecclesiological Texs of Jean Gerson and Pierre d'Ailly in Vatican Manuscript Collections Other Than the Codices Vaticani latini,</title>
+          <author reg="person">Izbicki, Thomas M.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1989</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Manuscripta. A Journal for Manuscript Research</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">33 (1989) 200.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00077zzzzz" type="bib">Barb.lat.77</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="21/12/2010"/>
+          <persName>R.Costa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="29/03/2011">R.Costa</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="13/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Two Astrological Ceilings Reconsidered: the "Sala di Galatea" in the Villa Farnesina and the "Sala del Mappamondo" at Caprarola,</title>
+          <author reg="person">Lippincott, Kristen</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1990</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Journal of the Warburg and Courtauld Institutes</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">53 (1990) 198.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00077zzzzz" type="bib">Barb.lat.77</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="21/12/2010"/>
+          <persName>R.Costa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/02/2013">Overwriting System</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="13/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">“Diana, Callisto and Arcas: a matrimonial panel from the Springfield Museum of Fine Arts”,</title>
+          <author reg="person">Simonneau, Karinne,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Renaissance Studies</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">21 (2007) 59.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00077zzzzz" type="bib">Barb.lat.77</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="22/05/2012"/>
+          <persName>F.Fioretti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="13/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Una miscellanea astronomica medioevale: gli «Scholia Strozziana» a Germanico,</title>
+          <author reg="person">Dell'Era, Antonio</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1979</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Memorie dell'Accademia nazionale dei Lincei. Classe di Scienze morali, storiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">23 (1979) 152.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00077zzzzz" type="bib">Barb.lat.77</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="18/12/2012"/>
+          <persName>R.Cacciaglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/12/2012">R.Cacciaglia</persName>
+              <persName n="11/10/2013">Overwriting System: A.Rita</persName>
+              <persName n="13/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Some Astronomical Manuscripts,</title>
+          <author reg="person">Reeve, Michael D.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1980</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Classical Quarterly</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">74 (1980) 512.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00077zzzzz" type="bib">Barb.lat.77</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="08/01/2013"/>
+          <persName>R.Cacciaglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le immagini dei Fenomeni di Arato nel Quattrocento italiano,</title>
+          <title type="title" level="u">Manoscritti scientifici miniati fra tradizione classica e modelli arabi, a cura di Teresa D'Urso e Alessandra Perriccioli Saggese,</title>
+          <author reg="person">Leone, Carolina</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Battipaglia</pubPlace>
+          <date TEIform="date" value="">2013</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">120, 128.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00077zzzzz" type="bib">Barb.lat.77</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.77</ptr>
+        <creation>
+          <date TEIform="date" value="18/02/2016"/>
+          <persName>C.DGiovanni</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/06/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/06/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

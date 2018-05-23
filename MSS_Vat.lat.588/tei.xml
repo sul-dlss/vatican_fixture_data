@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.005880000" type="ms">Vat.lat.588</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>&lt;gotica&gt;</scriptTerm>
+              </head>
+              <msContents>
+                <overview>
+                  <p>S. Gregorii M. Liber regulae pastoralis</p>
+                </overview>
+                <msItem>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="card.," n="c. 1270-1343" type="person">Stefaneschi, Iacopo Gaetano,</name>
+                  <origPlace>
+                    <country>&lt;Italia&gt;</country>
+                    <region>&lt;Italia centrale&gt;</region>
+                    <settlement>&lt;Roma (?)&gt;</settlement>
+                  </origPlace>
+                  <origDate notAfter="1325" notBefore="1276">sec. XIII-XIV</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>260</height>
+                  <width>184</width>
+                </dimensions>
+                <extent>ff. 134</extent>
+                <collation>
+                  <p>I fascicoli sono tutti quaternioni tranne l'ultimo che è un binione.</p>
+                </collation>
+              </physDesc>
+              <history>
+                <origin>
+                  <p>Il Vat. lat. 588 sembra accostabile ad alcuni dei pochi libri finora riconosciuti del cardinale Iacopo Stefaneschi [...].</p>
+                </origin>
+              </history>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>M. Vattasso, P. Franchi De' Cavalieri, Codices Vaticani Latini, I: Codices 1-678, Romae 1902, p. 439.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.588</ptr>
+        <creation>
+          <date TEIform="date" value="19/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">A.Berloco</persName>
+              <persName n="01/03/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.005880001r-132v" type="ms">Vat.lat.588</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-132v</locus>
+                  <author rend="Magnus, s.," n="c. 540-604" reg="person" type="internal">Gregorius PP. I,</author>
+                  <title type="supplied">Liber regulae pastoralis</title>
+                  <title type="uniform">Regula pastoralis (Gregorius PP. I, Magnus, s., c. 540-604)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Sequuntur (f. 130) capitula libri pastoralis 65 eadem atque initio singulorum capitum praescripta sunt.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>M. Vattasso, P. Franchi De' Cavalieri, Codices Vaticani Latini, I: Codices 1-678, Romae 1902, p. 439.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.588</ptr>
+        <creation>
+          <date TEIform="date" value="19/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/01/2017">A.Berloco</persName>
+              <persName n="01/03/2017">A.Berloco</persName>
+              <persName n="25/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Gregorio Magno, Regula pastoralis.</title>
+          <title type="title" level="u">Diventare santo [catalogo di mostra, Biblioteca apostolica vaticana, 21 dicembre 1998-16 marzo 1999, a cura di Giovanni Morello, Ambrogio M. Piazzoni, Paolo Vian]</title>
+          <author n="1961-" reg="person">Manfredi, Antonio,</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Events,</publisher>
+          <publisher>Biblioteca apostolica vaticana,</publisher>
+          <pubPlace>Cagliari :</pubPlace>
+          <pubPlace>Città del Vaticano :</pubPlace>
+          <date TEIform="date">c1998.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 122, 124 e con ill. del f. 1r (p. 123).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00588zzzzz" type="bib">Vat.lat.588</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.588</ptr>
+        <creation>
+          <date TEIform="date" value="07/02/2007"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">16/05/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="16/05/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il Diversiloquium di Bonaiuto da Casentino, poeta di curia ai tempi di Bonifacio VIII,</title>
+          <author reg="person">Petoletti, Marco, 1972-</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2001</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Aevum. Rassegna di scienze storiche, linguistiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">75 (2001) 391.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00588zzzzz" type="bib">Vat.lat.588</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.588</ptr>
+        <creation>
+          <date TEIform="date" value="03/11/2009"/>
+          <persName>C.Marsico</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">16/05/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="16/05/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Gli antifonari tardoduecenteschi per i canonici della basilica di S.Pietro a Roma,</title>
+          <author n="1967-" reg="person">Manzari, Francesca,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Arte medievale</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">3, 1 (2004) 76, 79 fig. 14.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00588zzzzz" type="bib">Vat.lat.588</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.588</ptr>
+        <creation>
+          <date TEIform="date" value="30/03/2010"/>
+          <persName>R.Pazzini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">16/05/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="16/05/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Introduzione,</title>
+          <title type="title" level="u">Le origini della Biblioteca Vaticana tra Umanesimo e Rinascimento (1447-1534),</title>
+          <author rend="sac." reg="person">Pasini, Cesare, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2010</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">14 (fig. 4).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00588zzzzz" type="bib">Vat.lat.588</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.588</ptr>
+        <creation>
+          <date TEIform="date" value="23/02/2011"/>
+          <persName>FR.Lecce</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">16/05/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="23/02/2011">FR.Lecce</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="16/05/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La biblioteca papale nel Duecento e nel Trecento,</title>
+          <title type="title" level="u">Le origini della Biblioteca Vaticana tra Umanesimo e Rinascimento (1447-1534),</title>
+          <author n="1943-" reg="person">Paravicini Bagliani, Agostino,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2010</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">74 (fig. 1).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00588zzzzz" type="bib">Vat.lat.588</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.588</ptr>
+        <creation>
+          <date TEIform="date" value="23/02/2011"/>
+          <persName>FR.Lecce</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">16/05/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="23/02/2011">FR.Lecce</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="16/05/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">A Handlist of Manuscripts Containing Gregory's "Regula Pastoralis",</title>
+          <author reg="person">Clement, Richard W.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Manuscripta. A Journal for Manuscript Research</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">28 (1984) 42.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00588zzzzz" type="bib">Vat.lat.588</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.588</ptr>
+        <creation>
+          <date TEIform="date" value="13/03/2013"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">16/05/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="16/05/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Two Contemporary Gregorian Editions of Pope Gregory the Great's "Regula Pastoralis" in Troyes MS 504,</title>
+          <author reg="person">Clement, Richard W.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scriptorium</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">39 (1985) 93.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00588zzzzz" type="bib">Vat.lat.588</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.588</ptr>
+        <creation>
+          <date TEIform="date" value="13/03/2013"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">16/05/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="16/05/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I codici latini di Niccolò V. Edizione degli inventari e identificazione dei manoscritti,</title>
+          <title type="title" level="u">Studi e documenti sulla formazione della Biblioteca apostolica vaticana I (Studi e testi, 359),</title>
+          <author n="1961-" reg="person">Manfredi, Antonio,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">117.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00588zzzzz" type="bib">Vat.lat.588</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.588</ptr>
+        <creation>
+          <date TEIform="date" value="17/03/2014"/>
+          <persName>E.DeMaio</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">16/05/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="16/05/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Rime: Convivium Scientiarum, in laudem Sixti Quarti Pontificis Maximi, a cura di Fabio Carboni e Antonio Manfredi, (Studi e testi, 394),</title>
+          <author n="Sec. XV" reg="person">Thomeis, Antonio, de,</author>
+          <respStmt>
+            <resp>
+              <name>a cura di Carboni, Fabio</name>
+              <name>a cura di Manfredi, Antonio,</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">1999</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">178.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.00588zzzzz" type="bib">Vat.lat.588</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.588</ptr>
+        <creation>
+          <date TEIform="date" value="29/04/2014"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">16/05/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="16/05/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

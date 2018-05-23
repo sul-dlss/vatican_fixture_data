@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.001770000" type="ms">Pal.lat.177</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>&lt;scrittura insulare&gt;</scriptTerm>
+              </head>
+              <msContents>
+                <overview>
+                  <p>S. Hieronimi expositio in Matthaeum.</p>
+                </overview>
+                <msItem>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origPlace>
+                    <country>&lt;Germania&gt;</country>
+                    <settlement>&lt;Lorsch&gt;</settlement>
+                  </origPlace>
+                  <origDate notAfter="825" notBefore="776">sec. VIII-IX</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>315</height>
+                  <width>175</width>
+                </dimensions>
+                <extent>ff. 123</extent>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>E. Stevenson, G. B. De Rossi, Codices Palatini Latini Bibliothecae Vaticanae, Romae 1886, p. 31.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_177</ptr>
+        <creation>
+          <date TEIform="date" value="09/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="09/01/2017">A.Berloco</persName>
+              <persName n="13/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.001770001r-123r" type="ms">Pal.lat.177</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-123r</locus>
+                  <author rend="s.," n="342/347-419" reg="person">Hieronymus,</author>
+                  <title type="supplied">Expositio in Matthaeum</title>
+                  <title type="uniform">Commentarii in Evangelium Matthaei (Hieronymus, s., 342/347-419)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Ff. 1r-3v: Praefatio. Ff. 3v-36v: Liber I. Ff. 36v-65v: Liber II. Ff. 65v-94v: Liber III. Ff. 94v-123r: Liber IV. </note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>E. Stevenson, G. B. De Rossi, Codices Palatini Latini Bibliothecae Vaticanae, Romae 1886, p. 31.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_177</ptr>
+        <creation>
+          <date TEIform="date" value="09/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="09/01/2017">A.Berloco</persName>
+              <persName n="09/01/2017">A.Berloco</persName>
+              <persName n="31/03/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Schuttern in der Karolingerzeit. Das Evangeliar in London, Brithish Library, Add. 47673,</title>
+          <title type="title" level="u">Herrschaft, Kirche, Kultur, Beiträge zu Geschichte des Mittelalters. Fertschrift für Friedrich Prinz zu seinem 65. Geburtstag,</title>
+          <author reg="person">Bierbrauer, Katharina</author>
+          <respStmt>
+            <resp>
+              <name type="person">Bierbrauer, Volker</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Stuttgart</pubPlace>
+          <date TEIform="date" value="">1993</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">cit.: Vat. lat. 177,</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00177zzzzz" type="bib">Pal.lat.177</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_177</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>G.DAngelo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Carolingian Bible production: the Tours anomaly,</title>
+          <title type="title" level="u">The early medieval Bible. Its production, decoration and use,</title>
+          <author reg="person">McKitterick, Rosamond</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Cambridge</pubPlace>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">69.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00177zzzzz" type="bib">Pal.lat.177</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_177</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>G.DAngelo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/02/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/02/2014">A.Cantarella</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Indagine sulla pergamena insulare (secoli VII-XVI), </title>
+          <author reg="person">Di Majo, Anna</author>
+          <respStmt>
+            <resp>
+              <name n="1948-" type="person">Federici, Carlo</name>
+              <name type="person">Palma, Marco</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1988</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scriptorium</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">42 (1988) 135.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00177zzzzz" type="bib">Pal.lat.177</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_177</ptr>
+        <creation>
+          <date TEIform="date" value="22/02/2011"/>
+          <persName>A.DAscoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Gedanken zum Buch - Aus Anlass des 75. Geburtstages von Dr. Heinz Götze,</title>
+          <author reg="person">Mittler, Elmar</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1987</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Heidelberger Jahrbücher</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">31 (1987) 115.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00177zzzzz" type="bib">Pal.lat.177</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_177</ptr>
+        <creation>
+          <date TEIform="date" value="22/02/2011"/>
+          <persName>A.DAscoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Frühkarolingische Handschriften und ihre Heimat,</title>
+          <author n="1906-1991 " reg="person">Bischoff, Bernhard,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1968</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scriptorium</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">22 (1968) 313.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00177zzzzz" type="bib">Pal.lat.177</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_177</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>AL.Savalli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">"De corposis puritate"? Hier. in Matheum IV (25,12) CC 77,238,11.793-794,</title>
+          <author reg="person">Marin, Marcello</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Vetera Christianorum</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">14 (1977) 171-175.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00177zzzzz" type="bib">Pal.lat.177</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_177</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>E.VenerosiPesciolini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

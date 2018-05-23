@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.015230000" type="ms">Pal.lat.1523</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>bastarda</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <author n="106-43 a.C." reg="person" type="internal">Cicero, Marcus Tullius,</author>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origPlace>
+                    <country>Francia</country>
+                  </origPlace>
+                  <origDate notAfter="1425" notBefore="1401">sec. XV in</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>305</height>
+                  <width>206</width>
+                </dimensions>
+                <extent>I. 146. I</extent>
+                <collation>
+                  <p>18 fascicoli: 1-7 quaternioni (ff. 1-8 [+3], 9-16, 17-24, 25-32, 33-40, 41-48, 49-56); 8 binione (ff. 57-60); 9-18 quaternioni (ff. 61-68, 69-76, 77-84, 85-92, 93-100, 101-108, 109-116, 117-124, 125-132, 133-140 [+3]). </p>
+                </collation>
+                <layout>
+                  <p>due colonne; ll. 21/rr. 22; mm 175x125; rigatura a colore (tipo Derolez 41).</p>
+                </layout>
+                <msWriting>
+                  <p>copista unico; inchiostro bruno scuro; glosse in inchiostro bruno chiaro di mano diversa da quella del copista (ad esempio ff. 2v, 5v, 8v, 35v); ff. a, b, c, 32v, 60r, 60v, 143v rigati ma non scritti. </p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>2 pagine d’incipit con decorazioni policrome fito-zoomorfe che corrono lungo i margini (ff. 1r; 33r); 2 miniature tabellari (ff. 1r, 33r); 10 iniziali maggiori fitomorfe policrome, in azzurro, rosa e foglia d’oro (ff. 1r, 33r, 61r, 73v, 82v, 96r, 104r, 114r, 124r, 134r); 11 iniziali medie filigranate così suddivise: 7 blu con filigrana rossa (ff. 2r, 30v, 54r, 85v, 88v, 93r, 98r), 4 in foglia d’oro con filigrana blu (14r, 30v, 86v, 90r); titoli correnti al centro del margine superiore in blu (ff. 1-104) e alternativamente in blu con filigrana rossa e in foglia d’oro con filigrana blu (ff. 104-142).</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>su assi di cartone con coperta in pergamena; dorso a quattro nervi, sul primo tassello l’indicazione 1523, sul secondo tassello in inchiostro bruno Cicero De Amicit.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>manuale a inchiostro in numeri arabi nell’angolo superiore destro (ff. 1-143); numerazione alfabetica a matita (ff. a, b, c).</p>
+                </foliation>
+                <condition>
+                  <p>buono; pergamena ingiallita con qualche difetto di concia e sporadici attacchi di tarli principalmente negli ultimi fascicoli. </p>
+                </condition>
+                <signatures>sequenza alfanumerica in basso a destra, spesso rifilata.</signatures>
+                <catchwords>nel margine inferiore, parzialmente rifilati.</catchwords>
+              </physDesc>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="date" value="04/11/2016"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">23/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/11/2016">L.Massolo</persName>
+              <persName n="04/11/2016">L.Massolo</persName>
+              <persName n="04/11/2016">L.Massolo</persName>
+              <persName n="05/11/2016">L.Massolo</persName>
+              <persName n="10/11/2016">L.Massolo</persName>
+              <persName n="23/11/2016">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Mueller, IV, III, Lipsiae 1890, p. 162-196.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.015230001r-30r" type="ms">Pal.lat.1523</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-30r</locus>
+                  <author n="106-43 a.C." reg="person" type="internal">Cicero, Marcus Tullius,</author>
+                  <title type="supplied">Laelius de amicitia</title>
+                  <title type="title">De vera amicitia</title>
+                  <title type="uniform">De amicitia (Cicero, Marcus Tullius, 106-43 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1830-1903‏" type="person" role="external">Müller, C. F. W. (Carl Friedrich Wilhelm),‏</name>
+                  <origDate notAfter="1425" notBefore="1401">sec. XV in</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM38.5</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="date" value="19/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="12/04/2017">F.Borzumato</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.015230030v" type="ms">Pal.lat.1523</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>30v</locus>
+                  <summary>De usu librorum gentilium.</summary>
+                  <incipit type="text">Poemata et libros gentilium si velimus propter eloquentie florentipus [sic]</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origDate notAfter="1425" notBefore="1401">sec. XV in</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM122</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="05/09/2004" value="06/04/2006"/>
+          <persName>V. Cannizzo</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="-">M.G. Critelli</persName>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="04/11/2016">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.015230030v-32r" type="ms">Pal.lat.1523</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>30v-32r</locus>
+                  <title type="supplied">In Ciceronis Catonem de senectute et Laelium de amicitia argumentum</title>
+                  <incipit type="text">Atticus vir nobilis fuit multum familiaris Tullio Ciceroni, peritus in philosophicis sententiis</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="106-43 a.C." type="person">Cicero, Marcus Tullius,</name>
+                  <origDate notAfter="1425" notBefore="1401">sec. XV in</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM10 IAM38.1 IAM38.5</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="19/05/2008" value="09/12/2011"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="04/11/2016">L.Massolo</persName>
+              <persName n="16/01/2017">L.Massolo</persName>
+              <persName n="17/03/2017">F.Borzumato</persName>
+              <persName n="12/04/2017">F.Borzumato</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Mueller, IV, III, Lipsiae, 1890, p. 131-162.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.015230033r-59v" type="ms">Pal.lat.1523</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>33r-59v</locus>
+                  <author n="106-43 a.C." reg="person" type="internal">Cicero, Marcus Tullius,</author>
+                  <title type="title">Cato maior de senectute</title>
+                  <title type="uniform">De senectute (Cicero, Marcus Tullius, 106-43 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1830-1903‏" type="person" role="external">Müller, C. F. W. (Carl Friedrich Wilhelm),‏</name>
+                  <origDate notAfter="1425" notBefore="1401">sec. XV in</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM38.1</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="date" value="19/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">12/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/03/2017">F.Borzumato</persName>
+              <persName n="12/04/2017">F.Borzumato</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Mueller, IV, III, Lipsiae 1890, p. 214-230.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.015230061r-73r" type="ms">Pal.lat.1523</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>61r-73r</locus>
+                  <author n="106-43 a.C." reg="person" type="internal">Cicero, Marcus Tullius,</author>
+                  <title type="title">De essentia mundi</title>
+                  <title type="uniform">Timaeus (Cicero, Marcus Tullius, 106-43 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1830-1903‏" type="person" role="external">Müller, C. F. W. (Carl Friedrich Wilhelm),‏</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM38.8</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="date" value="19/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">09/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="09/05/2017">F.Borzumato</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.015230073v-82r" type="ms">Pal.lat.1523</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>73v-82r</locus>
+                  <author n="c. 400" reg="person" type="internal">Vegetius Renatus, Flavius,</author>
+                  <title type="supplied">De re militari</title>
+                  <title type="uniform">Epitoma rei militaris (Vegetius Renatus, Flavius, c. 400)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="date" value="19/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">19/01/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="19/01/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Mueller, IV, III, Lipsiae, 1890, p. 197-213.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.015230082v-96r" type="ms">Pal.lat.1523</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>82v-96r</locus>
+                  <author n="106-43 a.C." reg="person" type="internal">Cicero, Marcus Tullius,</author>
+                  <title type="title">De paradoxa</title>
+                  <title type="supplied">Paradoxa stoicorum</title>
+                  <title type="uniform">Paradoxa stoicorum (Cicero, Marcus Tullius, 106-43 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1830-1903‏" type="person" role="external">Müller, C. F. W. (Carl Friedrich Wilhelm),‏</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM38.5</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="date" value="19/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/04/2017">F.Borzumato</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Mueller, IV, III, Lipsiae 1890, p. 418-424.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.015230096r-103v" type="ms">Pal.lat.1523</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>96r-103v</locus>
+                  <author n="86-c. 34 a.C." key="Opere spurie e dubbie" reg="person" type="internal">Sallustius Crispus, Gaius,</author>
+                  <title type="supplied">Invectiva in Ciceronem</title>
+                  <title type="title">Invectiva Salustii contra Tullium</title>
+                  <title type="uniform">Invectiva in Ciceronem (Sallustius Crispus, Gaius, 86-c. 34 a.C. Opere spurie e dubbie)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1830-1903‏" type="person" role="external">Müller, C. F. W. (Carl Friedrich Wilhelm),‏</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM38.7</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="date" value="19/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">05/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="05/05/2017">F.Borzumato</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Mueller, II, II, Lipsiae 1885, p. 249-298.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.015230104r-143r" type="ms">Pal.lat.1523</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>104r-143r</locus>
+                  <author n="106-43 a.C." reg="person" type="internal">Cicero, Marcus Tullius,</author>
+                  <title type="supplied">Catilinariae</title>
+                  <title type="title">Tullius contra Catilinam</title>
+                  <title type="uniform">In Catilinam (Cicero, Marcus Tullius, 106-43 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1830-1903‏" type="person" role="external">Müller, C. F. W. (Carl Friedrich Wilhelm),‏</name>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM38.4</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="date" value="19/01/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">07/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="07/04/2017">F.Borzumato</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Quelques “accessus” au “De amicitia” de Cicéron, </title>
+          <title type="title" level="u">Bibliothèques retrouvées. Manuscrits, bibliothèques et bibliophiles du Moyen Age et de la Renaissance, </title>
+          <author n="1912-1993" reg="person">Pellegrin, Elisabeth,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Paris </pubPlace>
+          <date TEIform="date" value="">1990</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">494, 498-500.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.01523zzzzz" type="bib">Pal.lat.1523</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="date" value="24/03/2009"/>
+          <persName>E.Ruggeri</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Modestus, scriptor rei militaris, </title>
+          <title type="title" level="u">La tradition vive. Mélanges d’histoire des textes en l’honneur de Louis Holtz,</title>
+          <author reg="person">Reeve, Michael D.</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Turnhout</pubPlace>
+          <date TEIform="date" value="">2003</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">428.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.01523zzzzz" type="bib">Pal.lat.1523</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="date" value="21/02/2012"/>
+          <persName>A.DAscoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Forschungen zur lateinischen Paläographie,</title>
+          <author rend="O.S.B." reg="person">Engelbert, Pius,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2012</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Revue Bénédictine</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">122.1 (2012) 7.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.01523zzzzz" type="bib">Pal.lat.1523</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2013"/>
+          <persName>D.Staccini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">30/07/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">A Handlist of extant Manuscripts containing the «De Re Militari» of Flavius Vegetius Renatus,</title>
+          <author n="1943-" reg="person">Shrader, Charles Reginald,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1979</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scriptorium</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">33 (1979) 297.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.01523zzzzz" type="bib">Pal.lat.1523</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="date" value="28/01/2014"/>
+          <persName>V.Maffezzoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Quelques “accessus” au “De amicitia” de Cicéron,</title>
+          <title type="title" level="u">Hommages à Andrè Boutemy,</title>
+          <author n="1912-1993" reg="person">Pellegrin, Elisabeth,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Bruxelles</pubPlace>
+          <date TEIform="date" value="">1976</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">281-283</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.01523zzzzz" type="bib">Pal.lat.1523</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_1523</ptr>
+        <creation>
+          <date TEIform="date" value="04/02/2014"/>
+          <persName>V.Maffezzoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

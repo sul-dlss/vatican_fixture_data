@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pap.Vat.lat." rend="Pap.Vat.lat.000060000" type="ms">Pap.Vat.lat.6</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>corsiva nuova e scrittura personale greca</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="marchese," n="1675-1755" type="person" role="owner">Maffei, Scipione,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Ravenna</settlement>
+                  </origPlace>
+                  <origDate n="c. 600 (590-602 ?)" notAfter="625" notBefore="576">sec. VI-VII</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>papiro</p>
+                </support>
+                <dimensions>
+                  <height>2600</height>
+                  <width>310</width>
+                </dimensions>
+                <msWriting>
+                  <p>Sette mani: lo scrittore, "Bonus tabellio civiatis Ravennatis", ff. 1-66, 115-126, il testes et chronista Armatus, rr 67-75, i cinque testimoni rr. 76-114.</p>
+                </msWriting>
+              </physDesc>
+              <history>
+                <p>Scipione Maffei acquistò questo papiro a Venezia poco prima del 1727 e lo cedette alla Vaticana nel 1740.</p>
+              </history>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Chartae Latinae Antiquiores XXI, 717.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pap.Vat.lat.6</ptr>
+        <creation>
+          <date TEIform="date" value="03/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">30/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="03/02/2017">A.Berloco</persName>
+              <persName n="08/02/2017">A.Berloco</persName>
+              <persName n="21/03/2017">Linking System: R.Mancusi</persName>
+              <persName n="30/03/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Falso"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pap.Vat.lat." rend="Pap.Vat.lat.000060001r" type="ms">Pap.Vat.lat.6</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r</locus>
+                  <title type="supplied">Documento di Ravenna</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Sisevera, gota, dona alla chiesa di Ravenna parte del fundus Balonianus.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Chartae Latinae Antiquiores XXI, 717.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pap.Vat.lat.6</ptr>
+        <creation>
+          <date TEIform="date" value="08/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/03/2017">Linking System: R.Mancusi</persName>
+              <persName n="30/03/2017">A.Berloco</persName>
+              <persName n="31/03/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Materiali vecchi e nuovi per uno studio della minuscola greca fra VII e IX secolo,</title>
+          <title type="title" level="u">I manoscritti greci tra riflessione e dibattito. Atti del V Colloquio Internazionale di Paleografia Greca (Cremona 4-10 ott. 1998), </title>
+          <author n="1962-" reg="person">De Gregorio, Giuseppe</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze </pubPlace>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">107.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pap.Vat.lat." rend="Pap.Vat.lat.00006zzzzz" type="bib">Pap.Vat.lat.6</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pap.Vat.lat.6</ptr>
+        <creation>
+          <date TEIform="date" value="26/01/2010"/>
+          <persName>A.Fontepiani</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/03/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il sistema abbreviativo latino nei documenti dell’età romana e tardo antica (I secolo a.C.-VII secolo),</title>
+          <author reg="person">Pescini, Ilaria</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1993</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Medioevo e Rinascimento</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">7 (1993) 222, 227, 229.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pap.Vat.lat." rend="Pap.Vat.lat.00006zzzzz" type="bib">Pap.Vat.lat.6</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pap.Vat.lat.6</ptr>
+        <creation>
+          <date TEIform="date" value="26/01/2010"/>
+          <persName>A.Fontepiani</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/03/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Some Ancient Letter-Forms in the Later Roman Cursive and Early Mediaeval Script and the Script of the notarii,</title>
+          <author n="1921-1998" reg="person">Tjäder, Jan-Olof,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1982</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scrittura e civiltà</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">6 (1982) 13, 15.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pap.Vat.lat." rend="Pap.Vat.lat.00006zzzzz" type="bib">Pap.Vat.lat.6</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pap.Vat.lat.6</ptr>
+        <creation>
+          <date TEIform="date" value="06/03/2012"/>
+          <persName>V.DeFrancesca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/03/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Papiri tardoantichi nei Papiri diplomatici di Gaetano Marini: un elenco,</title>
+          <title type="title" level="u">Gaetano Marini (1742-1815) protagonista della cultura europea: scritti per il bicentenario della morte: I, a cura di Marco Buonocore (Studi e testi, 492),</title>
+          <author n="1976-" reg="person">Del Corso, Lucio,</author>
+          <respStmt>
+            <resp>
+              <name n="1947-" type="person">Pintaudi, Rosario,</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2015</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">801.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pap.Vat.lat." rend="Pap.Vat.lat.00006zzzzz" type="bib">Pap.Vat.lat.6</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Pap.Vat.lat.6</ptr>
+        <creation>
+          <date TEIform="date" value="02/12/2015"/>
+          <persName>C.DGiovanni</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/03/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

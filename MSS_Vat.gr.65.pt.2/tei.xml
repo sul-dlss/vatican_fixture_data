@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00065.pt.000020000" type="ms">Vat.gr.65.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <colophon>ἐτελειώθη ἡ βίβλος αὕτη παρὰ θεοδώρου | ὑπάτου καὶ βασιλικοῦ νοταρίου· γραφεῖσα οἰκεια χειρὶ αὐτοῦ μηνὶ ἀπριλλίῳ κε᾿ (ἰνδ.) α′ † | τοῦ ἁγ…. αρίου | ἔτους, ςφοα′ (p. C. 1063) .|| κ(ύρι)ε βοήθει τω τοῦτο γράψαντι ἀμήν | † ἔχει τὸ παρ(όν) βίβλίον φύλλα τ: δ′</colophon>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Codex in duo volumina disperditus est, quorum prius ff. 1-154 conplectitur, alterum reliqua.</note>
+                  <name reg="card.," n="1812-1889" type="person" role="owner">Pitra, Jean Baptiste,</name>
+                  <name reg="b.," n="1792-1878" type="person" role="owner">Pius PP. IX,</name>
+                  <origDate n="1063 (f. 304v)">sec. XI med</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membran.</p>
+                </support>
+                <dimensions>
+                  <height>209</height>
+                  <width>172</width>
+                </dimensions>
+                <extent>ff. IV chart., 304</extent>
+                <collation>
+                  <p>Quaternionum 39 (1 duern., 11 tern., 38 folior. 9, ult. folior. 5)</p>
+                </collation>
+                <msWriting>
+                  <p>Textum duos scribas exarasse (quorum secundus ff. 66r. 87v. 219r-220r. 238r. 251v) recte monet E. Drerup idemque correctores distinguit, praeter librarium, quattuor vel saltem tres, scholiorum vero tres librarios. Ff. 1-4 saec. XIII, subpleta, rescripta sunt; scriptura antiqua minuscola prorsus evanida legi vix potest.</p>
+                </msWriting>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>In tegumento scuta Pii IX et Ioh. B. Pitra card. Byblioth.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+              </physDesc>
+              <history>
+                <p>Ibidem conspicis sigillum bybl. Nationalis Paris., quod iteratur f. 304v, ubi subscriptio</p>
+              </history>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>I. Mercati, P. Franchi De' Cavalieri, Codices Vaticani graeci, I: Codices 1-329, Romae 1923, pp. 60-61.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.65.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="27/10/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="28/10/2016">A.Berloco</persName>
+              <persName n="28/10/2016">A.Berloco</persName>
+              <persName n="31/10/2016">A.Berloco</persName>
+              <persName n="03/11/2016">A.Berloco</persName>
+              <persName n="03/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00065.pt.000020155r-171r" type="ms">Vat.gr.65.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>155r-171r</locus>
+                  <author n="436/35-338 a.C." reg="person" type="internal">Isocrates,</author>
+                  <title type="supplied">De pace</title>
+                  <title type="uniform">De pace (Isocrates, 436/35-338 a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>I. Mercati, P. Franchi De' Cavalieri, Codices Vaticani graeci, I: Codices 1-329, Romae 1923, p. 61.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.65.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="31/10/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="31/10/2016">A.Berloco</persName>
+              <persName n="03/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00065.pt.000020171r-189r" type="ms">Vat.gr.65.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>171r-189r</locus>
+                  <author n="436/35-338 a.C." reg="person" type="internal">Isocrates,</author>
+                  <title type="supplied">Archidamus</title>
+                  <title type="uniform">Archidamus (Isocrates, 436/35-338 a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>I. Mercati, P. Franchi De' Cavalieri, Codices Vaticani graeci, I: Codices 1-329, Romae 1923, p. 61.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.65.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="27/10/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="31/10/2016">A.Berloco</persName>
+              <persName n="03/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00065.pt.000020189v-233v" type="ms">Vat.gr.65.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>189v-233v</locus>
+                  <author n="436/35-338 a.C." reg="person" type="internal">Isocrates,</author>
+                  <title type="supplied">Panathenaicus</title>
+                  <title type="uniform">Panathenaicus (Isocrates, 436/35-338 a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>I. Mercati, P. Franchi De' Cavalieri, Codices Vaticani graeci, I: Codices 1-329, Romae 1923, p. 61.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.65.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="27/10/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="31/10/2016">A.Berloco</persName>
+              <persName n="03/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00065.pt.000020233v-261v" type="ms">Vat.gr.65.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>233v-261v</locus>
+                  <author n="436/35-338 a.C." reg="person" type="internal">Isocrates,</author>
+                  <title type="supplied">Antidosis</title>
+                  <title type="uniform">Antidosis (Isocrates, 436/35-338 a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>I. Mercati, P. Franchi De' Cavalieri, Codices Vaticani graeci, I: Codices 1-329, Romae 1923, p. 61.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.65.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="27/10/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="31/10/2016">A.Berloco</persName>
+              <persName n="03/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00065.pt.000020262r-265r" type="ms">Vat.gr.65.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>262r-265r</locus>
+                  <author n="436/35-338 a.C." reg="person" type="internal">Isocrates,</author>
+                  <title type="supplied">In Lochitem</title>
+                  <title type="uniform">In Lochitem (Isocrates, 436/35-338 a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>I. Mercati, P. Franchi De' Cavalieri, Codices Vaticani graeci, I: Codices 1-329, Romae 1923, p. 61.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.65.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="27/10/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="31/10/2016">A.Berloco</persName>
+              <persName n="03/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00065.pt.000020265r-268r" type="ms">Vat.gr.65.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>265r-268r</locus>
+                  <author n="436/35-338 a.C." reg="person" type="internal">Isocrates,</author>
+                  <title type="supplied">In Euthynum</title>
+                  <title type="uniform">In Euthynum (Isocrates, 436/35-338 a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>I. Mercati, P. Franchi De' Cavalieri, Codices Vaticani graeci, I: Codices 1-329, Romae 1923, p. 61.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.65.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="27/10/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="31/10/2016">A.Berloco</persName>
+              <persName n="03/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00065.pt.000020268r-276r" type="ms">Vat.gr.65.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>268r-276r</locus>
+                  <author n="436/35-338 a.C." reg="person" type="internal">Isocrates,</author>
+                  <title type="supplied">De bigis</title>
+                  <title type="uniform">De bigis (Isocrates, 436/35-338 a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>I. Mercati, P. Franchi De' Cavalieri, Codices Vaticani graeci, I: Codices 1-329, Romae 1923, p. 61.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.65.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="27/10/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="31/10/2016">A.Berloco</persName>
+              <persName n="03/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00065.pt.000020276r-284r" type="ms">Vat.gr.65.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>276r-284r</locus>
+                  <author n="436/35-338 a.C." reg="person" type="internal">Isocrates,</author>
+                  <title type="supplied">Aegineticus</title>
+                  <title type="uniform">Aegineticus (Isocrates, 436/35-338 a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>I. Mercati, P. Franchi De' Cavalieri, Codices Vaticani graeci, I: Codices 1-329, Romae 1923, p. 61.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.65.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="27/10/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="31/10/2016">A.Berloco</persName>
+              <persName n="03/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00065.pt.000020284r-293v" type="ms">Vat.gr.65.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>284r-293v</locus>
+                  <author n="436/35-338 a.C." reg="person" type="internal">Isocrates,</author>
+                  <title type="supplied">Trapeziticus</title>
+                  <title type="uniform">Trapeziticus (Isocrates, 436/35-338 a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>I. Mercati, P. Franchi De' Cavalieri, Codices Vaticani graeci, I: Codices 1-329, Romae 1923, p. 61.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.65.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="27/10/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="31/10/2016">A.Berloco</persName>
+              <persName n="03/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00065.pt.000020293v-304r" type="ms">Vat.gr.65.pt.2</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>293v-304r</locus>
+                  <author n="436/35-338 a.C." reg="person" type="internal">Isocrates,</author>
+                  <title type="supplied">In Callimachum</title>
+                  <title type="uniform">In Callimachum (Isocrates, 436/35-338 a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>I. Mercati, P. Franchi De' Cavalieri, Codices Vaticani graeci, I: Codices 1-329, Romae 1923, p. 61.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.65.pt.2</ptr>
+        <creation>
+          <date TEIform="date" value="27/10/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="27/10/2016">A.Berloco</persName>
+              <persName n="31/10/2016">A.Berloco</persName>
+              <persName n="03/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

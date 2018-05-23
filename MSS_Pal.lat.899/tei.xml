@@ -1,0 +1,2675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.008990000" type="ms">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>&lt;carolina&gt;</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <title type="uniform">Historia Augusta</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1304-1374" type="person" role="glossator">Petrarca, Francesco,</name>
+                  <name n="m. 1337" type="person" role="glossator">Iohannes de Matociis,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia settentrionale (?)</region>
+                  </origPlace>
+                  <origDate notAfter="875" notBefore="826">sec. IX med</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>350</height>
+                  <width>250</width>
+                </dimensions>
+                <extent>ff. II. 216</extent>
+                <collation>
+                  <p>27 quaternioni</p>
+                </collation>
+                <msWriting>
+                  <p>Il codice è vergato da due mani.</p>
+                </msWriting>
+              </physDesc>
+              <history>
+                <provenance>
+                  <p>Verona, Biblioteca capitolare</p>
+                </provenance>
+              </history>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>E. Stevenson, G. B. De Rossi, Codices Palatini Latini Bibliothecae Vaticanae, Romae 1886, pp. 320-321. O. Pecere, Il codice Palatino dell’Historia Augusta come ‘edizione’ continua, in "Formative stages of classical traditions: latin texts from Antiquity to the Renaissance. Proceedings of a conference held at Erice, 16-22 Oct. 1993", Spoleto 1995, pp. 323-369.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="11/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">05/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="12/01/2017">A.Berloco</persName>
+              <persName n="12/01/2017">A.Berloco</persName>
+              <persName n="12/01/2017">A.Berloco</persName>
+              <persName n="12/01/2017">A.Berloco</persName>
+              <persName n="19/01/2017">A.Berloco</persName>
+              <persName n="05/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.008990001r-216v" type="ms">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-216v</locus>
+                  <title type="title">Vitae diversorum principum et tyrannorum a divo Hadriano usque ad Numerianum diversis compositi</title>
+                  <title type="uniform">Historia Augusta</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Iv: Tabula codicis manu saec. XV. F. 1r-v: Tabula codicis. Ff. 2r-12r: Hadrianus. Ff. 12r-14v: Aelius. Ff. 14v-19r: Antonius Pius. Ff. 19r-30r: Vita Marci Antonini philosophi. Ff. 30r-34r: Verus. Ff. 34r-37v: Didius Iulianus. Ff. 37v-45r: Commodus Antoninus. Ff. 45r-50v: Helvius Pertinax. Ff. 50v-55v: Avidius Cassius. Ff. 55v-64v: Severus. Ff. 64v-69r: Pescennius Niger. Ff. 69r-73v: Antoninus Caracallus. Ff. 73v-76r: Antoninus Geta. Ff. 76r-87v: Antoninus Heliogabalus. Ff. 87v-91r: Diadumenus Antoninus. Ff. 91r-96r: Opilius Macrinus. Ff. 96r-101v: Vita Clodii Albini. Ff. 101v-118v: Alexander Severus. Ff. 118v-130r: Maximini duo. Ff. 130r-141v: Gordiani tres. Ff. 141v-152r: Maximus et Balbinus. Ff. 152r-154r: Valeriani duo. Ff. 154r-161v: Gallieni duo (ff. 160v-161v: Saloninus Gallienus). Ff. 161v-174v: Tyranni triginta. Ff. 174v-180v: Divus Claudius. Ff. 180v-200v: Tacitus (ff. 195r-200v: Florianus). Ff. 200v-207v: Probus. Ff. 208r-211v: Firmus Saturninus Proclus et Bonosus. Ff. 211v-216v: Carus et Carinus et Numerianus.</note>
+                  <note type="note">Folia 120-148 perturbata; quomodo ordinata sint adnotatur in margine, manu saec. facile XIV.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>E. Stevenson, G. B. De Rossi, Codices Palatini Latini Bibliothecae Vaticanae, Romae 1886, pp. 320-321. O. Pecere, Il codice Palatino dell’Historia Augusta come ‘edizione’ continua, in "Formative stages of classical traditions: latin texts from Antiquity to the Renaissance. Proceedings of a conference held at Erice, 16-22 Oct. 1993", Spoleto 1995, pp. 323-369.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="11/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">05/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/01/2017">A.Berloco</persName>
+              <persName n="12/01/2017">A.Berloco</persName>
+              <persName n="12/01/2017">A.Berloco</persName>
+              <persName n="12/01/2017">A.Berloco</persName>
+              <persName n="12/01/2017">A.Berloco</persName>
+              <persName n="12/01/2017">A.Berloco</persName>
+              <persName n="05/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Leone di Vercelli postillatore di codici,</title>
+          <author reg="person">Gavinelli, Simona</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2001</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Aevum. Rassegna di scienze storiche, linguistiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">75 (2001) 256.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="03/11/2009"/>
+          <persName>C.Marsico</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title" level="u">Carlo Magno a Roma [catalogo di mostra, Città del Vaticano, Musei Vaticani, 14 dicembre 2000-18 aprile 2001]</title>
+          <title type="title">Historia Augusta.</title>
+          <author n="1954-" reg="person">Buonocore, Marco, </author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Retablo,</publisher>
+          <pubPlace>Roma :</pubPlace>
+          <date TEIform="date">stampa 2001.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 255-256 e con ill. del f. 19r (p. 257).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="28/01/2010"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Un testimone dei ‘Dialogi’ di Leonardo Bruni appartenuto a Giannozzo Manetti: il ms. Vaticano Pal. lat. 1598,</title>
+          <author reg="person">Baldassarri, Stefano Ugo</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Interpres. Rivista di studi quattrocenteschi</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">14 (1994) 200.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Petrarca e i libri della cattedrale di Verona,</title>
+          <title type="title" level="u">Petrarca, Verona e l’Europa, Atti del Convegno internazionale di studi (Verona, 19-23 sett. 1991),</title>
+          <author n="1913-2000" reg="person">Billanovich, Giuseppe, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Padova</pubPlace>
+          <date TEIform="date" value="">1997</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">146, 176.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Giovanni Mansionario nella cultura veronese del Trecento,</title>
+          <title type="title" level="u">Petrarca, Verona e l’Europa, Atti del Convegno internazionale di studi (Verona, 19-23 sett. 1991),</title>
+          <author reg="person">Bottari, Guglielmo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Padova</pubPlace>
+          <date TEIform="date" value="">1997</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">33-35, tav. II, 2.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Un caso esemplare di antigrafo e apografo nella tradizione di Seneca: il Pal. lat. 1547 e il Reg. lat. 1529,</title>
+          <title type="title" level="u">Seneca e il suo tempo. Atti del Convegno internazionale Roma-Cassino, 11-14 nov. 1998,</title>
+          <author reg="person">Busonero, Paola</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">327.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Sedulius Scottus: Liber de rectoribus christianis, a Carolingian or Hibernian Mirror for Princes?,</title>
+          <author reg="person">Davis, Lued M.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1991-92</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studia Celtica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">26/27 (1991/92) 34-50 passim.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Tre libri del Petrarca,</title>
+          <title type="title" level="u">Petrarca, Verona e l’Europa, Atti del Convegno internazionale di studi (Verona, 19-23 sett. 1991),</title>
+          <author reg="person">De la Mare, Albinia Catherine</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Padova</pubPlace>
+          <date TEIform="date" value="">1997</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">414.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Early Mediaeval Insular Churches and the Preservation of Roman Literature: towards a Historical and Palaeographical Reëvaluation,</title>
+          <title type="title" level="u">Formative stages of classical traditions: latin texts from Antiquity to the Renaissance. Proceedings of a conference held at Erice, 16-22 Oct. 1993,</title>
+          <author reg="person">Dumville, David N.</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Spoleto</pubPlace>
+          <date TEIform="date" value="">1995</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">222, 223.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il codice Palatino dell’Historia Augusta come ‘edizione’ continua,</title>
+          <title type="title" level="u">Formative stages of classical traditions: latin texts from Antiquity to the Renaissance. Proceedings of a conference held at Erice, 16-22 Oct. 1993,</title>
+          <author reg="person">Pecere, Oronzo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Spoleto</pubPlace>
+          <date TEIform="date" value="">1995</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">323-369*, tavv. I-IV, VII-XVIII.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Place of P in the Stemma of Livy 1-10,</title>
+          <title type="title" level="u">Medieval Manuscripts of the Latin Classics: Production and Use,</title>
+          <author reg="person">Reeve, Michael D.</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Los Altos Hills, CA-London</pubPlace>
+          <date TEIform="date" value="">1996</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">78.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Petrarca filologo. Su un recente volume di Giuseppe Billanovich,</title>
+          <author reg="person">Velli, Giuseppe</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1999</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Acme. Annali della Facoltà di lettere e filosofia dell’Università degli studi di Milano</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">52/1 (1999) 242.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="02/03/2010"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Nuove testimonianze sulla fortuna di epigrafi classiche latine all’inizio dell’Umanesimo (con una nota sul giurista Papiniano e Cil, VI/5, n. II),</title>
+          <author reg="person">Petoletti, Marco, 1972-</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2003</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Italia medioevale e umanistica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">44 (2003) 24*.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="23/11/2010"/>
+          <persName>AM.Colabello</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">New Research on Humanistic Scribes in Florence,</title>
+          <title type="title" level="u">Miniatura fiorentina del Rinascimento, 1440-1525. Un primo censimento,</title>
+          <author reg="person">De la Mare, Albinia Catherine</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">423.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="08/03/2011"/>
+          <persName>A.Varra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le "Quattrocento" de l'"Histoire Auguste",</title>
+          <author n="1929-" reg="person">Callu, Jean-Pierre,</author>
+          <respStmt>
+            <resp>
+              <name type="person">Desbordes, Olivier</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1989</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Revue d’histoire des textes</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">19 (1989) 253-262 passim, 267, 268, 272.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="08/03/2011"/>
+          <persName>A.Varra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/06/2012">F.Fioretti</persName>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Floro ad Adriano: spunti biografici,</title>
+          <author reg="person">Bessone, Luigi</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1990</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Sileno</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">16 (1990) 207.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="08/03/2011"/>
+          <persName>A.Varra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Tradizione classica e cultura letteraria. I. I testi storici; II. I programmi scolastici; III. La tradizione retorica,</title>
+          <title type="title" level="u">Dall'eremo al cenobio. La civiltà monastica in Italia dalle origini all'età di Dante,</title>
+          <author n="1913-2000" reg="person">Billanovich, Giuseppe, </author>
+          <respStmt>
+            <resp>
+              <name type="person">Villa, Claudia</name>
+              <name type="person">Alessio, Gian Carlo</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">1987</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">283, tav. 107-109.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="08/03/2011"/>
+          <persName>A.Varra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Latin Poetry of Leonardo Bruni,</title>
+          <author reg="person">Hankins, James</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1990</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Humanistica Lovaniensia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">39 (1990) 14.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="08/03/2011"/>
+          <persName>A.Varra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Presenze del Petrarca nel Boccaccio latino,</title>
+          <author reg="person">Zaccaria, Vittorio</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1986</date>
+          <date TEIform="date">1987</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Atti dell’Accademia Pontaniana</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">99 (1986-87) 246.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="08/03/2011"/>
+          <persName>A.Varra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">“Attende et ad Cristum refer”. Bibbia e auctores sui codici classici di Petrarca,</title>
+          <title type="title" level="u">L’antiche e le moderne carte. Studi in memoria di Giuseppe Billanovich, a c. di Antonio Manfredi e Carla Maria Monti (Medioevo e Umanesimo, 112),</title>
+          <author reg="person">Baglio, Marco</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <pubPlace>Padova</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">47.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>P.Decaro</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">06/03/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="06/03/2014">L.Annicelli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il Catullo della cattedrale di Verona, </title>
+          <author n="1913-2000" reg="person">Billanovich, Giuseppe, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1988</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Abhandlungen der Bayerischen Akademie der Wissenschaften</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">99 (1988) 46.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>A.Varra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">“Signa manus mee”. Percorso tra postille e opere di Francesco Petrarca,</title>
+          <title type="title" level="u">L’antiche e le moderne carte. Studi in memoria di Giuseppe Billanovich, a c. di Antonio Manfredi e Carla Maria Monti (Medioevo e Umanesimo, 112),</title>
+          <author reg="person">Petoletti, Marco, 1972-</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <pubPlace>Padova</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">467-496*, 473, 475, 483-484, 487, 492, 494, 496.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>P.Decaro</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">06/03/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/02/2014">A.Rita</persName>
+              <persName n="06/03/2014">L.Annicelli</persName>
+              <persName n="06/03/2014">L.Annicelli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La decorazione numismatica nel codice dell’Historia Augusta Vitt. Em. 1004 della Biblioteca Nazionale Centrale di Roma, </title>
+          <author reg="person">Marchiaro, Michaelangiola</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Atti dell’Accademia Nazionale dei Lincei. Rendiconti. Classe di scienze morali, storiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">s. 9, v. 18 (2007) 82.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="30/05/2011"/>
+          <persName>E.Licursi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La decorazione numismatica nel codice dell’Historia Augusta Vitt. Em. 1004 della Biblioteca Nazionale Centrale di Roma, </title>
+          <author reg="person">Marchiaro, Michaelangiola</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Atti dell’Accademia Nazionale dei Lincei. Rendiconti. Classe di scienze morali, storiche e filologiche</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">s. 9, v. 18 (2007) 86.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="30/05/2011"/>
+          <persName>E.Licursi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Bibliothek und Universität. Skizzen zu ihrer Wechselbeziehung, </title>
+          <title type="title" level="u">Semper apertus. Sechshundert Jahre Ruprecht-Karls Univ. Heidelberg 1386-1986, </title>
+          <author reg="person">Mittler, Elmar</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Berlin </pubPlace>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">7, 18.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>V.Damiano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Apicio o Sulpicia? (H. A. Spart. "Ael." 8, 9),</title>
+          <author n="1911-1974" reg="person">Cazzaniga, Ignazio, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace/>
+          <date TEIform="date" value="">1974</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi italiani di filologia classica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">46 (1974) 252.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>V.DeFrancesca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">"Scriptores Historiae Augustae",</title>
+          <title type="title" level="u">Texts and Transmission. A Survey of the Latin Classics,</title>
+          <author reg="person">Marshall, Peter Kenneth</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Oxford</pubPlace>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">354-356.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>V.DeFrancesca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2012">F.Fioretti</persName>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Introduction,</title>
+          <title type="title" level="u">Texts and Transmission. A Survey of the Latin Classics,</title>
+          <author reg="person">Reynolds, L. D. (Leighton Durham)</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Oxford</pubPlace>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">xxii, xxx, xl.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>V.DeFrancesca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Un contributo alla lettura del canone bibliografico di Tommaso Parentucelli,</title>
+          <title type="title" level="u">Le chiavi della memoria. Miscellanea in occasione del I centenario della scuola vaticana di Paleografia, Diplomatica e Archivistica,</title>
+          <author reg="person">Blasio, Maria Grazia</author>
+          <respStmt>
+            <resp>
+              <name type="person">Lelj, Cinzia</name>
+              <name type="person">Roselli, Giuseppina</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">155.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>V.DeFrancesca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/02/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="17/02/2014">T.DiStefano</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">L'"Histoire Auguste" et l'historiographie médiévale,</title>
+          <author n="1929-" reg="person">Callu, Jean-Pierre,</author>
+          <respStmt>
+            <resp>
+              <name type="person">Desbordes, Olivier</name>
+              <name type="person">Bertrand, C.</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1984</date>
+          <date TEIform="date">1985</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Revue d’histoire des textes</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">14-15 (1984-85) 97, 99-102, 107, 110-112, 116, 118, 123, 129.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>V.DeFrancesca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/07/2012">F.Fioretti</persName>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le tradizioni dei classici latini e la letteratura italiana tra Medioevo e Umanesimo, </title>
+          <title type="title" level="u">La critica del testo. Atti del Convegno di Lecce, 22-26 ott. 1984, </title>
+          <author n="1913-2000" reg="person">Billanovich, Giuseppe, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">297.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="28/02/2012"/>
+          <persName>V.DeFrancesca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/10/2013</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="30/07/2013">Linking System: R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Filologia classica,</title>
+          <title type="title" level="u">La Biblioteca Apostolica Vaticana luogo di ricerca al servizio degli studi. Atti del Convegno Roma, 11-13 novembre 2010, a cura di M.Buonocore - A.M.Piazzoni (Studi e testi, 468),</title>
+          <author reg="person">De Nonno, Mario</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2011</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">31.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">S.H.A., Alexander Severus 43,6-7: Two Emperors and Christ,</title>
+          <author reg="person">Penella, Robert J.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1977</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Vigiliae Christianae</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">31 (1977) 230.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>F.DikonimosMakris</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Note su Ael. Spart. «Ael.» 5,9 e sui rapporti tra la «Historia Augusta» e Apicio,</title>
+          <author reg="person">Soverini, Paolo</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1977</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi italiani di filologia classica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">49 (1977) 231.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>F.DikonimosMakris</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Textual Tradition of Calpurnius and Nemesianus,</title>
+          <author reg="person">Reeve, Michael D.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1978</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Classical Quarterly</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">72 (1978) 227.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Città del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>F.DikonimosMakris</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Historia Augusta, Hadr. 17,12 e il significato di «munia»,</title>
+          <author reg="person">Soverini, Paolo</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1979</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Prometheus. Rivista quadrimestrale di studi classici</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">5 (1979) 82.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>F.DikonimosMakris</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La Roma Instaurata di Flavio Biondo: alle origini del metodo archeologico,</title>
+          <author reg="person">Brizzolara, Anna Maria</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1979-1980</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Memorie della Accademia delle Scienze dell’Istituto di Bologna. Classe di Scienze Morali.</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">77 (1979-80) 33.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>F.DikonimosMakris</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Tradizioni culturali e storiche nel «De casibus»,</title>
+          <author reg="person">Carraro, Annalisa</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1980</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi sul Boccaccio</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">12 (1980) 232.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>F.DikonimosMakris</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/02/2014</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/02/2014">Overwriting System: A.Rita</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Homullus and Trajan,</title>
+          <author reg="person">McDermott, William</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1980</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Historia. Zeitschrift für alte Geschichte</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">29 (1980) 115.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="14/01/2014"/>
+          <persName>F.DikonimosMakris</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le biblioteche di Heidelberg in Vaticana: i fondi palatini,</title>
+          <title type="title" level="u">La Vaticana nel Seicento (1590-1700): una biblioteca di biblioteche, a cura di Claudia Montuschi (Storia della Biblioteca Apostolica Vaticana, 3),</title>
+          <author reg="person">Montuschi, Claudia</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2014</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">286, 301.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="16/10/2015"/>
+          <persName>T-V.Maffezzoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">16/10/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="16/10/2015">T-V.Maffezzoli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Carlo Marsuppini. Carmi latini. Edizione critica, traduzione e commento (Premio ricerca «Città di Firenze», 38)</title>
+          <author reg="person">Pierini, Ilaria</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">2014</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">154.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="16/02/2016"/>
+          <persName>T16.DElauteris</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Leonardo Bruni (Arezzo 1370 - Firenze 1444),</title>
+          <title type="title" level="u">Autografi dei letterati italiani. Il Quattrocento, I, a cura di Francesco Bausi, Maurizio Campanelli, Sebastiano Gentile, James Hankins,</title>
+          <author reg="person">Hankins, James</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">2013</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">87.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Pal.lat." rend="Pal.lat.00899zzzzz" type="bib">Pal.lat.899</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/bav_pal_lat_899</ptr>
+        <creation>
+          <date TEIform="date" value="06/04/2016"/>
+          <persName>T16.Pellegrino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">06/04/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="06/04/2016">T16.Pellegrino</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

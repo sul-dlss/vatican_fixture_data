@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.036170000" type="ms">Vat.lat.3617</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>&lt;umanistica&gt;</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">"Iliados nostrae IIII et V liber". F. 2v: ampia postilla autografa del Poliziano su Il. 4, 1-5.</note>
+                  <name n="1454-1494" type="person" role="owner">Poliziano, Angelo,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                  </origPlace>
+                  <origDate n="1475 ca.">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>chart.</p>
+                </support>
+                <dimensions>
+                  <height>217</height>
+                  <width>145</width>
+                </dimensions>
+                <extent>ff. 52</extent>
+                <msWriting>
+                  <p>Vergato da due mani: 1) ff. 3r-33r (fino al terzo rigo); 2) ff. 33r-47v di mano del Poliziano.</p>
+                </msWriting>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>I. Maïer, Les manuscrits d'Ange Politien, Genève 1965, pp. 293-294.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.3617</ptr>
+        <creation>
+          <date TEIform="date" value="31/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="01/02/2017">A.Berloco</persName>
+              <persName n="14/03/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.036170003r-47v" type="ms">Vat.lat.3617</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>3r-47v</locus>
+                  <author n="sec. VIII a.C." reg="person">Homerus,</author>
+                  <title type="supplied">Ilias lib. IV et V</title>
+                  <title type="uniform">Ilias (Homerus, sec. VIII a.C.). 4-5. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Ff. 3r-19v: Ilias IV. Ff. 20r-47v: Ilias V.</note>
+                  <name n="1454-1494" type="person" role="translator">Poliziano, Angelo,</name>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <msWriting>
+                  <p>I ff. 33r (r. 4)- 47v, le postille marginali, in inchiostro rosso,  e le correzioni sono autografe del Poliziano.</p>
+                </msWriting>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>I. Maïer, Les manuscrits d'Ange Politien, Genève 1965, pp. 293-294.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.3617</ptr>
+        <creation>
+          <date TEIform="date" value="31/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">28/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="31/01/2017">A.Berloco</persName>
+              <persName n="01/02/2017">A.Berloco</persName>
+              <persName n="24/02/2017">A.Berloco</persName>
+              <persName n="14/03/2017">Linking System: R.Mancusi</persName>
+              <persName n="28/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Poliziano, Ficino, Andronico Callisto e la traduzione del “Carmide” platonico, </title>
+          <title type="title" level="u">Agnolo Poliziano poeta, scrittore, filologo. Atti del Convegno internazionale di studi, Montepulciano 3-6 nov. 1994,</title>
+          <author reg="person">Gentile, Sebastiano</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">371, 374.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.03617zzzzz" type="bib">Vat.lat.3617</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.3617</ptr>
+        <creation>
+          <date TEIform="date" value="23/03/2010"/>
+          <persName>L.Zorzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="14/03/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Poliziano’s Poetics and Literary History, </title>
+          <author reg="person">Godman, Peter</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1993</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Interpres. Rivista di studi quattrocenteschi</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">13 (1993) 165.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.03617zzzzz" type="bib">Vat.lat.3617</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.3617</ptr>
+        <creation>
+          <date TEIform="date" value="23/03/2010"/>
+          <persName>L.Zorzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="14/03/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La scrittura di Angelo Poliziano,</title>
+          <title type="title" level="u">Agnolo Poliziano poeta, scrittore, filologo. Atti del Convegno internazionale di studi, Montepulciano 3-6 nov. 1994, </title>
+          <author n="1942-2002" reg="person">Supino Martini, Paola, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze </pubPlace>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">224-225, 239.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.03617zzzzz" type="bib">Vat.lat.3617</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.3617</ptr>
+        <creation>
+          <date TEIform="date" value="23/03/2010"/>
+          <persName>L.Zorzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="14/03/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Citèro o citòro? Un errore del giovane Poliziano,</title>
+          <author reg="person">Bausi, Francesco</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2002</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Interpres. Rivista di studi quattrocenteschi</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">21 (2002) 223.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.03617zzzzz" type="bib">Vat.lat.3617</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.3617</ptr>
+        <creation>
+          <date TEIform="date" value="30/11/2010"/>
+          <persName>V.Vagnoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="14/03/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Commento inedito ai Fasti di Ovidio, a cura di F. Lo Monaco (Studi e Testi. Istituto Nazionale di Studi sul Rinascimento, XXIII),</title>
+          <author n="1454-1494" reg="person">Poliziano, Angelo,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">1991</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">XXXIV.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.03617zzzzz" type="bib">Vat.lat.3617</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.3617</ptr>
+        <creation>
+          <date TEIform="date" value="21/03/2014"/>
+          <persName>T.DiStefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/03/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Andronico Callisto, Bartolomeo Fonzio e la prima traduzione umanistica di Apollonio Rodio,</title>
+          <title type="title" level="u">Studi in onore di Anthos Ardizzoni,</title>
+          <author reg="person">Resta, Gianvito</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1978</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">1092,</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.03617zzzzz" type="bib">Vat.lat.3617</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), II, Citta' del Vaticano 1986 (Studi e testi, 319).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.3617</ptr>
+        <creation>
+          <date TEIform="date" value="01/12/2015"/>
+          <persName>15-16.Corridori</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/03/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Politien et Vitruve (Note sur le ms. lat. 7382 de la Bibliothèque nationale),</title>
+          <author reg="person">Juren, Vladimír</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date">1978</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rinascimento. Rivista dell’Istituto di studi sul Rinascimento</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">18 (1978) 292.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.03617zzzzz" type="bib">Vat.lat.3617</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), II, Citta' del Vaticano 1986 (Studi e testi, 319).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.3617</ptr>
+        <creation>
+          <date TEIform="date" value="01/12/2015"/>
+          <persName>15-16.Corridori</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/03/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Angelo Poliziano (Angelo Ambrogini) (Montepulciano [Siena] 1454 - Firenze 1494),</title>
+          <title type="title" level="u">Autografi dei letterati italiani. Il Quattrocento, I, a cura di Francesco Bausi, Maurizio Campanelli, Sebastiano Gentile, James Hankins,</title>
+          <author reg="person">Daneloni, Alessandro</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">2013</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">295, 298, 318, tav. 1 (p. 320).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.lat." rend="Vat.lat.03617zzzzz" type="bib">Vat.lat.3617</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.lat.3617</ptr>
+        <creation>
+          <date TEIform="date" value="18/04/2016"/>
+          <persName>T16.Pellegrino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="14/03/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.gr." rend="Urb.gr.001360000" type="ms">Urb.gr.136</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Homeri Ilias et Odyssea.</p>
+                </overview>
+                <msItem>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Fol. "b" habet: "Homeri llias", et "Odyssea". In imo margine folii primi tessera gentilicia minor Friderici feltrensis cum aquila nigra, aliter quam in aliis codicibus, solitis litteris compendiariis omissis.</note>
+                  <origDate notAfter="1500" notBefore="1401">sec. XV</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>312</height>
+                  <width>170</width>
+                </dimensions>
+                <extent>ff. 435</extent>
+                <msWriting>
+                  <p>Codex uti 135 ab eleganti manu sed imperita eiusdem librarii exaratus est. Folium "a" sine scriptura.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>Fol. "b"v habet imaginem Homeri coloribus depictam, qui regio ornatu indutus et corona laurea caput circumdatus dextra manu codicem porrigit, ad eius pedes urbes et multa oppida. Inscriptiones et initia ut supra (i.e. ut ms Urb.gr.135).</p>
+                  </decoNote>
+                </decoration>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>C. Stornajolo, Codices urbinates graeci Bibliothecae Vaticanae descripti, Romae 1895, p. 256.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.gr.136</ptr>
+        <creation>
+          <date TEIform="date" value="17/11/2015"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">19/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/11/2015">D.Lionetti</persName>
+              <persName n="07/12/2015">D.Lionetti</persName>
+              <persName n="15/02/2016">Linking System: R.Mancusi</persName>
+              <persName n="19/05/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.gr." rend="Urb.gr.001360001r-245v" type="ms">Urb.gr.136</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-245v</locus>
+                  <author n="sec. VIII a.C." reg="person" type="internal">Homerus,</author>
+                  <title type="title">Ἰλιάδος α̅ ΟΜΗΡΟΥ ῥαψωδίας</title>
+                  <title type="uniform">Ilias (Homerus, sec. VIII a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Fol. 1 ἄλφα λιτὰς χρύσου· λειμὸς στρατοῦ· ἔχθος ἀνάκτων Et infra: Ἰἰλιάδος α̅ ΟΜΗΡΟΥ ῥαψωδίας. Praeeunt libris utriusque poematis soliti monostichi, quibus subicitur suus cuique titulus, e. g.  ἰλιάδος α̅ vel β´ etc. ὁμήρου ῥαψωδίας.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>C. Stornajolo, Codices urbinates graeci Bibliothecae Vaticanae descripti, Romae 1895, p. 256.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.gr.136</ptr>
+        <creation>
+          <date TEIform="date" value="17/11/2015"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">19/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="07/12/2015">D.Lionetti</persName>
+              <persName n="15/02/2016">Linking System: R.Mancusi</persName>
+              <persName n="17/05/2017">A.Berloco</persName>
+              <persName n="19/05/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.gr." rend="Urb.gr.001360246r-435r" type="ms">Urb.gr.136</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>246r-435r</locus>
+                  <author n="sec. VIII a.C." reg="person" type="internal">Homerus,</author>
+                  <title type="title">Ἀρχὴ τῆς α̅ ΟΜΗΡΟΥ ὀδυσσείας</title>
+                  <title type="uniform">Odyssea (Homerus, sec. VIII a.C.)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Fol. 246 ἀρχὴ τῆς α̅ ΟΜΗΡΟΥ ὀδυσσείας. Pergunt ceteri libri.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>C. Stornajolo, Codices urbinates graeci Bibliothecae Vaticanae descripti, Romae 1895, p. 256.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.gr.136</ptr>
+        <creation>
+          <date TEIform="date" value="17/05/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">19/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="19/05/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I codici Laur. C.S. 66 + C.S. 139, Urb. Gr. 141 + Ambr. 441 (H 77 Sup.) e la tradizione manoscritta di Sofocle,</title>
+          <author reg="person">Battezzato, Luigi</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1996</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Prometheus. Rivista quadrimestrale di studi classici</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">22 (1996) 32.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.gr." rend="Urb.gr.00136zzzzz" type="bib">Urb.gr.136</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.gr.136</ptr>
+        <creation>
+          <date TEIform="date" value="10/03/2009"/>
+          <persName>C.DiFazio</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/02/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="15/02/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Sul testo dell'"Odissea" nel "Vaticano greco 1826",</title>
+          <author reg="person">Grandolini, Simonetta</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Giornale italiano di filologia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">37 (1985) 120.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.gr." rend="Urb.gr.00136zzzzz" type="bib">Urb.gr.136</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.gr.136</ptr>
+        <creation>
+          <date TEIform="date" value="20/05/2012"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/02/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="15/02/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">"Non ve n'è ignuno a stampa": the printed books of Federico da Montefeltro,</title>
+          <title type="title" level="u">Federico da Montefeltro and his library, edited by Marcello Simonetta,</title>
+          <author n="1951-" reg="person">Davies, Martin</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">Fig. 37 (79).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.gr." rend="Urb.gr.00136zzzzz" type="bib">Urb.gr.136</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.gr.136</ptr>
+        <creation>
+          <date TEIform="date" value="11/03/2014"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/02/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/02/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.013680000" type="ms">Ott.lat.1368</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>umanistica</scriptTerm>
+              </head>
+              <msContents>
+                <p>Comoediae.</p>
+                <msItem>
+                  <author n="c. 195-159 a.C" reg="person" type="internal">Terentius Afer, Publius,</author>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Manuscrits classiques, I, p. 536-537; Vedere i classici, p. 363-365.</bibl>
+                  <name n="c. 1190-c. 1243" type="person" role="internal">Faba, Guido,</name>
+                  <name reg="vesc. di Padova," n="1428-1447" type="person" role="owner">Donà, Pietro,</name>
+                  <name reg="card.," n="1667-1740" type="person" role="owner">Ottoboni, Pietro,</name>
+                  <name reg="card.," n="1514-1553" type="person" role="owner">Maffei, Bernardino,</name>
+                  <origPlace>
+                    <settlement>Basilea</settlement>
+                  </origPlace>
+                  <origDate n="1436">sec. XV med</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>235</height>
+                  <width>160</width>
+                </dimensions>
+                <extent>I. 128. I</extent>
+                <collation>
+                  <p>12 fascicoli: 1 bifolio (ff. 1-2), 2-10 senioni (ff. 3-14, 15-26, 27-38, 39-50, 51-62, 63-74, 75-86, 87-98, 99-110), 11 quaternione (ff. 111-118), 12 quinione (ff. 119-128); ff. 2r-2v vacui. </p>
+                </collation>
+                <layout>
+                  <p>colonna unica; ll. 25/rr. 25; mm 148x93; rigatura a colore (tipo Derolez 31). </p>
+                </layout>
+                <msWriting>
+                  <p>copista unico che verga il testo in inchiostro bruno; sporadiche glosse marginali coeve e posteriori alla stesura del codice.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>4 pagine d’incipit miniate con scene tabellari inserite nel bas-de-page e prolungamenti lungo i margini costituiti da una doppia barretta multicolore e carnose foglie d’acanto con dischetti in foglia d’oro cigliati, talvolta arricchite da pochi animali fantastici (ff. 3r, 47v, 91r, 108r), la gamma coloristica adoperata è estremamente varia (azzurro, rosso, verde, rosa e foglia d’oro); numerose iniziali campite con corpo in foglia d’oro su fondo rosa e campo azzurro alternati e rabescati in biacca o inchiostro; titoli rubricati.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>su assi di cartone con coperta three-calf; dorso a cinque nervi con decorazioni impresse in oro: sul primo tassello insegne di papa Pio IX (1846-1878), sul terzo tassello l’indicazione 1368; sovraccoperta in cartoncino verde.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>meccanica, posizionata nel margine inferiore esterno; manuale, a matita sul margine superiore esterno fino a f. 56r.</p>
+                </foliation>
+                <condition>
+                  <p>buono; pergamena ingiallita e macchie di umidità presenti prevalentemente negli ultimi fascicoli.</p>
+                </condition>
+                <catchwords>in inchiostro bruno, posizionati nel mergine inferiore interno; in corrispondenza del richiamo a f. 118v è stata aggiunta l’indicazione in inchiostro rosso del tipo di fascicolo “quaternus”.</catchwords>
+              </physDesc>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1368</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">03/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="03/03/2017">L.Massolo</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.013680001v" type="ms">Ott.lat.1368</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1v</locus>
+                  <author n="c. 1190-c. 1243" reg="person" type="internal">Faba, Guido,</author>
+                  <title type="supplied">Summa de vitiis et virtutibus</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1368</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.013680003r" type="ms">Ott.lat.1368</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>3r</locus>
+                  <title type="supplied">Epitaphium Terentii</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1368</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.013680003r-24r" type="ms">Ott.lat.1368</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>3r-24r</locus>
+                  <author n="c. 195-159 a.C" reg="person" type="internal">Terentius Afer, Publius,</author>
+                  <title type="supplied">Andria</title>
+                  <title type="uniform">Andria (Terentius Afer, Publius, c. 195-159 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1368</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.013680024r-47r" type="ms">Ott.lat.1368</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>24r-47r</locus>
+                  <author n="c. 195-159 a.C" reg="person" type="internal">Terentius Afer, Publius,</author>
+                  <title type="supplied">Eunuchus</title>
+                  <title type="uniform">Eunuchus (Terentius Afer, Publius, c. 195-159 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1368</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.013680047r-70r" type="ms">Ott.lat.1368</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>47r-70r</locus>
+                  <author n="c. 195-159 a.C" reg="person" type="internal">Terentius Afer, Publius,</author>
+                  <title type="supplied">Heautontimorumenos</title>
+                  <title type="uniform">Heautontimorumenos (Terentius Afer, Publius, c. 195-159 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1368</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.013680070r-91r" type="ms">Ott.lat.1368</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>70r-91r</locus>
+                  <author n="c. 195-159 a.C" reg="person" type="internal">Terentius Afer, Publius,</author>
+                  <title type="supplied">Adelphoe</title>
+                  <title type="uniform">Adelphoe (Terentius Afer, Publius, c. 195-159 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1368</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.013680091r-108r" type="ms">Ott.lat.1368</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>91r-108r</locus>
+                  <author n="c. 195-159 a.C" reg="person" type="internal">Terentius Afer, Publius,</author>
+                  <title type="supplied">Hecyra</title>
+                  <title type="uniform">Hecyra (Terentius Afer, Publius, c. 195-159 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1368</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.013680108r-128v" type="ms">Ott.lat.1368</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>108r-128v</locus>
+                  <author n="c. 195-159 a.C" reg="person" type="internal">Terentius Afer, Publius,</author>
+                  <title type="supplied">Phormio</title>
+                  <title type="uniform">Phormio (Terentius Afer, Publius, c. 195-159 a.C.)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1368</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2017"/>
+          <persName>L.Massolo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I classici illustrati: forme di visualizzazione dei testi teatrali antichi nel Medioevo,</title>
+          <author reg="person">Fachechi, Grazia Maria</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di storia della miniatura</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">5 (2000) 21.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.lat." rend="Ott.lat.01368zzzzz" type="bib">Ott.lat.1368</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.lat.1368</ptr>
+        <creation>
+          <date TEIform="date" value="23/02/2010"/>
+          <persName>P.Decaro</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/07/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/07/2016">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

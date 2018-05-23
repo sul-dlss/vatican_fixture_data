@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M. Müller, Lipsiae 1906, I, II.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Borgh." rend="Borgh.003680000" type="ms">Borgh.368</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <heraldry>f. 1r, dell'arcivescovo Ludovico Agnelli (1497-1499), sormontato dal cappello vescovile, inquartato al I e al IV di blu con agnello rampante d’argento, al II e III tagliato d’oro, rosso e argento, con tre stelle d’oro nel taglio centrale.</heraldry>
+                <scriptTerm>Umanistica del tipo minuscola.</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <author n="59 a.C.-17 d.C." reg="person" type="internal">Livius, Titus,</author>
+                  <title type="supplied">Ab Urbe condita (Decas I).</title>
+                  <title type="title">Titi Livii Ab Urbe condita</title>
+                  <title type="uniform">Ab Urbe condita (Livius, Titus, 59 a.C.-17 d.C.). 31-40</title>
+                  <summary>Libri I-X.</summary>
+                  <incipit type="text">FACTVRVSne sim operae pretium</incipit>
+                  <explicit type="text">aesculapio supplicatio habita est</explicit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <bibl default="NO">Marucchi, Stemmi di possessori 1964, p. 30-95; Manuscrits classiques, I p. 226-227; Vedere i classici, pp. 494-495.</bibl>
+                  <note type="note">Livii Patavini aliqua opera ad transcribenda digesta ac parata, librarius unus in tribus codicibus nunc Vaticanis exaravit, id est Borgh. 368, Vat. lat. 1848, Vat. lat. 1853 (Manuscrits classiques, I p. 227). Lib. III, c. XLIX des. mut.: «patres habere solita erat»; lib. IV, c. II inc. mut.: «[Veien]tes depopulatos extrema agri Romani». Folio 1r addito eodem stemmate episcopali, quod habetur in cod. Vat. lat. 1853, f. 1r; cf. B. Nogara, Cat. Vat. lat. 1461-2059, p. 300. </note>
+                  <name type="person" role="external">Müller, Moritz</name>
+                  <name reg="barone," n="1868-1954" type="person" role="external">Nogara, Bartolomeo,</name>
+                  <name type="person" role="external">Derolez, Albert</name>
+                  <name reg="vesc. di Segni," n="m. 1503" type="person" role="glossator">Phosphorus, Lucidus Maffeus,</name>
+                  <name reg="arciv. di Cosenza," n="m. 1499" type="person" role="client">Agnelli, Ludovico,</name>
+                  <name reg="card.," n="1576-1633" type="person" role="owner">Borghese, Scipione,</name>
+                  <name n="1912-1993" type="person" role="external">Pellegrin, Elisabeth,</name>
+                  <name type="person" role="external">Fohlen, Jeannine </name>
+                  <name n="1936-2008" type="person" role="external">Jeudy, Colette,</name>
+                  <name type="person" role="external">Riou, Yves-François</name>
+                  <name n="1942-2002" type="person" role="external">Supino Martini, Paola, </name>
+                  <name n="1954-" type="person" role="external">Buonocore, Marco, </name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Roma (?)</settlement>
+                  </origPlace>
+                  <origDate notAfter="1500" notBefore="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>370 mm</height>
+                  <width>255 mm</width>
+                </dimensions>
+                <extent>232. I</extent>
+                <collation>
+                  <p>24 fascicoli: 1-23 quinioni (ff. 1-10, 11-20, 21-30, 31-40, 41-50, 51-60, 61-70, 71-80, 81-88 [-2], 89-98, 99-108, 109-118, 119-128, 129-138, 139-148, 149-158, 159-168, 169-178, 179-188, 189-198, 199-208, 209-218, 219-228); 24 ternione (ff. 229-232 [-2]); il fascicolo 9 è deperdito del bifoglio centrale (cf. Vedere i classici, p. 494); i ff. 229-230 del fascicolo 24 sono privi dei rispettivi solidali, probabilmente non necessari ai fini della copiatura del testo.</p>
+                </collation>
+                <layout>
+                  <p>A piena pagina (mm 255x145) su 37/38 ll./rr., talora con giustificazione in vedetta; rigatura a secco talvolta ripassata alla mina leggerissima o a colore (tipo Derolez 31).</p>
+                </layout>
+                <msWriting>
+                  <p>Unica mano a inchiostro bruno scuro; note a margine di una mano in umanistica corsiva a inchiostro ocra chiaro, probabilmente della cerchia di Pomponio Leto, probabilmente Marco Lucido Fazini detto Fosforo (Vedere i classici, p. 495).</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>Una pagina di incipit (f. 1r), sui quattro margini cornice a bianchi girari abitati e su fondo policromo (blu, rosso, verde), percorsi da doppio listello in oro con nodi, clipei e cantoni figurati; a bas-de-page, entro doppio clipeo nastriforme, stemma di Ludovico Agnelli (1497-1499), affiancato da Cupido e Venere e da una coppia di puttini alati; 1 miniatura tabellare entro una cornice laureata in verde e porpora a doppio listello in lamina metallica (mm 127x148). 9 iniziali maggiori (ff. 1r, 2r, 28r, 56r, 110r, 133r, 152r, 170v, 189r e 211v; mm 62x61, media), entro spazio riservato profilato in oro, con corpo in lamina metallica o di tipo mantiniano (porpora, giallo-ocra, verde), su campo in foglia d’oro (talora punzonata) o a colore (nero, porpora, blu) con elementi in biacca e con decorazioni fitomorfe (blu, verde, viola); incipit ed explicit in ocra o in rosso e in capitale epigrafica; talora visibili le letterine di attesa (f. 152r).</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>Su quadranti in cartone, ricoperta in marocchino rossiccio e con articolate impressioni in oro (cornici a singolo e doppio filetto, ferri a motivo, complessi), con stemma del card. Scipione Caffarelli Borghese (1605-1633 e card. bibliotecario 1609-1618); dorso a 5 nervi, nei tasselli impresse in oro le insegne araldiche del card. bibliotecario; sulla controguardia anteriore, incollato l’ex libris stampato su carta: «Ex libris M. A. Principi Burghesii»; protetta da una sovraccoperta di cartoncino grigio-blu.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+                <foliation>
+                  <p>Meccanica moderna, in basso a destra.</p>
+                </foliation>
+                <condition>
+                  <p>Discreto, fascicoli con scarsa adesione alla legatura, con numerosi fori di tarlo; specialmente nei primi fogli, la pergamena è molto usurata, soprattutto nella pagina di incipit, e ha talvolta perso di planarità; numerose macchie dovute a diversi agenti (umidità, attacchi biologici ecc.), strappi, piccoli risarcimenti a pergamena e a rammendo (oggi privi del filo); il mordente della foglia d’oro è talora trapelato sul lato opposto del foglio, mentre la lamina metallica ha in qualche caso lasciato un alone scuro sul foglio affrontato.</p>
+                </condition>
+                <signatures>Alfanumeriche a colore sul recto in basso a destra, sulla prima parte del fascicolo, raramente visibili (es. f. 54), più spesso rifilate.</signatures>
+                <catchwords>Costanti sul verso, verticali entro doppia giustificazione, tranne al f. 30v, orizzontale e al centro.</catchwords>
+              </physDesc>
+              <history>
+                <p>Al f. 112v, timbro della Biblioteca Vaticana.</p>
+              </history>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM93; A. Maier, Codices burghesiani Bibliothecae Vaticanae, Città del Vaticano, 1952, p. 422.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Borgh.368</ptr>
+        <creation>
+          <date TEIform="date" value="13/06/2017"/>
+          <persName>P.Parodi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/06/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/06/2017">P.Parodi</persName>
+              <persName n="22/06/2017">P.Parodi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Titus Livius Ab Urbe condita libri, ed. G. Weissenborn, Lib. I-VI, Leipzig 1889.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Borgh." rend="Borgh.003680001r-232v" type="ms">Borgh.368</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-232v</locus>
+                  <author n="59 a.C.-17 d.C." reg="person" type="internal">Livius, Titus,</author>
+                  <title type="title">Ab Urbe condita (Decas I)</title>
+                  <title type="uniform">Ab Urbe condita (Livius, Titus, 59 a.C.-17 d.C.). 1-5</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1803-1878" type="person" role="external">Weissenborn, Wilhelm,</name>
+                </msItem>
+              </msContents>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Borgh.368</ptr>
+        <creation>
+          <date TEIform="date" value="01/02/2017"/>
+          <persName>E.Ponzi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Identità di Giuliano Amadei miniatore,</title>
+          <author reg="person">De Marchi, Andrea</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1995</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bollettino d’arte</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">93-94 (1995) 146.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Borgh." rend="Borgh.00368zzzzz" type="bib">Borgh.368</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Borgh.368</ptr>
+        <creation>
+          <date TEIform="date" value="01/12/2009"/>
+          <persName>R.Camponeschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/06/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="22/06/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Note storico-paleografiche in margine all’Accademia Romana. I. La biblioteca di Pomponio Leto: ricerche e ipotesi, </title>
+          <title type="title" level="u">Le Chiavi della memoria. Miscellanea in occasione del I centenario della Scuola vaticana di paleografia diplomatica e archivistica, </title>
+          <author reg="person">Scarcia Piacentini, Paola</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">527.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Borgh." rend="Borgh.00368zzzzz" type="bib">Borgh.368</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Borgh.368</ptr>
+        <creation>
+          <date TEIform="date" value="14/03/2011"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/06/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="22/06/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Bartolomeo Sanvito. The life &amp; work of a Renaissance scribe. A.C. De La Mare &amp; Laura Nuvoloni, (The Handwriting of the Italian Humanist, 2),</title>
+          <author reg="person">De la Mare, Albinia Catherine</author>
+          <respStmt>
+            <resp>
+              <name type="person">Nuvoloni, Laura</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Parigi</pubPlace>
+          <date TEIform="date" value="">2009</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">243. </note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Borgh." rend="Borgh.00368zzzzz" type="bib">Borgh.368</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Borgh.368</ptr>
+        <creation>
+          <date TEIform="date" value="07/04/2014"/>
+          <persName>MF.Migliori</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">22/06/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/06/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

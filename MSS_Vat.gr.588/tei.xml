@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.005880000" type="ms">Vat.gr.588</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <watermarks>
+                  <p>Officinarum chartariarum signa: corona cui superstat stella sex radiorum (Briquet 4834), arcuballista circulo inscripta (Briquet 749).</p>
+                </watermarks>
+              </head>
+              <msContents>
+                <msItem>
+                  <colophon>Subscriptio (p. 272): Ego Ioannes Honorius Malliae oppidi Hydruntinj ciuis libror(um) graeco(um) In|staurator, hunc libru(m) ad Vaticanae Bibliothecae usum sic exscribeba(m). An(n)o | D(omi)ni MDLII. IVLIO IlI Pont. Max. sub MARcello Ceruino Card. | sanctae Crucis Biblioth. praefecto.</colophon>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <name reg="b.," n="1792-1878" type="person" role="owner">Pius PP. IX,</name>
+                  <name reg="card.," n="1782-1854" type="person" role="owner">Mai, Angelo,</name>
+                  <name n="f. 1535-1563" type="person" role="scribe">Onorio, Giovanni,</name>
+                  <origDate n="1552 (p. 272)">sec. XIV med</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>chartac.</p>
+                </support>
+                <dimensions>
+                  <height>331</height>
+                  <width>225</width>
+                </dimensions>
+                <extent>pp. 274</extent>
+                <collation>
+                  <p>Fasciculi plerique terniones nullo signo distincti.</p>
+                </collation>
+                <msWriting>
+                  <p>Inscriptiones, litterae initiales rubrae. Ipsius scribae manu supplementa in pp. 4. 55. 88. 108. 109. 131. 134. 165. 167.
+196. 240.</p>
+                </msWriting>
+                <decoration>
+                  <decoNote>
+                    <p>Fenestrae in pp. 14. 17. 24. 112.</p>
+                  </decoNote>
+                </decoration>
+                <bindingDesc>
+                  <binding>
+                    <decoNote>
+                      <p>Integumenti tabulis saec. XVIII corio rubro obductis agglutinatum est dorsum novum, in quo tesserae gentiliciae Pii IX et A. Mai card. bibliothecarii.</p>
+                    </decoNote>
+                  </binding>
+                </bindingDesc>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Codices Vaticani graeci, II, In Bibliotheca Vaticana, 1937, p. 515.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.588</ptr>
+        <creation>
+          <date TEIform="date" value="10/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="10/11/2016">A.Berloco</persName>
+              <persName n="10/11/2016">A.Berloco</persName>
+              <persName n="10/11/2016">A.Berloco</persName>
+              <persName n="10/11/2016">A.Berloco</persName>
+              <persName n="10/11/2016">A.Berloco</persName>
+              <persName n="10/11/2016">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00588p. 0003-269" type="ms">Vat.gr.588</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>p. 3-269</locus>
+                  <author rend="s., patriarca di Alessandria," n="m. 444" reg="person" type="internal">Cyrillus,</author>
+                  <title type="supplied">Thesaurus de sancta consubstantiali Trinitate</title>
+                  <title type="uniform">Thesaurus de sancta consubstantiali Trinitate (Cyrillus, s., patriarca di Alessandria, m. 444)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Index pp. 3-6 &lt;a Winckelmanno&gt; suppletus.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Codices Vaticani graeci, II, In Bibliotheca Vaticana, 1937, p. 515.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.588</ptr>
+        <creation>
+          <date TEIform="date" value="10/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="10/11/2016">A.Berloco</persName>
+              <persName n="10/11/2016">A.Berloco</persName>
+              <persName n="10/11/2016">A.Berloco</persName>
+              <persName n="16/11/2016">A.Berloco</persName>
+              <persName n="24/02/2017">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00588p. 0270-272" type="ms">Vat.gr.588</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>p. 270-272</locus>
+                  <author rend="s., patriarca di Alessandria," n="292-373." key="Opere spurie e dubbie" reg="person" type="internal">Athanasius,</author>
+                  <title type="supplied">Sermo in annuntiationem Deiparae (excerptum)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Codices Vaticani graeci, II, In Bibliotheca Vaticana, 1937, p. 515.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.588</ptr>
+        <creation>
+          <date TEIform="date" value="10/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="10/11/2016">A.Berloco</persName>
+              <persName n="24/02/2017">A.Berloco</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The relationship between Byzantine and «alla greca» bookbinding structure. A preliminary study on structural elements of «alla greca» bindings in the Vatican Library (Fondo Antico Vatt. gr. 1-1217),</title>
+          <title type="title" level="u">La reliure médiévale. Pour une description normalisée. Actes du colloque international (Paris, 22-24 mai 2003),</title>
+          <author reg="person">Choulis, Konstantinos,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Turnhout</pubPlace>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">186.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00588zzzzz" type="bib">Vat.gr.588</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.588</ptr>
+        <creation>
+          <date TEIform="date" value="09/02/2010"/>
+          <persName>FR.Sinagra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Giovanni Onorio da Maglie: caratteri a mano – caratteri a stampa, </title>
+          <author reg="person">Agati, Maria Luisa</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scriptorium</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">48 (1994) 123, 125*.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00588zzzzz" type="bib">Vat.gr.588</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.588</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2010"/>
+          <persName>L.Marchi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Giovanni Onorio da Maglie, instaurator librorum graecorum à la fin du Moyen Âge, </title>
+          <author reg="person">Agati, Maria Luisa</author>
+          <respStmt>
+            <resp>
+              <name reg="sac., " n="1927- " type="person">Canart, Paul, </name>
+              <name n="1948-" type="person">Federici, Carlo</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1996</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scriptorium</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">50 (1996) 363.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00588zzzzz" type="bib">Vat.gr.588</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.588</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2010"/>
+          <persName>L.Marchi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Die byzantinische Minuskel des 14. Jahrhunderts zwischen Tradition und Neuerung,</title>
+          <title type="title" level="u">Paleografia e codicologia greca. Atti del II Colloquio internazionale (Berlino – Wolfenbüttel 17-21 ott. 1983), </title>
+          <author n="1914-2000" reg="person">Hunger, Herbert,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Alessandria </pubPlace>
+          <date TEIform="date" value="">1991</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">160 (cit.: FOLLIERI 70).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00588zzzzz" type="bib">Vat.gr.588</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.588</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2010"/>
+          <persName>L.Marchi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les cahiers des manuscrit grecs, </title>
+          <title type="title" level="u">Recherche de codicologie comparée. La composition du codex au Moyen Âge, en Orient et en Occident, </title>
+          <author n="1920-2006" reg="person">Irigoin, Jean, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Paris</pubPlace>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">9.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00588zzzzz" type="bib">Vat.gr.588</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.588</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2010"/>
+          <persName>L.Marchi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Typologie et description codicologique des manuscrits de papier, </title>
+          <title type="title" level="u">Paleografia e codicologia greca. Atti del II Colloquio internazionale (Berlino - Wolfenbüttel 17-21 ott. 1983), </title>
+          <author n="1920-2006" reg="person">Irigoin, Jean, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Alessandria </pubPlace>
+          <date TEIform="date" value="">1991</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">282.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00588zzzzz" type="bib">Vat.gr.588</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.588</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2010"/>
+          <persName>L.Marchi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="25/04/2017">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

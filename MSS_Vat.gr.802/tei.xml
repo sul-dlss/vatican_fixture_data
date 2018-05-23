@@ -1,0 +1,3098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020000" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p>Vitae sanctorum</p>
+                <msItem>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <name n="f. 1535-1563" type="person" role="scribe">Onorio, Giovanni,</name>
+                  <origDate notAfter="1600" notBefore="1076">sec. XI-XII/XVI</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>295</height>
+                  <width>210</width>
+                </dimensions>
+                <extent>II. 299 (+ 11a, 182a)</extent>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+                <msWriting>
+                  <p>Ff. IIr-v (index), 196r-197r, 242r-v, 299r sec. XVI.</p>
+                </msWriting>
+                <palimpsest>
+                  <p>Ff. 260, 262, 263, 265, 268-270 rescripta</p>
+                </palimpsest>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332. M. L. Agati, Giovanni Onorio da Maglie copista greco (1535-1563), Roma 2001, p. 322 (nr. 33)</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="15/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="16/05/2017">D.Surace</persName>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 114, coll. 1001-1009</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020001r-3v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies I Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>1r-3v</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio s. Ananiae apostoli</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 76.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="12/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/05/2017">D.Surace</persName>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>De sancto Cypriano et de primaeva Carthaginensi Ecclesia, proponebat licentiatus Ae. Blampignon, Paris 1861, pp. 173-203</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020003v-16r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies II Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>3v-16r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio ss. Cypriani et Iustinae</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 456.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="12/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/05/2017">D.Surace</persName>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 1032-1049</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020016r-v, 19r-v, 17r-18v, 21r-22v, 20r-v, 23r-24v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies III Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>16r-v, 19r-v, 17r-18v, 21r-22v, 20r-v, 23r-24v</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio s. Dionysii Areopagitae</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 555.</note>
+                  <name n="sec. V-VI" type="person" role="internal">Dionysius Areopagita,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="12/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/05/2017">D.Surace</persName>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 997-1005</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020024v-27r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies IV Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>24v-27r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio s. Charitinae</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 300.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="12/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/05/2017">D.Surace</persName>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 116, coll. 559-566</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020027r-32v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies VI Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>27r-32v</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Commentarius in s. Thomam</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 1835; CANT 248.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/05/2017">D.Surace</persName>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 1005-1032</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020032v-44r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies VII Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>32v-44r</locus>
+                  <author n="sec. X" reg="person">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio ss. Sergii et Bacchi</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 1625.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/05/2017">D.Surace</persName>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 116, coll. 908-920</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020044r-49r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies VIII Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>44r-49r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio s. Pelagiae</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 1479.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/05/2017">D.Surace</persName>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 1053-1065</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020049r-54v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies X Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>49r-54v</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio ss. Eulampii et Eulampiae</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 617.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 1068-1080</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020054v-60v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XII Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>54v-60v</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio ss. Probi, Tarachi et Andronici</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 1575.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 105-125</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020060v-70r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XIII Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>60v-70r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio ss. Carpi, Papyli et Agathonicae</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 295.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 116, coll. 896-908</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020070r-75r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XIV Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>70r-75r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio ss. Nazarii, Gervasii et Celsi</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 1324.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>J. Bidez, Philostorgius Kirchengeschichte, Leipzig 1913, pp. 184-201</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020075v-82v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XV Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>75v-82v</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio s. Luciani</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 997.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 32-44</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020082v-88r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XVI Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>82v-88r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio et capitis inventio s. Longini</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 989.</note>
+                  <name reg="s." type="person" role="internal">Longinus,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 1129-1140</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020088r-93r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XVIII Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>88r-93r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Commentarius in s. Lucam</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 991; CANT 290.</note>
+                  <name reg="s., apostolo" type="person" role="internal">Luca,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 1141-1160</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020093r-101r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XIX Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>93r-101r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio s. Vari et sociorum</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 1863.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 332</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 1109-1128</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020101r-108v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XIX Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>101r-108v</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio s. Andreae in Crisi</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 112.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, pp. 332-333</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020109r-129v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XXI Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>109r-129v</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Vita s. Hilarionis</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 755.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 1212-1248</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020129v-147v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XXII Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>129v-147v</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Vita s. Abercii</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 4.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/05/2017">D.Surace</persName>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 200-217</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020147v-155r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XXIII Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>147v-155r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Commentarius in s. Iacobum</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 764.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 1249-1289</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020155r-174v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XXIV Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>155r-174v</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio s. Arethae et sociorum</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 167.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 1289-1293</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020174v-176v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XXV Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>174v-176v</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio ss. Marciani et Martyrii</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 1029.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 116, coll. 1185-1201</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020176v-183r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XXVI Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>176v-183r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio s. Demetrii</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 498.</note>
+                  <name reg="s." type="person" role="internal">Demetrius,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 1293-1308</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020183r-190r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XXVIII Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>183r-190r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio s. Anastasiae</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 77.</note>
+                  <name reg="s.," n="m. 304" type="person" role="internal">Anastasia,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 1309-1317</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020190r-194v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XXX Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>190r-194v</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio ss. Zenobii et Zenobiae</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 1885.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 115, coll. 1320-1325</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020194v-197r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XXXI Octobris)</p>
+                </overview>
+                <msItem>
+                  <locus>194v-197r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio s. Epimachi</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 594.</note>
+                  <name reg="s." type="person" role="internal">Epimachus,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 96, coll. 1252-1320</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020198r-199v, 204r-205v, 200r-203v, 206r-231v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>198r-199v, 204r-205v, 200r-203v, 206r-231v</locus>
+                  <author rend="s.," n="670-756" reg="person" type="internal">Iohannes Damascenus,</author>
+                  <title type="supplied">Passio s. Artemii</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. CPG 8082; BHG 170.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="15/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/05/2017">D.Surace</persName>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>J. Viteau, Passions des ss. Écaterine et Pierre d’Alexandrie, Barbara et Anysia, Paris 1897, pp. 43-65</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020232r-242v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>232r-242v</locus>
+                  <title type="supplied">Passio s. Aecaterinae</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 31.</note>
+                  <note type="note">F. 242r-v sec. XVI.</note>
+                  <name n="f. 1535-1563" type="person" role="scribe">Onorio, Giovanni,</name>
+                  <origDate notAfter="1025" notBefore="976">sec. X-XI</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333. M. L. Agati, Giovanni Onorio da Maglie copista greco (1535-1563), Roma 2001, p. 322 (nr. 33). E. Follieri, La minuscola libraria dei secoli IX e X, in La Paléographie grecque et byzantine (Colloques Internationaux du C.N.R.S., Paris 21-25 octobre 1974), Paris 1977, pp. 139-165: 140 n. 3</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="15/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/05/2017">D.Surace</persName>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 116, coll. 317-356</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020243r-270r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies VI Decembris)</p>
+                </overview>
+                <msItem>
+                  <locus>243r-270r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Vita s. Nicolai</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 1349.</note>
+                  <origDate notAfter="1325" notBefore="1276">sec. XIII-XIV</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="15/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020260r-v, 262r-v, 263r-v, 265r-v, 268r-270v &lt;inf.&gt;" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>Majuscula liturgica formae rotundae</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <locus>260r-v, 262r-v, 263r-v, 265r-v, 268r-270v &lt;inf.&gt;</locus>
+                  <title type="supplied">Fragmenta Evangeliorum (Lectionarium)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <origDate notAfter="1000" notBefore="901">sec. X</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="15/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/05/2017">D.Surace</persName>
+              <persName n="17/05/2017">D.Surace</persName>
+              <persName n="30/05/2017">D.Surace</persName>
+              <persName n="31/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>PG 116, coll. 468-505</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.008020271r-299r" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <overview>
+                  <p>Menologium metaphrasticum (dies XIII Decembris)</p>
+                </overview>
+                <msItem>
+                  <locus>271r-299r</locus>
+                  <author n="sec. X" reg="person" type="internal">Symeon Metaphrastes,</author>
+                  <title type="supplied">Passio ss. Eustratii, Auxentii, Eugenii, Mardarii et Orestis</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Cf. BHG 646.</note>
+                  <note type="note">F. 299r sec. XVI</note>
+                  <name n="f. 1535-1563" type="person" role="scribe">Onorio, Giovanni,</name>
+                  <name reg="s., martire," n="sec. III" type="person" role="internal">Eustratius,</name>
+                  <name reg="s. martire," n="sec. III" type="person" role="internal">Auxentius,</name>
+                  <origDate notAfter="1325" notBefore="1276">sec. XIII-XIV</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>R. Devreesse, Cat. Vat. gr. 604-866, p. 333. M. L. Agati, Giovanni Onorio da Maglie copista greco (1535-1563), Roma 2001, p. 322 (nr. 33)</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="15/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.0080299990IIr-v" type="ms">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>IIr-v</locus>
+                  <title type="supplied">Index</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <name n="f. 1535-1563" type="person" role="scribe">Onorio, Giovanni,</name>
+                  <origDate>sec. XVI</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <layout>
+                  <p>2 coll.</p>
+                </layout>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>M. L. Agati, Giovanni Onorio da Maglie copista greco (1535-1563), Roma 2001, p. 322 (nr. 33)</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="17/05/2017"/>
+          <persName>D.Surace</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/05/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/05/2017">D.Surace</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le integrazioni di Giovanni Onorio da Maglie, </title>
+          <title type="title" level="u">Byzantina Mediolanensia. V Congresso nazionale di studi bizantini (Milano 19-22 ott. 1994),</title>
+          <author reg="person">Agati, Maria Luisa</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace> Soveria Mannelli – Messina </pubPlace>
+          <date TEIform="date" value="">1996</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">14-15.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00802zzzzz" type="bib">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="05/05/2009"/>
+          <persName>M.Fiscale</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/12/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I manoscritti restaurati da Giovanni Onorio da Maglie,</title>
+          <author reg="person">Agati, Maria Luisa</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1997</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bollettino dei Classici</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">18 (1997) 26*, 38-39.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00802zzzzz" type="bib">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="05/05/2009"/>
+          <persName>M.Fiscale</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/12/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Symeon Metaphrastes – ein Benutzer des Barlaam-Romans, </title>
+          <author reg="person">Volk, Robert</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1996</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di studi bizantini e neoellenici</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">33 (1996) 68, 110.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00802zzzzz" type="bib">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="05/05/2009"/>
+          <persName>M.Fiscale</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/12/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les écritures livresques des XIe et XIIe siècles,</title>
+          <title type="title" level="u">Paleografia e codicologia greca. Atti del II Colloquio internazionale (Berlino – Wolfenbüttel 17-21 ott. 1983),</title>
+          <author rend="sac., " n="1927- " reg="person">Canart, Paul, </author>
+          <respStmt>
+            <resp>
+              <name type="person">Perria, Lidia</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Alessandria</pubPlace>
+          <date TEIform="date" value="">1991</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">74.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00802zzzzz" type="bib">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="05/05/2009"/>
+          <persName>M.Fiscale</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">18/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/12/2015">Linking System: R.Mancusi</persName>
+              <persName n="18/12/2015">A.Rita</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The relationship between Byzantine and «alla greca» bookbinding structure. A preliminary study on structural elements of «alla greca» bindings in the Vatican Library (Fondo Antico Vatt. gr. 1-1217),</title>
+          <title type="title" level="u">La reliure médiévale. Pour une description normalisée. Actes du colloque international (Paris, 22-24 mai 2003),</title>
+          <author reg="person">Choulis, Konstantinos,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Turnhout</pubPlace>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">185.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00802zzzzz" type="bib">Vat.gr.802</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="09/02/2010"/>
+          <persName>FR.Sinagra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/12/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Note sui palinsesti conservati nella Biblioteca Apostolica Vaticana,</title>
+          <title type="title" level="u">Miscellanea Bibliothecae Apostolicae Vaticanae XVI,</title>
+          <author n="1945-" reg="person">Voicu, Sever J., </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2009</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">453.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00802zzzzz" type="bib">Vat.gr.802</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="16/11/2010"/>
+          <persName>S.Laudoni</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/12/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Sviluppo e diffusione della “Passio” di S. Caterina di Alessandria nell’area tedesca medievale,</title>
+          <author reg="person">Valente Bacci, Anna Maria</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Quaderni catanesi di studi classici e medievali</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">6 (1984) 439.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00802zzzzz" type="bib">Vat.gr.802</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="23/07/2012"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/12/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les écritures livresques des XIe e XIIe siècles,</title>
+          <title type="title" level="u">Études de paléographie et de codicologie. Reproduites avec la collaboration de Maria Luisa Agati et Marco D'Agostino. Tome II (Studi e testi, 451),</title>
+          <author rend="sac., " n="1927- " reg="person">Canart, Paul, </author>
+          <respStmt>
+            <resp>
+              <name type="person">Perria, Lidia</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">940.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00802zzzzz" type="bib">Vat.gr.802</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="10/02/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="01/12/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les palimpsestes des fonds grecs de la Bibliothèque Vaticane. Une liste sommaire et quelques précisions,</title>
+          <title type="title" level="u">Études de paléographie et de codicologie. Reproduites avec la collaboration de Maria Luisa Agati et Marco D'Agostino. Tome II (Studi e testi, 451),</title>
+          <author rend="sac., " n="1927- " reg="person">Canart, Paul, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">1312.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00802zzzzz" type="bib">Vat.gr.802</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="13/02/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="01/12/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">«Βιργίλιος» = Sapientissimus. Riflessi culturali latino-greci nell'agiografia bizantina,</title>
+          <author n="1932-2005" reg="person">Peri, Vittorio,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1976</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Italia medioevale e umanistica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">19 (1976) 7.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00802zzzzz" type="bib">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2015"/>
+          <persName>14-15.Truppa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="01/12/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La minuscola libraria dei secoli IX e X,</title>
+          <title type="title" level="u">La Paléographie grecque et byzantine (Colloques Internationaux du C.N.R.S., Paris 21-25 octobre 1974),</title>
+          <author n="1926-1999" reg="person">Follieri, Enrica, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Paris</pubPlace>
+          <date TEIform="date" value="">1977</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">140.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00802zzzzz" type="bib">Vat.gr.802</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2015"/>
+          <persName>14-15.Truppa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="01/12/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Lo sviluppo dei Vaticani greci tra fondo antico e accessioni seicentesche,</title>
+          <title type="title" level="u">La Vaticana nel Seicento (1590-1700): una biblioteca di biblioteche, a cura di Claudia Montuschi (Storia della Biblioteca Apostolica Vaticana, 3),</title>
+          <author reg="person">Janz, Timothy</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2014</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">510.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00802zzzzz" type="bib">Vat.gr.802</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="07/01/2016"/>
+          <persName>T-V.Maffezzoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">03/02/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="03/02/2016">A.Rita</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La minuscola libraria dei secoli IX e X,</title>
+          <title type="title" level="u">Byzantina et italograeca. Studi di filologia e di paleografia, a cura di Augusta Acconcia Longo, Lidia Perria, Andrea Luzzi (Storia e letteratura. Raccolta di studi e testi, 195)</title>
+          <author n="1926-1999" reg="person">Follieri, Enrica, </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1997</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">206.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Vat.gr." rend="Vat.gr.00802zzzzz" type="bib">Vat.gr.802</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Vat.gr.802</ptr>
+        <creation>
+          <date TEIform="date" value="06/07/2016"/>
+          <persName>T16.Pellegrino</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

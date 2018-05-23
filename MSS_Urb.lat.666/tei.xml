@@ -1,0 +1,1461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.006660000" type="ms">Urb.lat.666</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>&lt;umanistica&gt;</scriptTerm>
+              </head>
+              <msContents>
+                <overview>
+                  <p>Aurelii Prudentii Clementis carmina.</p>
+                </overview>
+                <msItem>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">In f. 1-2r index operum manu librarii.</note>
+                  <name n="1443-c. 1528" type="person" role="scribe">Sinibaldi, Antonio di Francesco,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1481">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>270</height>
+                  <width>182</width>
+                </dimensions>
+                <extent>ff. II, 196, II</extent>
+                <msWriting>
+                  <p>Al f. 196v: "Antonius Sinibaldus florentinus transcripsit Florentiae anno Christi MCCCCLXXXI, XX novembris [...]".</p>
+                </msWriting>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Codices Urbinates Latini, recensuit C. Stornajolo, tomus II: Codices 501-1000, Romae 1912, pp. 175-176. IAM64.1 IAM40.6</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="15/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">24/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="24/07/2017">F.Borzumato</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Ioannes Bergman, Corpus scriptorum ecclesiasticorum latinorum, 61, Vindobonae, 1926, pp. 3-76; M.P.L., 59, coll. 767-914.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.006660007r-37v" type="ms">Urb.lat.666</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>7r-37v</locus>
+                  <author n="348-405" reg="person" type="internal">Prudentius Clemens, Aurelius,</author>
+                  <title type="supplied">Cathemerinon liber</title>
+                  <title type="uniform">Cathemerinon (Prudentius Clemens, Aurelius, 348-405)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Praeit (f. 7) praefatio.</note>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                  <name n="1864-1951" type="person" role="external">Bergman, Johan,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM125. Codices Urbinates Latini, recensuit C. Stornajolo, tomus II: Codices 501-1000, Romae 1912, p. 175.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="24/03/2009" value="29/03/2012"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">27/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/05/2012">P.Parodi</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="27/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Ioannes Bergman, Corpus scriptorum ecclesiasticorum latinorum, 61, Vindobonae 1926, pp. 291-431; M.P.L., 60, coll. 278-590 (carmina alio ordine ac in edit. leguntur).</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.006660037v-103r" type="ms">Urb.lat.666</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>37v-103r</locus>
+                  <author n="348-405" reg="person" type="internal">Prudentius Clemens, Aurelius,</author>
+                  <title type="supplied">Peristephanon liber</title>
+                  <title type="uniform">Peristephanon (Prudentius Clemens, Aurelius, 348-405)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Hoc ordine iuxta ed. cit.  1) (f. 37v) 1 (1. cit., p. 301-307);  2) (f. 40) 5 (1. cit., p. 350-371);  3) (f. 46) 2 (1. cit., p. 307-331);  4) (f. 52v) 11 (1. cit., p. 440-453);  5) (f. 57v) 13 (1. cit., p. 458-463);  6) (f. 60) 12 (1. cit., p. 453-458);  7) (f. 61v) 4 (1. cit., p. 340-349) ;  8) (f. 65v) 14 (1. cit., p. 463-469); subnectuntur  a) (f. 68v) versus Constantiae Constantinae filiae in honorem s. Agnetis (De Rossi, Inscriptiones christ., Romae 1888, 2, p. 44-45),  b) (ibid.) versus Damasi papae de eadem (Ihm., carmen. n. 84) ;  9) (f 69) 3 (Dressel, 1. cit., p. 331-340);  10) (f. 72) 6 (1. cit., p. 371-378);  11) (f. 74v) 7 (1. cit., p. 378-381);  12) (f. 77) 9 (1. cit., p. 383-388);  13) (f. 79) 8 (1. cit., p. 882-383);  14) (f. 79v) 10 (1. cit., p. 388-440).</note>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                  <name n="1864-1951" type="person" role="external">Bergman, Johan,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM125. Codices Urbinates Latini, recensuit C. Stornajolo, tomus II: Codices 501-1000, Romae 1912, p. 175.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="24/03/2009" value="29/03/2012"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">27/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/05/2012">P.Parodi</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="27/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>G. B. De Rossi, Inscriptiones christianae, Romae 1888, 2, p. 44-45.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.006660068v" type="ms">Urb.lat.666</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>68v</locus>
+                  <author rend="s.," n="sec. IV" reg="person" type="internal">Constantia,</author>
+                  <title type="supplied">Versus in honorem sanctae Agnetis</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1822-1894" type="person" role="external">De Rossi, Giovanni Battista,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM46. Codices Urbinates Latini, recensuit C. Stornajolo, tomus II: Codices 501-1000, Romae 1912, p. 175.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="06/03/2010" value="16/05/2013"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">27/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="21/03/2014">Overwriting System: MG.Critelli</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="27/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Ihm, Anth. Lat. Suppl., Lipsiae 1895, carmen 40.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.006660068v-69r" type="ms">Urb.lat.666</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>68v-69r</locus>
+                  <author rend="s.," n="305-384" reg="person" type="internal">Damasus PP. I,</author>
+                  <title type="supplied">&lt;Epigramma 40&gt;</title>
+                  <title type="uniform">De s. Agnete martyre (Damasus PP. I, s., 305-384)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name n="1863-1909" type="person" role="external">Ihm, Max,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM50. Codices Urbinates Latini, recensuit C. Stornajolo, tomus II: Codices 501-1000, Romae 1912, p. 175.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="21/12/2004" value="06/04/2006"/>
+          <persName>M. Marchiaro</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">27/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="-">M.G. Critelli</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="17/02/2017">A.Berloco</persName>
+              <persName n="27/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Ioannes Bergman, Corpus scriptorum ecclesiasticorum latinorum, 61, Vindobonae 1926, pp. 448-449; M.P.L., 60, coll. 591-594.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.006660103v-104r" type="ms">Urb.lat.666</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>103v-104r</locus>
+                  <author n="348-405" reg="person" type="internal">Prudentius Clemens, Aurelius,</author>
+                  <title type="title">Epilogus</title>
+                  <title type="uniform">Epilogus (Prudentius Clemens, Aurelius, 348-405)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                  <name n="1864-1951" type="person" role="external">Bergman, Johan,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM125. Codices Urbinates Latini, recensuit C. Stornajolo, tomus II: Codices 501-1000, Romae 1912, p. 175.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="24/03/2009" value="29/03/2012"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">27/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/05/2012">P.Parodi</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="27/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Ioannes Bergman, Corpus scriptorum ecclesiasticorum latinorum, 61, Vindobonae 1926, pp. 435-447; M.P.L., 60, coll. 90-112.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.006660104r-108r" type="ms">Urb.lat.666</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>104r-108r</locus>
+                  <author n="348-405" reg="person" type="internal">Prudentius Clemens, Aurelius,</author>
+                  <title type="title">Ditrocheus qui continetur in titulis historiarum</title>
+                  <title type="supplied">Dittochaeon</title>
+                  <title type="uniform">Dittochaeon (Prudentius Clemens, Aurelius, 348-405)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                  <name n="1864-1951" type="person" role="external">Bergman, Johan,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM125. Codices Urbinates Latini, recensuit C. Stornajolo, tomus II: Codices 501-1000, Romae 1912, p. 175.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="24/03/2009" value="29/03/2012"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">27/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/05/2012">P.Parodi</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="27/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Bergman, Corpus Script. Eccl. Lat., vol. 61, Vindobonae 1926, pp. 79-124; M.P.L., vol. 59, coll. 915-1006.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.006660108r-132r" type="ms">Urb.lat.666</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>108r-132r</locus>
+                  <author n="348-405" reg="person" type="internal">Prudentius Clemens, Aurelius,</author>
+                  <title type="supplied">Apotheosis</title>
+                  <title type="uniform">Apotheosis (Prudentius Clemens, Aurelius, 348-405)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">(f. 108) Apotheosis (in ms. 2versus de sancta trinitate") versus 1-951 (l. cit., 80-122). [...] (f. 129) &lt;Apotheosis a v. 952-1084&gt; (in ms. "contra manicaeos" - l. cit., p. 122-127).</note>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                  <name n="1864-1951" type="person" role="external">Bergman, Johan,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM125. Codices Urbinates Latini, recensuit C. Stornajolo, tomus II: Codices 501-1000, Romae 1912, p. 175.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="24/03/2009" value="29/03/2012"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">27/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/05/2012">P.Parodi</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="27/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Ioannes Bergman, Corpus scriptorum ecclesiasticorum latinorum, 61, Vindobonae 1926, pp. 127-163; M.P.L., 59, coll. 1007-1078.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.006660132v-154r" type="ms">Urb.lat.666</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>132v-154r</locus>
+                  <author n="348-405" reg="person" type="internal">Prudentius Clemens, Aurelius,</author>
+                  <title type="supplied">Hamartigenia</title>
+                  <title type="title">Adversus Marcionitas</title>
+                  <title type="uniform">Hamartigenia (Prudentius Clemens, Aurelius, 348-405)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                  <name n="1864-1951" type="person" role="external">Bergman, Johan,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM125. Codices Urbinates Latini, recensuit C. Stornajolo, tomus II: Codices 501-1000, Romae 1912, p. 175.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="24/03/2009" value="29/03/2012"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">27/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/05/2012">P.Parodi</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="27/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>Ioannes Bergman, Corpus scriptorum ecclesiasticorum latinorum, 61, Vindobonae 1926, pp. 215-288; M.P.L., 60, coll. 111-276.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.006660154r-196v" type="ms">Urb.lat.666</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>154r-196v</locus>
+                  <author n="348-405" reg="person" type="internal">Prudentius Clemens, Aurelius,</author>
+                  <title type="supplied">Contra Symmachi lib. I-II</title>
+                  <title type="uniform">Contra Symmachum (Prudentius Clemens, Aurelius, 348-405)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                  <name n="1864-1951" type="person" role="external">Bergman, Johan,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM125. Codices Urbinates Latini, recensuit C. Stornajolo, tomus II: Codices 501-1000, Romae 1912, p. 175.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="24/03/2009" value="29/03/2012"/>
+          <persName>A. Giustini</persName>
+          <orig>MSAccess</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">27/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/05/2012">P.Parodi</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+              <persName n="15/02/2017">A.Berloco</persName>
+              <persName n="27/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Ornatissimo codice. La Bibbia di Federico da Montefeltro,</title>
+          <author reg="person">Leone, Carolina</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Alumina</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">22 (2008) 43.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00666zzzzz" type="bib">Urb.lat.666</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="21/12/2010"/>
+          <persName>M.Patriarca</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/07/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le immagini, gli autori, i destinatari,</title>
+          <title type="title" level="u">Miniatura fiorentina del Rinascimento, 1440-1525. Un primo censimento,</title>
+          <author reg="person">Garzelli, Annarosa</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">117.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00666zzzzz" type="bib">Urb.lat.666</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>E.Guerra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/07/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I miniatori fiorentini di Federico,</title>
+          <title type="title" level="u">Federico di Montefeltro. Lo stato le arti la cultura. III,</title>
+          <author reg="person">Garzelli, Annarosa</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">117, 127, 129, tav. 3.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00666zzzzz" type="bib">Urb.lat.666</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>E.Guerra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/07/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I prototipi delle vedute di Roma: dal maestro del Vat.lat. 2224 ad Etienne Dupérac,</title>
+          <title type="title" level="u">Miscellanea Bibliothecae Apostolicae Vaticanae II,</title>
+          <author reg="person">Maddalo, Silvia</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">1988</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">185.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00666zzzzz" type="bib">Urb.lat.666</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>E.Guerra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/07/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">New Research on Humanistic Scribes in Florence,</title>
+          <title type="title" level="u">Miniatura fiorentina del Rinascimento, 1440-1525. Un primo censimento,</title>
+          <author reg="person">De la Mare, Albinia Catherine</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">451, tavv. 430-432, 550.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00666zzzzz" type="bib">Urb.lat.666</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>E.Guerra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/07/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Vespasiano da Bisticci e i copisti fiorentini di Federico,</title>
+          <title type="title" level="u">Federico di Montefeltro. Lo stato le arti la cultura. III,</title>
+          <author reg="person">De la Mare, Albinia Catherine</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">91.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00666zzzzz" type="bib">Urb.lat.666</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="15/03/2011"/>
+          <persName>E.Guerra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/07/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La Biblioteca di Federico di Montefeltro, </title>
+          <title type="title" level="u">Principi e signori. Le biblioteche nella seconda metà del Quattrocento. Atti del Convegno di Urbino, 5-6 giugno 2008, </title>
+          <author reg="person">Peruzzi, Marcella</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Urbino</pubPlace>
+          <date TEIform="date" value="">2010</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">288.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00666zzzzz" type="bib">Urb.lat.666</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="18/11/2011"/>
+          <persName>R.Pazzini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/07/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Aurelio Prudenzio, Carmina.</title>
+          <title type="title" level="u">Ornatissimo codice. La biblioteca di Federico di Montefeltro [catalogo di mostra, Urbino, Galleria Nazionale delle Marche, 15 marzo-27 luglio 2008, a cura di Marcella Peruzzi, con la collaborazione di Claudia Caldari, Lorenza Mochi Onori]</title>
+          <author reg="person">Labriola, Ada</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Skira,</publisher>
+          <pubPlace>Milano :</pubPlace>
+          <date TEIform="date">c2008.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 163, 165-168 e con ill. del f. 4v (p. 163), 6v (p. 164), 7r (p. 165).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00666zzzzz" type="bib">Urb.lat.666</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="16/04/2012"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/07/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">[Repertorio dei miniatori fiorentini] Francesco di Antonio del Chierico, Urb. lat. 666, Aurelio Prudenzio Clemente, Carmina.</title>
+          <title type="title" level="u">Ornatissimo codice. La biblioteca di Federico di Montefeltro [catalogo di mostra, Urbino, Galleria Nazionale delle Marche, 15 marzo-27 luglio 2008, a cura di Marcella Peruzzi, con la collaborazione di Claudia Caldari, Lorenza Mochi Onori]</title>
+          <author reg="person">Labriola, Ada</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Skira,</publisher>
+          <pubPlace>Milano :</pubPlace>
+          <date TEIform="date">c2008.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 228.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00666zzzzz" type="bib">Urb.lat.666</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="16/04/2012"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/07/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">[Repertorio dei miniatori fiorentini] Maestro dell'Iliade Medicea (attivo tra il 1470 e il 1490 circa), Urb. lat. 666, Aurelio Prudenzio Clemente, Carmina.</title>
+          <title type="title" level="u">Ornatissimo codice. La biblioteca di Federico di Montefeltro [catalogo di mostra, Urbino, Galleria Nazionale delle Marche, 15 marzo-27 luglio 2008, a cura di Marcella Peruzzi, con la collaborazione di Claudia Caldari, Lorenza Mochi Onori]</title>
+          <author reg="person">Labriola, Ada</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Skira,</publisher>
+          <pubPlace>Milano :</pubPlace>
+          <date TEIform="date">c2008.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 233.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00666zzzzz" type="bib">Urb.lat.666</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="16/04/2012"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/07/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il Metro e il Libro. Per una semiologia della pagina scritta di Plauto, Terenzio, Prudenzio, Orazio,</title>
+          <title type="title" level="u">Il libro e il testo (Atti del Convegno internazionale Urbino 20-23 sett. 1982),</title>
+          <author n="1934-" reg="person">Questa, Cesare,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Urbino</pubPlace>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">365.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00666zzzzz" type="bib">Urb.lat.666</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1981-1985), Citta' del Vaticano 1991. </p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="03/06/2012"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/07/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Piero della Francesca's «Flagellation»: The Triumph of Christian Glory,</title>
+          <author reg="person">Aronberg Lavin, Marilyn</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1968</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Art Bulletin</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">50 (1968) 340.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00666zzzzz" type="bib">Urb.lat.666</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="02/12/2014"/>
+          <persName>14-15.Mugnano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">21/07/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="03/12/2014">Overwriting System: A.Rita</persName>
+              <persName n="17/02/2015">14-15.Mugnano</persName>
+              <persName n="21/07/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">"Lectissima politissimaque volumina": i fondi urbinati,</title>
+          <title type="title" level="u">La Vaticana nel Seicento (1590-1700): una biblioteca di biblioteche, a cura di Claudia Montuschi (Storia della Biblioteca Apostolica Vaticana, 3),</title>
+          <author reg="person">Peruzzi, Marcella</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2014</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">342, 386, 387.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00666zzzzz" type="bib">Urb.lat.666</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.666</ptr>
+        <creation>
+          <date TEIform="date" value="30/10/2015"/>
+          <persName>T-V.Maffezzoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">09/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="09/12/2015">T-V.Maffezzoli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

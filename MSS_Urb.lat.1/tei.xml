@@ -1,0 +1,3338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010000" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>&lt;umanistica&gt;</scriptTerm>
+              </head>
+              <msContents>
+                <p>Biblia sacra latine. Vetus Testamentum cum prologis et argumentis s. Hieronymi et aliorum.</p>
+                <msItem>
+                  <title type="uniform">Biblia. Latino</title>
+                  <colophon>F. 240r: "Finit prima pars bibliae a divo Hieronimo translata | quam Illustrissimus princeps Federicus Vrbini dux | et Montis feltri comes generalisque capitaneus | Ferdinandi regis et sanctae romanae ecclesiae ve- | xillifer atque omnium suae aetatis prestantissi- | mus imperartor: faciendam curavit: non minus | christianae religioni tuendae atquae exornandae | intentus quam disciplinae militari amplificandae. | Absolutum autem Florentiae opus est Anno | ab humanatione christi Millesimo quadringen- | tesimo septuagesimo sexto Februarii mensis die | quinto et vigesimo: | Vale qui legis”</colophon>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="duca d'Urbino," n="1422-1482" type="person" role="owner">Federico da Montefeltro,</name>
+                  <name n="c. 1430-m. dopo il 1482" type="person" role="scribe">Comminellis, Hugo de,</name>
+                  <name n="1421-1498" type="person">Vespasiano da Bisticci,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>598</height>
+                  <width>441</width>
+                </dimensions>
+                <extent>ff. 240. I</extent>
+                <collation>
+                  <p>25 fascicoli, tutti quinioni ad eccezione del I (un bifolio), del II (un quinione cui è stato aggiunto un foglio), del XVI e del XX (due quaternioni), del XVII (un binione) e del XXV (un binione cui è stato aggiunto un foglio singolo all'inizio).</p>
+                </collation>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005. IAM22.3 IAM64.1 IAM40.6.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">24/07/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/02/2017">A.Berloco</persName>
+              <persName n="20/02/2017">A.Berloco</persName>
+              <persName n="24/07/2017">F.Borzumato</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010001v-4v" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1v-4v</locus>
+                  <author rend="s.," n="342/347-419" reg="person" type="internal">Hieronymus,</author>
+                  <title type="supplied">Epistola LIII ad Paolinum presbyterum</title>
+                  <title type="uniform">Ad Paulinum De studio scripturarum (Hieronymus, s., 342/347-419)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010004v-86v" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>4v-86v</locus>
+                  <title type="supplied">Pentateuchus</title>
+                  <title type="uniform">Biblia. V.T. Pentateuchus. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">F. 4v: Hieronymus Stridonius, Praefatio in Pentateucho (cf. Stegmüller I, 285).</note>
+                  <name reg="s.," n="342/347-419" type="person" role="internal">Hieronymus,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/02/2017">A.Berloco</persName>
+              <persName n="20/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010086v-97r" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>86v-97r</locus>
+                  <title type="supplied">Liber Iosue</title>
+                  <title type="uniform">Biblia. V.T. Iosue. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Ff. 86v-87r: Hieronymus Stridonius, Praefatio in libris Iosue, Iudicum Ruth (cf. CPL 591a, J) e Hieronymus Stridonius, Praefatio in libro Iosue (ex Epistola LIII ad Paolinum, cf. Stegmüller I, 307).</note>
+                  <name reg="s.," n="342/347-419" type="person" role="internal">Hieronymus,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/02/2017">A.Berloco</persName>
+              <persName n="20/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010097r-107v" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>97r-107v</locus>
+                  <title type="supplied">Liber Iudicum</title>
+                  <title type="uniform">Biblia. V.T. Iudicum. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">17/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010107v-109v" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>107v-109v</locus>
+                  <title type="supplied">Liber Ruth</title>
+                  <title type="uniform">Biblia. V.T. Ruth. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010109v-165v" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>109v-165v</locus>
+                  <title type="supplied">Regum libri I-IV</title>
+                  <title type="uniform">Biblia. V.T. Regum I-II. Latino</title>
+                  <title type="uniform">Biblia. V.T. Regum III-IV. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">F. 109v: Hieronymus Stridonius, Prologus in libro Regum (Prologus galeatus in libros Regum ad Paulam et Eustochium, cf. CPL 591a, R).</note>
+                  <name reg="s.," n="342/347-419" type="person" role="internal">Hieronymus,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/02/2017">A.Berloco</persName>
+              <persName n="20/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010165v-195r" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>165v-195r</locus>
+                  <title type="supplied">Paralipomenon libri I-II</title>
+                  <title type="uniform">Biblia. V.T. Paralipomenon I-II. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Ff. 165v-166v: Hieronymus Stridonius, Praefatio in libro Paralipomenon (Epistola Domnioni et Rogatiano, cf. CPL 591a, M) e Hieronymus Stridonius, Praefatio in libro Paralipomenon (cf. Stegmüller I, 328).</note>
+                  <name reg="s.," n="342/347-419" type="person" role="internal">Hieronymus,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/02/2017">A.Berloco</persName>
+              <persName n="20/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010195r-v" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>195r-v</locus>
+                  <title type="supplied">Oratio Manasse</title>
+                  <title type="uniform">Oratio Manassae. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010195v-206v" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>195v-206v</locus>
+                  <title type="supplied">Libri Ezrae I-II</title>
+                  <title type="uniform">Biblia. V.T. Esdrae I-II. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Ff. 195v-196r: Hieronymus Stridonius, Praefatio in libro Esdrae (cf. CPL 591a, C).</note>
+                  <name reg="s.," n="342/347-419" type="person" role="internal">Hieronymus,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/02/2017">A.Berloco</persName>
+              <persName n="20/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010206v-213r" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>206v-213r</locus>
+                  <title type="supplied">Liber Ezrae III</title>
+                  <title type="uniform">Esdrae III. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010213r-217v" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>213r-217v</locus>
+                  <title type="supplied">Liber Tobiae</title>
+                  <title type="uniform">Biblia. V.T. Tobias. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">F. 231r: Hieronymus Stridonius, Prologus in libro Tobiae (ex Epistola ad Chromantium et Heliodorum, cf. CPL 591a, V)</note>
+                  <name reg="s.," n="342/347-419" type="person" role="internal">Hieronymus,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010217v-223r" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>217v-223r</locus>
+                  <title type="supplied">Liber Iudith</title>
+                  <title type="uniform">Biblia. V.T. Iudith. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">F. 217v: Hieronymus Stridonius, Prologus in libro Iudith (cf. CPL 591a, I)</note>
+                  <name reg="s.," n="342/347-419" type="person" role="internal">Hieronymus,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010223r-229r" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>223r-229r</locus>
+                  <title type="supplied">Liber Hester</title>
+                  <title type="uniform">Biblia. V.T. Esther. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">F. 223r-v: Hieronymus Stridonius, Prologi in libro Hester (cf, CPL 591a, D e Stegmüller I, 343).</note>
+                  <name reg="s.," n="342/347-419" type="person" role="internal">Hieronymus,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000010229r-240v" type="ms">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>229r-240v</locus>
+                  <title type="supplied">Liber Iob</title>
+                  <title type="uniform">Biblia. V.T. Iob. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Ff. 229r-229v: Hieronymus Stridonius, Prologi in libro Iob (cf. Stegmüller I 349, CPL 591a, H e G, Stegmüller I, 350).</note>
+                  <name reg="s.," n="342/347-419" type="person" role="internal">Hieronymus,</name>
+                  <origPlace>
+                    <country>Italia</country>
+                    <region>Italia centrale</region>
+                    <settlement>Firenze</settlement>
+                  </origPlace>
+                  <origDate n="1476">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>A. Piazzoni (cur.), La Bibbia di Federico da Montefeltro: commentario al codice, Modena-Città del Vaticano 2004-2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">20/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/02/2017">A.Berloco</persName>
+              <persName n="20/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title" level="u">I Vangeli dei popoli. La Parola e l'immagine di Cristo nelle culture e nella storia [catalogo di mostra, Città del Vaticano, Palazzo della Cancelleria, 21 giugno-10 dicembre 2000, a cura di Francesco D'Aiuto, Giovanni Morello, Ambrogio M. Piazzoni]</title>
+          <title type="title">Antico e Nuovo Testamento. Latino. ("Bibbia Urbinate").</title>
+          <author n="1938-" reg="person">Morello, Giovanni,</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Edizioni Rinnovamento nello Spirito,</publisher>
+          <publisher>Biblioteca apostolica vaticana</publisher>
+          <pubPlace>Città del Vaticano :</pubPlace>
+          <date TEIform="date">c2000.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 393, 395 e con ill. del f. 7r (p. 396).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="19/10/2006"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="23/10/2006">mss</persName>
+              <persName n="31/03/2009">C.Montuschi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Ciò che finora era invisibile nella “camera picta” del Palazzo Ducale di Urbino,</title>
+          <author reg="person">Dal Poggetto, Paolo </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1991</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bollettino d’arte</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">65 (1991), 76, fig. 7 a-b.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="10/03/2009"/>
+          <persName>C.DiFazio</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Per un itinerario iconografico nei codici miniati di Leonardo Bruni presenti nelle biblioteche fiorentine,</title>
+          <title type="title" level="u">Per il censimento dei codici dell’epistolario di Leonardo Bruni, Seminario internazionale di studi, Firenze 30 ott. 1987,</title>
+          <author reg="person">Lazzi, Giovanna</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma </pubPlace>
+          <date TEIform="date" value="">1991</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">132.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="10/03/2009"/>
+          <persName>C.DiFazio</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Tra testo e immagine dell'Hypnerotomachia Poliphili: in margine alla dedicatoria di Leonardo Grassi a Guidubaldo da Montefeltro,</title>
+          <author reg="person">Scarsella, Alessandro</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2009</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Humanistica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">IV, 1 (2009) 49.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="21/07/2010"/>
+          <persName>C.Marsico</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Literary Culture at the Court of Urbino during the Reign of Federico da Montefeltro,</title>
+          <author reg="person">Hofmann, Heinz</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Humanistica Lovaniensia</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">LVII (2008) 11, 34, 53.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="22/07/2010"/>
+          <persName>C.Marsico</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Perugino e la miniatura umbra del Rinascimento,</title>
+          <author reg="person">Ciardi Dupré Dal Poggetto, Maria Grazia</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2005</date>
+          <date TEIform="date">2006</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di storia della miniatura</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">9-10 (2005-2006) 49, 56, fig. 72.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="30/11/2010"/>
+          <persName>L.Marcelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Bibbie medievali nella biblioteca che fu di Federico da Montefeltro,</title>
+          <author reg="person">Fachechi, Grazia Maria</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2001</date>
+          <date TEIform="date">2002</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di storia della miniatura</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">6-7 (2001-2002) 104, 105*.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="30/11/2010"/>
+          <persName>L.Marcelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Una bibbia miniata per Lucrezia Tornabuoni: l’apporto di Gherardo e di Monte,</title>
+          <author reg="person">Garzelli, Annarosa</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2001</date>
+          <date TEIform="date">2002</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di storia della miniatura</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">6-7 (2001-2002) 234, 235, fig. 7.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="30/11/2010"/>
+          <persName>L.Marcelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La rifondazione umanistica di Roma nei piani giubilari del Quattrocento,</title>
+          <title type="title" level="u">La storia dei Giubilei. Volume secondo 1450-1575,</title>
+          <author n="1941-" reg="person">Fagiolo, Marcello, </author>
+          <respStmt>
+            <resp>
+              <name type="person">Madonna, Maria Luisa</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">20.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="01/02/2011"/>
+          <persName>G.Distefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I miniatori fiorentini di Federico,</title>
+          <title type="title" level="u">Federico di Montefeltro. Lo stato le arti la cultura. III,</title>
+          <author reg="person">Garzelli, Annarosa</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">118-120*, 125, 126, 128, tav. 4.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="01/03/2011"/>
+          <persName>F.Fioretti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Dalla biblioteca del principe alla biblioteca di un collezionista, </title>
+          <title type="title" level="u">La catalogazione dei manoscritti miniati come strumenti di conoscenza, </title>
+          <author reg="person">Maddalo, Silvia</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Roma</pubPlace>
+          <date TEIform="date" value="">2010</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">104.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="16/03/2011"/>
+          <persName>P.Decaro</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Miniatore fiorentino di ambiente ghirlandaiesco, Ricostruzione del Tempio di Gerusalemme.</title>
+          <title type="title" level="u">L' uomo del Rinascimento: Leon Battista Alberti e le arti a Firenze tra ragione e bellezza [catalogo di mostra, Firenze, Palazzo Strozzi, 11 marzo-23 luglio 2006, a cura di Cristina Acidini e Gabriele Morolli]</title>
+          <author reg="person">Acidini, Cristina</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Mandragora,</publisher>
+          <pubPlace>Firenze :</pubPlace>
+          <date TEIform="date">c2006.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 265-266 e con ill. del f. 196v (p. 265).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="08/03/2012"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Primo maestro dell'Oratorio di San Martino dei Buonomini (David Ghirlandaio?), La ricostruzione del Tempio di Gerusalemme incipit del primo libro di Esdra In anno primo Cyri dalla Bibbia di Federico da Montefeltro.</title>
+          <title type="title" level="u">Leon Battista Alberti e l'architettura [catalogo di mostra, Mantova, Casa del Mantegna, 16 settembre 2006-14 gennaio 2007, a cura di Massimo Bulgarelli, Arturo Calzona, Matteo Ceriana, Francesco Paolo Fiore]</title>
+          <author n="1967-" reg="person">Manzari, Francesca,</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Silvana Editoriale,</publisher>
+          <pubPlace>Cinisello Balsamo, Milano :</pubPlace>
+          <date TEIform="date">c2006.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 418-419, 421 e con ill. del f. 196v (p. 420).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="13/03/2012"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Antico e Nuovo Testamento. Latino ("Bibbia Urbinate").</title>
+          <title type="title" level="u">San Paolo in Vaticano. La figura e la parola dell'Apostolo delle Genti nelle raccolte pontificie [catalogo di mostra, Città del Vaticano, Musei Vaticani, 26 giugno-27 settembre 2009, a cura di Umberto Utro]</title>
+          <author reg="person">Aletta, Alessia Adriana</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>ταυ editrice,</publisher>
+          <pubPlace>Pian di Porto, Todi :</pubPlace>
+          <date TEIform="date">stampa 2009.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 332-335.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="02/04/2012"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">il carteggio tra Girolamo Seripando e Guglielmo Sirleto,</title>
+          <author rend="O.E.S.A., " n="1903-1992" reg="person">Gutiérrez, David, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Analecta Augustiniana</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">48 (1985) 128.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="20/05/2012"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">L’apprendimento grafico dei copisti stranieri nell’Italia di età umanistica,</title>
+          <title type="title" level="u">Alethes Philia. Studi in onore di Giancarlo Prato, II,</title>
+          <author reg="person">Radiciotti, Paolo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Spoleto</pubPlace>
+          <date TEIform="date" value="">2010</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">556.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="19/06/2012"/>
+          <persName>M.Cardillo</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">«Per le cose della patria nostra». Lettere inedite di Luigi Angeloni e Marino Marini sul recupero dei manoscritti vaticani a Parigi (1816-1819),</title>
+          <title type="title" level="u">Miscellanea Bibliothecae Apostolicae Vaticanae XVIII,</title>
+          <author n="1957-" reg="person">Vian, Paolo,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2011</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">785.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="04/02/2013"/>
+          <persName>V.Damiano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="11/04/2014">MF.Migliori</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Bibbia Urbinate (Bibbia di Federico da Montefeltro).</title>
+          <title type="title" level="u">Il grande alfabeto dell'umanità [catalogo di mostra, Milano, Biblioteca ambrosiana, 20 maggio-30 giugno 2013, a cura di Andrea Gianni]</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Imago veritatis,</publisher>
+          <pubPlace>[Milano] :</pubPlace>
+          <date TEIform="date">c2013.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 142-143 e con ill. del f. 7r [tra le pp. 68-69].</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="19/07/2013"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Bible, patristique, liturgie et hagiographie,</title>
+          <title type="title" level="u">La Biblioteca Apostolica Vaticana luogo di ricerca al servizio degli studi. Atti del Convegno Roma, 11-13 novembre 2010, a cura di M.Buonocore - A.M.Piazzoni (Studi e testi, 468),</title>
+          <author reg="person">Guinot, Jean-Noël</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2011</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">119.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="16/01/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Il Dipartimento dei Manoscritti,</title>
+          <title type="title" level="u">La Biblioteca Apostolica Vaticana luogo di ricerca al servizio degli studi. Atti del Convegno Roma, 11-13 novembre 2010, a cura di M.Buonocore - A.M.Piazzoni (Studi e testi, 468),</title>
+          <author n="1957-" reg="person">Vian, Paolo,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2011</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">369.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="16/01/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Un Libro d’ore attavantesco a Piacenza,</title>
+          <author reg="person">Barabaschi, Eleonora</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2009</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di storia della miniatura</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">13 (2009) 170, 178.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="07/02/2014"/>
+          <persName>T.DiStefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Biagio di Antonio Tucci,</title>
+          <title type="title" level="u">Dizionario biografico dei miniatori italiani. Secoli IX-XVI, a cura di M. Bollati,</title>
+          <author reg="person">Galizzi, Diego</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">103*-104.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="18/02/2014"/>
+          <persName>T.DiStefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Domenico, David e Benedetto di Tommaso di Corrado Bigordi detti del Ghirlandaio,</title>
+          <title type="title" level="u">Dizionario biografico dei miniatori italiani. Secoli IX-XVI, a cura di M. Bollati,</title>
+          <author reg="person">Pasut, Francesca</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">199*.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="20/02/2014"/>
+          <persName>T.DiStefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Francesco di Antonio del Chierico,</title>
+          <title type="title" level="u">Dizionario biografico dei miniatori italiani. Secoli IX-XVI, a cura di M. Bollati,</title>
+          <author reg="person">Bollati, Milvia</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">230*.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="20/02/2014"/>
+          <persName>T.DiStefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Maestro del Senofonte Hamilton,</title>
+          <title type="title" level="u">Dizionario biografico dei miniatori italiani. Secoli IX-XVI, a cura di M. Bollati,</title>
+          <author reg="person">Bollati, Milvia</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">666.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="25/02/2014"/>
+          <persName>T.DiStefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Rosselli Francesco,</title>
+          <title type="title" level="u">Dizionario biografico dei miniatori italiani. Secoli IX-XVI, a cura di M. Bollati,</title>
+          <author reg="person">Galizzi, Diego</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">915.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="27/02/2014"/>
+          <persName>T.DiStefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Vante di Gabriello di Vante Attavanti detto Attavante,</title>
+          <title type="title" level="u">Dizionario biografico dei miniatori italiani. Secoli IX-XVI, a cura di M. Bollati,</title>
+          <author reg="person">Galizzi, Diego</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2004</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">976.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="27/02/2014"/>
+          <persName>T.DiStefano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Concezione del potere ed esaltazione del dominus nella corte di Sigismondo Pandolfo Malatesti,</title>
+          <author reg="person">Falcioni, Anna</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace/>
+          <date TEIform="date" value="">2008-2009</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi urbinati. B: scienze umane e sociali</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">78-79 (2008-2009) 26.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="03/03/2014"/>
+          <persName>MF.Migliori</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La miniatura a Firenze nell'età di Lorenzo de' Medici e di Mattia Corvino,</title>
+          <title type="title" level="u">Mattia Corvino e Firenze. Arte e umanesimo alla corte del Re d'Ungheria,</title>
+          <author n="1951-" reg="person">Scudieri, Magnolia</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">2013</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">252.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="10/03/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Marsilio Ficino, Epistolarum ad amicos libri VIII,</title>
+          <title type="title" level="u">Mattia Corvino e Firenze. Arte e umanesimo alla corte del Re d'Ungheria,</title>
+          <author reg="person">Pócs, Dániel</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">2013</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">198.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="10/03/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Claudio Tolomeo, Cosmographia,</title>
+          <title type="title" level="u">Mattia Corvino e Firenze. Arte e umanesimo alla corte del Re d'Ungheria,</title>
+          <author reg="person">Denoël, Charlotte</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">2013</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">217.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="10/03/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Salterio di Beatrice d'Aragona,</title>
+          <title type="title" level="u">Mattia Corvino e Firenze. Arte e umanesimo alla corte del Re d'Ungheria,</title>
+          <author reg="person">Zsupán, Edina</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">2013</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">170.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="10/03/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Origene, Homiliae in Genesim, in Exodum , in Leviticum,</title>
+          <title type="title" level="u">Mattia Corvino e Firenze. Arte e umanesimo alla corte del Re d'Ungheria,</title>
+          <author reg="person">Ricci, Milena</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">2013</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">174.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="10/03/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">"Perfection of illustration and ornament",</title>
+          <title type="title" level="u">Federico da Montefeltro and his library, edited by Marcello Simonetta,</title>
+          <author reg="person">Alexander, Jonathan James Graham</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">17.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="11/03/2014"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/03/2014">A.Cantarella</persName>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The production of illuminated manuscripts in Florence and Urbino,</title>
+          <title type="title" level="u">Federico da Montefeltro and his library, edited by Marcello Simonetta,</title>
+          <author reg="person">Martelli, Cecilia</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">Fig. 18 (41), 42.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="11/03/2014"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Saint Gregory the Great, Moralia in Job libri I-XXXV,</title>
+          <title type="title" level="u">Federico da Montefeltro and his library, edited by Marcello Simonetta,</title>
+          <author reg="person">Labriola, Ada</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">125.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/03/2014"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Francesco Berlinghieri, Septe giornate della geographia,</title>
+          <title type="title" level="u">Federico da Montefeltro and his library, edited by Marcello Simonetta,</title>
+          <author reg="person">Labriola, Ada</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">143.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/03/2014"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Poggio Bracciolini, Historia florentina, libri I-VIII,</title>
+          <title type="title" level="u">Federico da Montefeltro and his library, edited by Marcello Simonetta,</title>
+          <author reg="person">Labriola, Ada</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">157.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="17/03/2014"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">An art auction in Venice in 1506. In anticipation of the 500th anniversary of the birth of Isabella d'Este (1474-1974),</title>
+          <author reg="person">Brown, Clifford M.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1972</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">L'Arte. Rivista di storia dell'arte medievale e moderna</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">18-20 (1972) 130.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="11/11/2014"/>
+          <persName>14-15.Schwarz</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La miniature italienne de la Renaissance,</title>
+          <title type="title" level="u">Liber librorum, 5000 ans d’art du livre,</title>
+          <author rend="sac.," n="1914-1993" reg="person">Ruysschaert, José,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Bruxelles</pubPlace>
+          <date TEIform="date" value="">1972</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">309, tav. 150.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="11/11/2014"/>
+          <persName>14-15.Schwarz</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/05/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/05/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">"Lectissima politissimaque volumina": i fondi urbinati,</title>
+          <title type="title" level="u">La Vaticana nel Seicento (1590-1700): una biblioteca di biblioteche, a cura di Claudia Montuschi (Storia della Biblioteca Apostolica Vaticana, 3),</title>
+          <author reg="person">Peruzzi, Marcella</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2014</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">342, 344, 378, 380, 386, 387, 375, 393.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="30/10/2015"/>
+          <persName>T-V.Maffezzoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">09/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="09/12/2015">T-V.Maffezzoli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Una libraria più degna che sia mai stata fatta. Ovvero: intorno alla formazione della collezione urbinate,</title>
+          <title type="title">Per Gabriella. Studi in ricordo di Gabriella Braga, III, a cura di M. Palma e C. Vismara, Cassino 2013 (Collana di studi umanistici, 6),</title>
+          <author reg="person">Maddalo, Silvia</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Cassino</pubPlace>
+          <date TEIform="date" value="">2013</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">1134, 1145.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00001zzzzz" type="bib">Urb.lat.1</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.1</ptr>
+        <creation>
+          <date TEIform="date" value="26/01/2016"/>
+          <persName>T-V.Maffezzoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

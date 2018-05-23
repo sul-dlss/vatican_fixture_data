@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000030000" type="ms">Urb.lat.3</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>&lt;carolina&gt;</scriptTerm>
+              </head>
+              <msContents>
+                <overview>
+                  <p>Quatuor Evangelia prologis, capitulis, capitulari, canonibusque evangeliorum locupletata.</p>
+                </overview>
+                <msItem>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="imperatore del Sacro romano impero," n="795-855" type="person" role="owner">Lothar I,</name>
+                  <origPlace>
+                    <country>&lt;Germania&gt;</country>
+                    <settlement>&lt;Aquisgrana (?)&gt;</settlement>
+                  </origPlace>
+                  <origDate n="c. 840" notAfter="875" notBefore="826">sec. IX med</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>310</height>
+                  <width>230</width>
+                </dimensions>
+                <extent>ff. II, 285</extent>
+                <collation>
+                  <p>1 ternione (ff. 1-6) + 34 quaternioni (ff. 7-262, 267-282) + 1 binione (ff. 263-266) + 1 foglio (283)</p>
+                </collation>
+                <msWriting>
+                  <p>Tituli et initia litt. elegantibus tum capitalibus tum uncialibus aureis.</p>
+                </msWriting>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Codices Urbinates Latini, recensuit C. Stornajolo, tomus I: Codices 1-500, Romae 1902, pp. 6-7. P. Cherubini, Evangeliario. Latino. ("Evangeliario di Lotario I"), in “I Vangeli dei popoli. La Parola e l'immagine di Cristo nelle culture e nella storia [catalogo di mostra, Città del Vaticano, Palazzo della Cancelleria, 21 giugno-10 dicembre 2000, a cura di Francesco D'Aiuto, Giovanni Morello, Ambrogio M. Piazzoni]”, pp. 193-195.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="18/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/01/2017">A.Berloco</persName>
+              <persName n="04/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000030001r-2v" type="ms">Urb.lat.3</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-2v</locus>
+                  <author rend="s.," n="342/347-419" reg="person">Hieronymus,</author>
+                  <title type="supplied">Prologus in commentario evangelii s. Matthaei</title>
+                  <title type="uniform">Commentarii in Evangelium Matthaei (Hieronymus, s., 342/347-419). Prologus</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Usque ad v. "calendas".</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Codices Urbinates Latini, recensuit C. Stornajolo, tomus I: Codices 1-500, Romae 1902, pp. 6-7.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="18/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/01/2017">A.Berloco</persName>
+              <persName n="04/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000030002v-4v" type="ms">Urb.lat.3</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>2v-4v</locus>
+                  <author rend="s.," n="342/347-419" reg="person">Hieronymus,</author>
+                  <title type="supplied">S. Hieronymi praefatio ad Damasum</title>
+                  <title type="uniform">Praefatio in Evangelio (Hieronymus, s., 342/347-419)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Usque ad vv. "uel uicina dixerunt".</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Codices Urbinates Latini, recensuit C. Stornajolo, tomus I: Codices 1-500, Romae 1902, p. 7.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="18/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/01/2017">A.Berloco</persName>
+              <persName n="04/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000030004v-6v. 15v-82r" type="ms">Urb.lat.3</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>4v-6v. 15v-82r</locus>
+                  <title type="supplied">Evangelium s. Matthaei</title>
+                  <title type="uniform">Biblia. N.T. Evang. sec. Matthaeum. Latino</title>
+                  <incipit>Inc. argumentum: Matthaeus ex Iudaea</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Praeeunt (f .4) argumentum et (f. 5) capita priora I-XIX.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Codices Urbinates Latini, recensuit C. Stornajolo, tomus I: Codices 1-500, Romae 1902, p. 7.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="18/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/01/2017">A.Berloco</persName>
+              <persName n="04/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <editionStmt>
+          <edition>M.P.L., 29, 563-574.</edition>
+        </editionStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000030007r-14v" type="ms">Urb.lat.3</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>7r-14v</locus>
+                  <author rend="vesc.," n="c. 265-c. 340" reg="person" type="internal">Eusebius Caesariensis,</author>
+                  <title type="title">Canones Evangeliorum</title>
+                  <title type="uniform">Epistula ad Carpianum. Canones evangeliorum (Eusebius Caesariensis, vesc., c. 265-c. 340). Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <name reg="sac.," n="1800-1875" type="person" role="external">Migne, Jacques Paul,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>IAM60.1. P. Cherubini, Evangeliario. Latino. ("Evangeliario di Lotario I"), in “I Vangeli dei popoli. La Parola e l'immagine di Cristo nelle culture e nella storia [catalogo di mostra, Città del Vaticano, Palazzo della Cancelleria, 21 giugno-10 dicembre 2000, a cura di Francesco D'Aiuto, Giovanni Morello, Ambrogio M. Piazzoni]”, pp. 193-195.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="18/12/2014"/>
+          <persName>M.Marchiaro</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="01/10/2015">Linking System: R.Mancusi</persName>
+              <persName n="18/01/2017">A.Berloco</persName>
+              <persName n="04/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000030082v-128r" type="ms">Urb.lat.3</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>82v-128r</locus>
+                  <title type="supplied">Evangelium s. Marci</title>
+                  <title type="uniform">Biblia. N.T. Evang. sec. Marcum. Latino</title>
+                  <incipit>Inc. argumentum: Marcus evangelista dei et Petri</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Praeeunt (f. 82v) argumentum et (f. 83v) capita I-XIII.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Codices Urbinates Latini, recensuit C. Stornajolo, tomus I: Codices 1-500, Romae 1902, p. 7.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="18/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/01/2017">A.Berloco</persName>
+              <persName n="04/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000030128v-209v" type="ms">Urb.lat.3</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>128v-209v</locus>
+                  <title type="supplied">Evangelium s. Lucae</title>
+                  <title type="uniform">Biblia. N.T. Evang. sec. Lucam. Latino</title>
+                  <incipit>Inc. argumentum: Lucas syrus antiocensis</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Praeeunt (f. 128v) argumentum et (f. 129v) capita I-XXI.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Codices Urbinates Latini, recensuit C. Stornajolo, tomus I: Codices 1-500, Romae 1902, p. 7.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="18/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/01/2017">A.Berloco</persName>
+              <persName n="04/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000030210r-266v" type="ms">Urb.lat.3</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>210r-266v</locus>
+                  <title type="supplied">Evangelium s. Ioannis</title>
+                  <title type="uniform">Biblia. N.T. Evang. sec. Iohannem. Latino</title>
+                  <incipit>Inc. argumentum: Hic est Iohannes</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Praeeunt (f. 210) Bedae in s. Ioannis evangelii expositionem commendatio (in ms. "praefatio secundum Ioannem". cf. PL 92, 633-636) et (f. 211) breves (sc. capita) I-XIV.</note>
+                  <name reg="s.," n="673-735." rend="Opere spurie e dubbie" type="person" role="internal">Beda Venerabilis,</name>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Codices Urbinates Latini, recensuit C. Stornajolo, tomus I: Codices 1-500, Romae 1902, p. 7.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="18/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/01/2017">A.Berloco</persName>
+              <persName n="04/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.000030267v-283r" type="ms">Urb.lat.3</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>267v-283r</locus>
+                  <title type="supplied">Incipunt capitula lectionum euangelii anni circuli</title>
+                  <incipit>In vigilia natalis domini scundum matth. cap. I</incipit>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Codices Urbinates Latini, recensuit C. Stornajolo, tomus I: Codices 1-500, Romae 1902, p. 7.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="18/01/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/04/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="18/01/2017">A.Berloco</persName>
+              <persName n="04/04/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title" level="u">I Vangeli dei popoli. La Parola e l'immagine di Cristo nelle culture e nella storia [catalogo di mostra, Città del Vaticano, Palazzo della Cancelleria, 21 giugno-10 dicembre 2000, a cura di Francesco D'Aiuto, Giovanni Morello, Ambrogio M. Piazzoni]</title>
+          <title type="title">Evangeliario. Latino. ("Evangeliario di Lotario I").</title>
+          <author reg="person">Cherubini, Paolo</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Edizioni Rinnovamento nello Spirito,</publisher>
+          <publisher>Biblioteca apostolica vaticana</publisher>
+          <pubPlace>Città del Vaticano :</pubPlace>
+          <date TEIform="date">c2000.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 193-195 e con ill. dei f. 137v-138r (p. 194).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00003zzzzz" type="bib">Urb.lat.3</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="09/10/2006"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/10/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="23/10/2006">mss</persName>
+              <persName n="31/03/2009">C.Montuschi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/10/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Royal Patronage of Culture in the Frankish Kingdoms under the Carolingians: motives and consequences,</title>
+          <title type="title" level="u">Committenti e produzione artistico-letteraria nell’alto Medioevo occidentale, Spoleto 4-10 apr. 1991,</title>
+          <author reg="person">Mc Kitterick, Rosamond </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Spoleto </pubPlace>
+          <date TEIform="date" value="">1992</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">105.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00003zzzzz" type="bib">Urb.lat.3</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="10/03/2009"/>
+          <persName>C.DiFazio</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/10/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/10/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Considerazioni sulla biblioteca di Urbino nell'età di Guidobaldo di Montefeltro,  </title>
+          <author reg="person">Peruzzi, Marcella</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2008</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Humanistica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">III. 2. (2008) 53.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00003zzzzz" type="bib">Urb.lat.3</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="20/07/2010"/>
+          <persName>L.Falconi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/10/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/10/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Bibbie medievali nella biblioteca che fu di Federico da Montefeltro,</title>
+          <author reg="person">Fachechi, Grazia Maria</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2001</date>
+          <date TEIform="date">2002</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di storia della miniatura</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">6-7 (2001-2002) 104, 106.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00003zzzzz" type="bib">Urb.lat.3</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="30/11/2010"/>
+          <persName>L.Marcelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/10/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/10/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Carolingian Uncial: A Context for the Lothar Psalter,</title>
+          <author reg="person">McKitterick, Rosamond</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1990</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">British Library Journal</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">16 (1990) 9.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00003zzzzz" type="bib">Urb.lat.3</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="01/03/2011"/>
+          <persName>F.Fioretti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/10/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/10/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Le Bibbie imperiali d’età carolingia ed ottoniana,</title>
+          <title type="title" level="u">Forme e modelli della tradizione manoscritta della Bibbia,</title>
+          <author reg="person">Bassetti, Massimiliano</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2005</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">204.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00003zzzzz" type="bib">Urb.lat.3</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="03/06/2011"/>
+          <persName>F.Giulianelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/10/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/10/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les Évangiles de Saint-Denis et l’influence de l’École de la cour de Charlemagne sur les scriptoria de Francie occidentale,</title>
+          <title type="title" level="u">Les manuscrits carolingiens. Actes du colloque de Paris, Bibliothèque Nationale de France, le 4 mai 2007,</title>
+          <author rend="1968-" reg="person">Crivello, Fabrizio</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Tournhout</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">47, 51*, 52 (cit.: Codex Urbinas des Évangiles).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00003zzzzz" type="bib">Urb.lat.3</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="20/02/2012"/>
+          <persName>A.DAscoli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/10/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="01/10/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Storia dell'arte e della miniatura (secoli V-XIV),</title>
+          <title type="title" level="u">La Biblioteca Apostolica Vaticana luogo di ricerca al servizio degli studi. Atti del Convegno Roma, 11-13 novembre 2010, a cura di M.Buonocore - A.M.Piazzoni (Studi e testi, 468),</title>
+          <author n="1944-" reg="person">Pace, Valentino,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2011</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">218.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00003zzzzz" type="bib">Urb.lat.3</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/10/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="01/10/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Gospels,</title>
+          <title type="title" level="u">Federico da Montefeltro and his library, edited by Marcello Simonetta,</title>
+          <author reg="person">Toniolo, Federica</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Milano</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">115.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00003zzzzz" type="bib">Urb.lat.3</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="17/03/2014"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">01/10/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="01/10/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">"Aratea". A review of the literature concerning MS. Vossianus lat. q. 79 in Leiden University Library,</title>
+          <author n="1942-" reg="person">Verkerk, Cornelis Lambertus,</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1980</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Journal of medieval history</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">6 (1980) 279.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Urb.lat." rend="Urb.lat.00003zzzzz" type="bib">Urb.lat.3</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Urb.lat.3</ptr>
+        <creation>
+          <date TEIform="date" value="11/11/2014"/>
+          <persName>14-15.Schwarz</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">15/12/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="01/10/2015">Linking System: R.Mancusi</persName>
+              <persName n="15/12/2015">15-16.Marucci</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

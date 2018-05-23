@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.gr." rend="Ott.gr.000220000" type="ms">Ott.gr.22</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p>Hermogenis Rhetorica.</p>
+                <msItem>
+                  <colophon>Fol. 247 Ἐτελειώθει (sic) τὸ παρὸν βιβλίον ἐν ἔτει ἀπὸ χυ̅ ͵αυ´ν̅η̅ ἰνδικτ. ϛ´ μηνὸς μαρτίου κ´ διὰ χειρὸς ἐμοῦ Ἰωάννου ἱερέως Ῥόσου τοῦ ἐκ Κρήτης διὰ συνδρομῆς καὶ ἐξόδου τοῦ εὐγενεστάτου καὶ σοφωτάτου ἀνδρὸς κυροῦ Πάλλαντος τοῦ Στοργία περιφανοῦς καβαλλαρίου καὶ ἡμετέρου κυρίου ἐν Ἐνετίαις.</colophon>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">Fol. "a"v habet notas Altaempsianas consuetas et "Hermogenis Rhetorica cū com̅ento".</note>
+                  <name type="person" role="owner">Altemps (famiglia)</name>
+                  <origDate n="1458">sec. XV ex</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>chart.</p>
+                </support>
+                <dimensions>
+                  <height>336</height>
+                  <width>223</width>
+                </dimensions>
+                <extent>ff. 247</extent>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>E. Feron, F. Battaglini, Codices manuscripti graeci Ottoboniani Bibliothecae Vaticanae descripti, Romae 1893, p. 21.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.gr.22</ptr>
+        <creation>
+          <date TEIform="date" value="25/08/2015"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/12/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="25/08/2015">D.Lionetti</persName>
+              <persName n="25/08/2015">D.Lionetti</persName>
+              <persName n="08/09/2015">D.Lionetti</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+              <persName n="13/12/2016">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.gr." rend="Ott.gr.000220001r-213v" type="ms">Ott.gr.22</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-213v</locus>
+                  <author n="sec. II" reg="person" type="internal">Hermogenes Tarsensis,</author>
+                  <title type="supplied">Περὶ ἰδεῶν λόγος</title>
+                  <title type="uniform">De ideis (Hermogenes Tarsensis, sec. II)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                  <note type="note">ΕΡΜΟΓΕΝΟΥΣ προλεγόμενα τῶν ἰδεῶν f. 1; - περὶ ἰδεῶν λόγος .. f. 2; - τόμος δεύτερος f. 112v.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>E. Feron, F. Battaglini, Codices manuscripti graeci Ottoboniani Bibliothecae Vaticanae descripti, Romae 1893, p. 21.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.gr.22</ptr>
+        <creation>
+          <date TEIform="date" value="25/08/2015"/>
+          <persName>D.Lionetti</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">25/11/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="08/09/2015">D.Lionetti</persName>
+              <persName n="08/09/2015">D.Lionetti</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+              <persName n="25/11/2016">A.Berloco</persName>
+              <persName n="25/11/2016">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.gr." rend="Ott.gr.000220214r-246v" type="ms">Ott.gr.22</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>214r-246v</locus>
+                  <author n="sec. II" reg="person" type="internal">Hermogenes Tarsensis,</author>
+                  <title type="supplied">Περὶ μεθόδου δεινότητος</title>
+                  <title type="uniform">De methodo (Hermogenes Tarsensis, sec. II)</title>
+                  <textLang n="Greco." rend="grc">Greco.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>E. Feron, F. Battaglini, Codices manuscripti graeci Ottoboniani Bibliothecae Vaticanae descripti, Romae 1893, p. 21.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.gr.22</ptr>
+        <creation>
+          <date TEIform="date" value="25/11/2016"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date"/>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Theocr. XVI 44: percorsi nella tradizione,</title>
+          <author reg="person">Castelli, Carla </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1995</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi italiani di filologia classica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">13 (1995) 67-68.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.gr." rend="Ott.gr.00022zzzzz" type="bib">Ott.gr.22</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.gr.22</ptr>
+        <creation>
+          <date TEIform="date" value="01/12/2009"/>
+          <persName>P.Capuano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">23/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Emanuele Crisolora e la Geografia di Tolomeo,</title>
+          <title type="title" level="u">Dotti bizantini e libri greci nell'Italia del secolo XV, Atti del Convegno internazionale, Trento 22-23 ott. 1990,</title>
+          <author reg="person">Gentile, Sebastiano</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Napoli</pubPlace>
+          <date TEIform="date" value="">1992</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">299.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.gr." rend="Ott.gr.00022zzzzz" type="bib">Ott.gr.22</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.gr.22</ptr>
+        <creation>
+          <date TEIform="date" value="01/12/2009"/>
+          <persName>P.Capuano</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">23/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">L’Erodoto di Palla Strozzi (cod. Vat. Urb. gr. 88),</title>
+          <author n="1962-" reg="person">De Gregorio, Giuseppe</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2002</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Bollettino dei Classici</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">23 (2002) 35*, 113, 118.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.gr." rend="Ott.gr.00022zzzzz" type="bib">Ott.gr.22</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.gr.22</ptr>
+        <creation>
+          <date TEIform="date" value="30/03/2010"/>
+          <persName>R.Pazzini</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">23/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">L'ornamentazione nei manoscritti greci del Rinascimento: un criterio d'attribuzione da sfruttare?,</title>
+          <author rend="sac., " n="1927- " reg="person">Canart, Paul, </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2005</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Rivista di studi bizantini e neoellenici</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">42 (2005) tav. 3a.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.gr." rend="Ott.gr.00022zzzzz" type="bib">Ott.gr.22</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.gr.22</ptr>
+        <creation>
+          <date TEIform="date" value="16/07/2010"/>
+          <persName>C.Marsico</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">23/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Die Entdeckung der griechischen Kodizes (15. Jh.),</title>
+          <title type="title" level="u">Griechische Kodikologie und Textüberlieferung,</title>
+          <author n="1850-1934" reg="person">Sabbadini, Remigio,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Darmstadt</pubPlace>
+          <date TEIform="date" value="">1980</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">384.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.gr." rend="Ott.gr.00022zzzzz" type="bib">Ott.gr.22</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.gr.22</ptr>
+        <creation>
+          <date TEIform="date" value="01/02/2011"/>
+          <persName>L.Marcelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">23/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Palla Strozzi's Greek Manuscripts,</title>
+          <author reg="person">Sosower, Mark L.</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1986</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Studi italiani di filologia classica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">79 (1986) 144, 149*.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.gr." rend="Ott.gr.00022zzzzz" type="bib">Ott.gr.22</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.gr.22</ptr>
+        <creation>
+          <date TEIform="date" value="01/02/2011"/>
+          <persName>L.Marcelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">23/11/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="29/03/2011">L.Marcelli</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">La silloge manoscritta greca di Guglielmo Sirleto. Un primo saggio di ricostruzione,</title>
+          <title type="title" level="u">Miscellanea Bibliothecae Apostolicae Vaticanae XIX (Studi e testi, 474),</title>
+          <author reg="person">Lucà, Santo</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2012</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">341*.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Ott.gr." rend="Ott.gr.00022zzzzz" type="bib">Ott.gr.22</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Ott.gr.22</ptr>
+        <creation>
+          <date TEIform="date" value="16/01/2014"/>
+          <persName>L.Annicelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="07/02/2014">L.Annicelli</persName>
+              <persName n="23/11/2015">Linking System: R.Mancusi</persName>
+              <persName n="04/02/2016">T-V.Maffezzoli</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>

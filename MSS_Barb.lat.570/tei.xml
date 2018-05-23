@@ -1,0 +1,2534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.005700000" type="ms">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <head>
+                <scriptTerm>&lt;insulare&gt;</scriptTerm>
+              </head>
+              <msContents>
+                <msItem>
+                  <title type="uniform">Biblia. N.T. Evangelia. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">Il codice è datato alla seconda metà dell'VIII sec.</note>
+                  <name reg="card.," n="1597-1679" type="person" role="owner">Barberini, Francesco,</name>
+                  <origPlace>
+                    <country>Inghilterra</country>
+                    <region>Inghilterra centro-meridionale (?)</region>
+                  </origPlace>
+                  <origDate notAfter="800" notBefore="701">sec. VIII</origDate>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <support>
+                  <p>membr.</p>
+                </support>
+                <dimensions>
+                  <height>340</height>
+                  <width>258</width>
+                </dimensions>
+                <extent>ff. 153</extent>
+                <collation>
+                  <p>21 fascicoli in prevalenza quaternioni ma con frequenti eccezioni dovute alla caduta di diversi fogli o a esigenze legate alla disposizione delle miniature.</p>
+                </collation>
+              </physDesc>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>V. Longo, Evangeliario. Latino, in "I Vangeli dei popoli. La Parola e l'immagine di Cristo nelle culture e nella storia [catalogo di mostra, Città del Vaticano, Palazzo della Cancelleria, 21 giugno-10 dicembre 2000, a cura di Francesco D'Aiuto, Giovanni Morello, Ambrogio M. Piazzoni]", pp. 179-180.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">13/02/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="02/02/2017">A.Berloco</persName>
+              <persName n="13/02/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.005700001r-6v" type="ms">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>1r-6v</locus>
+                  <author rend="vesc.," n="c. 265-c. 340" reg="person" type="internal">Eusebius Caesariensis,</author>
+                  <title type="supplied">Canones Evangeliorum</title>
+                  <title type="uniform">Epistula ad Carpianum. Canones evangeliorum (Eusebius Caesariensis, vesc., c. 265-c. 340). Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>V. Longo, Evangeliario. Latino, in "I Vangeli dei popoli. La Parola e l'immagine di Cristo nelle culture e nella storia [catalogo di mostra, Città del Vaticano, Palazzo della Cancelleria, 21 giugno-10 dicembre 2000, a cura di Francesco D'Aiuto, Giovanni Morello, Ambrogio M. Piazzoni]", pp. 179-180.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="02/02/2017">A.Berloco</persName>
+              <persName n="13/02/2017">A.Berloco</persName>
+              <persName n="31/03/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.005700007r-v" type="ms">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>7r-v</locus>
+                  <author rend="s.," n="342/347-419" reg="person" type="internal">Hieronymus,</author>
+                  <title type="supplied">Epistola ad Damasum papam</title>
+                  <title type="uniform">Praefatio in Evangelio (Hieronymus, s., 342/347-419)</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>V. Longo, Evangeliario. Latino, in "I Vangeli dei popoli. La Parola e l'immagine di Cristo nelle culture e nella storia [catalogo di mostra, Città del Vaticano, Palazzo della Cancelleria, 21 giugno-10 dicembre 2000, a cura di Francesco D'Aiuto, Giovanni Morello, Ambrogio M. Piazzoni]", pp. 179-180.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="02/02/2017">A.Berloco</persName>
+              <persName n="13/02/2017">A.Berloco</persName>
+              <persName n="31/03/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.005700008r-47v" type="ms">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>8r-47v</locus>
+                  <title type="supplied">Evangelium Matthaei</title>
+                  <title type="uniform">Biblia. N.T. Evang. sec. Matthaeum. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">&lt;Cum capitulis (f. 7r) et prologi (f. 10r). F. 11v: Imago evangelistae&gt;.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>V. Longo, Evangeliario. Latino, in "I Vangeli dei popoli. La Parola e l'immagine di Cristo nelle culture e nella storia [catalogo di mostra, Città del Vaticano, Palazzo della Cancelleria, 21 giugno-10 dicembre 2000, a cura di Francesco D'Aiuto, Giovanni Morello, Ambrogio M. Piazzoni]", pp. 179-180.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="02/02/2017">A.Berloco</persName>
+              <persName n="13/02/2017">A.Berloco</persName>
+              <persName n="31/03/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.005700048r-75v" type="ms">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>48r-75v</locus>
+                  <title type="supplied">Evangelium Marci</title>
+                  <title type="uniform">Biblia. N.T. Evang. sec. Marcum. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">&lt;Cum argumento (f. 48r) et capitulis (f. 48v). F. 50v: Imago evangelistae&gt;.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>V. Longo, Evangeliario. Latino, in "I Vangeli dei popoli. La Parola e l'immagine di Cristo nelle culture e nella storia [catalogo di mostra, Città del Vaticano, Palazzo della Cancelleria, 21 giugno-10 dicembre 2000, a cura di Francesco D'Aiuto, Giovanni Morello, Ambrogio M. Piazzoni]", pp. 179-180.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="02/02/2017">A.Berloco</persName>
+              <persName n="13/02/2017">A.Berloco</persName>
+              <persName n="31/03/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.005700075v-121v" type="ms">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>75v-121v</locus>
+                  <title type="title">Evangelium Lucae</title>
+                  <title type="uniform">Biblia. N.T. Evang. sec. Lucam. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">&lt;Cum argumento (f. 76r) et capitulis (f. 76v). F. 79v: Imago evangelistae&gt;.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>V. Longo, Evangeliario. Latino, in "I Vangeli dei popoli. La Parola e l'immagine di Cristo nelle culture e nella storia [catalogo di mostra, Città del Vaticano, Palazzo della Cancelleria, 21 giugno-10 dicembre 2000, a cura di Francesco D'Aiuto, Giovanni Morello, Ambrogio M. Piazzoni]", pp. 179-180.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/02/2017">A.Berloco</persName>
+              <persName n="31/03/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title"/>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.005700121v-153r" type="ms">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <msItem>
+                  <locus>121v-153r</locus>
+                  <title type="title">Evangelium Iohannis</title>
+                  <title type="uniform">Biblia. N.T. Evang. sec. Iohannem. Latino</title>
+                  <textLang n="Latino." rend="lat">Latino.</textLang>
+                  <note type="note">&lt;Cum capitulis (f. 121v) et  prologi (f. 122v). F.124v: Imago evangelistae&gt;.</note>
+                </msItem>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>V. Longo, Evangeliario. Latino, in "I Vangeli dei popoli. La Parola e l'immagine di Cristo nelle culture e nella storia [catalogo di mostra, Città del Vaticano, Palazzo della Cancelleria, 21 giugno-10 dicembre 2000, a cura di Francesco D'Aiuto, Giovanni Morello, Ambrogio M. Piazzoni]", pp. 179-180.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2017"/>
+          <persName>A.Berloco</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">31/03/2017</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="02/02/2017">A.Berloco</persName>
+              <persName n="13/02/2017">A.Berloco</persName>
+              <persName n="31/03/2017">A.Berloco</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title" level="u">I Vangeli dei popoli. La Parola e l'immagine di Cristo nelle culture e nella storia [catalogo di mostra, Città del Vaticano, Palazzo della Cancelleria, 21 giugno-10 dicembre 2000, a cura di Francesco D'Aiuto, Giovanni Morello, Ambrogio M. Piazzoni]</title>
+          <title type="title">Evangeliario. Latino.</title>
+          <author reg="person">Longo, Valentina</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Edizioni Rinnovamento nello Spirito,</publisher>
+          <publisher>Biblioteca apostolica vaticana</publisher>
+          <pubPlace>Città del Vaticano :</pubPlace>
+          <date TEIform="date">c2000.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 179-180 e con ill. dei f. 50v-51r (p. 179).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="09/10/2006"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="23/10/2006">mss</persName>
+              <persName n="31/03/2009">C.Montuschi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Motivi figurativi antichi nei manoscritti latini altomedievali,</title>
+          <title type="title" level="u">Testo e immagine nell'alto Medioevo, Spoleto 15-21 apr. 1993,</title>
+          <author n="1904-2005" reg="person">Battelli, Giulio,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Spoleto</pubPlace>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">523, tav. XVII, fig. 34.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>M.Esposito</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The decoration of the Tanner Bede,</title>
+          <author reg="person">Gameson, Richard</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1992</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Anglo-Saxon England</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">21 (1992) 118.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>M.Esposito</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Royal 1. B. vii Gospels and English book production in the seventh and eighth centuries,</title>
+          <title type="title" level="u">The early medieval Bible. Its production, decoration and use,</title>
+          <author reg="person">Gameson, Richard</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Cambridge</pubPlace>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">28, 29, 33, 35.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>M.Esposito</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Named (and Namable) Scribes in Codices Latini Antiquiores,</title>
+          <title type="title" level="u">Scribi e colofoni. Le sottoscrizioni di copisti dalle origini all'avvento della stampa, Atti del seminario di Erice, X Colloquio del Comité international de paléographie latine (23-28 ott. 1993),</title>
+          <author reg="person">John, James J.</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Spoleto</pubPlace>
+          <date TEIform="date" value="">1995</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">120.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>M.Esposito</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="13/06/2012">R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The oldest manuscripts of the Latin Bible,</title>
+          <title type="title" level="u">The early medieval Bible. Its production, decoration and use,</title>
+          <author reg="person">McGurk, Patrick</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Cambridge</pubPlace>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">21.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>M.Esposito</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The disposition of numbers in latin Eusebian canon tables,</title>
+          <title type="title" level="u">Philologia Sacra. Biblische und patrischen Studien für Hermann J. Frede und Walter Thiele zu ihrem siebzigsten Geburstag, I,</title>
+          <author reg="person">McGurk, Patrick</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Freiburg</pubPlace>
+          <date TEIform="date" value="">1993</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">258.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>M.Esposito</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">'Ask What I Am Called': the Anglo-Saxons and their Bibles,</title>
+          <title type="title" level="u">The Bible as Book; the Manuscript Tradition,</title>
+          <author reg="person">Marsden, Richard</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>London</pubPlace>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">174.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>M.Esposito</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="15/06/2012">R.Mancusi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les instruments d'écriture dans les représentation des évangélistes pendant le haut Moyen Age,</title>
+          <title type="title" level="u">Le Statut du scripteur au Moyen Age,</title>
+          <author reg="person">Mazhuga, Vladimir I.</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Paris</pubPlace>
+          <date TEIform="date" value="">2000</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">113-119 passim.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>M.Esposito</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Gospel Harmony and the Names of Christ in the Book of Kells,</title>
+          <title type="title" level="u">The Bible as Book; the Manuscript Tradition,</title>
+          <author reg="person">O'Reilly, Jennifer</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>London</pubPlace>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">88.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>M.Esposito</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Des recueils d'interprétation de noms hèbreux chez les Irlandais et le Wisigoth Théodulf,</title>
+          <author reg="person">Szerwiniack, Olivier</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1994</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scriptorium</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">48 (1994) 193.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>M.Esposito</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Note sulla decorazione di alcuni manoscritti bobbiesi tra VII e VIII secolo, </title>
+          <author reg="person">Themelly, Alessandra</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1992-93</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Romanobarbarica</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">12 (1992-93) 119, fig. 21.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>M.Esposito</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">A Northumbrian Text Family,</title>
+          <title type="title" level="u">The Bible as Book; the Manuscript Tradition, </title>
+          <author reg="person">Verey, Christopher </author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>London</pubPlace>
+          <date TEIform="date" value="">1998</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">108, 119.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Ceresa, Massimo, Bibliografia dei fondi manoscritti della Biblioteca Vaticana, Città del Vaticano, 2005.</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="27/01/2009"/>
+          <persName>M.Esposito</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Why Did Eadfrith Write the Lindisfarne Gospels?,</title>
+          <title type="title" level="u">Belief and culture in the Middle Ages. Studies presented to Henry Mayr-Harting,</title>
+          <author reg="person">Gameson, Richard</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>New York</pubPlace>
+          <date TEIform="date" value="">2001</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">48.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="23/07/2009"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="23/07/2009">M.Ceresa</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Duke Tassilo of Bavaria and the Origins of the Rupertus Cross,</title>
+          <title type="title" level="u">Belief and culture in the Middle Ages. Studies presented to Henry Mayr-Harting,</title>
+          <author reg="person">Scharer, Anton</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>New York</pubPlace>
+          <date TEIform="date" value="">2001</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">71.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="23/07/2009"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="23/07/2009">M.Ceresa</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Evangeliar.</title>
+          <title type="title" level="u">799. Kunst und Kultur der Karolingerzeit. Karl der Grosse und Papst Leo III. in Paderborn [catalogo di mostra, Paderborn, 23 luglio - 1 novembre 1999, herausgegeben von Christoph Stiegemann und Matthias Wemhoff]</title>
+          <author reg="person">Bierbrauer, Katharina</author>
+          <respStmt>
+            <resp>
+              <name type="person">Schmid, Anne</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Zabern,</publisher>
+          <pubPlace>Mainz :</pubPlace>
+          <date TEIform="date">c1999.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">v. 2, p. 446, 447 e con ill. dei f. 1r (p. 447), 79v (p. 448), 80r (p. 449).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="17/06/2009"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">16/03/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="17/06/2009">C.Montuschi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+              <persName n="16/03/2016">C.Montuschi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Barberini Gospels: Context and Intertextual Relationships,</title>
+          <title type="title" level="u">Text, Image, Interpretation. Studies in anglo-Saxon Literature and its Insular Context in Honour of Éamonn Ó Carragáin,</title>
+          <author reg="person">Brown, Michelle (Michelle P.)</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Turnhout</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">89-116 passim*, figg.1-5, tavv. 1-2.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="26/01/2010"/>
+          <persName>FR.Sinagra</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="26/01/2010">FR.Sinagra</persName>
+              <persName n="26/01/2010">FR.Sinagra</persName>
+              <persName n="02/02/2010">FR.Sinagra</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title" level="u">Il Salterio purpureo Zentralbibliotek Zurich, RP 1,</title>
+          <author reg="person">Crisci, Edoardo</author>
+          <respStmt>
+            <resp>
+              <name type="person">Eggenberger, Christoph</name>
+              <name type="person">Fuchs, Robert </name>
+              <name type="person">Oltrogge, Doris</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Segno e testo</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">5 (2007) 92.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2010"/>
+          <persName>L.Annicelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title" level="u">Il Salterio purpureo Zentralbibliotek Zurich, RP 1,</title>
+          <author reg="person">Crisci, Edoardo</author>
+          <respStmt>
+            <resp>
+              <name type="person">Eggenberger, Christoph</name>
+              <name type="person">Fuchs, Robert </name>
+              <name type="person">Oltrogge, Doris</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Segno e testo</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">5 (2007) 92.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="02/02/2010"/>
+          <persName>L.Annicelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">"Ocelli nominum": Names and Shelf Marks of Famous/Familiar Manuscripts (I),</title>
+          <author reg="person">Fitzgerald, Wilma</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1983</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Mediaeval Studies</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">45 (1983) 222.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="29/07/2010"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="28/06/2012">M.Ceresa</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Anglo-Saxon Embroideries at Maaseik: their Historical and Art-Historical Context,</title>
+          <author reg="person">Budny, Mildred</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1984</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Academie voor wetenschappen, letteren en schone kunsten van België. Klasse der schone kunsten</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">45, 2 (1984) 84, 121.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="29/07/2010"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Liturgical books in Anglo-Saxon England and their Old English teminology,</title>
+          <title type="title" level="u">Learning and Literature in Anglo-Saxon England,</title>
+          <author reg="person">Gneuss, Helmut, 1927-</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Cambridge</pubPlace>
+          <date TEIform="date" value="">1985</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">108.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="29/07/2010"/>
+          <persName>M.Ceresa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">The Book of Kells and Iona,</title>
+          <author reg="person">Meyvaert, Paul </author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1989</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Art Bulletin</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">71 (1989) 8.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="01/02/2011"/>
+          <persName>R.Costa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Indagine sulla pergamena insulare (secoli VII-XVI), </title>
+          <author reg="person">Di Majo, Anna</author>
+          <respStmt>
+            <resp>
+              <name n="1948-" type="person">Federici, Carlo</name>
+              <name type="person">Palma, Marco</name>
+            </resp>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1988</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scriptorium</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">42 (1988) 132.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="01/02/2011"/>
+          <persName>R.Costa</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Predicando con la penna: il contributo insulare alla trasmissione dei testi sacri dal VI al IX secolo,</title>
+          <title type="title" level="u">Forme e modelli della tradizione manoscritta della Bibbia,</title>
+          <author reg="person">Brown, Michelle (Michelle P.)</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2005</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">78, 90, 93, 96, 104-105, 107 (cit.: Vangeli Barberini).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="31/05/2011"/>
+          <persName>F.Giulianelli</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Evangeliario Barberini, tardo VIII secolo.</title>
+          <title type="title" level="u">Il futuro dei Longobardi. L'Italia e la costruzione dell'Europa di Carlo Magno [catalogo di mostra, Brescia, Monastero di Santa Giulia, 18 giugno-19 novembre 2000, a cura di Carlo Bertelli, Gian Pietro Brogiolo]</title>
+          <author reg="person">Mitchell, John</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Skira,</publisher>
+          <pubPlace>Milano :</pubPlace>
+          <date TEIform="date">c2000.</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">p. 413 e con ill. del f. 2v (p. 410). </note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="20/02/2012"/>
+          <persName>C.Montuschi</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">14/03/2016</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="20/02/2012">C.Montuschi</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+              <persName n="14/03/2016">C.Montuschi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Codici manoscritti dalla Badia amiatina nel secolo XI, </title>
+          <title type="title" level="u">La Tuscia nell’alto e pieno medioevo. Fonti e temi storiografici «territoriali» e «generali»,</title>
+          <author reg="person">Gorman, Michael John</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Firenze</pubPlace>
+          <date TEIform="date" value="">2007</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">76.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="23/02/2012"/>
+          <persName>S.Palma</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="01/03/2012">S.Palma</persName>
+              <persName n="22/10/2013">adm</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Les miniatures du Mont-Saint-Michel et de Saint-Martial de Limoges à propos de deux livres récents,</title>
+          <author reg="person">Boutemy, André</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1974</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Scriptorium</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">28 (1974) 86.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="08/01/2013"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="16/01/2013">Overwriting System</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Anglo-Saxon Art After Alfred,</title>
+          <author reg="person">Deshman, Robert</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1974</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Art Bulletin</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">56 (1974) 190.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="15/01/2013"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">L'Évangéliaire de Chartres B.N. Lat. 9386. Contribution à l'étude de la peinture monastique carolingienne,</title>
+          <author reg="person">Davezac, Bertrand</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1978</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Cahiers archéologiques</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">27 (1978) 48.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="15/01/2013"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="16/01/2013">Overwriting System</persName>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Die Ornamentik früh-karolingischer Handschriften aus Bayern,</title>
+          <author reg="person">Bierbrauer, Katharina</author>
+        </titleStmt>
+        <publicationStmt>
+          <date TEIform="date" value="">1979</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title type="title" level="s">Abhandlungen der Bayerischen Akademie der Wissenschaften</title>
+        </seriesStmt>
+        <notesStmt>
+          <note anchored="yes">84 (1979) 72, 75.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+            <msPart>
+              <msContents>
+                <p/>
+              </msContents>
+              <additional>
+                <adminInfo>
+                  <recordHist>
+                    <source>
+                      <p>Buonocore Marco, Bibliografia dei fondi manoscritti della Biblioteca Vaticana (1968-1980), I, Citta' del Vaticano 1986 (Studi e testi, 318).</p>
+                    </source>
+                  </recordHist>
+                </adminInfo>
+              </additional>
+            </msPart>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="15/01/2013"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Paleografia e codicologia latina,</title>
+          <title type="title" level="u">La Biblioteca Apostolica Vaticana luogo di ricerca al servizio degli studi. Atti del Convegno Roma, 11-13 novembre 2010, a cura di M.Buonocore - A.M.Piazzoni (Studi e testi, 468),</title>
+          <author reg="person">Tristano, Caterina</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2011</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">86.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="16/01/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">Storia dell'arte e della miniatura (secoli V-XIV),</title>
+          <title type="title" level="u">La Biblioteca Apostolica Vaticana luogo di ricerca al servizio degli studi. Atti del Convegno Roma, 11-13 novembre 2010, a cura di M.Buonocore - A.M.Piazzoni (Studi e testi, 468),</title>
+          <author n="1944-" reg="person">Pace, Valentino,</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2011</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">219,tav.V (p.252).</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2014"/>
+          <persName>I.Triglia</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+  <TEI.2>
+    <teiHeader status="new">
+      <fileDesc>
+        <titleStmt>
+          <title type="title">I progetti di digitalizzazione della Biblioteca Apostolica Vaticana: all'alba di grandi imprese,</title>
+          <title type="title" level="u">Studi in onore del cardinale Raffaele Farina, a cura di A. M. Piazzoni, II (Studi e testi, 478),</title>
+          <author reg="person">Schuler, Irmgard</author>
+        </titleStmt>
+        <publicationStmt>
+          <pubPlace>Città del Vaticano</pubPlace>
+          <date TEIform="date" value="">2013</date>
+        </publicationStmt>
+        <notesStmt>
+          <note anchored="yes">1076.</note>
+        </notesStmt>
+        <sourceDesc default="NO">
+          <msDescription>
+            <msIdentifier type="primary">
+              <repository>Biblioteca Apostolica Vaticana</repository>
+              <idno TEIform="0" n="Barb.lat." rend="Barb.lat.00570zzzzz" type="bib">Barb.lat.570</idno>
+            </msIdentifier>
+          </msDescription>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <ptr>http://digi.vatlib.it/view/MSS_Barb.lat.570</ptr>
+        <creation>
+          <date TEIform="date" value="20/01/2014"/>
+          <persName>A.Cantarella</persName>
+          <orig>console</orig>
+        </creation>
+      </profileDesc>
+      <revisionDesc>
+        <change>
+          <date TEIform="date">04/02/2015</date>
+          <respStmt>
+            <resp>
+              <name type="org">BAV</name>
+              <persName n="04/02/2015">Linking System: R.Mancusi</persName>
+            </resp>
+          </respStmt>
+          <item id="Vero"/>
+        </change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bibl/>
+      </body>
+    </text>
+  </TEI.2>
+</root>
